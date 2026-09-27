@@ -1,0 +1,12 @@
+{{ define "main" }}
+<article>
+  <div class="post-head">
+    <span class="cat">{{ range .Params.categories }}{{ . }}{{ end }}</span>
+    <h1>{{ .Title }}</h1>
+    <p class="byline">{{ .Date.Format "Jan 2, 2006" }} · {{ .Params.readtime | default "5 min read" }}{{ if .Params.author }} · by {{ .Params.author }}{{ end }}</p>
+  </div>
+  <div class="post-body">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}
