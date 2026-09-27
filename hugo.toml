@@ -1,0 +1,39 @@
+baseURL = "https://solarexaminer.com/"
+languageCode = "en-us"
+title = "Solar Examiner"
+enableRobotsTXT = true
+copyright = "Solar Examiner"
+
+[pagination]
+  pagerSize = 9
+
+[params]
+  description = "Independent reporting and buying guides on residential and community solar."
+  tagline = "Solar, examined."
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[[menu.main]]
+  name = "Reports"
+  url = "/categories/reports/"
+  weight = 10
+
+[[menu.main]]
+  name = "Reviews"
+  url = "/categories/reviews/"
+  weight = 20
+
+[[menu.main]]
+  name = "Guides"
+  url = "/categories/guides/"
+  weight = 30
+
+[[menu.main]]
+  name = "Policy"
+  url = "/categories/policy/"
+  weight = 40
+
+[markup.goldmark.renderer]
+  unsafe = true

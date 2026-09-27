@@ -1,0 +1,13 @@
+<header class="site-header">
+  <div class="masthead">
+    <a href="/"><span class="brand-text">Solar Examiner</span></a>
+    <span class="brand-tag">Independent reporting on residential and community solar</span>
+  </div>
+  <nav class="nav-strip">
+    <div class="wrap">
+      {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}" {{ if $.IsMenuCurrent "main" . }}class="active"{{ end }}>{{ .Name }}</a>
+      {{ end }}
+    </div>
+  </nav>
+</header>
