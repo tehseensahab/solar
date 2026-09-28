@@ -10,6 +10,7 @@ copyright = "Solar Examiner"
 [params]
   description = "Independent reporting and buying guides on residential and community solar."
   tagline = "Solar, examined."
+  favicon = "☀️"
 
 [taxonomies]
   category = "categories"
@@ -37,3 +38,12 @@ copyright = "Solar Examiner"
 
 [markup.goldmark.renderer]
   unsafe = true
+
+[outputFormats.LLMS]
+  mediaType = "text/plain"
+  baseName = "llms"
+  isPlainText = true
+  notAlternative = true
+
+[outputs]
+  home = ["HTML", "RSS", "LLMS"]
