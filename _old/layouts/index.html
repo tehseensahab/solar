@@ -1,0 +1,72 @@
+{{ define "main" }}
+{{ $posts := where .Site.RegularPages "Type" "posts" }}
+{{ $featured := index $posts 0 }}
+{{ $rest := after 1 $posts }}
+
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div>
+      <div class="cat-tag">{{ range $featured.Params.categories }}{{ . }}{{ end }}</div>
+      <h1><a href="{{ $featured.RelPermalink }}">{{ $featured.Title }}</a></h1>
+      <p class="dek">{{ $featured.Params.dek }}</p>
+      <p class="byline">{{ $featured.Date.Format "Jan 2, 2006" }} · {{ $featured.Params.readtime | default "5 min read" }}</p>
+    </div>
+    {{ partial "art.html" (dict "i" 0 "class" "hero-art") }}
+  </div>
+</section>
+
+<div class="wrap">
+  <div class="stat-strip">
+    <div><span class="stat-num">$0.11</span><span class="stat-label">avg. US residential $/kWh offset, Q3</span></div>
+    <div><span class="stat-num">7.2 yrs</span><span class="stat-label">median payback period, 2026 systems</span></div>
+    <div><span class="stat-num">+14%</span><span class="stat-label">community solar subscriptions, YoY</span></div>
+    <div><span class="stat-num">31</span><span class="stat-label">states with active net-metering reform</span></div>
+  </div>
+</div>
+
+<section class="section wrap">
+  <div class="section-head">
+    <h2>Latest reporting</h2>
+    <a href="/categories/reports/">All reports →</a>
+  </div>
+  <div class="post-grid">
+    {{ range first 6 $rest }}
+    <article class="card">
+      {{ partial "art.html" (dict "i" (add .Weight 1)) }}
+      <div class="cat">{{ range .Params.categories }}{{ . }}{{ end }}</div>
+      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      <p class="excerpt">{{ .Params.dek }}</p>
+      <p class="meta">{{ .Date.Format "Jan 2, 2006" }}</p>
+    </article>
+    {{ end }}
+  </div>
+</section>
+
+<section class="section wrap">
+  <div class="section-head">
+    <h2>Policy briefs</h2>
+    <a href="/categories/policy/">All policy →</a>
+  </div>
+  <ul class="brief-list">
+    {{ range where $posts "Params.categories" "intersect" (slice "policy") | first 4 }}
+    <li>
+      <span class="brief-date">{{ .Date.Format "Jan 2" }}</span>
+      <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+    </li>
+    {{ end }}
+  </ul>
+</section>
+
+<section class="wrap" style="padding-bottom: 60px;">
+  <div class="newsletter">
+    <div>
+      <h3>The Examiner Brief</h3>
+      <p>Policy shifts, incentive deadlines, and equipment reviews — every Friday.</p>
+    </div>
+    <form>
+      <input type="email" placeholder="you@email.com">
+      <button type="submit">Subscribe</button>
+    </form>
+  </div>
+</section>
+{{ end }}

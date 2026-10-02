@@ -1,0 +1,43 @@
+{{ define "main" }}
+{{ $cover := partial "cover.html" . }}
+{{ $cat := false }}{{ with .GetTerms "categories" }}{{ $cat = index . 0 }}{{ end }}
+<article>
+  <header class="post-head">
+    {{ with $cat }}<a class="cat" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}
+    <p class="byline">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+      {{- if ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02") }} · Updated <time datetime="{{ .Lastmod.Format "2006-01-02" }}">{{ .Lastmod.Format "Jan 2, 2006" }}</time>{{ end }}
+      {{- with .Params.lastVerified }}{{ $v := time . }} · Last verified <time datetime="{{ $v.Format "2006-01-02" }}">{{ $v.Format "Jan 2, 2006" }}</time>{{ end }}
+      · {{ .ReadingTime }} min read{{ with .Params.author }} · by <span rel="author">{{ . }}</span>{{ end }}
+    </p>
+  </header>
+  <figure class="post-cover">
+    {{- if $cover.has }}
+    <img src="{{ $cover.webp.RelPermalink }}" width="1200" height="630" alt="{{ $cover.alt }}" decoding="async" fetchpriority="high">
+    {{- else }}
+    <div class="card-img placeholder" role="img" aria-label="No cover image"></div>
+    {{- end }}
+    {{ with $cover.credit }}<figcaption>{{ . }}</figcaption>{{ end }}
+  </figure>
+  <div class="post-body">
+    {{ with .Params.takeaways }}
+    <aside class="takeaways" aria-label="Key takeaways">
+      <h2>Key takeaways</h2>
+      <ul>{{ range . }}<li>{{ . }}</li>{{ end }}</ul>
+    </aside>
+    {{ end }}
+    {{ .Content }}
+    {{ with .Params.faq }}
+    <section class="faq">
+      <h2>Frequently asked questions</h2>
+      {{ range . }}
+      <h3>{{ .q }}</h3>
+      <p>{{ .a }}</p>
+      {{ end }}
+    </section>
+    {{ end }}
+  </div>
+</article>
+{{ end }}

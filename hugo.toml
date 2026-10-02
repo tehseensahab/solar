@@ -11,30 +11,76 @@ copyright = "Solar Examiner"
   description = "Independent reporting and buying guides on residential and community solar."
   tagline = "Solar, examined."
   favicon = "☀️"
+  ogDefault = "/og-default.jpg"
 
 [taxonomies]
   category = "categories"
   tag = "tags"
 
 [[menu.main]]
-  name = "Reports"
-  url = "/categories/reports/"
+  name = "Home"
+  url = "/"
   weight = 10
 
 [[menu.main]]
-  name = "Reviews"
-  url = "/categories/reviews/"
+  name = "Analysis"
+  url = "/categories/analysis/"
   weight = 20
 
 [[menu.main]]
-  name = "Guides"
-  url = "/categories/guides/"
+  name = "News"
+  url = "/categories/news/"
   weight = 30
 
 [[menu.main]]
-  name = "Policy"
-  url = "/categories/policy/"
+  name = "Topics"
+  url = "/categories/"
   weight = 40
+
+[[menu.main]]
+  name = "Methodology"
+  url = "/methodology/"
+  weight = 50
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 60
+
+[[menu.footer]]
+  name = "Editorial policy"
+  url = "/editorial-policy/"
+  weight = 10
+
+[[menu.footer]]
+  name = "Corrections"
+  url = "/corrections/"
+  weight = 20
+
+[[menu.footer]]
+  name = "Disclaimer"
+  url = "/disclaimer/"
+  weight = 30
+
+[[menu.footer]]
+  name = "Affiliate disclosure"
+  url = "/affiliate-disclosure/"
+  weight = 40
+
+[[menu.footer]]
+  name = "Privacy"
+  url = "/privacy/"
+  weight = 50
+
+[[menu.footer]]
+  name = "Terms"
+  url = "/terms/"
+  weight = 60
+
+[[menu.footer]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 70
 
 [markup.goldmark.renderer]
   unsafe = true

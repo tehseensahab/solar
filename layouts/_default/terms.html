@@ -1,0 +1,9 @@
+{{ define "main" }}
+<div class="wrap page-head">
+  <h1>{{ .Title }}</h1>
+  <p class="lead">{{ .Description | default "Browse everything we cover, by topic." }}</p>
+</div>
+<section class="section wrap">
+  {{ partial "category-grid.html" . }}
+</section>
+{{ end }}

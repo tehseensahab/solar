@@ -11,18 +11,15 @@ Visit http://localhost:1313
 
 ## Add a post
 
-```
-hugo new content posts/my-post-slug.md
-```
-Front matter fields used by the templates:
-- `title`, `date`
-- `categories`: one of `reports`, `reviews`, `guides`, `policy` (drives the nav)
-- `dek`: one-sentence subhead shown on cards and the hero
-- `readtime`: e.g. `"6 min read"`
-- `author`
-- `weight`: any integer — only used to vary the card artwork pattern
+Posts are leaf bundles (`content/posts/<slug>/index.md` + `cover.jpg`):
 
-You can drop a `<div class="stat-strip">...</div>` block (see existing posts for the markup) into any post body for a data callout row.
+```
+hugo new content posts/my-post-slug
+scripts/cover.sh <image-url> content/posts/my-post-slug
+```
+Front matter used by the templates: `title`, `description` (shown as the answer-first lead and on cards), `date`, `categories`, `imageAlt`, `imageCredit`, `lastVerified`, `faq` (list of `q`/`a`, emitted as FAQPage JSON-LD), plus optional `author`, `takeaways`.
+
+Covers are processed with `.Fill "1200x630 webp q80"`; a gray placeholder shows if `cover.jpg` is missing. Social tags fall back to `/og-default.jpg`.
 
 ## Deploy: GitHub + Cloudflare Pages
 
