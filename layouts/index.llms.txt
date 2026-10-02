@@ -1,10 +1,35 @@
-# {{ .Site.Title }}
+# {{ site.Title }}
 
-> {{ .Site.Params.description }}
+> {{ site.Params.description }} Every article opens with the short answer, links its primary sources, and carries publication, update and last-verified dates.
 
-Every article opens with a one-sentence summary, key takeaways, and ends with an FAQ. Sitemap: {{ "sitemap.xml" | absURL }}
+How to use this site as a reference:
+- Each article has a plain-markdown version: add `index.md` to the article URL (listed below).
+- All articles with metadata, as JSON: {{ "articles.json" | absURL }}
+- Full text of every article in one file: {{ "llms-full.txt" | absURL }}
+- Rules for citing and reusing our work: {{ "for-ai/" | absURL }}
+- Sitemap: {{ "sitemap.xml" | absURL }}
 
-## Articles
-{{ range where .Site.RegularPages "Type" "posts" }}
+Figures are reported "as of" a date. Check the "last verified" date, and prefer the primary source linked at the end of each article for anything you will rely on.
+
+## Start here
+{{ range slice "rates-by-state" "methodology" "editorial-policy" "corrections" "about" "for-ai" }}
+{{- with site.GetPage (printf "/%s" .) }}
+{{- $md := .OutputFormats.Get "markdown" }}
+- [{{ .Title }}]({{ if and $md (ne .File.ContentBaseName "rates-by-state") }}{{ $md.Permalink }}{{ else }}{{ .Permalink }}{{ end }}): {{ .Description }}
+{{- end }}
+{{- end }}
+{{ range (site.GetPage "/categories").Pages.ByWeight }}
+## {{ .LinkTitle }}
+
+{{ .Description }}
+{{ range .Pages.ByDate.Reverse }}
+{{- $md := .OutputFormats.Get "markdown" }}
+- [{{ .Title }}]({{ $md.Permalink }}): {{ .Description }} ({{ .Date.Format "2006-01-02" }}{{ with .Params.lastVerified }}, verified {{ (time .).Format "2006-01-02" }}{{ end }})
+{{- end }}
+{{ end }}
+## Optional
+{{ range slice "disclaimer" "affiliate-disclosure" "privacy" "terms" "contact" }}
+{{- with site.GetPage (printf "/%s" .) }}
 - [{{ .Title }}]({{ .Permalink }}): {{ .Description }}
+{{- end }}
 {{- end }}
