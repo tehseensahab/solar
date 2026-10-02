@@ -20,7 +20,7 @@
     {{- else }}
     <div class="card-img placeholder" aria-hidden="true">{{ with $cat }}{{ .LinkTitle }}{{ end }}</div>
     {{- end }}
-    {{ with $cover.credit }}<figcaption>{{ . }}</figcaption>{{ end }}
+    {{ with $cover.credit }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
   </figure>
   <div class="post-body">
     {{ with .Params.takeaways }}
