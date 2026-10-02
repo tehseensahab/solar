@@ -1,7 +1,7 @@
 ---
 title: "Net metering by state, 2026: where the math still works"
 date: 2026-09-16
-categories: ["guides"]
+categories: ["electric-rates"]
 description: "A handful of states have moved to net billing at avoided-cost rates. Here's how to tell which rules apply to your utility."
 readtime: "8 min read"
 author: "Marcus Feld"

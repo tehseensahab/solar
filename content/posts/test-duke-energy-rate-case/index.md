@@ -2,7 +2,7 @@
 title: "Duke Energy's proposed rate case would cut solar export credits by 22%"
 date: 2026-09-29
 draft: true
-categories: ["policy"]
+categories: ["electric-rates"]
 description: "The filing, if approved, would take effect for new interconnections starting next spring."
 readtime: "4 min read"
 author: "Marcus Feld"

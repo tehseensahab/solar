@@ -1,7 +1,7 @@
 ---
 title: "How to size a home battery without over-buying capacity you'll never use"
 date: 2026-09-06
-categories: ["guides"]
+categories: ["equipment"]
 description: "Installers often quote by panel count, not by your actual overnight load. Here's the back-of-envelope method."
 readtime: "5 min read"
 author: "Marcus Feld"

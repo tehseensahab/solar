@@ -1,7 +1,7 @@
 ---
 title: "New York Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-09-30
-categories: ["policy"]
+categories: ["electric-rates"]
 description: "NYSEG and RG&E customers have been on temporary electric rates since June 1, 2026 while regulators finish a larger rate case. Here is what changed and what could still change."
 readtime: "5 min read"
 author: "Tehseen Arbab"

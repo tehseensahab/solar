@@ -1,7 +1,7 @@
 ---
 title: "Treasury's new ITC guidance narrows the domestic-content bonus — here's who still qualifies"
 date: 2026-09-21
-categories: ["policy"]
+categories: ["costs-incentives"]
 description: "Updated Treasury rules tighten the steel-and-iron threshold for the 10% bonus credit, effective for projects placed in service next year."
 readtime: "6 min read"
 author: "Priya Nathan"

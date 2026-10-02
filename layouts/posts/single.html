@@ -5,13 +5,14 @@
   <header class="post-head">
     {{ with $cat }}<a class="cat" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}
     <h1>{{ .Title }}</h1>
-    {{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}
     <p class="byline">
-      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+      By <span rel="author">{{ .Params.author | default site.Params.author }}</span>
+      · <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
       {{- if ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02") }} · Updated <time datetime="{{ .Lastmod.Format "2006-01-02" }}">{{ .Lastmod.Format "Jan 2, 2006" }}</time>{{ end }}
       {{- with .Params.lastVerified }}{{ $v := time . }} · Last verified <time datetime="{{ $v.Format "2006-01-02" }}">{{ $v.Format "Jan 2, 2006" }}</time>{{ end }}
-      · {{ .ReadingTime }} min read{{ with .Params.author }} · by <span rel="author">{{ . }}</span>{{ end }}
+      · {{ .ReadingTime }} min read
     </p>
+    {{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}
   </header>
   <figure class="post-cover">
     {{- if $cover.has }}
@@ -39,5 +40,6 @@
     </section>
     {{ end }}
   </div>
+  <div class="wrap">{{ partial "related.html" . }}</div>
 </article>
 {{ end }}

@@ -11,7 +11,7 @@ primary_keyword: "Michigan electricity rate increase October 2026"
 secondary_keywords: ["Michigan electric rates October 2026", "DTE electric rate increase 2026", "Consumers Energy rate increase 2026", "Michigan electric bill increase 2026"]
 featured_image_suggestion: "Michigan house with snow-dusted solar panels and a power line"
 internal_links_suggested: ["how rate cases work", "how to read your electric bill", "net metering explainer"]
-categories: ["Analysis"]
+categories: ["electric-rates"]
 tags: ["Michigan", "DTE", "Consumers Energy", "MPSC", "rate case"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Florida Electricity Rate Changes for October 2026: FPL Refund Ends and What Changed in 2026"
 date: 2026-09-30
-categories: ["policy"]
+categories: ["electric-rates"]
 description: "FPL's one-month September storm refund ends with October bills, and Duke Energy Florida's June-to-September reduction was scheduled to end after September. Here is what changed and what to expect."
 readtime: "6 min read"
 author: "Tehseen Arbab"

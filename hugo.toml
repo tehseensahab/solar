@@ -11,6 +11,7 @@ copyright = "Solar Examiner"
   description = "Independent reporting and buying guides on residential and community solar."
   tagline = "Solar, examined."
   favicon = "☀️"
+  author = "SolarExaminer Editorial Team"
   ogDefault = "/og-default.jpg"
 
 [taxonomies]
@@ -23,29 +24,39 @@ copyright = "Solar Examiner"
   weight = 10
 
 [[menu.main]]
-  name = "Analysis"
-  url = "/categories/analysis/"
+  name = "Rates by State"
+  url = "/rates-by-state/"
   weight = 20
+
+[[menu.main]]
+  name = "Electric Rates"
+  url = "/categories/electric-rates/"
+  weight = 30
+
+[[menu.main]]
+  name = "Equipment"
+  url = "/categories/equipment/"
+  weight = 40
+
+[[menu.main]]
+  name = "Costs & Incentives"
+  url = "/categories/costs-incentives/"
+  weight = 50
 
 [[menu.main]]
   name = "News"
   url = "/categories/news/"
-  weight = 30
-
-[[menu.main]]
-  name = "Topics"
-  url = "/categories/"
-  weight = 40
+  weight = 60
 
 [[menu.main]]
   name = "Methodology"
   url = "/methodology/"
-  weight = 50
+  weight = 70
 
 [[menu.main]]
   name = "About"
   url = "/about/"
-  weight = 60
+  weight = 80
 
 [[menu.footer]]
   name = "Editorial policy"

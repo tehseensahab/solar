@@ -36,6 +36,7 @@
 {{- if $isArticle }}
 {{- $cat := false }}{{ with .GetTerms "categories" }}{{ $cat = index . 0 }}{{ end }}
 {{- $author := $publisher }}
+{{- $author = dict "@type" "Organization" "name" site.Params.author }}
 {{- with .Params.author }}{{ $author = dict "@type" "Person" "name" . }}{{ end }}
 {{- $article := dict "@type" "Article" "headline" .Title "description" $desc "url" .Permalink "mainEntityOfPage" .Permalink "image" (slice $image) "datePublished" (.Date.Format $iso) "dateModified" (.Lastmod.Format $iso) "author" $author "publisher" $publisher }}
 {{- with $cat }}{{ $article = merge $article (dict "articleSection" .LinkTitle) }}{{ end }}

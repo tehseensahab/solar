@@ -1,7 +1,7 @@
 ---
 title: "Texas Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-09-30
-categories: ["policy"]
+categories: ["electric-rates"]
 description: "Oncor's new delivery rates took effect June 1, 2026. Here is who sets which part of a Texas electric bill, what changed this year, and what to check as October begins."
 readtime: "5 min read"
 author: "Tehseen Arbab"

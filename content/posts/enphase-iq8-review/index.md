@@ -1,7 +1,7 @@
 ---
 title: "Enphase IQ8M microinverter review: the grid-independent feature actually works"
 date: 2026-09-19
-categories: ["reviews"]
+categories: ["equipment"]
 description: "Sunlight backup power during a daytime outage, without a battery, tested through two real blackouts."
 readtime: "7 min read"
 author: "Priya Nathan"

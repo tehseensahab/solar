@@ -1,7 +1,7 @@
 ---
 title: "Panel degradation rates are quietly improving — warranties haven't caught up"
 date: 2026-08-30
-categories: ["reports"]
+categories: ["equipment"]
 description: "Field data shows top-tier panels degrading slower than their own warranty documents assume."
 readtime: "5 min read"
 author: "Priya Nathan"

@@ -1,7 +1,7 @@
 ---
 title: "Community solar subscriptions grew 14% this year — but cancellations are rising too"
 date: 2026-09-11
-categories: ["reports"]
+categories: ["costs-incentives"]
 description: "New subscriber growth is real, but so is a churn problem tied to unclear savings guarantees."
 readtime: "6 min read"
 author: "Priya Nathan"

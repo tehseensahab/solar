@@ -140,3 +140,16 @@ a:focus-visible { outline: 2px solid var(--teal); outline-offset: 2px; }
 .page-link { display: inline-block; padding: 6px 12px; border: 1px solid var(--line); border-radius: 6px; }
 .page-item.active .page-link { background: var(--teal); color: var(--on-accent); border-color: var(--teal); }
 .page-item.disabled { opacity: .4; }
+
+/* rates by state */
+.state-grid { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 14px; }
+.state { display: flex; flex-direction: column; gap: 2px; height: 100%; padding: 14px 16px; border: 1px solid var(--line); border-radius: var(--radius); }
+.state-name { font-weight: 600; }
+.state-note { font-size: .78rem; }
+.state-live { background: var(--panel); }
+.state-live .state-note { color: var(--teal); }
+.state-live:hover { border-color: var(--teal); }
+.state-soon { color: var(--ink-soft); opacity: .55; cursor: default; }
+
+/* related articles */
+.related { padding: 10px 0 50px; }
