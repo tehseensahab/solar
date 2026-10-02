@@ -11,7 +11,7 @@ primary_keyword: "Illinois electricity rate increase October 2026"
 secondary_keywords: ["Illinois electric rates October 2026", "Ameren Illinois new electric rates October 2026", "ComEd price to compare October 2026", "Illinois electric bill 2026"]
 featured_image_suggestion: "Illinois home with rooftop solar panels and an electric meter, autumn light"
 internal_links_suggested: ["net metering explainer", "how to read your electric bill", "battery storage and time-of-use rates"]
-categories: ["State Electricity Rates"]
+categories: ["Analysis"]
 tags: ["Illinois", "Ameren Illinois", "ComEd", "electricity rates", "net billing"]
 ---
 

@@ -11,7 +11,7 @@ primary_keyword: "Massachusetts electricity rate increase October 2026"
 secondary_keywords: ["Massachusetts electric rates October 2026", "Eversource basic service rate August 2026", "National Grid Massachusetts rates 2026", "Massachusetts electric bill increase 2026"]
 featured_image_suggestion: "Massachusetts triple-decker with rooftop solar in autumn"
 internal_links_suggested: ["community choice aggregation explained", "how to read your electric bill", "net metering explainer"]
-categories: ["State Electricity Rates"]
+categories: ["Analysis"]
 tags: ["Massachusetts", "Eversource", "National Grid", "Unitil", "basic service"]
 ---
 
