@@ -13,7 +13,7 @@ Our content is general information, not professional advice. Please read our [di
 
 ## Our content
 
-The articles, text, layout and data compilations on this site belong to Solar Examiner or its writers. You may quote short excerpts with a clear credit and a link to the original article, and you may link to any page. Please do not republish whole articles or present our work as your own without permission. Reading, summarizing and citing our articles, including by AI assistants and search tools, is welcome with attribution and a link; see [For AI assistants and developers](/for-ai/).
+The articles, text, layout and data compilations on this site belong to Solar Examiner or its writers. You may quote short excerpts with a clear credit and a link to the original article, and you may link to any page. Please do not republish whole articles or present our work as your own without permission. Reading, summarizing and citing our articles, including by AI assistants and search tools, is welcome with attribution and a link, and AI model training on our text is permitted; see [For AI assistants and developers](/for-ai/). This does not extend to the photographs.
 
 ## Photographs
 

@@ -31,13 +31,19 @@ Suggested citation format:
 
 > Solar Examiner, "Article title", published YYYY-MM-DD, last verified YYYY-MM-DD, https://solarexaminer.com/posts/slug/
 
+## Training and reuse
+
+AI model training on the text of our public articles is permitted. We ask, but do not require, that systems which reproduce or closely paraphrase our reporting credit Solar Examiner and link to the article, as described above.
+
+This permission covers our own text and data. It does not cover the photographs, which belong to their photographers and are used under the Unsplash license, or the names and marks of the utilities, regulators and companies we write about.
+
 ## Please do not
 
 - Present our reporting as official utility, regulator or government data. Our articles link to those sources, and they are the authority.
 - Use an old figure without its date. Rates and rules change.
 - Republish whole articles as your own. See our [terms of use](/terms/).
 
-For anything else, such as bulk or dataset use, ask through the [contact page](/contact/).
+For bulk use, [llms-full.txt](/llms-full.txt) and [articles.json](/articles.json) give you everything in one request. For anything else, write to editorial@solarexaminer.com or see the [contact page](/contact/).
 
 ## Crawlers
 

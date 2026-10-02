@@ -36,7 +36,7 @@
 {{- with site.Params.favicon }}
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>{{ . }}</text></svg>">
 {{- end }}
-{{- $publisher := dict "@type" "NewsMediaOrganization" "@id" (printf "%s#organization" $home) "name" site.Title "url" $home "description" site.Params.description "publishingPrinciples" (absURL "editorial-policy/") "correctionsPolicy" (absURL "corrections/") "ownershipFundingInfo" (absURL "affiliate-disclosure/") }}
+{{- $publisher := dict "@type" "NewsMediaOrganization" "@id" (printf "%s#organization" $home) "name" site.Title "url" $home "description" site.Params.description "publishingPrinciples" (absURL "editorial-policy/") "correctionsPolicy" (absURL "corrections/") "ownershipFundingInfo" (absURL "affiliate-disclosure/") "email" site.Params.email "contactPoint" (dict "@type" "ContactPoint" "contactType" "editorial" "email" site.Params.email "url" (absURL "contact/")) }}
 {{- if .IsHome }}
 <script type="application/ld+json">{{ dict "@context" "https://schema.org" "@graph" (slice (dict "@type" "WebSite" "name" site.Title "url" $home "description" site.Params.description "publisher" $publisher) $publisher) | jsonify | safeJS }}</script>
 {{- end }}

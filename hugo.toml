@@ -12,6 +12,7 @@ copyright = "Solar Examiner"
   tagline = "Solar, examined."
   favicon = "☀️"
   author = "SolarExaminer Editorial Team"
+  email = "editorial@solarexaminer.com"
   ogDefault = "/og-default.jpg"
 
 [taxonomies]
