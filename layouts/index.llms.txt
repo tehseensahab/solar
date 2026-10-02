@@ -6,5 +6,5 @@ Every article opens with a one-sentence summary, key takeaways, and ends with an
 
 ## Articles
 {{ range where .Site.RegularPages "Type" "posts" }}
-- [{{ .Title }}]({{ .Permalink }}): {{ .Params.dek }}
+- [{{ .Title }}]({{ .Permalink }}): {{ .Description }}
 {{- end }}

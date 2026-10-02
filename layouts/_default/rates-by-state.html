@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="wrap page-head">
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}
+</div>
+<section class="section wrap">
+  <ul class="state-grid">
+    {{- range site.Data.states }}
+    {{- $page := site.GetPage (printf "/posts/%s-electricity-rate-changes-2026" .slug) }}
+    {{- if $page }}
+    <li><a class="state state-live" href="{{ $page.RelPermalink }}"><span class="state-name">{{ .name }}</span><span class="state-note">View rates →</span></a></li>
+    {{- else }}
+    <li><span class="state state-soon" aria-disabled="true"><span class="state-name">{{ .name }}</span><span class="state-note">Coming soon</span></span></li>
+    {{- end }}
+    {{- end }}
+  </ul>
+</section>
+{{ end }}

@@ -1,32 +1,9 @@
 {{ define "main" }}
 <article>
   <header class="post-head">
-    <span class="cat">{{ range .Params.categories }}{{ . }}{{ end }}</span>
     <h1>{{ .Title }}</h1>
-    {{ with .Params.dek }}<p class="post-dek">{{ . }}</p>{{ end }}
-    <p class="byline">
-      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
-      {{- if ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02") }} · Updated <time datetime="{{ .Lastmod.Format "2006-01-02" }}">{{ .Lastmod.Format "Jan 2, 2006" }}</time>{{ end }}
-      · {{ .Params.readtime | default "5 min read" }}{{ with .Params.author }} · by <span rel="author">{{ . }}</span>{{ end }}
-    </p>
+    {{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}
   </header>
-  <div class="post-body">
-    {{ with .Params.takeaways }}
-    <aside class="takeaways" aria-label="Key takeaways">
-      <h2>Key takeaways</h2>
-      <ul>{{ range . }}<li>{{ . }}</li>{{ end }}</ul>
-    </aside>
-    {{ end }}
-    {{ .Content }}
-    {{ with .Params.faq }}
-    <section class="faq">
-      <h2>Frequently asked questions</h2>
-      {{ range . }}
-      <h3>{{ .q }}</h3>
-      <p>{{ .a }}</p>
-      {{ end }}
-    </section>
-    {{ end }}
-  </div>
+  <div class="post-body">{{ .Content }}</div>
 </article>
 {{ end }}
