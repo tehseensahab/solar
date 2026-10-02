@@ -1,6 +1,7 @@
 ---
 title: "Adding a heat pump? Here's how much bigger your solar system needs to be"
 date: 2026-09-30
+draft: true
 categories: ["guides"]
 description: "Swapping a gas furnace for a heat pump can add 30-50% to your annual electricity use — size your panels for it upfront."
 readtime: "5 min read"
