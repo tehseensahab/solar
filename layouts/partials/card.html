@@ -6,7 +6,7 @@
     {{- if $cover.has }}
     <img class="card-img" src="{{ $cover.webp.RelPermalink }}" width="1200" height="630" alt="{{ $cover.alt }}" loading="lazy" decoding="async">
     {{- else }}
-    <div class="card-img placeholder" role="img" aria-label="No cover image"></div>
+    <div class="card-img placeholder" aria-hidden="true">{{ with $cat }}{{ .LinkTitle }}{{ end }}</div>
     {{- end }}
   </a>
   {{ with $cat }}<a class="cat" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ else }}<span class="cat">&nbsp;</span>{{ end }}
