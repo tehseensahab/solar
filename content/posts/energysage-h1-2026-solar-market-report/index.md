@@ -3,6 +3,8 @@ title: "Home Solar Prices Edged Up 3% in the First Half of 2026, EnergySage Repo
 description: "EnergySage's H1 2026 marketplace data shows a median price of $2.57 per watt, more installers quoting leases and PPAs, and strong interest in home batteries."
 date: 2026-10-02
 lastVerified: 2026-10-02
+imageAlt: "White hard hat resting on a blue solar panel array."
+imageCredit: "Photo by Evgeniy Alyoshin on [Unsplash](https://unsplash.com/photos/a-white-hard-hat-sitting-on-top-of-a-solar-panel-2ASQyjafflo?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["News"]
 faq:
   - q: "How much did solar prices change in early 2026?"

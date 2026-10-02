@@ -1,6 +1,8 @@
 ---
 title: "Community solar subscriptions grew 14% this year — but cancellations are rising too"
 date: 2026-09-11
+imageAlt: "Aerial view of rows of solar panels across a grassy field."
+imageCredit: "Photo by Daniel Miksha on [Unsplash](https://unsplash.com/photos/rows-of-solar-panels-in-a-grassy-field-from-above-n2Q4QtRNeUg?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["costs-incentives"]
 description: "New subscriber growth is real, but so is a churn problem tied to unclear savings guarantees."
 readtime: "6 min read"

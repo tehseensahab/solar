@@ -11,6 +11,8 @@ primary_keyword: "Ohio electricity rate increase October 2026"
 secondary_keywords: ["Ohio electric rates October 2026", "AEP Ohio standard service offer 2026", "Ohio price to compare 2026", "Ohio electric bill increase 2026"]
 featured_image_suggestion: "Ohio home with electric meter and a PUCO Apples-to-Apples comparison on a laptop"
 internal_links_suggested: ["how to read your electric bill", "shopping for an electricity supplier", "net metering explainer"]
+imageAlt: "House with a group of solar panels on its tiled roof under a blue sky."
+imageCredit: "Photo by Watt A Lot on [Unsplash](https://unsplash.com/photos/a-house-with-solar-panels-Ja8t8nJN2I4?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
 tags: ["Ohio", "AEP Ohio", "AES Ohio", "FirstEnergy", "PUCO"]
 ---

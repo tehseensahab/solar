@@ -3,6 +3,8 @@ title: "Columbia, Missouri Raises Electric Usage Fees 6% Starting October 1, 202
 description: "The City of Columbia's electric utility raised usage fees 6% on Oct. 1, 2026. The customer charge did not change, and the power cost adjustment cap was updated."
 date: 2026-10-02
 lastVerified: 2026-10-02
+imageAlt: "Utility worker in a bucket lift working on a power pole against a clear sky."
+imageCredit: "Photo by American Public Power Association on [Unsplash](https://unsplash.com/photos/man-standing-on-bucket-beside-gray-current-post-at-daytime-hp1-hMaMBrU?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["News"]
 faq:
   - q: "Did the fixed customer charge change in Columbia, MO?"

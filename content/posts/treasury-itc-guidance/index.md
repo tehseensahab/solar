@@ -1,6 +1,8 @@
 ---
 title: "Treasury's new ITC guidance narrows the domestic-content bonus — here's who still qualifies"
 date: 2026-09-21
+imageAlt: "Corinthian columns and carved cornice of a neoclassical building against a blue sky."
+imageCredit: "Photo by Juliana Uribbe on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-building-with-columns-and-a-sky-background-znrLocTa1x4?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["costs-incentives"]
 description: "Updated Treasury rules tighten the steel-and-iron threshold for the 10% bonus credit, effective for projects placed in service next year."
 readtime: "6 min read"

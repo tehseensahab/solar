@@ -11,6 +11,8 @@ primary_keyword: "New Jersey electricity rate increase October 2026"
 secondary_keywords: ["New Jersey electric rates October 2026", "PSE&G new electric rates 2026", "JCP&L electric rates 2026", "NJ BGS auction 2026"]
 featured_image_suggestion: "New Jersey suburban home with an electric meter and solar panels"
 internal_links_suggested: ["how to read your electric bill", "net metering explainer", "time-of-use rates explained"]
+imageAlt: "Aerial view of a dense suburban neighborhood with a long straight road and a school complex."
+imageCredit: "Photo by Chris Grant on [Unsplash](https://unsplash.com/photos/aerial-view-of-a-suburban-neighborhood-with-a-long-road-G4cr0yxLqKY?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
 tags: ["New Jersey", "PSE&G", "JCP&L", "Atlantic City Electric", "BGS auction"]
 ---

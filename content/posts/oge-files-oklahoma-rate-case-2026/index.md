@@ -3,6 +3,8 @@ title: "OG&E Asks Oklahoma Regulators for a Base Rate Increase"
 description: "Oklahoma Gas & Electric filed a rate review this week asking to raise the average residential base rate by $23.88 a month. Nothing has been approved."
 date: 2026-10-02
 lastVerified: 2026-10-02
+imageAlt: "Wooden utility pole with power lines and a tall mast against a blue sky."
+imageCredit: "Photo by Mikhail Abramkin on [Unsplash](https://unsplash.com/photos/brown-electric-post-under-blue-sky-during-daytime-Coewo0NyG5U?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["News"]
 faq:
   - q: "Has OG&E's rate increase been approved?"

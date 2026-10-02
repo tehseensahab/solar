@@ -1,6 +1,8 @@
 ---
 title: "Pennsylvania Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-09-30
+imageAlt: "Row of brick houses with solar panels covering the dark roofs."
+imageCredit: "Photo by Uitbundig on [Unsplash](https://unsplash.com/photos/a-house-with-a-lot-of-solar-panels-on-the-roof-yxiP843xyrI?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
 description: "Pennsylvania's default electricity supply prices reset on June 1, 2026, rising from about 1.5% at PPL to nearly 12% at Penelec. Here is what changed, and what to watch before the next reset."
 readtime: "6 min read"

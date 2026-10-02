@@ -1,6 +1,8 @@
 ---
 title: "California Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-09-30
+imageAlt: "Aerial view of a suburban neighborhood with solar panels on many rooftops along curving streets."
+imageCredit: "Photo by Shanjir H | Photo4life AU on [Unsplash](https://unsplash.com/photos/aerial-view-of-a-suburban-neighborhood-with-houses-and-streets-MXR6DAo8NCo?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
 description: "As of September 29, 2026, PG&E, Southern California Edison and SDG&E have not published an October 1 residential rate change. Here is what is in effect, what to check, and what could still change."
 readtime: "5 min read"

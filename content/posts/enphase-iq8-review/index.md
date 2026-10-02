@@ -1,6 +1,8 @@
 ---
 title: "Enphase IQ8M microinverter review: the grid-independent feature actually works"
 date: 2026-09-19
+imageAlt: "A solar panel tilted on a mount above a green surface with bare trees behind it."
+imageCredit: "Photo by Caspar Rae on [Unsplash](https://unsplash.com/photos/blue-and-white-solar-panel-on-green-metal-bar-during-daytime-b6vAiN3wYNw?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["equipment"]
 description: "Sunlight backup power during a daytime outage, without a battery, tested through two real blackouts."
 readtime: "7 min read"

@@ -1,6 +1,8 @@
 ---
 title: "Panel degradation rates are quietly improving — warranties haven't caught up"
 date: 2026-08-30
+imageAlt: "Close-up of rows of blue solar panels in sunlight."
+imageCredit: "Photo by Chirayu Trivedi on [Unsplash](https://unsplash.com/photos/a-large-amount-of-solar-panels-on-the-roof-of-a-building-twOIx6I35tk?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["equipment"]
 description: "Field data shows top-tier panels degrading slower than their own warranty documents assume."
 readtime: "5 min read"
