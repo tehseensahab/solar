@@ -1,6 +1,8 @@
 ---
 title: "How to size a home battery without over-buying capacity you'll never use"
 date: 2026-09-06
+imageAlt: "Close-up of a row of large batteries with red and blue terminals."
+imageCredit: "Photo by Vanya Smythe on [Unsplash](https://unsplash.com/photos/rows-of-batteries-with-red-and-blue-terminals-CH7kRmyBQ4I?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["equipment"]
 description: "Installers often quote by panel count, not by your actual overnight load. Here's the back-of-envelope method."
 readtime: "5 min read"
