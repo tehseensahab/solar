@@ -29,6 +29,8 @@
   color-scheme: dark;
 }
 
+img { max-width: 100%; }
+
 /* smooth theme switch */
 body, .site-header, .site-footer, .card, .cat-card, .state, .takeaways, .placeholder, .btn, a, th, td, pre, code, blockquote {
   transition: background-color .2s, color .2s;
@@ -85,7 +87,7 @@ a:focus-visible { outline: 2px solid var(--teal); outline-offset: 2px; }
 .section-head { display: flex; align-items: baseline; justify-content: space-between; border-bottom: 2px solid var(--ink); margin-bottom: 26px; padding-bottom: 10px; }
 .section-head h2 { font-size: 1.35rem; margin: 0; }
 .section-head a { font-size: .85rem; font-weight: 600; color: var(--teal); }
-.post-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 30px; }
+.post-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(300px, 100%), 1fr)); gap: 30px; }
 
 /* card: identical everywhere */
 .card { display: flex; flex-direction: column; gap: 9px; }
@@ -123,8 +125,10 @@ a:focus-visible { outline: 2px solid var(--teal); outline-offset: 2px; }
 .post-head h1 { font-size: clamp(1.8rem, 4vw, 2.4rem); margin-top: 10px; }
 .byline { font-size: .85rem; color: var(--ink-soft); margin: 10px 0 0; }
 .post-cover { max-width: var(--max); margin: 28px auto 0; padding: 0 24px; }
-.post-cover figcaption { font-size: .78rem; color: var(--ink-soft); margin-top: 6px; text-align: right; }
+.post-cover img { display: block; width: 100%; height: auto; aspect-ratio: 1200 / 630; object-fit: cover; border-radius: var(--radius); }
+.post-cover figcaption { overflow-wrap: anywhere; font-size: .78rem; color: var(--ink-soft); margin-top: 6px; text-align: right; }
 .post-body { max-width: 68ch; margin: 26px auto 0; padding: 0 24px 60px; font-size: 1.12rem; font-family: var(--font-serif); font-weight: 400; }
+.post-body { overflow-wrap: anywhere; }
 .post-body p { margin: 0 0 1.15em; }
 .post-body h2 { margin-top: 1.4em; font-size: 1.5rem; }
 .post-body a { color: var(--teal); text-decoration: underline; }
@@ -172,7 +176,7 @@ a:focus-visible { outline: 2px solid var(--teal); outline-offset: 2px; }
 :root[data-theme="dark"] .theme-toggle .icon-moon { display: none; }
 
 /* tables, code, quotes: readable in both themes */
-.post-body table { width: 100%; border-collapse: collapse; margin: 1.4em 0; font-family: var(--font-sans); font-size: .95rem; }
+.post-body table { overflow-wrap: normal; display: block; max-width: 100%; overflow-x: auto; width: 100%; border-collapse: collapse; margin: 1.4em 0; font-family: var(--font-sans); font-size: .95rem; }
 .post-body th, .post-body td { border: 1px solid var(--line); padding: 8px 12px; text-align: left; }
 .post-body th { background: var(--panel); font-weight: 600; }
 .post-body pre, .post-body code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: .92em; }
@@ -181,3 +185,9 @@ a:focus-visible { outline: 2px solid var(--teal); outline-offset: 2px; }
 .post-body pre code { background: none; border: 0; padding: 0; }
 .post-body blockquote { margin: 1.4em 0; padding: .2em 1.2em; border-left: 4px solid var(--teal); color: var(--ink-soft); }
 .post-body hr { border: 0; border-top: 1px solid var(--line); margin: 2em 0; }
+.post-cover figcaption a { text-decoration: underline; }
+
+@media (max-width: 600px) {
+  .nav-strip .wrap { gap: 6px 18px; padding: 10px 60px; }
+  .masthead .brand-text { font-size: 1.9rem; }
+}
