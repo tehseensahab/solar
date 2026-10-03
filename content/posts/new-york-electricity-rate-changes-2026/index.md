@@ -68,7 +68,7 @@ The PSC is still reviewing the NYSEG and RG&E rate cases, and news coverage expe
 
 ---
 
-## Fact-Check Before Publication
+## Fact-check notes
 
 | Claim | Source | Status |
 |---|---|---|

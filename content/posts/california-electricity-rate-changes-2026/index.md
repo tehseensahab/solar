@@ -78,7 +78,7 @@ PG&E's 2027-2030 General Rate Case is pending, and PG&E does not expect customer
 
 ---
 
-## Fact-Check Before Publication
+## Fact-check notes
 
 | Claim | Source | Status |
 |---|---|---|
