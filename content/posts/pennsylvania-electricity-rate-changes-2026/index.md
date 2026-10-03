@@ -75,7 +75,7 @@ Default service prices are scheduled to reset again December 1. PPL had a propos
 
 ---
 
-## Fact-Check Before Publication
+## Fact-check notes
 
 | Claim | Source | Status |
 |---|---|---|

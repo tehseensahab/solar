@@ -81,7 +81,7 @@ FPL's 2026 to 2029 agreement sets its base rate path. Fuel and other clause char
 
 ---
 
-## Fact-Check Before Publication
+## Fact-check notes
 
 | Claim | Source | Status |
 |---|---|---|

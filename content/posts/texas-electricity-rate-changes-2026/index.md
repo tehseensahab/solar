@@ -76,7 +76,7 @@ Watch for the outcome of Oncor's tracker request and for the surcharge line on y
 
 ---
 
-## Fact-Check Before Publication
+## Fact-check notes
 
 | Claim | Source | Status |
 |---|---|---|
