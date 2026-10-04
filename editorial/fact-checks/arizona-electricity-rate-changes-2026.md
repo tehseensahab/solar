@@ -6,5 +6,8 @@ SECONDARY (KJZZ, Mar 5, 2026): APS $579.2M; residential 16% / about $20 a month;
 SECONDARY (AZ Capitol Times, May 19, 2026): 14% overall, $240 a year; hearing began May 18; ALJ recommendation Nov 2026; vote likely Dec; implementation early 2027; ROE 10.7% requested, RUCO about 9%; 1.5M customers.
 SECONDARY (AZ Luminaria, May 25, 2026): TEP 13%, about $172M, requested effective Sept 1, 2026; hearing Apr 22 - May 12; ROE 9.55% -> 10.5%; AG says 4%; 455,000 customers.
 SECONDARY (ABC15, Feb 2024): last APS increase, 4-1 vote, about 8.3%, $10-12 a month, effective Mar 1, 2024.
-NOT VERIFIED: TEP final decision; APS export rate; SRP; ACC dockets not opened.
+RESOLVED (Oct 4, 2026): TEP case NOT decided. TEP rate page: anticipates approval of new rates in late 2026; 11.6% / about 12%; $12.92 at 638 kWh, $14.14 at 823 kWh summer, TOU $13.32, demand $15.59. ACC timeline post (Feb 17, 2026): docket E-01933A-25-0103, hearing from Apr 22. solar.com page also lists status as pending.
+VERIFIED, regulator (ACC post, July 10, 2026): APS hearing May 18 - July 7, 2026 (31 days); ROO by late November 2026; vote deadline Dec 31, 2026; rates early 2027.
+MISMATCH: TEP says 11.6% / about 12%; news says 13% (AZ Luminaria) and 14% (other outlets). Both shown with attribution.
+NOT VERIFIED: date of ACC vote on TEP; APS export rate; SRP; eDocket not accessible.
 COVER: Unsplash photo _ciUqT1HEuY (Vivint Solar). Generic image; location not verified and not claimed to be in this state.

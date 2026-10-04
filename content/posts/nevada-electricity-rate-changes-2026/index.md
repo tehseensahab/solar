@@ -12,7 +12,7 @@ tags: ["Nevada", "NV Energy", "PUCN", "demand charge"]
 takeaways:
   - "NV Energy filed in August 2026 to lower electric rates on October 1, 2026, because fuel and purchased power costs fell."
   - "For Southern Nevada residential customers the proposed cut is 3.63%, about $5.01 a month. In Northern Nevada it is 1.82%, about $1.86 a month."
-  - "The changes needed Public Utilities Commission approval. We could not confirm the final vote."
+  - "The changes needed Public Utilities Commission approval. When we checked on October 4, 2026, we found no report of the commission's decision."
   - "A daily demand charge for residential customers is now expected in January 2027. It is estimated at about $20 a month, offset by lower per-kWh rates."
 faq:
   - q: "Did NV Energy rates change on October 1, 2026?"
@@ -72,7 +72,7 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 
 ## Limitations
 
-The October decrease is a filed proposal. We did not confirm PUCN approval or final figures. Demand charge details come from news reports, and its start date has moved before.
+The October decrease is a filed proposal. We searched on October 4, 2026 and found NV Energy's August 19 announcements and news coverage of the filing, but no report of the commission's decision or of final figures. Compare the rate on your October bill with September's. Demand charge details come from news reports, and its start date has moved before.
 
 ## Sources
 

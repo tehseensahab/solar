@@ -6,5 +6,7 @@ SECONDARY (KGOU, June 30, 2026): PSO filed Jan 2, 2026; 15%, about $25 a month; 
 SECONDARY (Tulsa Flyer, July 1, 2026): interim about $11 at 1,100 kWh; settlement about $2.45; costs from 2024-2025; excludes data centers and Inola aluminum project.
 SECONDARY (KTUL, Oct 1, 2026): OG&E filed Oct 1, 2026; $395M; $23.88 a month; about six months; first since 2023.
 OUR MATH: 11.00 - 2.45 = 8.55.
-NOT VERIFIED: commission's final PSO order; net metering terms.
+CHECKED (Oct 4, 2026): NO final PSO order found. KRMG (Sept 9, 2026): ALJ report filed Aug 21, 2026; no decision date. KTUL (July 17, 2026): final order expected later in fall; automatic refunds if final rate is lower. Search-result snippet (Tulsa World via wn.com, Oct 2, 2026): attorneys argued the ALJ's recommendations before the commission on Thursday (Oct 1); article itself not opened. Tulsa Flyer snippet (July 31): about $9 back per month if settlement approved.
+MISMATCH: KRMG summary gave interim as about $25 and stipulation as about $11; every other source says interim about $11 and settlement about $2.45. KRMG figures not used.
+NOT VERIFIED: net metering terms.
 COVER: Unsplash photo znytbxrOv_4 (American Public Power Association). Generic image; location not verified and not claimed to be in this state.

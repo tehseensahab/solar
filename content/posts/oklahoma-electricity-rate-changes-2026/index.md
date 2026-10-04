@@ -33,7 +33,7 @@ This article covers PSO and OG&E. It does not cover cooperatives or municipal ut
 |---|---|---|---|---|
 | Original request | PSO | Filed Jan. 2, 2026 | Superseded by settlement | About 15%, more than $25 a month |
 | Interim rates | PSO | July 1, 2026 | In bills, subject to refund | About $11 a month at 1,100 kWh |
-| Proposed settlement | PSO | June 2026 | Needs commission approval | About $2.45 a month |
+| Proposed settlement | PSO | June 2026 | Judge's report filed Aug. 21; argued before commissioners Oct. 1; no order yet | About $2.45 a month |
 | Rate review | OG&E | Filed Oct. 1, 2026 | Not approved | $23.88 a month (request) |
 
 ## PSO: Interim Now, Refund Likely
@@ -46,7 +46,7 @@ PSO filed on January 2, 2026. Because the Oklahoma Corporation Commission did no
 
 **Our math:** $11.00 − $2.45 = **$8.55 a month** that would be refunded for each month interim rates applied, if the settlement is approved as filed.
 
-PSO said the case recovers costs from 2024 and 2025 and does not cover future data center demand. In 2024 PSO customers paid a $12 interim increase that was later affirmed. We did not find the commission's final vote on the 2026 settlement.
+PSO said the case recovers costs from 2024 and 2025 and does not cover future data center demand. In 2024 PSO customers paid a $12 interim increase that was later affirmed. **Where the case stands.** An administrative law judge filed a report on August 21, 2026. On Thursday, October 1, attorneys argued the judge's recommendations before the commissioners. KTUL reported that a final order was expected later in the fall. As of October 4, 2026 we found no final order, so the $11 interim rate is still in bills.
 
 ## OG&E: New Filing
 
@@ -68,10 +68,12 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 
 ## Limitations
 
-PSO figures come from KGOU and the Tulsa Flyer. We did not open the Corporation Commission docket or confirm the final order. The refund figure is our subtraction and assumes the settlement is approved unchanged.
+PSO figures come from KGOU, KTUL, KRMG and the Tulsa Flyer. We did not open the Corporation Commission docket. No final order had been reported when we checked on October 4, 2026. The refund figure is our subtraction and assumes the settlement is approved unchanged; the Tulsa Flyer put it at about $9 a month.
 
 ## Sources
 
 - [KGOU, "PSO residential customers to see $11 increase amid company's rate case," June 30, 2026](https://www.kgou.org/energy/2026-06-30/pso-residential-customers-to-see-11-increase-amid-companys-rate-case)
 - [Tulsa Flyer, "Oklahoma AG announces settlement to cut proposed PSO rate increase," July 1, 2026](https://tulsaflyer.org/2026/07/01/news/post/settlement-cut-proposed-pso-rate-increase/)
+- [KTUL, "PSO customers paying interim rate while awaiting OCC decision on settlement," July 17, 2026](https://ktul.com/news/local/pso-customers-paying-interim-rate-while-awaiting-occ-decision-on-settlement-07-17-2026)
+- [KRMG, "Oklahoma Corporation Commission weighs PSO rate case as customers seek answers on spikes," Sept. 9, 2026](https://krmg.com/2026/09/09/oklahoma-corporation-commission-weighs-pso-rate-case-as-customers-seek-answers-on-spikes/)
 - [KTUL, "OG&E files first rate review with Oklahoma Corporation Commission since 2023," Oct. 1, 2026](https://ktul.com/news/local/oge-files-first-rate-review-with-oklahoma-corporation-commission-since-2023-10-01-2026)

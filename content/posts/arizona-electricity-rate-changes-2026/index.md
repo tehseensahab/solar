@@ -12,11 +12,11 @@ tags: ["Arizona", "APS", "Tucson Electric Power", "Arizona Corporation Commissio
 takeaways:
   - "We found no approved APS rate change for October 1, 2026. Its rate case is still before the Arizona Corporation Commission."
   - "APS is asking for about 14% overall and about 16% for residential customers, roughly $20 a month. A vote is expected around December 2026, with new rates in early 2027."
-  - "Tucson Electric Power asked for a 13% increase, about $172 million, with a requested effective date of September 1, 2026. We could not confirm a final decision."
+  - "Tucson Electric Power's case is also undecided. TEP's own rate page says it expects approval of new rates in late 2026, and estimates $12.92 a month for a median customer using 638 kWh."
   - "APS has also proposed raising the monthly grid access charge paid by rooftop solar customers."
 faq:
   - q: "Did APS rates go up on October 1, 2026?"
-    a: "We found no approved change on that date. APS's rate case hearing began May 18, 2026, a judge's recommendation is expected in November, and a commission vote is likely in December."
+    a: "We found no approved change on that date. APS's hearing ran from May 18 to July 7, 2026. The Arizona Corporation Commission says a judge's recommendation is expected by late November and the deadline for a commission vote is December 31, 2026."
   - q: "How much is APS asking for?"
     a: "About $579.2 million. KJZZ reported an average 16% increase for residential customers, about $20 a month. The Arizona Capitol Times described it as 14% overall and about $240 a year for an average household."
   - q: "Does SRP follow the same process?"
@@ -32,8 +32,8 @@ This article covers APS, which serves about 1.5 million customers, and TEP, whic
 | Item | Utility | Status | Residential impact |
 |---|---|---|---|
 | Last base rate increase | APS | Effective March 1, 2024 | About 8.3%, $10 to $12 a month |
-| Pending rate case | APS | Vote expected about December 2026 | About 16%, roughly $20 a month (request) |
-| Pending rate case | TEP | Requested effective Sept. 1, 2026; decision not confirmed | About 13% (request) |
+| Pending rate case | APS | Vote due by Dec. 31, 2026 | About 16%, roughly $20 a month (request) |
+| Pending rate case | TEP | Not decided; TEP expects approval in late 2026 | About 12%, $12.92 a month at 638 kWh (request) |
 | October 1, 2026 | APS | n/a | No approved change found |
 
 ## APS: What Is Proposed
@@ -43,16 +43,26 @@ This article covers APS, which serves about 1.5 million customers, and TEP, whic
 - **Return on equity:** APS asked for 10.7%. The state's residential consumer office recommended about 9%.
 - **Formula rates:** APS wants annual formula-based adjustments for five years in place of traditional rate cases. Consumer advocates say that would mean yearly increases with less scrutiny.
 
-**Timeline:** the hearing began May 18, 2026 and was expected to run about six weeks. The Arizona Capitol Times reported that an administrative law judge's recommendation is expected in November 2026, a commission vote is likely in December, and new rates would follow in early 2027.
+**Timeline, per the Arizona Corporation Commission:** the hearing began May 18, 2026 and concluded July 7 after 31 days. The administrative law judge's Recommended Opinion and Order is expected by late November 2026. The deadline for the commission to vote on it is December 31, 2026. New rates are expected in early 2027.
 
-## TEP: What Was Proposed
+## TEP: Still Pending
 
-- **Request:** a 13% increase in retail revenue, about $172 million, and a 10.5% return on equity (currently 9.55%).
-- **Requested effective date:** September 1, 2026.
-- **Hearing:** April 22 to May 12, 2026.
-- **Opposition:** the Attorney General's office argued TEP could maintain reliability with a 4% increase.
+TEP asked for new rates from September 2026, but the case has not been decided. TEP's rate page, checked on October 4, 2026, says the company "anticipates that the review will conclude with approval of new rates in late 2026." The docket is E-01933A-25-0103.
 
-We did not find a report of the commission's final decision, so we cannot say whether new TEP rates are in effect. Check your September or October bill and TEP's rate notice.
+**What TEP says its request would do:**
+
+| Plan | Monthly increase |
+|---|---|
+| Basic plan, median use of 638 kWh | $12.92 |
+| Basic plan, summer median of 823 kWh | $14.14 |
+| Time-of-use plan | $13.32 |
+| Demand plan | $15.59 |
+
+TEP describes this as 11.6%, or about 12%. News reports earlier in the year described the request as 13% to 14% and about $172 million, with a 10.5% return on equity against 9.55% today. The Attorney General's office argued TEP could maintain reliability with 4%.
+
+The hearing ran from April 22 to May 12, 2026. The commission still has to receive a recommended order and vote at an open meeting.
+
+**If you are a TEP customer:** your rates did not change on September 1. Until the commission votes, the current rates apply.
 
 ## What This Means for Homeowners With Solar
 
@@ -72,17 +82,21 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 
 ## What Happens Next
 
-- **November 2026:** expected recommendation in the APS case.
-- **December 2026:** likely ACC vote on APS.
+- **Late November 2026:** expected recommendation in the APS case.
+- **By December 31, 2026:** ACC vote on APS.
+- **Late 2026:** TEP expects a decision.
 - **Early 2027:** new APS rates, if approved.
 
 ## Limitations
 
-All APS and TEP figures here are requests reported by Arizona news outlets, not approved rates. We did not open the ACC dockets. We could not confirm the outcome of the TEP case. SRP and electric cooperatives were not researched.
+All APS and TEP figures here are requests, not approved rates. The ACC's docket system could not be opened, so timelines come from the commission's news posts and TEP's rate page. We did not find the date of the commission's TEP vote. SRP and electric cooperatives were not researched.
 
 ## Sources
 
 - [KJZZ, "APS wants to raise rates. But it's also asking for a major overhaul in how it charges customers," March 5, 2026](https://www.kjzz.org/politics/2026-03-05/aps-wants-to-raise-rates-but-its-also-asking-for-a-major-overhaul-in-how-it-charges-customers)
 - [Arizona Capitol Times, "APS rate case kicks off with hours of protest over 14% rate increase," May 19, 2026](https://azcapitoltimes.com/news/2026/05/19/aps-rate-case-kicks-off-with-hours-of-protest-over-14-rate-increase/)
+- [Arizona Corporation Commission, "What's Next in the APS Rate Case?" July 10, 2026](https://azcc.gov/news/home/2026/07/10/what-s-next-in-the-aps-rate-case)
+- [Tucson Electric Power, 2026 Rates](https://www.tep.com/2026-rates/)
+- [Arizona Corporation Commission, "TEP Rate Case Timeline Update," Feb. 17, 2026](https://azcc.gov/news/home/2026/02/17/tep-rate-case-timeline-update)
 - [AZ Luminaria, "TEP rate case: What Tucson customers need to know," May 25, 2026](https://azluminaria.org/2026/05/25/tep-rate-case-what-tucson-customers-need-to-know/)
 - [ABC15, "Critics: Arizona Corporation Commission rushed vote on APS rate case," Feb. 2024](https://www.abc15.com/news/local-news/critics-arizona-corporation-commission-rushed-vote-on-aps-rate-case)
