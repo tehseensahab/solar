@@ -6,4 +6,7 @@ SECONDARY (Oregon Capital Chronicle, Mar 31, 2026): PGE +5%, about $8 a month; P
 HEADLINE ONLY: OPB.
 INFERENCE, flagged: next changes around Apr 1, 2027.
 NOT VERIFIED: PUC orders; pending 2027 requests; net metering; any Oct 2026 filing.
+SOLAR SECTION ADDED Oct 5, 2026.
+SOLAR, SECONDARY (Energy Trust of Oregon): monthly offset; every March unused credits donated to low-income bill assistance.
+NOT VERIFIED: 25 kW residential limit; any pending PUC changes; utility tariffs.
 COVER: Unsplash photo 1WDIkQumWtA (Yuma Solar). Generic image; location not verified and not claimed to be in this state.

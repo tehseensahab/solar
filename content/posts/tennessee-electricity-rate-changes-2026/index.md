@@ -21,6 +21,8 @@ faq:
     a: "TVA sets the wholesale rate. Your local power company, such as a city utility or electric cooperative, sets the retail rate you pay, with TVA oversight. Tennessee's state utility regulators do not set these rates."
   - q: "Why does my Tennessee bill change month to month if rates did not?"
     a: "Usage is the main reason. TVA also applies a fuel cost adjustment that changes monthly with fuel and purchased power costs."
+  - q: "Is there net metering in Tennessee?"
+    a: "Not in the TVA region. TVA buys surplus solar through its Dispersed Power Production program at an avoided-cost price, which was 3.766 cents per kWh in guidelines effective December 1, 2025. Solar you use yourself offsets your local power company's retail rate."
 ---
 
 Tennessee works differently from most states. The Tennessee Valley Authority (TVA), a federal agency, generates most of the state's power and sells it to local power companies, which bill households. TVA's fiscal year begins October 1, so that is the date wholesale rate changes usually start. For October 1, 2026, we found no base rate increase.
@@ -58,9 +60,15 @@ TVA raised base rates in consecutive years before this. A Memphis TV report in 2
 
 ## What This Means for Homeowners With Solar
 
-Solar rules in the TVA region are set by TVA and your local power company, not by a state commission. We did not verify current terms for this article. Before signing a contract, ask your local power company how exported energy is credited and at what rate, and get it in writing.
+There is no net metering in the TVA region. Solar rules come from TVA and your local power company, not a state commission.
 
-Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
+- **Selling power:** TVA's Dispersed Power Production program buys output from small producers under a power purchase agreement.
+- **The price:** 3.766¢ per kWh as the baseline rate in TVA's guidelines effective December 1, 2025. TVA can revise it at least once a year to reflect its avoided energy costs.
+- **Options:** use all of your output yourself, use part and sell the surplus, or sell all of it.
+
+**What it means:** a kWh you use yourself avoids your local retail rate, typically several times the 3.766¢ you would earn by exporting it. In Tennessee, solar pays back on self-use. Size the system to your daytime load and ask your local power company about its interconnection rules and fees.
+
+Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
 
 ## What to Check on Your Bill
 
@@ -78,8 +86,16 @@ TVA's next fiscal year begins October 1, 2027. Board decisions on rates are usua
 
 We relied on TVA's own announcement and on news reports about the data center rate. We did not review individual local power company rates, and we did not verify past TVA increase percentages or current solar terms.
 
+## Compare With Nearby States
+
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Tennessee's average residential price at 13.71¢/kWh in July 2026, up 3.8% from 13.21¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $137.10 (1,000 × 13.71¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Alabama](/posts/alabama-electricity-rate-changes-2026/), [Georgia](/posts/georgia-electricity-rate-changes-2026/), [Kentucky](/posts/kentucky-electricity-rate-changes-2026/), [North Carolina](/posts/north-carolina-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+
 ## Sources
 
 - [TVA, "TVA Board Protects Consumers, Strengthens Reliability Amid Rising Power Demand," Aug. 20, 2026](https://www.prnewswire.com/news-releases/tva-board-protects-consumers-strengthens-reliability-amid-rising-power-demand-302856900.html)
 - [Fox 17 Nashville, "TVA proposes new data center power rate starting in October, with 10% average increase"](https://fox17.com/news/local/tva-proposes-new-data-center-power-rate-starting-in-october-with-10-average-increase-tennessee-valley-authority)
 - [Fox 13 Memphis, "TVA votes to raise rates two years in a row," 2024](https://www.fox13memphis.com/news/tva-votes-to-raise-power-rates-for-second-straight-year/article_88caa0dc-60e2-11ef-8243-431fe09e6605.html)
+- [TVA, Dispersed Power Production Guidelines, effective Dec. 1, 2025](https://energyright.com/wp-content/uploads/2025/12/December-DPP-Guidelines-for-Publish-1.pdf)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

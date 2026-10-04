@@ -7,4 +7,8 @@ SECONDARY (North Dakota Monitor, Aug 26, 2026): MDU interim 12.3%, $12.90 a mont
 OUR MATH: 11.36 + 0.58 = 11.94.
 NOT CONFIRMED: MDU interim refund condition. Flagged in text.
 NOT VERIFIED: PSC orders; Otter Tail; net metering terms.
+SOLAR SECTION ADDED Oct 5, 2026.
+SOLAR, SECONDARY (ACEEE): systems 100 kW or smaller in IOU service areas; utility must purchase NEG at avoided-cost rate; no statewide aggregate limit.
+SOLAR, SECONDARY (NCSL): reconciles excess generation monthly at avoided cost rate.
+NOT VERIFIED: Xcel / MDU / Otter Tail avoided cost rates.
 COVER: Unsplash photo VNIjztzKF_U (Lara John). Generic image; location not verified and not claimed to be in this state.

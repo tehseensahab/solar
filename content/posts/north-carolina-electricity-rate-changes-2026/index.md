@@ -131,6 +131,12 @@ Duke's PowerPair incentive for solar plus a battery has been reported as fully s
 
 We could not open Duke Energy's tariff sheets or the commission's docket files directly for this article, so the settlement figures come from Duke's news releases, the Attorney General's office and North Carolina news reports. We did not verify the 2026 fuel and rider changes, the current DEP bill at 1,000 kWh, or the status of the utility combination. The solar figures come from the commission's 2023 order and may not match today's tariff sheets. This article will be updated when the commission issues its orders.
 
+## Compare With Nearby States
+
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts North Carolina's average residential price at 15.16¢/kWh in July 2026, up 13.4% from 13.37¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $151.60 (1,000 × 15.16¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [South Carolina](/posts/south-carolina-electricity-rate-changes-2026/), [Tennessee](/posts/tennessee-electricity-rate-changes-2026/), [Virginia](/posts/virginia-electricity-rate-changes-2026/), [Georgia](/posts/georgia-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+
 ## Sources
 
 - [Duke Energy, "Duke Energy proposes new investments in North Carolina," Nov. 20, 2025](https://www.nasdaq.com/press-release/duke-energy-proposes-new-investments-north-carolina-boost-reliability-and-support)
@@ -146,3 +152,4 @@ We could not open Duke Energy's tariff sheets or the commission's docket files d
 - [NC Local, "Duke Energy wants an 18% rate hike for NC customers," June 5, 2026](https://nclocal.org/2026/06/05/duke-energy-rate-hike/)
 - [NC Sustainable Energy Association, "Understanding Solar Net Metering Changes Impacting Duke Energy Customers"](https://www.energync.org/blog/understanding-solar-net-metering-changes-impacting-duke-energy-customers/)
 - [Southern Energy Management, "Duke Energy Net Metering 2026," updated Sept. 8, 2026](https://southern-energy.com/north-carolina-net-metering-update/)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

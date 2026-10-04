@@ -21,6 +21,8 @@ faq:
     a: "Alabama Power notes that bills still change with usage, taxes and seasonal billing tiers. Alabama homes use about 30% more electricity than the U.S. average, according to the company."
   - q: "What happens after the freeze?"
     a: "A charge related to a $622 million natural gas plant acquired in 2025 is expected to begin in 2028, adding about $3.32 a month to an average bill, according to the Birmingham Free Press."
+  - q: "Does Alabama Power charge a fee for rooftop solar?"
+    a: "Yes. Rate Rider RGB sets a capacity reservation charge of $5.41 per kW of installed capacity each month for customers on secondary service. For a 7.2 kW system that is about $38.95 a month. Alabama has no net metering, and exports are credited below the retail rate."
 ---
 
 Alabama Power did not change rates on October 1, 2026. The company says its rates are frozen through 2027. What did change on October 1 is state law.
@@ -66,9 +68,16 @@ A charge for a $622 million natural gas plant Alabama Power acquired in 2025 is 
 
 ## What This Means for Homeowners With Solar
 
-We did not verify Alabama's current net metering or export credit rules for this article, so we give no export rates here. Ask your utility for its current solar tariff, and check how exported energy is credited before sizing a system. Fixed monthly charges are not reduced by solar.
+Alabama has no net metering, and Alabama Power charges solar customers a monthly fee based on system size.
 
-Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
+- **Capacity reservation charge:** $5.41 per kW of installed solar capacity each month on secondary service, under Rate Rider RGB (seventh revision, effective April 2022 billings).
+- **What that costs:** 7.2 kW × $5.41 = **$38.95 a month**, the figure Canary Media gives for an average home system. A 6 kW system pays about $32.
+- **Exports:** credited at roughly Alabama Power's cost of generation, well below the retail rate.
+- **Legal status:** the Alabama Public Service Commission approved the charge in 2013. In April 2026 a federal judge dismissed a lawsuit challenging it.
+
+**What it means:** the fee is owed whether or not you export anything, so it comes straight off your savings. On a 7.2 kW system it is about $467 a year. Run the numbers with the fee included before sizing a system.
+
+Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
 
 ## What to Check on Your Bill
 
@@ -82,8 +91,17 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 
 We did not open PSC orders or Alabama Power's tariff. The 2028 figures and the governor's extension come from one news outlet.
 
+## Compare With Nearby States
+
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Alabama's average residential price at 16.40¢/kWh in July 2026, up 3.0% from 15.93¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $164.00 (1,000 × 16.40¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Georgia](/posts/georgia-electricity-rate-changes-2026/), [Florida](/posts/florida-electricity-rate-changes-2026/), [Mississippi](/posts/mississippi-electricity-rate-changes-2026/), [Tennessee](/posts/tennessee-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+
 ## Sources
 
 - [Alabama Power, "Are Rates Going Up"](https://www.alabamapower.com/company/media-room/energy-answers/are-rates-going-up.html)
 - [Birmingham Free Press, "Alabama Power Freezes Rates as Data Centers Face New Cost Rules," Aug. 22, 2026](https://birminghamfreepress.com/2026/08/22/alabama-power-freezes-rates-as-data-centers-face-new-cost-rules/)
 - [WBRC, "Alabama's new energy law shakes up utility oversight, offers little cost savings," April 4, 2026](https://www.wbrc.com/2026/04/04/alabamas-new-energy-law-shakes-up-utility-oversight-offers-little-cost-savings/)
+- [Alabama Power, Rate Rider RGB](https://www.alabamapower.com/content/dam/alabama-power/pdfs-docs/Rates/RGB.pdf)
+- [Canary Media, "Alabama Power can keep charging steep rooftop solar fee"](https://www.canarymedia.com/articles/solar/alabama-power-charge-rooftop-solar-fee)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

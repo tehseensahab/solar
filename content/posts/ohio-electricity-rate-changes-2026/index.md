@@ -1,7 +1,8 @@
 ---
 title: "Ohio Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-09-30
-lastmod: 2026-09-30
+lastmod: 2026-10-05
+lastVerified: 2026-09-30
 draft: false
 author: "Tehseen Arbab"
 slug: "ohio-electricity-rate-changes-2026"
@@ -15,9 +16,23 @@ imageAlt: "House with a group of solar panels on its tiled roof under a blue sky
 imageCredit: "Photo by Watt A Lot on [Unsplash](https://unsplash.com/photos/a-house-with-solar-panels-Ja8t8nJN2I4?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
 tags: ["Ohio", "AEP Ohio", "AES Ohio", "FirstEnergy", "PUCO"]
+readtime: "6 min read"
+takeaways:
+  - "No verified Ohio rate change took effect on October 1, 2026. Default supply rates were reset on June 1, 2026 and run through May 31, 2027."
+  - "AEP Ohio's default supply rate is 10.12¢/kWh, AES Ohio's is 10.9¢ and Ohio Edison's is 10.0253¢."
+  - "AES Ohio estimates its change at $14.06 more per month, or 7.5%, for a customer using 1,000 kWh."
+  - "Ohio net metering credits exported power at the energy part of the supply rate only, and systems can be sized up to 120% of annual use."
+faq:
+  - q: "Did AEP Ohio rates change on October 1, 2026?"
+    a: "No verified change. AEP Ohio says its $0.1012 per kWh default supply rate took effect June 1, 2026 and stays in effect through May 31, 2027."
+  - q: "How much did AES Ohio bills go up in 2026?"
+    a: "AES Ohio's estimate is $14.06 more per month, or 7.5%, for a default-supply residential customer using 1,000 kWh, starting June 1, 2026."
+  - q: "Do these rates apply if I chose a supplier?"
+    a: "No. They apply only to customers on the utility's default supply. Supplier and government aggregation customers pay their contract rate. Delivery charges are the same either way."
+  - q: "How does net metering work in Ohio?"
+    a: "Under rules the Public Utilities Commission of Ohio settled in December 2018, utilities credit excess generation for the energy portion of the supply rate, not capacity or delivery. Systems can be sized up to 120% of a customer's annual use, and customers of competitive suppliers remain eligible."
 ---
 
-**Published:** September 30, 2026 | **Last verified:** September 30, 2026
 
 **We did not find a verified Ohio electricity rate change taking effect on October 1, 2026.** Ohio's default supply rates for AEP Ohio, AES Ohio and the FirstEnergy utilities were reset on June 1, 2026, and the utilities say they run through May 31, 2027. If you saw a website claiming a new AEP Ohio rate starting October 1, our primary source says otherwise (see below).
 
@@ -51,7 +66,16 @@ Only customers on their utility's default supply. Ohio lets you choose a certifi
 
 ## What This Means for Homeowners With Solar
 
-We did not verify Ohio's current net metering rules in this pass, so we do not describe them here. Check your utility's net metering tariff. In general, a higher supply rate raises the value of every kWh your panels offset, and how much of that value applies to exported power depends on your utility's credit rules.
+Ohio's investor-owned utilities must offer net metering, but an exported kWh is credited at less than the full default supply rate.
+
+- **Export credit:** in a December 19, 2018 ruling, the Public Utilities Commission of Ohio (PUCO) required utilities to credit excess generation for the energy portion of supply only, excluding capacity, as reported by Canary Media. Capacity was described at the time as typically 10% to 15% of the rate. Delivery charges are not credited.
+- **Size limit:** systems can be sized up to 120% of a customer's average yearly use, per DSIRE.
+- **Suppliers:** the same ruling kept customers who shop with a competitive supplier eligible for net metering credits from the utility.
+- **Not covered:** cooperatives and municipal utilities set their own terms.
+
+**What it means:** the June 1 supply increases were driven by capacity costs, which is the part an exported kWh does not earn. A kWh used in the house avoids the whole supply rate plus the per-kWh delivery charges. We did not find the current cents-per-kWh credit for each utility, and the sources for these rules date from 2017 to 2019, so confirm them against your utility's net metering tariff.
+
+Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
 
 ## What Homeowners Should Check on Their Electric Bill
 
@@ -65,6 +89,12 @@ We did not verify Ohio's current net metering rules in this pass, so we do not d
 - Default supply rates reset again on **June 1, 2027**, when the current terms expire. Rates for that period have not been published.
 - FirstEnergy Ohio ran its supply auction on June 9, 2026 (CRA International announcement); future auctions will set the next period.
 
+## Compare With Nearby States
+
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Ohio's average residential price at 19.45¢/kWh in July 2026, up 11.9% from 17.38¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $194.50 (1,000 × 19.45¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Indiana](/posts/indiana-electricity-rate-changes-2026/), [Kentucky](/posts/kentucky-electricity-rate-changes-2026/), [Michigan](/posts/michigan-electricity-rate-changes-2026/), [Pennsylvania](/posts/pennsylvania-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+
 ## Sources
 
 - AEP Ohio Wire, SSO rate change (June 30, 2026): https://www.aepohiowire.com/sso-generation-rate-increase/
@@ -72,3 +102,6 @@ We did not verify Ohio's current net metering rules in this pass, so we do not d
 - CRA International, FirstEnergy Ohio auction announcement (Apr. 15, 2026): https://ir.crai.com/node/21516/pdf
 - EnergyChoiceMatters, FirstEnergy Ohio SSO (Apr. 29, 2026): https://www.energychoicematters.com/stories/20260429aa.html
 - PUCO Energy Choice Ohio: https://energychoice.ohio.gov
+- Canary Media, What Ohio's latest net metering ruling means for utility customers (Jan. 9, 2019): https://www.canarymedia.com/articles/enn/what-ohios-latest-net-metering-ruling-means-for-utility-customers
+- DSIRE, Ohio programs: https://programs.dsireusa.org/system/program/OH
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

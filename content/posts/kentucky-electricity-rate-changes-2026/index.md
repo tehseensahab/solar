@@ -21,6 +21,8 @@ faq:
     a: "Kentucky Utilities electric rates rose 6.54%, about $8.73 a month for a typical customer. LG&E electric rates rose 4.73%, about $5.14 a month."
   - q: "When can LG&E and KU raise base rates again?"
     a: "The utilities agreed not to file another rate case until 2028. Riders and fuel adjustments can still change bills before then."
+  - q: "Did the 2026 Kentucky rate order change solar compensation?"
+    a: "Yes. Reports on the February 2026 order say the Public Service Commission reinstated a higher export credit for LG&E and Kentucky Utilities solar customers than the companies had proposed, which was about 3.8 cents per kWh. We did not find the final rate, which is set in the net metering tariff."
 ---
 
 Kentucky's two largest electric utilities did not change rates on October 1, 2026. Their 2026 increase came from a February order by the Kentucky Public Service Commission (PSC), which approved a settlement with changes.
@@ -54,9 +56,16 @@ These divide the PSC's typical bills by typical usage. They include fixed charge
 
 ## What This Means for Homeowners With Solar
 
-The Kentucky Lantern reported that the order increased compensation for rooftop solar. We did not find the new rate, so check the current net metering tariff for LG&E or KU. A higher export credit and a higher retail rate both shorten payback.
+The February 2026 rate order also decided what LG&E and Kentucky Utilities pay for rooftop solar exports.
 
-Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
+- **What the PSC did:** the Mountain Association reports the commission "re-instated compensation for rooftop solar" after the companies had put a much lower rate in place for about six weeks.
+- **The dispute:** the utilities proposed about 3.8¢ per kWh. Solar advocates' analysis valued customer solar at 11¢ or more.
+- **What we did not find:** the final export credit rate in cents per kWh. It is in the PSC order and the current net metering tariff.
+- **Not settled:** a motion for rehearing was filed in the LG&E case in March 2026.
+
+**What it means:** Kentucky credits exports in dollars at a rate the PSC sets, not kWh for kWh, so that rate decides payback. Get the current tariff sheet for your utility before sizing a system.
+
+Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
 
 ## What to Check on Your Bill
 
@@ -71,7 +80,16 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 
 We did not find the exact effective date of the new rates, the basic service charge or the new solar compensation rate. Kentucky Power and Duke Energy Kentucky were not researched.
 
+## Compare With Nearby States
+
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Kentucky's average residential price at 13.81¢/kWh in July 2026, up 5.2% from 13.13¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $138.10 (1,000 × 13.81¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Indiana](/posts/indiana-electricity-rate-changes-2026/), [Ohio](/posts/ohio-electricity-rate-changes-2026/), [Tennessee](/posts/tennessee-electricity-rate-changes-2026/), [West Virginia](/posts/west-virginia-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+
 ## Sources
 
 - [Kentucky PSC, "PSC Issues Order for KU and LG&E Rate Cases Settlement," Feb. 16, 2026](https://psc.ky.gov/agencies/psc/press/022026/0216_r01.pdf)
 - [Kentucky Lantern, "LG&E/KU customers will pay more though not as much as utility wanted," Feb. 18, 2026](https://kentuckylantern.com/2026/02/18/lge-ku-customers-will-pay-more-though-not-as-much-as-utility-wanted/)
+- [Mountain Association, "LG&E-KU Rate Case Update"](https://mtassociation.org/energy/lge-ku-rate-case-update/)
+- [Joint Intervenors' motion for rehearing, Case 2025-00114, March 9, 2026](https://psc.ky.gov/pscecf/2025-00114/byron%40kyrc.org/03092026091010/2026-03-09-JI-motn-rehrg.pdf)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

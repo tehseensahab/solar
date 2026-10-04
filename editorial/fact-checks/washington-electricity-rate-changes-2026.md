@@ -8,4 +8,7 @@ RESOLVED (Oct 4, 2026), regulator (UTC release, Dec 2025): five dockets effectiv
 STILL OPEN: whether $16.84 and $7.67 are additive (release does not list the GRC step). Article says they appear to add and gives no combined total. Installer blog's 9.30% / $11.20 remains unexplained and is not used.
 SECONDARY (nwsolar.com): Seattle City Light, Snohomish PUD, Tacoma Power 2026 changes.
 NOT VERIFIED: Avista, PacifiCorp; net metering terms; next PSE rate case; any Oct 1, 2026 change.
+SOLAR SECTION ADDED Oct 5, 2026.
+SOLAR, SECONDARY ONLY (A&R Solar; installer): 1:1 retail credit; required until June 30, 2029 or 4% of 1996 peak demand; PSE reached 4% but continues under Schedule 150 pending replacement; value-of-solar study under way; existing customers 'typically grandfathered'.
+NOT VERIFIED: RCW 80.60 text; PSE Schedule 150; 100 kW size limit; annual credit reset date.
 COVER: Unsplash photo Fm30OtHVonE (Aron Schmitz). Generic image; location not verified and not claimed to be in this state.

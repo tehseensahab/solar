@@ -7,4 +7,8 @@ VERIFIED, regulator (IUC release, June 2, 2026): docket RPU-2026-0001; notices a
 UTILITY CLAIM (MidAmerican): Iowa residential rates sixth lowest nationally.
 SECONDARY (KTVO): Alliant residential rates 62% higher than MidAmerican's in 2024. The same story's 11.25% and 9.95% figures refer to returns and are NOT used.
 NOT VERIFIED: MidAmerican's proposed amount and filing date; net metering / inflow-outflow terms.
+SOLAR SECTION ADDED Oct 5, 2026.
+SOLAR, STATUTE (Iowa Code 476.49): net billing or inflow-outflow; outflow purchase rate = applicable retail volumetric rate incl. riders; fixed 20 years; facility not more than 1 MW AC and 110% of annual usage; value-of-solar methodology at 5% penetration or by July 1, 2027; then annual adjustment limited to +/-5%.
+SOLAR, UTILITY PAGE (MidAmerican): inflow/outflow at retail volumetric rate, 15-minute increments; credits carry over and expire by annual billing year (January or April).
+NOT VERIFIED: Alliant's method and rates; current statewide penetration.
 COVER: Unsplash photo ACc9WvDRJA8 (James Wainscoat). Generic image; location not verified and not claimed to be in this state.

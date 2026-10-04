@@ -21,6 +21,8 @@ faq:
     a: "About $11.24 a month for a residential customer using 1,000 kWh, with a further $2.36 in 2027, according to reporting on the commission's order. The starting bill was $149.92."
   - q: "Is Appalachian Power raising rates in Virginia?"
     a: "It has asked to. The request is for $61.4 million a year, about $9.10 a month at 1,000 kWh. It is not approved. The evidentiary hearing begins October 20, 2026."
+  - q: "Does Virginia still have net metering?"
+    a: "Yes. On April 30, 2026 the State Corporation Commission kept one-for-one annual net metering for Dominion customers, adding a $1 monthly fee for new customers and paying year-end surplus at about 5.8 cents per kWh. A 2025 decision kept annual netting for Appalachian Power, with net excess paid at 5.66 cents."
 ---
 
 Virginia's largest utility did not get a new base rate change for October 1, 2026. Dominion Energy Virginia's 2026 increase was set in November 2025, when the State Corporation Commission (SCC) ruled on its biennial review. Since then, several riders have moved bills up and down by smaller amounts.
@@ -61,12 +63,24 @@ Appalachian Power asked for $61.4 million a year and a 10.5% return on equity (P
 
 ## What This Means for Homeowners With Solar
 
-We did not verify Virginia's current net metering tariffs for this article, so we give no export rates here. Two items are worth watching:
+Virginia kept retail net metering in two State Corporation Commission decisions.
 
-- The SCC published draft shared solar rules on August 25, 2026 (PUR-2026-00127), with comments due October 9.
-- Higher per-kWh base rates raise the value of solar you use yourself. Fixed charges are not reduced by solar.
+**Dominion (Case PUR-2025-00079, decided April 30, 2026):**
 
-Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
+- **Kept:** one-for-one kWh credits with a 12-month netting period.
+- **New for new customers:** a $1 monthly administrative fee.
+- **Year-end surplus:** paid at 5.829¢ per kWh, according to Virtue Solar's summary of the order.
+- **Rejected:** Dominion's proposals for 30-minute netting, a lower export rate of about 9.55¢ and application fees of $100 to $750.
+- **Existing customers:** stay on their current terms.
+
+**Appalachian Power (decided August 29, 2025):**
+
+- **Kept:** annual netting at one-for-one for use up to your own annual consumption.
+- **Changed:** net excess over the 12-month period is paid at 5.66¢ per kWh. Existing customers are not affected.
+
+**What it means:** each solar kWh still offsets a retail kWh, so the 2026 base rate increase raised its value. Production beyond your annual use earns under 6¢, so size to what you use in a year. Draft shared solar rules are also open for comment through October 9, 2026 (PUR-2026-00127).
+
+Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
 
 ## What to Check on Your Bill
 
@@ -86,8 +100,18 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 
 The SCC's own news release could not be opened for this article, so the biennial review figures come from Cardinal News and the rider figures from a law firm summary. Two public radio and news reports we checked say the $11.24 step applies "for 2026" without giving a day, so we still cannot state the exact effective date. One of them gives the starting bill as about $140, where Cardinal News gives $149.92; we use the more specific figure. We did not confirm the current fuel factor or net metering terms.
 
+## Compare With Nearby States
+
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Virginia's average residential price at 17.55¢/kWh in July 2026, up 11.2% from 15.78¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $175.50 (1,000 × 17.55¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Maryland](/posts/maryland-electricity-rate-changes-2026/), [North Carolina](/posts/north-carolina-electricity-rate-changes-2026/), [West Virginia](/posts/west-virginia-electricity-rate-changes-2026/), [Kentucky](/posts/kentucky-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+
 ## Sources
 
 - [Cardinal News, "Regulators approve Dominion Energy rate increase," Nov. 26, 2025](https://cardinalnews.org/2025/11/26/regulators-approve-dominion-energy-rate-increase/)
 - [Virginia SCC, "SCC Issues Order on DEV Biennial Review 2025"](https://www.scc.virginia.gov/about-the-scc/newsreleases/release/scc-issues-order-on-dev-biennial-review-2025/scc-rules-in-dev-biennial-review-case.html)
 - [ReisingerGooch, "Virginia Energy Regulatory Updates (August 2026)"](https://reisingergooch.com/virginia-energy-regulatory-updates-august-2026/)
+- [Virtue Solar, "Net Metering Protected: SCC Rules on Dominion NEM 2.0 in VA," May 5, 2026](https://www.virtuesolar.com/2026/05/05/net-metering-protected-in-virginia-sccs-final-ruling-on-dominions-nem-2-0/)
+- [pv magazine USA, "Virginia corporation commission approves Dominion Energy NEM 2.0 that looks very similar to NEM 1.0," May 4, 2026](http://pv-magazine-usa.com/2026/05/04/virginia-corporation-commission-approves-dominion-energy-nem-2-0-that-looks-very-similar-to-nem-1-0/)
+- [Southern Environmental Law Center, statement on the Appalachian Power net metering decision, Aug. 29, 2025](https://www.selc.org/press-release/commission-approves-appalachian-power-company-proposal-reducing-compensation-to-rooftop-solar-customers-for-net-exports-while-retaining-essential-elements-of-net-metering/)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

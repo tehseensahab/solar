@@ -9,3 +9,5 @@ CALCULATED by us: -0.885c, -7.8%, -0.296c, -2.8%, $6.19, $2.07, ~$10 credit loss
 Ameren 8.402c last Oct: CUB 2025-10-01.
 Solar: net billing per DSIRE and Illinois Shines (program administrator). DG rebate amounts not stated in article body (only found in secondary sources).
 GAPS: MidAmerican not researched; ComEd delivery/other 2026 rate changes not researched; CFERA figures are CUB's, not ComEd tariff.
+
+Front matter takeaways and FAQ added Oct 5, 2026, drawn only from facts already in the article. No new facts.

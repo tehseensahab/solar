@@ -64,6 +64,12 @@ PG&E's 2027-2030 General Rate Case is pending, and PG&E does not expect customer
 **Published:** September 30, 2026
 **Last verified:** September 29, 2026
 
+## Compare With Nearby States
+
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts California's average residential price at 33.61¢/kWh in July 2026, up 2.9% from 32.66¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $336.10 (1,000 × 33.61¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arizona](/posts/arizona-electricity-rate-changes-2026/), [Nevada](/posts/nevada-electricity-rate-changes-2026/), [Oregon](/posts/oregon-electricity-rate-changes-2026/), [Hawaii](/posts/hawaii-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+
 ## Sources
 
 - SCE Rate Advisory: https://www.sce.com/save-money/rates-financing/sce-rate-advisory
@@ -75,3 +81,4 @@ PG&E's 2027-2030 General Rate Case is pending, and PG&E does not expect customer
 - SDG&E January 2026 Electric Rate Change Alert: https://www.sdge.com/sites/default/files/January%202026%20Electric%20Rate%20Change%20Alert.pdf
 - CPUC Public Advocates Office, Q2 2026 Electric Rates Report: https://www.publicadvocates.cpuc.ca.gov/-/media/cal-advocates-website/files/press-room/reports-and-analyses/260727-public-advocates-office-q2-2026-electric-rates-report.pdf
 - CPUC Rate Change Advisories: https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/electric-rates/rate-change-advisories
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

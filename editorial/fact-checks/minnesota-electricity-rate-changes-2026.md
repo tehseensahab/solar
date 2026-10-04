@@ -9,4 +9,7 @@ UTILITY PAGE (Xcel): final approval July 31, 2026; interim rates from Jan 1, 202
 VERIFIED, AG release (May 7, 2026): separate $40.6M plus interest refund, Prairie Island outage (Oct 2023).
 STILL OPEN: three bill figures ($2.78, $5.59, $10.27). All shown in a table with their stated bases; our possible explanation is labeled as unconfirmed. Also request totals differ ($490.5M by sum vs $573M); article quotes each with attribution.
 NOT VERIFIED: PUC order; ROE approved; refund date; Minnesota Power; net metering; any Oct 1, 2026 change.
+SOLAR SECTION ADDED Oct 5, 2026.
+SOLAR, SECONDARY (Solar United Neighbors, page modified July 12, 2024): under 40 kW AC at average retail utility energy rate; 40 kW - 1 MW avoided cost / simultaneous purchase and sale; monthly credits; year-end avoided cost for public utilities, expire at munis/co-ops; fees allowed for munis/co-ops; no statewide cap, 4% review trigger.
+NOT VERIFIED: Minn. Stat. 216B.164 text; Xcel tariff; Solar*Rewards status.
 COVER: Unsplash photo Dh5pUa2PwrY (Thomas Despeyroux). Generic image; location not verified and not claimed to be in this state.

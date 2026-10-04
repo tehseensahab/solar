@@ -8,4 +8,7 @@ RESOLVED (Oct 4, 2026): AES press release (June 17, 2026): Phase 1 (July 2026) l
 HEADLINE ONLY: 'Review of $71 million AES Indiana rate hike to stretch into 2027' (Yahoo syndication; page returned 429).
 SECONDARY (Indiana Public Media, Sept 14, 2026): order under reconsideration; other utilities' rate case years; HEA 1002; trackers; 7% sales tax; fixed charges $11-$17; five IOUs about 80% of residential customers.
 NOT VERIFIED: IURC cause number; Duke/NIPSCO/CenterPoint 2025 details; solar tariffs (excess distributed generation rates).
+SOLAR SECTION ADDED Oct 5, 2026.
+SOLAR, UTILITY TARIFF (AES Indiana Rider 16 EDG, Cause 46258, effective July 27, 2026): 5.4325 c/kWh; average marginal price x 1.25; nameplate not more than 1 MW or average annual consumption; enrollment from July 1, 2022.
+NOT VERIFIED: other utilities' EDG rates; how EDG netting interval is applied (instantaneous vs monthly).
 COVER: Unsplash photo khQIi4vjLIg (Daniel Barnes). Generic image; location not verified and not claimed to be in this state.

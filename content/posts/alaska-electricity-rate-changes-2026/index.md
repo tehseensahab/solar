@@ -21,6 +21,8 @@ faq:
     a: "A 7.4% increase that the Regulatory Commission of Alaska allowed from January 15, 2026 while it reviews Golden Valley Electric's rate case. It is refundable if final rates come in lower."
   - q: "Why do Alaska rates vary so much by location?"
     a: "Alaska's utilities are mostly member-owned cooperatives and municipal systems serving separate areas, and many remote communities are not connected to any larger grid."
+  - q: "How does net metering work in Alaska?"
+    a: "Systems up to 25 kW qualify. Surplus power is credited at the utility's avoided cost, roughly a third of the retail rate, and utilities must accept net metering only up to 1.5% of their average load. A bill to move to full retail credits, SB 150, was under consideration in 2026."
 ---
 
 Alaska does not have a statewide answer to the October 1 question. Each utility has its own schedule, and the Regulatory Commission of Alaska (RCA) reviews them one at a time. We found no base rate change on October 1, 2026.
@@ -59,9 +61,16 @@ Southcentral Alaska generates much of its power from Cook Inlet natural gas. Fue
 
 ## What This Means for Homeowners With Solar
 
-We did not verify Alaska's current net metering or export credit rules for this article, so we give no export rates here. Ask your utility for its current solar tariff, and check how exported energy is credited before sizing a system. Fixed monthly charges are not reduced by solar.
+Alaska's net metering rules date from 2010 and pay less than the retail rate for surplus power.
 
-Winter production is very low at Alaska's latitudes, so annual output per kW is well below the national figures used in most payback examples. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
+- **Size limit:** renewable systems of 25 kW or less.
+- **Exports:** credited at the utility's avoided cost, meaning what it saves on fuel and operations. The Anchorage Daily News put that at roughly a third of the retail rate, varying by utility.
+- **Program cap:** large utilities must accept net metering up to 1.5% of their average load. The Renewable Energy Alaska Project says at least three Railbelt utilities have passed that level. Homer Electric raised its own cap to 3%.
+- **Proposed change:** Senate Bill 150 would credit surplus at the full retail rate and let summer credits carry into winter. It was in committee in early 2026 with the governor's support. We did not find its final status.
+
+**What it means:** size a system to what you use in the sunny months. Extra summer production earns only the avoided cost, and winter output is very low at Alaska's latitudes.
+
+Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
 
 ## What to Check on Your Bill
 
@@ -75,7 +84,16 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 
 GVEA information comes from its own rate case page. Chugach details come from an advocacy group's summary of the RCA order. We did not open RCA dockets. The fuel and solar production statements are general background that we did not re-verify.
 
+## Compare With Nearby States
+
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Alaska's average residential price at 28.83¢/kWh in July 2026, up 5.6% from 27.30¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $288.30 (1,000 × 28.83¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Washington](/posts/washington-electricity-rate-changes-2026/), [Hawaii](/posts/hawaii-electricity-rate-changes-2026/), [Oregon](/posts/oregon-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+
 ## Sources
 
 - [Golden Valley Electric Association, Rate Case](https://www.gvea.com/rates-2/rate-case/)
 - [Alaska Energy Transparency Project, "The Chugach Rate Case: A Wrap Up"](https://www.akenergytransparency.org/news/the-chugach-rate-casea-wrap-up)
+- [Renewable Energy Alaska Project, Net Metering](https://alaskarenewableenergy.org/ppf/net-metering/)
+- [Anchorage Daily News, "Dunleavy backs bill to require changes to net metering for Railbelt utility customers," Feb. 26, 2026](https://www.adn.com/politics/alaska-legislature/2026/02/26/dunleavy-backs-bill-to-require-net-metering-for-railbelt-utility-customers/)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

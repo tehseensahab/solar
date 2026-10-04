@@ -71,6 +71,12 @@ FPL's 2026 to 2029 agreement sets its base rate path. Fuel and other clause char
 **Published:** September 30, 2026
 **Last verified:** September 29, 2026
 
+## Compare With Nearby States
+
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Florida's average residential price at 15.03¢/kWh in July 2026, down 0.5% from 15.11¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $150.30 (1,000 × 15.03¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Alabama](/posts/alabama-electricity-rate-changes-2026/), [Georgia](/posts/georgia-electricity-rate-changes-2026/), [South Carolina](/posts/south-carolina-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+
 ## Sources
 
 - FPL Rates and Your Bill: https://www.fpl.com/rates.html
@@ -78,3 +84,4 @@ FPL's 2026 to 2029 agreement sets its base rate path. Fuel and other clause char
 - FPL residential rates, October 2026: https://www.fpl.com/content/dam/fplgp/us/en/rates/pdf/residential-rates-oct2026.pdf
 - FPL, PSC approval of 2026-2029 rate agreement (Nov 20, 2025): https://newsroom.fpl.com/2025-11-20-Florida-regulators-approve-FPL-rate-agreement-that-keeps-customer-bills-low,-meets-needs-of-growing-state
 - Duke Energy Florida, third rate reduction (May 29, 2026): https://news.duke-energy.com/releases/duke-energy-florida-implements-third-rate-reduction-to-lower-residential-customer-bills-by-approximately-25-in-2026
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

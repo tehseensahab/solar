@@ -6,4 +6,7 @@ VERIFIED, regulator (PRC customer notice, Apr 1, 2026): Docket 24-00089-UT; seco
 SECONDARY (KFOX, June 2026): El Paso Electric $70.4M; more than $40 a month; two phases from 2027; $400M+ invested; hearing in Las Cruces June 2026; no decision date.
 HEADLINE ONLY: Santa Fe New Mexican (about $10 total); Xcel SPS $90M stipulation (SEC 8-K headline via StockTitan). No further detail used.
 NOT VERIFIED: phase 1 amount; dockets; net metering terms.
+SOLAR SECTION ADDED Oct 5, 2026.
+SOLAR, SECONDARY ONLY (EnergySage): retail-rate credits up to 100% of demand; monthly rollover; excess at avoided cost; Solar Market Development Tax Credit 10% up to $6,000, $30M annual ceiling, first come first served, active in 2026.
+NOT VERIFIED: PRC Rule 17.9.570; PNM tariff; 'under 10 kW' statement in source not used.
 COVER: Unsplash photo 0SyvPKyZc-M (Joshua Bowers). Generic image; location not verified and not claimed to be in this state.

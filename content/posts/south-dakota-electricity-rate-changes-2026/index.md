@@ -21,6 +21,8 @@ faq:
     a: "About 9.5% overall, or roughly $13.48 a month for a typical residential customer using 750 kWh, according to the Public Utilities Commission."
   - q: "Why did Xcel customers get a refund?"
     a: "Xcel charged higher interim rates from January 1, 2026 while the case was pending. The approved rates were lower, so the difference was refunded, about $43.52 for a typical residential customer."
+  - q: "Does South Dakota have net metering?"
+    a: "No. The South Dakota Public Utilities Commission states that the state does not compensate solar generation at a net metered rate. Utilities pay their avoided cost for exported power, and rates for facilities under 100 kW are filed with the commission."
 ---
 
 South Dakota did not have a rate change on October 1, 2026. Xcel Energy's rate case was settled in May, with final rates from July 1. Black Hills Energy's case is still open.
@@ -58,9 +60,15 @@ Black Hills Energy, which serves the Rapid City area, has asked for a 25% increa
 
 ## What This Means for Homeowners With Solar
 
-We did not verify South Dakota's current net metering or export credit rules for this article, so we give no export rates here. Ask your utility for its current solar tariff, and check how exported energy is credited before sizing a system. Fixed monthly charges are not reduced by solar.
+South Dakota does not have net metering. The Public Utilities Commission says so directly: "South Dakota does not compensate solar generation at a net metered rate."
 
-Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
+- **What you are paid:** the utility's avoided cost for power you send to the grid, meaning what it would otherwise spend to generate or buy that power.
+- **Small systems:** for facilities under 100 kW, regulated utilities must file their rates with the PUC, which publishes them.
+- **What the PUC advises:** ask your utility about the interconnection process and cost, and how much it will pay for excess generation.
+
+**What it means:** only the solar you use at the moment it is produced offsets the retail rate. Everything exported earns the avoided cost. Systems sized to daytime use pay back best, and a moratorium on Xcel base rate increases through 2028 means the retail value is unlikely to rise soon.
+
+Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
 
 ## What to Check on Your Bill
 
@@ -74,7 +82,15 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 
 Xcel figures come from the PUC's news release. Black Hills Energy figures come from a TV report. We did not find the Black Hills decision timeline or whether interim rates apply.
 
+## Compare With Nearby States
+
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts South Dakota's average residential price at 15.37¢/kWh in July 2026, up 5.9% from 14.52¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $153.70 (1,000 × 15.37¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Minnesota](/posts/minnesota-electricity-rate-changes-2026/), [Nebraska](/posts/nebraska-electricity-rate-changes-2026/), [North Dakota](/posts/north-dakota-electricity-rate-changes-2026/), [Iowa](/posts/iowa-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+
 ## Sources
 
 - [South Dakota PUC, "PUC approves settlement to increase Xcel Energy electric rates below request," May 8, 2026](https://puc.sd.gov/News/2026/05082026.aspx)
 - [KOTA, "PUC begins Black Hills Energy rate case as businesses, hospitals join proceedings," May 2026](https://www.kotatv.com/2026/05/10/puc-begins-black-hills-energy-rate-case-businesses-hospitals-join-proceedings/)
+- [South Dakota Public Utilities Commission, Solar Energy FAQ](https://puc.sd.gov/Publications/solarfaq.aspx)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

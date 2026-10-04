@@ -8,4 +8,9 @@ NOT ACCESSIBLE: SCC news release (robots.txt). Linked but not read.
 OUR MATH: 149.92 + 11.24 = 161.16; + 2.36 = 163.52; 13.60 / 149.92 = 9.1%.
 CHECKED AGAIN (Oct 4, 2026): WHRO (Nov 26, 2025) confirms $11.24 for 2026 and $2.36 in 2027, ROE 9.7% -> 9.8%, new class from 2027; gives baseline 'approximately $140' at 1,000 kWh vs Cardinal News $149.92. Neither gives the day the 2026 step took effect. STILL OPEN: exact effective date (SCC release blocked by robots.txt).
 NOT VERIFIED: fuel factor; net metering terms; any Oct 1, 2026 change.
+SOLAR SECTION ADDED Oct 5, 2026.
+SOLAR, SECONDARY (Virtue Solar, May 5, 2026; installer): SCC ruling Apr 30, 2026, PUR-2025-00079; annual 1:1 netting kept; $1/month admin fee for new customers; year-end excess $0.05829/kWh; rejected 30-minute netting, about $0.0955 export rate, SREC ownership, $100-$750 fees; existing customers grandfathered; 6% cap unchanged.
+SOLAR, SECONDARY (pv magazine USA, May 4, 2026): 12-month netting retained; excess at avoided cost plus a penny; $1/month fee; revised tariffs within 90 days; NEM 1.0 participants remain indefinitely.
+SOLAR, SECONDARY (SELC, Aug 29, 2025): APCo: annual period kept; net excess 5.66 c/kWh; existing customers unaffected; hourly netting rejected.
+NOT VERIFIED: SCC order text (docket site blocked).
 COVER: Unsplash photo U0ys6tX7UMU (Michael Roberts). Generic image; location not verified and not claimed to be in this state.

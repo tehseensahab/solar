@@ -6,4 +6,7 @@ VERIFIED, regulator (PUC release, May 8, 2026): Docket EL25-024; $25.6M (9.5%) a
 SECONDARY (KOTA, May 2026): Black Hills Energy 25%, $25.13 a month; Docket EL26-003; eight intervenors.
 OUR MATH: (43.6 - 25.6) / 43.6 = 41%.
 NOT VERIFIED: Black Hills timeline; other utilities.
+SOLAR SECTION ADDED Oct 5, 2026.
+SOLAR, REGULATOR PAGE (SD PUC solar FAQ): 'South Dakota does not compensate solar generation at a net metered rate'; avoided cost definition; under 100 kW rates filed with and approved by PUC; ask utility about interconnection and compensation.
+NOT VERIFIED: Xcel and Black Hills filed avoided cost rates.
 COVER: Unsplash photo 73JOOymZQTQ (Rafael Moreno). Generic image; location not verified and not claimed to be in this state.

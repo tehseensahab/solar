@@ -8,4 +8,8 @@ OUR MATH: 12.64 - 11.58 = 1.06; 13.69 - 11.99 = 1.70; 700 x 0.0106 = 7.42.
 RESOLVED IN PART (Oct 4, 2026), state consumer advocate (OCC FAQ): public benefits rates effective May 1, 2026 through April 30, 2027; before about 4 c/kWh both utilities; after: credit about 1.5 c (Eversource), about 1.3 c (UI); about $31 (Eversource) and $34.15 (UI) at 700 kWh; about 15% and 13.8%. CT Mirror (Apr 22, 2026): same period; PURA may adjust in September; Eversource says decrease is temporary, higher charges possible in 2027.
 SEARCHED, NOTHING FOUND: any September 2026 PURA adjustment. Absence of a report is not proof; article says so.
 NOT VERIFIED: tariff sheets; Jan 2027 standard service; delivery cases; net metering / RRES tariff.
+SOLAR SECTION ADDED Oct 5, 2026.
+SOLAR, UTILITY PAGE (Eversource): RRES buy-all $0.3195 (2025), $0.3289 (2026), 20-year term; netting: credits at the rate you pay, monthly rollover; max 25 kW sized to historical load; EV allowance 3,285 kWh; income adders (buy-all $0.055 / $0.0275; netting $0.035 / $0.0175).
+NOT USED: 'Solar Energy Adjustment $0.0402/kWh' as reported by the fetch tool; could not confirm what it applies to.
+NOT VERIFIED: UI rates; PURA program manual.
 COVER: Unsplash photo gqpuuF3a2tY (Watt A Lot). Generic image; location not verified and not claimed to be in this state.

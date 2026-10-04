@@ -21,6 +21,8 @@ faq:
     a: "No. It affects customers on Pepco's standard offer service. Customers who buy supply from a retail supplier pay their contract price. Delivery charges are separate."
   - q: "Is BGE raising rates?"
     a: "BGE has asked to raise electric distribution rates by $156.1 million in Case No. 9888. It is not approved. Maryland's Office of People's Counsel says new rates would begin in early 2027 if approved."
+  - q: "Does Maryland have net metering?"
+    a: "Yes. Monthly surplus solar is credited at the full retail rate. Systems can be sized up to 200% of annual use, and each April leftover credits are paid out at the utility's average annual commodity rate."
 ---
 
 Maryland customers on Pepco's default supply saw a real change on October 1, 2026. Pepco's residential standard offer service (SOS) rate, the price you pay for electricity if you have not picked a retail supplier, rose about 11% for the winter period. Separately, Baltimore Gas and Electric (BGE) has a delivery rate increase pending.
@@ -74,9 +76,15 @@ In 2026 the Maryland Public Service Commission said it denied more than half of 
 
 ## What This Means for Homeowners With Solar
 
-We did not verify current Maryland net metering terms for this article. In general, a higher supply price raises the value of each kWh a solar system offsets, for customers credited at the retail rate. Confirm your utility's current rules before relying on that.
+Maryland offers net metering at the full retail rate.
 
-Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
+- **Credits:** monthly surplus is credited at the full retail rate, according to Solar United Neighbors.
+- **Size limit:** up to 200% of your annual electricity use.
+- **Annual payout:** in April, utilities pay out leftover credits at their average annual commodity (supply) rate, which is lower than the full retail rate because it leaves out delivery.
+
+**What it means:** each solar kWh offsets both supply and delivery. For Pepco customers on standard offer service, the winter supply rate of about 14.7¢ makes each kWh worth about 1.5¢ more than in summer 2026. Systems much larger than your use earn only the supply rate on the surplus.
+
+Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
 
 ## What to Check on Your Bill
 
@@ -90,9 +98,17 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 
 The Pepco SOS figures come from a third-party analysis of published rates, supported by a trade publication headline, and not from Pepco's tariff, which we could not open. We did not find BGE's SOS rates for the same period. Figures for 900 kWh and 1,000 kWh are not directly comparable.
 
+## Compare With Nearby States
+
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Maryland's average residential price at 21.41¢/kWh in July 2026, up 13.7% from 18.83¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $214.10 (1,000 × 21.41¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Delaware](/posts/delaware-electricity-rate-changes-2026/), [Pennsylvania](/posts/pennsylvania-electricity-rate-changes-2026/), [Virginia](/posts/virginia-electricity-rate-changes-2026/), [West Virginia](/posts/west-virginia-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+
 ## Sources
 
 - [Maryland Office of People's Counsel, "Consumer's Guide to BGE's Proposed Electric Rate Increase," Aug. 2026](https://opc.maryland.gov/Portals/0/Files/Publications/BGE%20Consumer's%20Guide%20-%202026%20-%20FINAL%20VERSION.pdf?ver=OQulELqGzpKL7xWi5A9GKg%3D%3D)
 - [Maryland PSC, "Maryland Public Service Commission Denies Over Half of Pepco's Rate Increase Request," 2026](http://psc.maryland.gov/news/2026/maryland-public-service-commission-denies-over-half-of-pepcos-rate-increase-request/)
 - [Honeydew Advisors, "Maryland Pepco SOS Supply Rates: Where They Stand in 2026"](https://honeydewadvisors.com/md-pepco-rate-analysis/)
 - [EnergyChoiceMatters, "Pepco-MD Residential, Small Commercial SOS Rates Increasing 11-13% In October," April 22, 2026](http://www.energychoicematters.com/stories/20260422a.html)
+- [Solar United Neighbors, "Net metering in Maryland"](https://solarunitedneighbors.org/resources/net-metering-in-maryland/)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

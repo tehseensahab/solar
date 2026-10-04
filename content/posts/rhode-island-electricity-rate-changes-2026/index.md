@@ -21,6 +21,8 @@ faq:
     a: "For supply, about $29.69 more a month than summer at 500 kWh, and about $11.30 more than last winter. Credits of about $14 a month from October, plus $20.45 a month from January to March 2027, reduce the net increase."
   - q: "Why is the winter rate higher than summer?"
     a: "New England relies on natural gas for power, and gas is more expensive in winter when it is also needed for heating. Rhode Island Energy resets the rate every six months to reflect what it paid for supply."
+  - q: "Does Rhode Island have net metering?"
+    a: "Yes. An installer guide says systems interconnected after April 15, 2023 receive about 80% of the retail rate for exported energy, while older systems keep full retail credit. Systems can be sized up to 125% of annual use. An updated tariff was filed in May 2026."
 ---
 
 Rhode Island is one of the few states where rates did change on October 1, 2026. Rhode Island Energy's last resort service rate, the default supply price, moved to its winter level.
@@ -87,9 +89,18 @@ Last resort service resets on April 1, 2027.
 
 ## What This Means for Homeowners With Solar
 
-We did not verify Rhode Island's current net metering or export credit rules for this article, so we give no export rates here. Ask your utility for its current solar tariff, and check how exported energy is credited before sizing a system. Fixed monthly charges are not reduced by solar.
+Rhode Island still has net metering, with reduced credit for exports from newer systems.
 
-Under any program that credits solar against retail supply, a higher winter supply rate raises the value of winter production. Winter production is also much lower than summer. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
+- **Newer systems:** NuWatt Energy's 2026 guide says systems interconnected after April 15, 2023 receive about 80% of the retail rate for exported energy, while older systems keep full retail credit.
+- **Self-use:** power you use as it is produced offsets the full retail rate.
+- **Size limit:** up to 125% of your annual on-site use.
+- **Alternative:** the Renewable Energy Growth program pays a fixed price per kWh for 15 years under a separate tariff.
+
+Rhode Island Energy filed an updated net metering tariff with the Public Utilities Commission in May 2026 (Docket 25-50-EL). We did not read it, so treat the 80% figure as an installer's description and check the tariff.
+
+**What it means:** under credits tied to the retail rate, the winter supply increase raises the value of winter solar. Winter production is much lower than summer, so the annual effect is smaller than the rate change suggests.
+
+Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
 
 ## What to Check on Your Bill
 
@@ -103,6 +114,12 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 
 The commission's page listed the winter rate as pending final approval, and the evidentiary hearing was held on September 16, 2026. We found no report of the final order on the rate itself, although the commission approved the related winter credits on September 24. The 17.029¢ figure is the filed rate. Delivery rates were not researched.
 
+## Compare With Nearby States
+
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Rhode Island's average residential price at 28.29¢/kWh in July 2026, up 8.1% from 26.18¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $282.90 (1,000 × 28.29¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Connecticut](/posts/connecticut-electricity-rate-changes-2026/), [Massachusetts](/posts/massachusetts-electricity-rate-changes-2026/), [New York](/posts/new-york-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+
 ## Sources
 
 - [Rhode Island Public Utilities Commission, Rhode Island Energy Last Resort Service](https://ripuc.ri.gov/utility-information/electric/rhode-island-energy-last-resort-service)
@@ -110,3 +127,6 @@ The commission's page listed the winter rate as pending final approval, and the 
 - [What's Up Newp, "PUC approves $28 million in winter electric bill credits," Sept. 2026](https://whatsupnewp.com/2026/09/puc-approves-28-million-in-winter-electric-bill-credits/)
 - [Uprise RI, "ISO-NE Says Grid Held; RI Energy Winter Rate Set to Jump," Sept. 16, 2026](https://upriseri.com/article/the-grid-held-your-winter-power-rate-still-climbs)
 - [WPRI, "RI regulators approve electricity rate hike, some financial relief for winter months"](https://www.wpri.com/target-12/ri-regulators-pair-electricity-rate-hike-with-some-financial-relief-for-winter-months/)
+- [NuWatt Energy, "RI Net Metering Guide 2026"](https://nuwattenergy.com/en/rhode-island/net-metering-guide-2026)
+- [Rhode Island Energy, net metering tariff compliance filing, Docket 25-50-EL, May 18, 2026](https://ripuc.ri.gov/sites/g/files/xkgbur841/files/2026-05/25-50-EL%20-%20Net%20Metering%20Tariff%20Advice%20-%20Compliance%20%28PUC%205-18-26%29.pdf)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

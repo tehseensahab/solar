@@ -60,8 +60,15 @@ The PSC is still reviewing the NYSEG and RG&E rate cases, and news coverage expe
 **Published:** September 30, 2026
 **Last verified:** September 29, 2026
 
+## Compare With Nearby States
+
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts New York's average residential price at 29.90¢/kWh in July 2026, up 14.0% from 26.22¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $299.00 (1,000 × 29.90¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Connecticut](/posts/connecticut-electricity-rate-changes-2026/), [New Jersey](/posts/new-jersey-electricity-rate-changes-2026/), [Pennsylvania](/posts/pennsylvania-electricity-rate-changes-2026/), [Massachusetts](/posts/massachusetts-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+
 ## Sources
 
 - NY Department of Public Service, temporary rates (May 14, 2026): https://dps.ny.gov/news/commission-grants-only-fraction-nyseg-and-rge-rate-request-temporary-basis
 - NYSEG electric temporary rate case summary: https://dps.ny.gov/system/files/documents/2026/05/nyseg-electric-temporary-rate-case-summary_0.pdf
 - Con Edison rate case visual supplement: https://dps.ny.gov/system/files/documents/2026/01/con-edison-rate-case-visual-supplement-electric-gas_0.pdf
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

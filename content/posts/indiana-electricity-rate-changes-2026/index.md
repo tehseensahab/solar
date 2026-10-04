@@ -21,6 +21,8 @@ faq:
     a: "Regulators approved $71 million, about 3.7% over two years. AES says that is less than $5 a month per phase for a customer using 1,000 kWh, and less than $10 in total by 2027."
   - q: "Can AES Indiana raise base rates again soon?"
     a: "AES says there will be no further base rate increases before 2030. Trackers can still change bills."
+  - q: "What does AES Indiana pay for excess solar power?"
+    a: "5.4325 cents per kWh under Rider 16, effective July 27, 2026. The rate equals 1.25 times the average marginal price of energy AES paid in the most recent calendar year, and it resets annually. Indiana no longer offers retail-rate net metering to new customers."
 ---
 
 Indiana's large electric utilities did not change base rates on October 1, 2026. The most recent decision is the Indiana Utility Regulatory Commission's (IURC) June 17, 2026 order for AES Indiana, which is being phased in.
@@ -70,9 +72,16 @@ House Enrolled Act 1002, approved in March 2026, moves utilities to three-year b
 
 ## What This Means for Homeowners With Solar
 
-We did not verify each utility's current solar tariff for this article. Ask your utility how exported energy is credited, since that rate drives payback more than the price of the system.
+Indiana replaced net metering with "excess distributed generation" (EDG) billing for new customers.
 
-Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
+- **AES Indiana credit:** 5.4325¢ per kWh under Rider 16, effective July 27, 2026.
+- **How it is set:** the average marginal price of energy AES paid in the most recent calendar year, multiplied by 1.25. It resets each year.
+- **Size limit:** the smaller of 1 megawatt or the customer's average annual use at that location.
+- **Other utilities:** each sets its own EDG rate the same way. We did not check Duke, NIPSCO, CenterPoint or Indiana Michigan Power.
+
+**What it means:** an exported kWh earns about 5.4¢ at AES, well under the retail energy rate, and the credit moves with wholesale prices. Systems sized to your own use keep more of their value. Indiana's 7% sales tax on utility bills also applies to what you still buy.
+
+Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
 
 ## What to Check on Your Bill
 
@@ -87,6 +96,12 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 
 We did not open the IURC order. Bill figures come from AES's news release and Mirror Indy. We did not find the outcome or schedule of the reconsideration, and we did not research the 2025 Duke, NIPSCO and CenterPoint orders in detail.
 
+## Compare With Nearby States
+
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Indiana's average residential price at 16.73¢/kWh in July 2026, up 3.4% from 16.18¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $167.30 (1,000 × 16.73¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Illinois](/posts/illinois-electricity-rate-changes-2026/), [Kentucky](/posts/kentucky-electricity-rate-changes-2026/), [Michigan](/posts/michigan-electricity-rate-changes-2026/), [Ohio](/posts/ohio-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+
 ## Sources
 
 - [Indiana Capital Chronicle, "State regulators approve $71M increase for AES, less than utility originally sought," June 17, 2026](https://indianacapitalchronicle.com/2026/06/17/state-regulators-approve-70m-increase-for-aes-less-than-utility-originally-sought/)
@@ -94,3 +109,5 @@ We did not open the IURC order. Bill figures come from AES's news release and Mi
 - [Mirror Indy, "How AES Indiana rate increase will impact your electric bill"](https://mirrorindy.org/aes-indiana-rate-increase-approved-electric-bill-2026-mike-braun/)
 - [AES Indiana, rate review page](https://www.aesindiana.com/rate-review)
 - [Indiana Public Media, "Here's what goes into your electricity bill and what could change," Sept. 14, 2026](https://www.ipm.org/news/2026-09-14/heres-what-goes-into-your-electricity-bill-and-what-could-change)
+- [AES Indiana, Rider 16: Excess Distributed Generation, effective July 27, 2026](https://www.aesindiana.com/sites/aesvault.com/files/2026-07/Rider-16-EDG-46258-Effective-07-27-26.pdf)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

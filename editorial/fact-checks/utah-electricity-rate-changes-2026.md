@@ -7,4 +7,7 @@ SECONDARY (Utah News Dispatch, Aug 7, 2026): settlement approved; $2.2 billion f
 MISMATCH: $2 billion vs $2.2 billion. Both noted.
 OUR MATH: 3.44 - 11.00 = -7.56.
 NOT VERIFIED: PSC order; usage basis; net billing export credit schedule.
+SOLAR SECTION ADDED Oct 5, 2026.
+SOLAR, UTILITY TARIFF (RMP Utah Schedule 137, effective March 1, 2026; Dockets 24-035-04, 26-035-T03): export credit 4.855 c June-Sept, 4.033 c Oct-May; residential 25 kW; unused credits expire at end of Annualized Billing Period.
+BACKGROUND, not read: Schedules 135 / 136 closed to new customers.
 COVER: Unsplash photo 4BGLvNFvfYM (DM David). Generic image; location not verified and not claimed to be in this state.

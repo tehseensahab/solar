@@ -106,6 +106,12 @@ The practical point: a kWh you use yourself avoids the retail energy charge (8.2
 
 We did not obtain the fuel rate in cents per kWh, the basic service charge or the current Residential Service tariff sheet, so this article does not give a total bill. The RNR-11 tariff we reviewed is dated January 2023; the 2026 export rate comes from Georgia Power's solar FAQ page. EMC and municipal utility rates are not covered.
 
+## Compare With Nearby States
+
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Georgia's average residential price at 16.27¢/kWh in July 2026, up 4.6% from 15.56¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $162.70 (1,000 × 16.27¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Alabama](/posts/alabama-electricity-rate-changes-2026/), [Florida](/posts/florida-electricity-rate-changes-2026/), [South Carolina](/posts/south-carolina-electricity-rate-changes-2026/), [Tennessee](/posts/tennessee-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+
 ## Sources
 
 - [Georgia PSC, news release on fuel and storm stipulation approval, May 28, 2026](https://psc.ga.gov/site/assets/files/9488/media_advisory_5_28_26_fuel_storm_stip_approval.pdf)
@@ -118,3 +124,4 @@ We did not obtain the fuel rate in cents per kWh, the basic service charge or th
 - [Georgia Power, RNR-11 tariff](https://www.georgiapower.com/content/dam/georgia-power/pdfs/residential-pdfs/residential-rate-plans/RNR-11.pdf)
 - [Georgia Recorder, "Commission approves Georgia Power fuel rate decrease," May 29, 2026](https://georgiarecorder.com/2026/05/29/commission-approves-georgia-power-fuel-rate-decrease/)
 - [Inside Climate News, "Georgia Power Rates Dip, But the Savings Aren't Likely to Last," June 5, 2026](https://insideclimatenews.org/news/05062026/georgia-power-rates-dip-but-utility-could-profit/)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

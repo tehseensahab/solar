@@ -21,6 +21,8 @@ faq:
     a: "Oklahoma rules let a utility put interim rates in place if the Corporation Commission has not voted within 180 days of the filing. PSO filed on January 2, 2026. Interim rates are subject to refund."
   - q: "Will PSO customers get a refund?"
     a: "If the commission approves a permanent increase below the $11 interim amount, PSO must refund the difference. The proposed settlement is about $2.45 a month."
+  - q: "How does net metering work in Oklahoma?"
+    a: "Systems up to 300 kW qualify. The Oklahoma Corporation Commission says customers are compensated at full retail energy rates up to their consumption in the billing period, and utilities buy any excess at their avoided energy cost."
 ---
 
 Oklahoma's two large utilities are both mid-case. Public Service Company of Oklahoma (PSO) has been charging an interim increase since July 1, 2026. Oklahoma Gas & Electric (OG&E) filed a new request on October 1. Neither has a final order.
@@ -54,9 +56,16 @@ OG&E filed its first rate review since 2023 on October 1, 2026, asking for $395 
 
 ## What This Means for Homeowners With Solar
 
-We did not verify Oklahoma's current net metering or export credit rules for this article, so we give no export rates here. Ask your utility for its current solar tariff, and check how exported energy is credited before sizing a system. Fixed monthly charges are not reduced by solar.
+Oklahoma's net metering rule gives retail value up to what you use, and avoided cost beyond that.
 
-Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
+- **Size limit:** 300 kW or less.
+- **Within the billing period:** the Oklahoma Corporation Commission says customers receive "compensation at the full retail energy rates, but only up to their consumption level" at that location.
+- **Surplus:** utilities buy excess production at their avoided energy cost, with payment or credit in the next billing cycle.
+- **Sizing rule:** a 125% limit keeps system output close to expected use.
+
+**What it means:** production up to your monthly use is worth the retail energy rate. Anything above it earns the avoided cost. PSO's interim increase, while it lasts, raises the value of the first part.
+
+Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
 
 ## What to Check on Your Bill
 
@@ -70,6 +79,12 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 
 PSO figures come from KGOU, KTUL, KRMG and the Tulsa Flyer. We did not open the Corporation Commission docket. No final order had been reported when we checked on October 4, 2026. The refund figure is our subtraction and assumes the settlement is approved unchanged; the Tulsa Flyer put it at about $9 a month.
 
+## Compare With Nearby States
+
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Oklahoma's average residential price at 14.35¢/kWh in July 2026, up 6.1% from 13.52¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $143.50 (1,000 × 14.35¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arkansas](/posts/arkansas-electricity-rate-changes-2026/), [Kansas](/posts/kansas-electricity-rate-changes-2026/), [New Mexico](/posts/new-mexico-electricity-rate-changes-2026/), [Texas](/posts/texas-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+
 ## Sources
 
 - [KGOU, "PSO residential customers to see $11 increase amid company's rate case," June 30, 2026](https://www.kgou.org/energy/2026-06-30/pso-residential-customers-to-see-11-increase-amid-companys-rate-case)
@@ -77,3 +92,5 @@ PSO figures come from KGOU, KTUL, KRMG and the Tulsa Flyer. We did not open the 
 - [KTUL, "PSO customers paying interim rate while awaiting OCC decision on settlement," July 17, 2026](https://ktul.com/news/local/pso-customers-paying-interim-rate-while-awaiting-occ-decision-on-settlement-07-17-2026)
 - [KRMG, "Oklahoma Corporation Commission weighs PSO rate case as customers seek answers on spikes," Sept. 9, 2026](https://krmg.com/2026/09/09/oklahoma-corporation-commission-weighs-pso-rate-case-as-customers-seek-answers-on-spikes/)
 - [KTUL, "OG&E files first rate review with Oklahoma Corporation Commission since 2023," Oct. 1, 2026](https://ktul.com/news/local/oge-files-first-rate-review-with-oklahoma-corporation-commission-since-2023-10-01-2026)
+- [Oklahoma Corporation Commission, Net Metering in Oklahoma](https://oklahoma.gov/occ/divisions/public-utility/energy/electric-utility/netmetering.html)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
