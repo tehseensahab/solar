@@ -1,0 +1,54 @@
+# EIA Electric Power Monthly, Table 5.6.A, residential average price, cents/kWh.
+# July 2026 and July 2025, released September 24, 2026. Preliminary estimates.
+us: {y2026: "18.31", y2025: "17.45"}
+states:
+  alabama: {y2026: "16.40", y2025: "15.93", change: "+3.0%", bill: "$164.00"}
+  alaska: {y2026: "28.83", y2025: "27.30", change: "+5.6%", bill: "$288.30"}
+  arizona: {y2026: "15.38", y2025: "15.34", change: "+0.3%", bill: "$153.80"}
+  arkansas: {y2026: "14.33", y2025: "13.26", change: "+8.1%", bill: "$143.30"}
+  california: {y2026: "33.61", y2025: "32.66", change: "+2.9%", bill: "$336.10"}
+  colorado: {y2026: "17.00", y2025: "15.99", change: "+6.3%", bill: "$170.00"}
+  connecticut: {y2026: "24.16", y2025: "27.60", change: "-12.5%", bill: "$241.60"}
+  delaware: {y2026: "18.48", y2025: "16.58", change: "+11.5%", bill: "$184.80"}
+  florida: {y2026: "15.03", y2025: "15.11", change: "-0.5%", bill: "$150.30"}
+  georgia: {y2026: "16.27", y2025: "15.56", change: "+4.6%", bill: "$162.70"}
+  hawaii: {y2026: "48.00", y2025: "39.36", change: "+22.0%", bill: "$480.00"}
+  idaho: {y2026: "13.73", y2025: "12.28", change: "+11.8%", bill: "$137.30"}
+  illinois: {y2026: "19.22", y2025: "17.22", change: "+11.6%", bill: "$192.20"}
+  indiana: {y2026: "16.73", y2025: "16.18", change: "+3.4%", bill: "$167.30"}
+  iowa: {y2026: "15.99", y2025: "15.31", change: "+4.4%", bill: "$159.90"}
+  kansas: {y2026: "15.27", y2025: "14.46", change: "+5.6%", bill: "$152.70"}
+  kentucky: {y2026: "13.81", y2025: "13.13", change: "+5.2%", bill: "$138.10"}
+  louisiana: {y2026: "12.72", y2025: "13.12", change: "-3.0%", bill: "$127.20"}
+  maine: {y2026: "32.41", y2025: "27.98", change: "+15.8%", bill: "$324.10"}
+  maryland: {y2026: "21.41", y2025: "18.83", change: "+13.7%", bill: "$214.10"}
+  massachusetts: {y2026: "30.49", y2025: "30.07", change: "+1.4%", bill: "$304.90"}
+  michigan: {y2026: "23.05", y2025: "20.55", change: "+12.2%", bill: "$230.50"}
+  minnesota: {y2026: "17.45", y2025: "16.92", change: "+3.1%", bill: "$174.50"}
+  mississippi: {y2026: "14.54", y2025: "13.58", change: "+7.1%", bill: "$145.40"}
+  missouri: {y2026: "16.09", y2025: "15.56", change: "+3.4%", bill: "$160.90"}
+  montana: {y2026: "14.99", y2025: "14.27", change: "+5.0%", bill: "$149.90"}
+  nebraska: {y2026: "13.78", y2025: "12.84", change: "+7.3%", bill: "$137.80"}
+  nevada: {y2026: "12.77", y2025: "12.39", change: "+3.1%", bill: "$127.70"}
+  new-hampshire: {y2026: "26.60", y2025: "22.79", change: "+16.7%", bill: "$266.00"}
+  new-jersey: {y2026: "25.19", y2025: "25.32", change: "-0.5%", bill: "$251.90"}
+  new-mexico: {y2026: "16.09", y2025: "15.80", change: "+1.8%", bill: "$160.90"}
+  new-york: {y2026: "29.90", y2025: "26.22", change: "+14.0%", bill: "$299.00"}
+  north-carolina: {y2026: "15.16", y2025: "13.37", change: "+13.4%", bill: "$151.60"}
+  north-dakota: {y2026: "13.41", y2025: "13.31", change: "+0.8%", bill: "$134.10"}
+  ohio: {y2026: "19.45", y2025: "17.38", change: "+11.9%", bill: "$194.50"}
+  oklahoma: {y2026: "14.35", y2025: "13.52", change: "+6.1%", bill: "$143.50"}
+  oregon: {y2026: "15.97", y2025: "15.61", change: "+2.3%", bill: "$159.70"}
+  pennsylvania: {y2026: "21.72", y2025: "19.51", change: "+11.3%", bill: "$217.20"}
+  rhode-island: {y2026: "28.29", y2025: "26.18", change: "+8.1%", bill: "$282.90"}
+  south-carolina: {y2026: "15.47", y2025: "14.70", change: "+5.2%", bill: "$154.70"}
+  south-dakota: {y2026: "15.37", y2025: "14.52", change: "+5.9%", bill: "$153.70"}
+  tennessee: {y2026: "13.71", y2025: "13.21", change: "+3.8%", bill: "$137.10"}
+  texas: {y2026: "15.88", y2025: "15.36", change: "+3.4%", bill: "$158.80"}
+  utah: {y2026: "13.12", y2025: "13.45", change: "-2.5%", bill: "$131.20"}
+  vermont: {y2026: "23.75", y2025: "22.14", change: "+7.3%", bill: "$237.50"}
+  virginia: {y2026: "17.55", y2025: "15.78", change: "+11.2%", bill: "$175.50"}
+  washington: {y2026: "14.71", y2025: "13.45", change: "+9.4%", bill: "$147.10"}
+  west-virginia: {y2026: "15.78", y2025: "15.43", change: "+2.3%", bill: "$157.80"}
+  wisconsin: {y2026: "19.06", y2025: "18.25", change: "+4.4%", bill: "$190.60"}
+  wyoming: {y2026: "14.36", y2025: "14.64", change: "-1.9%", bill: "$143.60"}

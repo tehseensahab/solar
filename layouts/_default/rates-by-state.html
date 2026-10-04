@@ -15,4 +15,26 @@
     {{- end }}
   </ul>
 </section>
+{{ with site.Data.eia_prices }}
+<section class="section wrap post-body">
+  <h2>Average residential electricity price by state</h2>
+  <p>Average residential price in July 2026 and July 2025, from the U.S. Energy Information Administration (EIA). The U.S. average was {{ .us.y2026 }}¢/kWh, against {{ .us.y2025 }}¢ a year earlier. The 1,000 kWh column is the price × 1,000 kWh.</p>
+  <table>
+    <thead><tr><th>State</th><th>July 2026 (¢/kWh)</th><th>July 2025 (¢/kWh)</th><th>Change</th><th>Cost of 1,000 kWh</th></tr></thead>
+    <tbody>
+    {{- $prices := .states }}
+    {{- range site.Data.states }}
+    {{- $p := index $prices .slug }}
+    {{- $name := .name }}
+    {{- $page := site.GetPage (printf "/posts/%s-electricity-rate-changes-2026" .slug) }}
+    {{- with $p }}
+    <tr><td>{{ if $page }}<a href="{{ $page.RelPermalink }}">{{ $name }}</a>{{ else }}{{ $name }}{{ end }}</td><td>{{ .y2026 }}</td><td>{{ .y2025 }}</td><td>{{ .change }}</td><td>{{ .bill }}</td></tr>
+    {{- end }}
+    {{- end }}
+    </tbody>
+  </table>
+  <p><strong>How to read this:</strong> EIA divides each state's total residential revenue by the kWh sold, so the figure includes fixed monthly charges and covers every utility in the state. It is not a tariff rate, and your utility's rate can be well above or below it. July figures reflect summer pricing where utilities charge seasonal rates. Values are preliminary estimates.</p>
+  <p>Source: <a href="https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a">EIA, Electric Power Monthly, Table 5.6.A</a>, July 2026 data, released September 24, 2026.</p>
+</section>
+{{ end }}
 {{ end }}

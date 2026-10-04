@@ -7,3 +7,5 @@ SECONDARY (trade press quoting filings): Ohio Edison Rider GEN 8.8919c -> 10.025
 CONFLICT: Choose Energy listing said AEP 10.97c "effective until Sept 30, 2026"; conflicts with AEP's own statement. Unresolved; article relies on AEP.
 NOT FOUND: Duke Energy Ohio; any Oct 1, 2026 change; Ohio net metering; distribution rate cases. A WOSU item dated 2026-04-02 looks like an older article (mentions Tax Cuts and Jobs Act); not used.
 FirstEnergy auction date: CRA release, 2026-06-09.
+
+SOLAR SECTION ADDED Oct 5, 2026. Sources are old: Canary Media Jan 9, 2019 on PUCO Dec 19, 2018 ruling (energy-only credit, 120%, shopping customers eligible); DSIRE (120%, generation rate). PUCO net metering page could not be read (returned unreadable). Whether rules changed after 2019 NOT verified; article discloses the source dates. Numeric credit rates not found. Takeaways and FAQ added from article facts.

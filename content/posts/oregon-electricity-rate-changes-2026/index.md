@@ -21,6 +21,8 @@ faq:
     a: "The FAIR Energy Act bars rate increases between November 1 and March 31. Requests that would have taken effect in winter are grouped for April 1."
   - q: "Can rates rise again before winter?"
     a: "Under the FAIR Energy Act, increases cannot take effect from November 1 through March 31. An increase between now and October 31 would need Public Utility Commission approval. We found none scheduled."
+  - q: "Does Oregon have net metering?"
+    a: "Yes for PGE and Pacific Power customers. Power sent to the grid offsets power taken from it each month. Every March, unused credits are donated to low-income bill assistance programs, so there is no payout for surplus."
 ---
 
 Oregon's large utilities did not change rates on October 1, 2026. The year's increases took effect on April 1, and state law now blocks further increases over the winter.
@@ -58,9 +60,15 @@ Oregon also has a new law requiring large technology companies to pay for the in
 
 ## What This Means for Homeowners With Solar
 
-We did not verify Oregon's current net metering or export credit rules for this article, so we give no export rates here. Ask your utility for its current solar tariff, and check how exported energy is credited before sizing a system. Fixed monthly charges are not reduced by solar.
+PGE and Pacific Power offer net metering with kWh credits.
 
-Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
+- **Credits:** each month, power you send to the grid offsets power you take from it, according to Energy Trust of Oregon.
+- **Annual reset:** "Every March, any unused energy credits are donated to low-income bill assistance programs." You are not paid for them.
+- **Incentives:** Energy Trust offers solar and battery incentives for customers of both utilities.
+
+**What it means:** with kWh credits, each of the six straight years of rate increases has made rooftop solar worth more. Because leftover credits are given away each March, size the system to your annual use and no larger.
+
+Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
 
 ## What to Check on Your Bill
 
@@ -74,7 +82,15 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 
 Figures come from the Oregon Capital Chronicle's report of the PUC decision. We did not open PUC orders, and we did not research pending 2027 requests, Idaho Power or consumer-owned utilities.
 
+## Compare With Nearby States
+
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Oregon's average residential price at 15.97¢/kWh in July 2026, up 2.3% from 15.61¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $159.70 (1,000 × 15.97¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [California](/posts/california-electricity-rate-changes-2026/), [Idaho](/posts/idaho-electricity-rate-changes-2026/), [Nevada](/posts/nevada-electricity-rate-changes-2026/), [Washington](/posts/washington-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+
 ## Sources
 
 - [Oregon Capital Chronicle, "Pacific Power, PGE raise residential electricity rates again for Oregon customers," March 31, 2026](https://oregoncapitalchronicle.com/2026/03/31/pacific-power-pge-raise-residential-electricity-rates-again-for-oregon-customers/)
 - [OPB, "Portland General Electric, Pacific Power residential rates to climb Wednesday," March 31, 2026](https://www.opb.org/article/2026/03/31/portland-general-electric-pacific-power-raise-rates/)
+- [Energy Trust of Oregon, Solar: Net Metering](https://www.energytrust.org/solar-storage/net-metering/)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

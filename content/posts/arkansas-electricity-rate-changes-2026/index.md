@@ -21,6 +21,8 @@ faq:
     a: "A charge that lets Entergy Arkansas recover the cost of new power plants while they are being built, in annual steps. The 2026 filing put it at $5.77 a month for a customer using 1,000 kWh."
   - q: "Is another Entergy Arkansas increase coming?"
     a: "Entergy asked on February 27, 2026 for an increase of about $1.16 a month at 1,000 kWh, to take effect in January 2027 if approved. The rider is also refiled every year around March 1."
+  - q: "Is net metering still available in Arkansas?"
+    a: "Only for systems installed by September 30, 2024, which keep one-for-one retail credit for 20 years. Newer systems are on net billing: surplus power is paid at the utility's avoided cost and cannot be banked between billing cycles. The residential size limit is 25 kW."
 ---
 
 Arkansas did not have a rate change on October 1, 2026 that we could find. Entergy Arkansas, the state's largest utility with about 735,000 customers, changed bills in steps earlier in the year and has more requests pending.
@@ -61,9 +63,15 @@ The Camden News reported in January 2026 that residential rates were rising abou
 
 ## What This Means for Homeowners With Solar
 
-We did not verify Arkansas's current net metering or export credit rules for this article, so we give no export rates here. Ask your utility for its current solar tariff, and check how exported energy is credited before sizing a system. Fixed monthly charges are not reduced by solar.
+Arkansas changed its net metering law in 2023 (Act 278), and the date your system was installed decides which rules you get.
 
-Riders billed per kWh are avoided by solar you use yourself. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
+- **Installed by September 30, 2024:** grandfathered at one-for-one retail credit for 20 years.
+- **Installed after that date:** net billing. Banking credits from one billing cycle to offset another is no longer allowed, and surplus power is paid at the utility's avoided cost, which the University of Arkansas extension service describes as "much lower than the typical retail prices."
+- **Size limit:** 25 kW for residential systems.
+
+**What it means:** for a new system, only the power you use as it is produced earns the full retail value. Per-kWh riders, including the new construction rider, are avoided by self-use and not by exports. Size to your daytime load.
+
+Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
 
 ## What to Check on Your Bill
 
@@ -77,8 +85,16 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 
 Figures come from Talk Business & Politics and a newspaper headline. We did not confirm that the commission approved the June rider as filed, and we did not open the dockets. SWEPCO's separate request was not researched.
 
+## Compare With Nearby States
+
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Arkansas's average residential price at 14.33¢/kWh in July 2026, up 8.1% from 13.26¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $143.30 (1,000 × 14.33¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Louisiana](/posts/louisiana-electricity-rate-changes-2026/), [Missouri](/posts/missouri-electricity-rate-changes-2026/), [Oklahoma](/posts/oklahoma-electricity-rate-changes-2026/), [Tennessee](/posts/tennessee-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+
 ## Sources
 
 - [Talk Business & Politics, "Entergy Arkansas rate filing outlines investments, rate hikes and decreases," March 2026](https://talkbusiness.net/2026/03/entergy-arkansas-rate-filing-outlines-investments-rate-hikes-and-decreases/)
 - [Talk Business & Politics, "Entergy Arkansas requests rate hike, residential bills to rise by $1," Feb. 2026](https://talkbusiness.net/2026/02/entergy-arkansas-requests-rate-hike-residential-bills-to-rise-by-1/)
 - [Camden News, "Entergy's residential rates rising about $6 per month; Arkansas Public Service Commission OK'd 4.54% increase," Jan. 4, 2026](https://www.camdenarknews.com/news/2026/jan/04/entergys-residential-rates-rising-about-6-per/)
+- [University of Arkansas Division of Agriculture, "Net Metering Policies in Arkansas for Solar Energy"](https://www.uaex.uada.edu/environment-nature/energy/solar/net-metering.aspx)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

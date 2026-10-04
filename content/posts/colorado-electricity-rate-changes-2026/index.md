@@ -21,6 +21,8 @@ faq:
     a: "About $5.00 a month, or 4.77%, for residential customers, according to the Colorado Public Utilities Commission."
   - q: "Who qualifies for the new senior discount?"
     a: "The commission's order created a $20 monthly discount for customers aged 65 and over. Check Xcel's enrollment rules for details."
+  - q: "Does Xcel Energy offer net metering in Colorado?"
+    a: "Yes. Surplus solar earns kWh credits that offset later use. Customers choose between credits that roll over indefinitely and a year-end payment valued at Xcel's average hourly incremental cost, which is well below the retail rate."
 ---
 
 Colorado's largest utility raised electric rates on August 29, 2026, five weeks before October 1. The Colorado Public Utilities Commission (PUC) approved less than half of what Xcel Energy asked for.
@@ -47,9 +49,16 @@ New rates took effect August 29, 2026 (Proceeding 25AL-0494E).
 
 ## What This Means for Homeowners With Solar
 
-We did not verify Colorado's current net metering or export credit rules for this article, so we give no export rates here. Ask your utility for its current solar tariff, and check how exported energy is credited before sizing a system. Fixed monthly charges are not reduced by solar.
+Xcel Energy still offers net metering in Colorado.
 
-A higher per-kWh rate raises the value of solar you use yourself. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
+- **Credits:** surplus power earns kWh credits that offset later use.
+- **Two options for leftover credits:** let them roll over indefinitely, in which case they never expire but cannot be cashed out, or take a year-end payment valued at Xcel's average hourly incremental cost of electricity for the prior year, which is far below the retail rate.
+- **Sizing:** EnergySage lists a limit of 120% of the customer's energy use. Colorado law has allowed larger systems in recent years, so confirm the current limit with Xcel.
+- **Incentive:** Xcel's Solar*Rewards program pays a per-kWh incentive when funding is open.
+
+**What it means:** with kWh credits at the retail rate, each solar kWh offsets whatever you would have paid for it, including the August 2026 increase. On a time-of-use plan, when you produce and use power matters.
+
+Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
 
 ## What to Check on Your Bill
 
@@ -64,7 +73,15 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 
 Figures come from the PUC's news release. We did not find the approved return on equity or the typical usage behind the $5.00 figure. Other Xcel riders, and its separate gas rate case, are not covered.
 
+## Compare With Nearby States
+
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Colorado's average residential price at 17.00¢/kWh in July 2026, up 6.3% from 15.99¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $170.00 (1,000 × 17.00¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [New Mexico](/posts/new-mexico-electricity-rate-changes-2026/), [Utah](/posts/utah-electricity-rate-changes-2026/), [Wyoming](/posts/wyoming-electricity-rate-changes-2026/), [Kansas](/posts/kansas-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+
 ## Sources
 
 - [Colorado PUC, "PUC Cuts Xcel Energy's Electric Rate Request and Expands Consumer Protections"](https://puc.colorado.gov/press-release/puc-cuts-xcel-energys-electric-rate-request-and-expands-consumer-protections)
 - [The Colorado Sun, "Colorado residential electric bills will rise $5 per month, about half what Xcel requested," Aug. 20, 2026](https://coloradosun.com/2026/08/20/electric-bills-increase-xcel-energy-colorado/)
+- [EnergySage, "Xcel Energy Net Metering"](https://www.energysage.com/local-data/net-metering/xcel-energy/)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

@@ -7,4 +7,8 @@ SECONDARY (Birmingham Free Press, Aug 22, 2026): freeze through 2027, governor e
 MISMATCH: 2027 (utility) vs 2028 (news). Article uses 2027 and notes the report.
 HEADLINE ONLY: WBRC April 4, 2026.
 NOT VERIFIED: PSC orders; Rate RSE / ECR factors; solar terms.
+SOLAR SECTION ADDED Oct 5, 2026.
+SOLAR, UTILITY TARIFF (Rate Rider RGB, 7th revision, April 2022 billings): capacity reservation charge $5.41/kW secondary, $4.87/kW primary, applied to nameplate capacity of on-site generation.
+SOLAR, SECONDARY (Canary Media): 7.2 kW about $38.95 a month; 6 kW about $32; no net metering, credits at generation cost; APSC approved 2013; FERC declined enforcement 2021; federal judge dismissed suit April 2026.
+OUR MATH: 7.2 x 5.41 = 38.95; x 12 = 467.42.
 COVER: Unsplash photo ytf2iFVFM6Y (Jay Heike). Generic image; location not verified and not claimed to be in this state.

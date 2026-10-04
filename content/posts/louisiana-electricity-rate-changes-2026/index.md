@@ -21,6 +21,8 @@ faq:
     a: "Between January and May 2026 the fuel adjustment rose from about 2.9 cents to about 3.8 cents per kWh, adding about $8.87 at 1,000 kWh, according to the commission's bill comparisons."
   - q: "Which Louisiana utility has the lowest bill?"
     a: "In the commission's May 2026 comparison, the lowest 1,000 kWh bills were at two cooperatives, at about $105. Among investor-owned utilities, Cleco was $146.41, Entergy Louisiana about $151 and SWEPCO $156.08."
+  - q: "Does Louisiana still have net metering?"
+    a: "Not for new customers. Since January 1, 2020, new solar customers are on two-channel billing: grid power is billed at retail and exports are credited at the utility's avoided cost, roughly a third of retail in the Alliance for Affordable Energy's example. Systems installed before 2020 keep one-for-one credit through 2034."
 ---
 
 Louisiana did not have a base rate order for October 1, 2026 that we could find. Bills still moved during the year, mostly through fuel. The Louisiana Public Service Commission (LPSC) publishes a monthly comparison of residential bills, which makes the change easy to see.
@@ -57,9 +59,16 @@ In August 2024 the LPSC approved a settlement that phases in increases over thre
 
 ## What This Means for Homeowners With Solar
 
-We did not verify Louisiana's current net metering or export credit rules for this article, so we give no export rates here. Ask your utility for its current solar tariff, and check how exported energy is credited before sizing a system. Fixed monthly charges are not reduced by solar.
+Louisiana ended net metering for new customers on January 1, 2020.
 
-Because fuel is billed per kWh, solar you use yourself avoids it. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
+- **New systems:** "two-channel billing." Power you take from the grid is billed at the retail rate, and power you export is credited at the utility's avoided cost.
+- **The gap:** the Alliance for Affordable Energy described it as about 3¢ per kWh for exports against about 9¢ to buy. Those are older, rounded figures.
+- **Older systems:** installed before 2020 keep one-for-one credit for 15 years, through 2034.
+- **Scope:** the rule covers Entergy Louisiana, Cleco, SWEPCO and cooperatives. New Orleans is regulated separately by its City Council.
+
+**What it means:** fuel is billed per kWh, so solar you use yourself avoids both the energy charge and the fuel adjustment, which was 3.8¢ per kWh at Entergy in May 2026. Exports earn only the avoided cost. Size to daytime use.
+
+Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
 
 ## What to Check on Your Bill
 
@@ -73,8 +82,16 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 
 We compared two months, January and May 2026. We did not review later months, so we cannot say where bills stood in October. Rider detail beyond fuel was not analyzed, and the September 2026 formula rate step was not confirmed.
 
+## Compare With Nearby States
+
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Louisiana's average residential price at 12.72¢/kWh in July 2026, down 3.0% from 13.12¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $127.20 (1,000 × 12.72¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arkansas](/posts/arkansas-electricity-rate-changes-2026/), [Mississippi](/posts/mississippi-electricity-rate-changes-2026/), [Texas](/posts/texas-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+
 ## Sources
 
 - [Louisiana PSC, Residential Electric Bill Comparison, May 2026](https://lpsc.louisiana.gov/docs/utilities/Comparisons/Electric/Residential-Electric-Bill-Comparison-May-2026.pdf)
 - [Louisiana PSC, Residential Electric Bill Comparison, January 2026](https://lpsc.louisiana.gov/docs/utilities/Comparisons/Electric/Residential-Electric-Bill-Comparison-January-2026.pdf)
 - [Alliance for Affordable Energy, "Louisiana Public Service Commission Approves a Rate Change for Entergy Louisiana Customers," Aug. 14, 2024](https://www.all4energy.org/watchdog/lpsc-approves-ell-rate-change/)
+- [Alliance for Affordable Energy, "Confused about changes to net metering in Louisiana? Here's the deal"](https://www.all4energy.org/watchdog/confused-about-changes-to-net-metering-in-louisiana-heres-the-deal/)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

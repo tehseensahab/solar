@@ -21,6 +21,8 @@ faq:
     a: "Two things changed on January 1, 2026. The rate plan approved in January 2025 set a base rate step of $7.67 a month at 800 kWh. Separately, the commission approved five filings in December 2025 that added a net $16.84 a month, or 12.18%."
   - q: "Who sets electric rates in Washington?"
     a: "The Utilities and Transportation Commission regulates investor-owned utilities such as Puget Sound Energy, Avista and PacifiCorp. Public utility districts and city utilities set their own rates."
+  - q: "Is net metering ending in Washington?"
+    a: "State law requires one-for-one retail net metering until June 30, 2029, or until a utility's net-metered capacity reaches 4% of its 1996 peak demand. Puget Sound Energy has reached that threshold but continues to offer net metering under Schedule 150 while a replacement rate is developed."
 ---
 
 Washington's largest investor-owned utility did not change rates on October 1, 2026. Puget Sound Energy (PSE) raised electric rates on January 1, 2026, under orders from the Washington Utilities and Transportation Commission (UTC).
@@ -74,9 +76,16 @@ Check your own utility's rate notice. These are secondary figures.
 
 ## What This Means for Homeowners With Solar
 
-We did not verify current net metering terms for Washington utilities, and they differ by utility. Ask your utility whether new systems are still credited at the retail rate and whether any cap applies. A higher retail rate raises the value of each kWh you use yourself.
+Washington law requires retail net metering until a deadline or a threshold is reached, and Puget Sound Energy is at the threshold.
 
-Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
+- **Credits:** one-for-one at the full retail rate for surplus power, according to a Washington installer's 2026 summary.
+- **The legal limit:** utilities must offer this until June 30, 2029, or until net-metered capacity reaches 4% of the utility's 1996 peak demand, whichever comes first.
+- **PSE:** has reached the 4% threshold but is still offering one-for-one credits under Schedule 150 while a replacement rate is developed.
+- **What comes next:** no replacement schedule has been announced. A statewide value-of-solar study is under way.
+
+**What it means:** with power cost filings adding about 12% in January 2026, each solar kWh is worth more than a year ago. The open question for a new PSE customer is which rules will apply and for how long. Ask PSE in writing whether your system will be on Schedule 150 and what happens to it when a successor rate is adopted.
+
+Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
 
 ## What to Check on Your Bill
 
@@ -94,9 +103,17 @@ PSE's approved two-year plan covered 2025 and 2026. We did not find the status o
 
 The typical bill figures use 800 kWh a month, not the 1,000 kWh used in most of our state articles. We did not confirm the combined effect of the base rate step and the December 2025 filings. Avista and PacifiCorp rates were not researched. Public utility figures come from an installer blog.
 
+## Compare With Nearby States
+
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Washington's average residential price at 14.71¢/kWh in July 2026, up 9.4% from 13.45¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $147.10 (1,000 × 14.71¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Idaho](/posts/idaho-electricity-rate-changes-2026/), [Oregon](/posts/oregon-electricity-rate-changes-2026/), [Alaska](/posts/alaska-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+
 ## Sources
 
 - [Washington UTC, "State regulators approve new rates for PSE," Jan. 15, 2025](https://www.utc.wa.gov/news/2025/state-regulators-approve-new-rates-pse)
 - [Washington UTC, "State regulators approve multiple orders impacting Puget Sound Energy rates," Dec. 2025](https://www.utc.wa.gov/news/2025/state-regulators-approve-multiple-orders-impacting-puget-sound-energy-rates)
 - [Vashon-Maury Island Beachcomber, "Puget Sound Energy electric, natural gas rates go up," Jan. 2, 2026](https://www.vashonbeachcomber.com/2026/01/02/puget-sound-energy-electric-natural-gas-rates-go-up/)
 - [Northwest Electric & Solar, "Washington Utility Rate Increases Coming in 2026"](https://nwsolar.com/blog/washington-utility-rate-increases-coming-in-2026/)
+- [A&R Solar, "Washington Net Metering in 2026: What Homeowners Should Know"](https://www.a-rsolar.com/incentives-financing-policy/washington-net-metering/)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

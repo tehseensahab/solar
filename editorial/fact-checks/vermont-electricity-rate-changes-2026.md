@@ -7,4 +7,8 @@ SECONDARY (Vermont Public, Sept 8, 2026): 50+ objectors; 95% outage reduction on
 MISMATCH: Vermont Public says "about $150 million" / "one-third of $340 million"; VTDigger says about $113M of $341M. Article uses VTDigger.
 OUR MATH: illustrations at 5.5%: 5.50, 6.60, 8.25. Labeled as illustrations.
 NOT VERIFIED: PUC order; residential dollar impact; net metering terms.
+SOLAR SECTION ADDED Oct 5, 2026.
+SOLAR, SECONDARY (NuWatt Energy; installer): statewide blended rate $0.1839/kWh; category adjustors; Category I (15 kW or less); 10-year lock; CPG required, 2-4 weeks for small systems; virtual net metering ended Jan 1, 2025 (H.289).
+NOT USED: the guide's adjustor table (internally inconsistent: Category I shown as +$0.04 but effective rate below the blended rate).
+SEARCH RESULT TITLE ONLY: Case 26-0291-INV, DPS recommendations (April 2026). NOT READ. PRIORITY CHECK: outcome of the 2026 biennial update and current Category I rate.
 COVER: Unsplash photo VX0ZEZSwqnY (Markus Winkler). Generic image; location not verified and not claimed to be in this state.

@@ -21,6 +21,8 @@ faq:
     a: "14.009 cents per kWh from August 1, 2026 through January 31, 2027, according to the Valley News. That is the supply portion only."
   - q: "Is community power cheaper?"
     a: "It depends on the territory. From August 2026, the Community Power Coalition's rate is 14.729 cents in Liberty areas, below Liberty's 15.835 cents, and 14.949 cents in Eversource areas, above Eversource's 14.009 cents."
+  - q: "How does net metering work in New Hampshire?"
+    a: "Under net metering 2.0, exported solar is credited at 100% of the energy supply rate, 100% of transmission and 25% of distribution, which works out to roughly two thirds of the retail rate. Credits roll forward monthly, and the structure is set through January 1, 2041."
 ---
 
 New Hampshire's supply rates do not change in October. Default energy service is reset every six months, on February 1 and August 1. The current rates took effect on August 1, 2026.
@@ -56,9 +58,18 @@ New Hampshire customers can buy supply from a competitive supplier or, in many t
 
 ## What This Means for Homeowners With Solar
 
-We did not verify New Hampshire's current net metering or export credit rules for this article, so we give no export rates here. Ask your utility for its current solar tariff, and check how exported energy is credited before sizing a system. Fixed monthly charges are not reduced by solar.
+New Hampshire credits solar exports at less than the full retail rate, under rules known as net metering 2.0.
 
-Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
+- **What is credited:** per NuWatt Energy's 2026 guide, exports earn 100% of the energy (supply) rate, 100% of transmission and 25% of distribution.
+- **Roughly:** about 20¢ per kWh at Eversource, around 69% of the retail rate, in that guide's estimate.
+- **Rollover:** credits carry forward month to month, and customers can ask for a cash-out once the balance is large enough.
+- **Locked in:** the structure is in place through January 1, 2041, under PUC Docket DE 16-576.
+
+One installer source describes the percentages the other way round. The version above matches the commission's docket as we understand it, but check your utility's net metering tariff.
+
+**What it means:** because energy supply is credited in full, the August 2026 supply increase raised export credits as well as bills. Solar you use yourself still avoids the whole retail rate, including all of distribution.
+
+Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
 
 ## What to Check on Your Bill
 
@@ -76,8 +87,16 @@ Default service rates reset on February 1, 2027. Utilities file proposed rates w
 
 Rates come from the Valley News and New Hampshire Public Radio. The Public Utilities Commission's rate page could not be opened. We did not find Unitil's rate or the previous period's rates, so we do not give a percentage change.
 
+## Compare With Nearby States
+
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts New Hampshire's average residential price at 26.60¢/kWh in July 2026, up 16.7% from 22.79¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $266.00 (1,000 × 26.60¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Maine](/posts/maine-electricity-rate-changes-2026/), [Massachusetts](/posts/massachusetts-electricity-rate-changes-2026/), [Vermont](/posts/vermont-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+
 ## Sources
 
 - [Valley News, "New Hampshire's CPCNH, Eversource, Liberty rates compared," June 30, 2026](https://vnews.com/2026/06/30/new-hampshire-electric-rates/)
 - [New Hampshire Public Radio, "Electricity prices are about to go up in NH. Here's why," July 20, 2026](https://www.nhpr.org/nh-news/2026-07-20/electricity-prices-increases-nh-energy-utility)
 - [New Hampshire Public Utilities Commission, Electric Rates](https://www.puc.nh.gov/energy-rates/electric-rates)
+- [NuWatt Energy, "New Hampshire Net Metering 2026: NEM 2.0 Guide"](https://nuwattenergy.com/en/new-hampshire/net-metering-guide-2026)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

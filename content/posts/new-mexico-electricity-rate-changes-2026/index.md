@@ -21,6 +21,8 @@ faq:
     a: "About $6.23 a month for an average residential customer from April 1, 2026, according to the Public Regulation Commission's customer notice. It was the second phase of an increase approved in May 2025."
   - q: "Is El Paso Electric raising rates in New Mexico?"
     a: "It has asked to. The request is $70.4 million, more than $40 a month for an average household, phased in from 2027. The Public Regulation Commission held a hearing in Las Cruces in June 2026 and has not ruled."
+  - q: "Does PNM offer net metering?"
+    a: "Yes. Surplus solar earns credit at the retail rate and rolls over month to month, with excess beyond your own use paid at the utility's avoided cost. New Mexico also has a state solar tax credit of 10% of system cost, up to $6,000, subject to a yearly budget."
 ---
 
 New Mexico did not have a rate change on October 1, 2026 that we could find. The state's largest utility, PNM, finished a two-step increase in April. The larger pending case is El Paso Electric's.
@@ -61,9 +63,15 @@ Xcel Energy disclosed a $90 million rate stipulation for Southwestern Public Ser
 
 ## What This Means for Homeowners With Solar
 
-We did not verify New Mexico's current net metering or export credit rules for this article, so we give no export rates here. Ask your utility for its current solar tariff, and check how exported energy is credited before sizing a system. Fixed monthly charges are not reduced by solar.
+PNM customers have net metering at the retail rate.
 
-Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
+- **Credits:** surplus earns credit at the retail rate, and credits roll over month to month, according to EnergySage.
+- **Excess beyond your use:** paid at the utility's avoided cost.
+- **State tax credit:** New Mexico's Solar Market Development Tax Credit covers 10% of system cost up to $6,000, first come, first served within a yearly budget. EnergySage lists it as active in 2026. Confirm funds are available before counting on it.
+
+**What it means:** New Mexico is one of the stronger states for payback: retail-rate credits, a state credit that partly replaces the expired federal one, and a retail rate that rose in 2025 and again in April 2026.
+
+Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
 
 ## What to Check on Your Bill
 
@@ -77,8 +85,16 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 
 PNM figures come from the PRC's customer notice, which gives a dollar amount but no percentage. El Paso Electric figures come from a TV report. We did not open the dockets.
 
+## Compare With Nearby States
+
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts New Mexico's average residential price at 16.09¢/kWh in July 2026, up 1.8% from 15.80¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $160.90 (1,000 × 16.09¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arizona](/posts/arizona-electricity-rate-changes-2026/), [Colorado](/posts/colorado-electricity-rate-changes-2026/), [Texas](/posts/texas-electricity-rate-changes-2026/), [Oklahoma](/posts/oklahoma-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+
 ## Sources
 
 - [New Mexico PRC, "Customer Notice: PNM Rate Change Effective April 1, 2026"](https://www.prc.nm.gov/2026/04/01/customer-notice-pnm-rate-change-effective-april-1-2026/)
 - [KFOX, "NM PRC hears pushback on El Paso Electric rate hike that could add $40 a month," June 2026](https://kfoxtv.com/news/local/nm-prc-hears-pushback-on-el-paso-electric-rate-hike-that-could-add-40-a-month)
 - [Santa Fe New Mexican, "PNM reaches deal that could raise average monthly bill about $10"](https://www.santafenewmexican.com/news/local_news/pnm-reaches-deal-that-could-raise-average-monthly-bill-about-10/article_48f4b6a2-ac44-11ef-b775-7b3ace8329a4.html)
+- [EnergySage, New Mexico Solar Incentives](https://www.energysage.com/local-data/solar-rebates-incentives/nm/)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

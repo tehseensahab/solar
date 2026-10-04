@@ -7,4 +7,7 @@ SECONDARY (WBOC): $14.64, 9.34%, 811 kWh; Customer Relief Fund up to $500.
 OUR MATH: 811 x 0.017494 = 14.19; winter minus summer 0.2986 c x 811 = 2.42.
 NOT STATED IN SOURCE: which months count as winter. Article tells readers to check the bill and does not assert an Oct 1 switch.
 NOT VERIFIED: PSC orders; base rate case status / interim rates; net metering terms.
+SOLAR SECTION ADDED Oct 5, 2026.
+SOLAR, SECONDARY (Delaware Public Media, Mar 17, 2026): 8% cap; SB 239 removes cap; Senate 18-0 with 3 absent; sponsor Sen. Hansen: many utilities already above the cap; to the House.
+NOT VERIFIED: SB 239 final passage; Delmarva tariff; credit rate details and size limit.
 COVER: Unsplash photo WIQtUv49q18 (Troy Mortier). Generic image; location not verified and not claimed to be in this state.

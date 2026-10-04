@@ -11,4 +11,8 @@ UTILITY PAGE (scratereview): just under $12, 7.62%, current about $159; one-time
 OUR MATH: 30 x 0.36164 = 10.85; 800 x 0.15878 = 127.02; 200 x 0.15253 = 30.51; 200 x 0.17442 = 34.88; winter 10.85 + 127.02 + 30.51 + 1.00 = 169.38; summer 173.75; difference 4.37; 0.36164 x 365 / 12 = 11.00. NOTE: the fetch tool's own totals ($153.53 / $175.78) did not match the listed rates and were discarded.
 MISMATCH: starting bill 'about $157' (SC Daily Gazette) vs 'about $159' (Dominion); ROE 9.9% (Gazette) vs 9.99% (Investing.com). Article keeps the Gazette figures in the settlement table.
 NOT VERIFIED: PSC order text; Duke SC cases; net metering (Solar Choice) terms.
+SOLAR SECTION ADDED Oct 5, 2026.
+SOLAR, UTILITY TARIFF (Solar Choice rider to Rate 5, effective first billing cycle of July 2026): BFC per Rate 5; charges per Rate 5; excess within a TOU period applied to lower-priced TOU periods in the current billing month; in November accumulated excess paid at avoided cost; minimum bill $13.50; not more than 20 kW AC.
+SOLAR, UTILITY CHART (April 2022): Solar Choice, Buy All/Sell All (PR-1, $4.50 monthly seller charge), Offset Only; 10-year term.
+NOT VERIFIED: Rate 5 TOU prices; avoided cost rate; whether a subscription fee applies.
 COVER: Unsplash photo lspvbK-OIkU (Zendure Power Station). Generic image; location not verified and not claimed to be in this state.

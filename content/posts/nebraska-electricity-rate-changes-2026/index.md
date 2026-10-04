@@ -21,6 +21,8 @@ faq:
     a: "An average of 6.3% across all customers and 6% for residential customers, about $7 a month on a $115 bill, effective January 2026."
   - q: "Who regulates electric rates in Nebraska?"
     a: "Each public power district, municipal utility or cooperative sets its own rates through its elected or appointed board. There is no state commission rate case for electricity."
+  - q: "Does Nebraska have net metering?"
+    a: "Yes, for systems of 25 kW or less. Your solar offsets your own use within the month, and the utility pays for net excess generation at its published price, which at Nebraska Public Power District varies by season and technology."
 ---
 
 Nebraska did not have a rate change on October 1, 2026. Its utilities are publicly owned and set rates once a year, with changes in January. The next round of decisions comes in November and December.
@@ -54,9 +56,16 @@ LES published new rate schedules effective January 1, 2026. We did not review th
 
 ## What This Means for Homeowners With Solar
 
-We did not verify Nebraska's current net metering or export credit rules for this article, so we give no export rates here. Ask your utility for its current solar tariff, and check how exported energy is credited before sizing a system. Fixed monthly charges are not reduced by solar.
+Nebraska law requires utilities to offer net metering for small systems.
 
-Because each Nebraska utility writes its own rules, terms can differ from one town to the next. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
+- **Size limit:** 25 kW or less.
+- **Within the month:** your solar offsets your own use.
+- **Monthly surplus:** Nebraska Public Power District pays for "net excess generation," at prices that differ by technology and by season (summer is June 1 to September 30).
+- **Local rules:** each public power district or municipal utility publishes its own net metering rider and rates.
+
+**What it means:** surplus is paid at a utility-set price, not the retail rate. Size to your monthly use, and ask your utility for its current net metering rider before you buy.
+
+Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
 
 ## What to Check on Your Bill
 
@@ -70,9 +79,17 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 
 OPPD figures come from OPPD's own news site and NPPD figures from a TV report. We did not review tariffs, LES rates or any 2027 proposals.
 
+## Compare With Nearby States
+
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Nebraska's average residential price at 13.78¢/kWh in July 2026, up 7.3% from 12.84¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $137.80 (1,000 × 13.78¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Iowa](/posts/iowa-electricity-rate-changes-2026/), [Kansas](/posts/kansas-electricity-rate-changes-2026/), [South Dakota](/posts/south-dakota-electricity-rate-changes-2026/), [Colorado](/posts/colorado-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+
 ## Sources
 
 - [OPPD The Wire, "OPPD board approves 2026 Corporate Operating Plan"](https://oppdthewire.com/oppd-board-approves-2026-budget-rate-proposal-to-support-reliability/)
 - [KNOP, "Nebraska Public Power District approves 2026 rate increases," Nov. 19, 2025](https://www.knopnews2.com/2025/11/19/nebraska-public-power-district-approves-2026-rate-increases/)
 - [WOWT, "OPPD considering 5-9% annual rate increases through end of decade," Nov. 18, 2025](https://www.wowt.com/2025/11/18/oppd-proposes-5-9-annual-rate-increases-through-end-decade/)
 - [Lincoln Electric System, 2026 rate schedules](https://www.les.com/sites/default/files/Budget%20&%20Rates/2026%20Rate%20Schedules%20Final.pdf)
+- [Nebraska Public Power District, Net Metering](https://www.nppd.com/rates/net-metering?locale=en)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

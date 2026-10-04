@@ -21,6 +21,8 @@ faq:
     a: "12.7210 cents per kWh for Central Maine Power residential customers and 12.9540 cents for Versant's Bangor Hydro District, according to the Maine Public Utilities Commission."
   - q: "When does the standard offer change next?"
     a: "On January 1, 2027, when a new annual price takes effect."
+  - q: "Does Maine still have net metering for rooftop solar?"
+    a: "Yes. Maine's net energy billing gives residential rooftop systems one-for-one kWh credits for exported power. Credits do not last indefinitely, and a monthly minimum bill applies. The 2023 law LD 1777 changed new community solar projects, not rooftop systems."
 ---
 
 Maine's supply price does not change in October. The Maine Public Utilities Commission (PUC) sets the standard offer once a year through a competitive bid, and the 2026 price runs from January 1 to December 31.
@@ -59,9 +61,16 @@ For 2026, CMP's residential standard offer is supplied by NextEra Energy Marketi
 
 ## What This Means for Homeowners With Solar
 
-We did not verify Maine's current net metering or export credit rules for this article, so we give no export rates here. Ask your utility for its current solar tariff, and check how exported energy is credited before sizing a system. Fixed monthly charges are not reduced by solar.
+Maine's net energy billing still gives rooftop solar one-for-one kWh credits.
 
-Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
+- **Credits:** each kWh you export earns a kWh credit against later use, according to NuWatt Energy's 2026 guide.
+- **Unused credits:** do not last indefinitely. Sources differ on the detail: the same guide says leftover credits are settled at a much lower avoided-cost rate at an annual true-up. Check your utility's net energy billing terms for how long credits last.
+- **Minimum bill:** a monthly minimum applies. The guide lists $8.00 at Central Maine Power and $9.00 at Versant.
+- **The 2023 law:** LD 1777 changed compensation for new community solar projects. It did not change rooftop systems.
+
+**What it means:** with kWh credits, the 2026 standard offer increase raised the value of each solar kWh by about 2.1¢ for Central Maine Power customers. Size the system to your annual use so credits are not left over.
+
+Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
 
 ## What to Check on Your Bill
 
@@ -75,8 +84,16 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 
 We verified supply prices on the PUC's site. We did not research 2026 delivery rate changes or the 2027 standard offer, which had not been announced when we checked.
 
+## Compare With Nearby States
+
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Maine's average residential price at 32.41¢/kWh in July 2026, up 15.8% from 27.98¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $324.10 (1,000 × 32.41¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [New Hampshire](/posts/new-hampshire-electricity-rate-changes-2026/), [Vermont](/posts/vermont-electricity-rate-changes-2026/), [Massachusetts](/posts/massachusetts-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+
 ## Sources
 
 - [Maine PUC, Standard Offer Rates for Central Maine Power, residential and small commercial](https://www.maine.gov/mpuc/regulated-utilities/electricity/standard-offer-rates/cmp)
 - [Maine PUC, Standard Offer Rates for Versant Power, Bangor Hydro District](https://www1.maine.gov/mpuc/regulated-utilities/electricity/standard-offer-rates/bhd)
 - [WGME, "Maine electric bills set to rise next year as PUC sets new Standard Offer rate"](https://wgme.com/news/i-team/maine-electric-bills-set-to-rise-next-year-as-puc-sets-new-standard-offer-rate)
+- [NuWatt Energy, "Maine Net Metering 2026: NEB Guide"](https://nuwattenergy.com/en/maine/net-metering-guide-2026)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

@@ -21,6 +21,8 @@ faq:
     a: "Xcel has said it expects to refund customers through a one-time bill credit with interest, because final approved rates are lower than the interim rates charged in 2025."
   - q: "How much more will a typical home pay?"
     a: "Xcel's rate case page says the average residential bill would increase 2.85%, or $2.78 a month, in 2025 and 2026. A TV report put it at about $5.59 a month, and the Citizens Utility Board of Minnesota at $10.27 a month. The three use different bases, and we could not reconcile them."
+  - q: "How does net metering work in Minnesota?"
+    a: "Systems under 40 kW are credited at the utility's average retail energy rate. Monthly surplus rolls forward as credits, and at investor-owned utilities year-end leftovers are paid at the avoided-cost rate. Cooperatives and municipal utilities may charge extra fees."
 ---
 
 Minnesota's largest utility did not change rates on October 1, 2026. Xcel Energy's two-year electric rate case was decided earlier in 2026, and the main remaining event for customers is a refund of interim rates.
@@ -67,9 +69,17 @@ These are not the same measure. One plausible reading is that the smaller figure
 
 ## What This Means for Homeowners With Solar
 
-We did not verify Minnesota's current net metering or export credit rules for this article, so we give no export rates here. Ask your utility for its current solar tariff, and check how exported energy is credited before sizing a system. Fixed monthly charges are not reduced by solar.
+Minnesota law sets net metering terms by system size.
 
-Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
+- **Under 40 kW:** credited at the utility's average retail energy rate, according to Solar United Neighbors. Nearly all home systems fall here.
+- **Monthly surplus:** becomes credits applied in later months.
+- **Year end:** at investor-owned utilities such as Xcel, leftover credits are paid at the avoided-cost rate. At municipal utilities and cooperatives they can expire.
+- **Fees:** municipal utilities and cooperatives may charge net metered customers extra fees to recover fixed costs.
+- **No statewide cap,** though a utility can ask regulators to review once net metering reaches 4% of its annual sales.
+
+**What it means:** credits near the retail rate mean each solar kWh offsets most of what you would have paid, including the 2025 and 2026 increases. If you are served by a cooperative or city utility, ask about fees first.
+
+Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
 
 ## What to Check on Your Bill
 
@@ -83,6 +93,12 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 
 We did not open the PUC order itself. Approved amounts come from the PUC's news release, and bill figures from Xcel, a TV report and a consumer group. The three bill-impact figures are not reconciled, and the interim refund date and amount are not confirmed.
 
+## Compare With Nearby States
+
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Minnesota's average residential price at 17.45¢/kWh in July 2026, up 3.1% from 16.92¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $174.50 (1,000 × 17.45¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Iowa](/posts/iowa-electricity-rate-changes-2026/), [North Dakota](/posts/north-dakota-electricity-rate-changes-2026/), [South Dakota](/posts/south-dakota-electricity-rate-changes-2026/), [Wisconsin](/posts/wisconsin-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+
 ## Sources
 
 - [Minnesota PUC, "Minnesota PUC Reduces Xcel's Electric Rate Request and Expands Customer Protections"](https://content.govdelivery.com/accounts/MNPUBUC/bulletins/41d2eb6)
@@ -90,3 +106,5 @@ We did not open the PUC order itself. Approved amounts come from the PUC's news 
 - [Minnesota Attorney General, "More than $40 million to be refunded to Xcel customers," May 7, 2026](https://www.ag.state.mn.us/Office/Communications/2026/05/07_Xcel.asp)
 - [KAAL, "Minnesota Public Utilities Commission approves amended Xcel Energy rate increase"](https://www.kaaltv.com/news/minnesota-public-utilities-commission-approves-amended-xcel-energy-rate-increase/)
 - [Citizens Utility Board of Minnesota, "Xcel's Electric Rate Increase"](https://cubminnesota.org/xcels-electric-rate-increase)
+- [Solar United Neighbors, "Net metering in Minnesota"](https://solarunitedneighbors.org/resources/net-metering-in-minnesota/)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

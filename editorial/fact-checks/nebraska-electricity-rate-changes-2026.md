@@ -7,4 +7,7 @@ SECONDARY (KNOP, Nov 19, 2025): NPPD retail 3%, wholesale 1%; just over $5 a mon
 HEADLINE ONLY: WOWT (5-9% annual increases considered); LES 2026 schedules (title only).
 GENERAL: Nebraska all-public-power statement is widely documented background; "summer and winter energy rates" in the checklist is generic.
 NOT VERIFIED: tariffs; LES amounts; 2027 proposals; net metering terms.
+SOLAR SECTION ADDED Oct 5, 2026.
+SOLAR, UTILITY PAGE (NPPD): 25 kW or less; payment when generation exceeds consumption for the month (net excess generation); prices vary by wind / solar / baseload and summer (June 1 - Sept 30) vs winter.
+NOT VERIFIED: actual NPPD solar price; OPPD and LES riders; statewide 1% cap.
 COVER: Unsplash photo 1nLnz0y-cLY (Elisa Photography). Generic image; location not verified and not claimed to be in this state.

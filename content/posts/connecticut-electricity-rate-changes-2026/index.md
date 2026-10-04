@@ -21,6 +21,8 @@ faq:
     a: "From July 1 to December 31, 2026, Eversource's residential standard service rate is 11.58 cents per kWh and United Illuminating's is 11.99 cents, according to the Connecticut Mirror."
   - q: "When do Connecticut supply rates change next?"
     a: "Standard service rates reset every six months, on January 1 and July 1. The next change is January 1, 2027."
+  - q: "How are solar customers paid in Connecticut?"
+    a: "Through the Residential Renewable Energy Solutions program. Under the netting option, surplus solar earns bill credits at the rate you pay. Under buy-all, you sell all production at a fixed rate, which Eversource lists at $0.3289 per kWh for 2026, locked for 20 years. Systems are limited to 25 kW."
 ---
 
 Connecticut bills fell twice in 2026: once on May 1, when the public benefits charge turned into a credit, and again on July 1, when supply rates dropped. The state's consumer advocate says the credit is scheduled through April 30, 2027, so it should still be on October bills.
@@ -69,9 +71,16 @@ Eversource has said the decrease is temporary and that customers may face higher
 
 ## What This Means for Homeowners With Solar
 
-We did not verify Connecticut's current net metering or export credit rules for this article, so we give no export rates here. Ask your utility for its current solar tariff, and check how exported energy is credited before sizing a system. Fixed monthly charges are not reduced by solar.
+New home solar in Connecticut goes through the Residential Renewable Energy Solutions (RRES) program, which replaced net metering.
 
-When supply and public benefits rates fall, each kWh of solar offsets less. When they rise again, it offsets more. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
+- **Netting option:** your solar serves your home first, and surplus earns bill credits "at the same rate you pay for electricity," according to Eversource. Credits roll over monthly.
+- **Buy-all option:** you sell all of your production at a fixed rate and buy all of your power as usual. Eversource lists the 2026 rate at $0.3289 per kWh, up from $0.3195 in 2025, locked for 20 years.
+- **Size limit:** 25 kW, sized to your home's historical use, with allowances for an electric vehicle or heat pump.
+- **Income adders:** extra per-kWh payments for lower-income households and economically distressed areas.
+
+**What it means:** under netting, the value of your solar moves with rates. When supply and public benefits rates fall, as they did in 2026, each kWh offsets less. Buy-all pays a fixed price that does not move. Compare both for your home before choosing, because the choice lasts 20 years.
+
+Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
 
 ## What to Check on Your Bill
 
@@ -85,6 +94,12 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 
 Rates come from the Connecticut Mirror, the governor's announcement and the Office of Consumer Counsel, not the utilities' tariffs. We found no report of a September adjustment but did not check the tariff itself. January 2027 standard service rates and delivery rate cases were not researched.
 
+## Compare With Nearby States
+
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Connecticut's average residential price at 24.16¢/kWh in July 2026, down 12.5% from 27.60¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $241.60 (1,000 × 24.16¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Massachusetts](/posts/massachusetts-electricity-rate-changes-2026/), [New York](/posts/new-york-electricity-rate-changes-2026/), [Rhode Island](/posts/rhode-island-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+
 ## Sources
 
 - [Connecticut DEEP, "Governor Lamont Announces Lower Electricity Rates in Response To Benefits Received," 2026](https://portal.ct.gov/deep/news-releases/news-releases---2026/governor-lamont-announces-lower-electricity-rates-in-response-to-benefits-received)
@@ -92,3 +107,5 @@ Rates come from the Connecticut Mirror, the governor's announcement and the Offi
 - [Connecticut Office of Consumer Counsel, rate adjustment FAQ, May 1, 2026](https://portal.ct.gov/occ/-/media/occ/april-2026-occ-ram-faq.pdf)
 - [Connecticut Mirror, "CT public benefits charge cut; electricity rates to fall by nearly 15%," April 22, 2026](https://ctmirror.org/2026/04/22/pura-cut-public-benefits-charge-electric-bills/)
 - [Connecticut Office of Consumer Counsel, "Understand your electric bill"](https://portal.ct.gov/occ/knowledge-base/articles/electricity/understand-your-electric-bill?language=en_US)
+- [Eversource, Connecticut Residential Solar Incentives](https://www.eversource.com/residential/save-money-energy/clean-energy-options/solar-energy/solar-incentives)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

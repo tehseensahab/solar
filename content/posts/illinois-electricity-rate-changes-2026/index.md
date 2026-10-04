@@ -1,7 +1,8 @@
 ---
 title: "Illinois Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-09-30
-lastmod: 2026-09-30
+lastmod: 2026-10-05
+lastVerified: 2026-09-30
 draft: false
 author: "Tehseen Arbab"
 slug: "illinois-electricity-rate-changes-2026"
@@ -15,9 +16,23 @@ imageAlt: "Large gray house with a dark solar panel section on its roof."
 imageCredit: "Photo by Vivint Solar on [Unsplash](https://unsplash.com/photos/gray-concrete-house-_XxvXRdacDo?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
 tags: ["Illinois", "Ameren Illinois", "ComEd", "electricity rates", "net billing"]
+readtime: "6 min read"
+takeaways:
+  - "Ameren Illinois' default supply price fell to 10.441¢/kWh for the first 800 kWh (8.262¢ above that) on October 1, 2026, down about 7.8% from the summer price."
+  - "ComEd's price to compare fell to 10.103¢/kWh, down about 2.8%. A separate monthly ComEd bill credit is shrinking at the same time."
+  - "Both prices cover supply only and run through May 2027. Delivery charges are separate and did not change on October 1."
+  - "Solar systems connected on or after January 1, 2025 are on net billing: exports earn supply-related credit, not the full retail rate."
+faq:
+  - q: "Did Illinois electricity rates change on October 1, 2026?"
+    a: "Yes. Ameren Illinois and ComEd both reset their default supply prices for October 2026 through May 2027. Ameren's is 10.441 cents per kWh for the first 800 kWh and 8.262 cents above that. ComEd's is 10.103 cents per kWh."
+  - q: "Will my ComEd bill go down in October 2026?"
+    a: "Not necessarily. The supply price fell about 0.3 cents per kWh, but the Citizens Utility Board reports the Carbon-Free Energy Resource Adjustment credit shrank from about 1.6 cents to about 0.115 cents per kWh. At 700 kWh, that is roughly $10 less credit against about $2 saved."
+  - q: "Do these prices apply if I have an alternative supplier?"
+    a: "No. They apply only to customers who buy default supply from Ameren Illinois or ComEd. Supplier and municipal aggregation customers pay their contract price."
+  - q: "Is net metering still available in Illinois?"
+    a: "Systems interconnected before January 1, 2025 that did not take the distributed generation rebate keep full retail net metering. Systems connected on or after that date are on net billing, where exports are credited on supply-related components."
 ---
 
-**Published:** September 30, 2026 | **Last verified:** September 30, 2026
 
 Illinois is one of the few states where a real, documented rate change lands on October 1, 2026. Both of the state's largest utilities reset the default price of the electricity itself (the "supply" part of your bill) for the fall and winter. Ameren Illinois customers in central and southern Illinois see a drop of about 8% from the summer price. ComEd customers in northern Illinois see a smaller drop of about 3%. Both prices are still high compared with two years ago, and neither change touches the delivery part of your bill.
 
@@ -78,6 +93,12 @@ Neither utility has published a single "typical bill" estimate that we could ver
 - **Energy assistance:** CUB notes some income-eligible households can apply for LIHEAP starting October 1, 2026, and all eligible households from November 1.
 - **Summer 2027 prices** have not been published.
 
+## Compare With Nearby States
+
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Illinois's average residential price at 19.22¢/kWh in July 2026, up 11.6% from 17.22¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $192.20 (1,000 × 19.22¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Indiana](/posts/indiana-electricity-rate-changes-2026/), [Iowa](/posts/iowa-electricity-rate-changes-2026/), [Missouri](/posts/missouri-electricity-rate-changes-2026/), [Wisconsin](/posts/wisconsin-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+
 ## Sources
 
 - Plug In Illinois (Illinois Commerce Commission), Price to Compare – Ameren Illinois: https://plugin.illinois.gov/understanding-the-price-to-compare/price-to-compare-ameren-illinois.html
@@ -86,3 +107,4 @@ Neither utility has published a single "typical bill" estimate that we could ver
 - Citizens Utility Board, Ameren non-summer 2025 price (Oct. 1, 2025): https://www.citizensutilityboard.org/blog/2025/10/01/cub-alerts-ameren-illinois-customers-utilitys-price-for-electricity-has-dropped-31-percent-as-of-october-1st/
 - Illinois Shines, Consumer FAQs: https://illinoisshines.com/faqs/
 - DSIRE, Illinois Net Billing: https://programs.dsireusa.org/system/program/detail/2700/net-billing
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

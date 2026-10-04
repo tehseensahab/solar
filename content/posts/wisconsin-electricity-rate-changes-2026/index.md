@@ -21,6 +21,8 @@ faq:
     a: "About $9.73 a month for an average residential customer, following $7.62 in 2025, under a decision the Public Service Commission made in November 2024."
   - q: "Are more increases coming in 2027?"
     a: "Alliant, Madison Gas and Electric and Xcel Energy already have approved 2027 increases. We Energies has asked for 4.7% in 2027, about $13 a month, and Wisconsin Public Service for 6.3%, about $11 a month. Those two requests are pending."
+  - q: "Does Wisconsin have net metering?"
+    a: "Each utility sets its own terms. Size limits range from 20 kW at Alliant and Wisconsin Public Service to 300 kW at We Energies. Solar offsets your own use at retail, and at most utilities net surplus is credited at an avoided-cost rate."
 ---
 
 Wisconsin's electric rates did not change on October 1, 2026. The Public Service Commission of Wisconsin (PSC) usually sets rates for two calendar years at a time, so changes arrive in January. The 2026 increases are already in bills, and 2027 is partly decided.
@@ -60,9 +62,24 @@ The PSC approved 2026 and 2027 rates for these three in November 2025. Settlemen
 
 ## What This Means for Homeowners With Solar
 
-We did not verify each utility's current solar buyback tariff for this article. In Wisconsin these are set utility by utility in rate cases, so ask yours for the current tariff sheet and check whether the pending 2027 cases propose changes.
+Wisconsin has no single statewide net metering rule. Terms are set utility by utility in rate cases.
 
-Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
+| Utility | System size limit |
+|---|---|
+| We Energies | 300 kW |
+| Xcel Energy | 100 kW |
+| Alliant (Wisconsin Power and Light) | 20 kW |
+| Wisconsin Public Service | 20 kW |
+
+Size limits as listed by EnergySage.
+
+- **Surplus:** at We Energies, Alliant and Wisconsin Public Service, net excess generation is credited at an avoided-cost rate, not the retail rate. Xcel rolls credits over monthly at retail and pays year-end excess at a wholesale rate.
+- **Rebate:** the statewide Focus on Energy program offers a small solar incentive when funding is available.
+- **Pending cases:** utilities have proposed changes to solar buyback rates in past rate cases. Check whether the 2027 rate cases include one.
+
+**What it means:** production up to your monthly use offsets retail energy charges. Surplus earns far less. With January increases already approved or requested, self-used solar gains value each year.
+
+Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
 
 ## What to Check on Your Bill
 
@@ -80,8 +97,16 @@ The PSC typically decides rate cases late in the year for rates starting in Janu
 
 All figures are average residential impacts from Wisconsin Public Radio, not tariff rates, and each utility defines an average customer differently. We did not open PSC dockets or confirm the status of the pending 2027 cases after the requests were filed.
 
+## Compare With Nearby States
+
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Wisconsin's average residential price at 19.06¢/kWh in July 2026, up 4.4% from 18.25¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $190.60 (1,000 × 19.06¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Illinois](/posts/illinois-electricity-rate-changes-2026/), [Iowa](/posts/iowa-electricity-rate-changes-2026/), [Michigan](/posts/michigan-electricity-rate-changes-2026/), [Minnesota](/posts/minnesota-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+
 ## Sources
 
 - [Wisconsin Public Radio, "Regulators approve electric rate hikes for We Energies, WPS," Nov. 2024](https://www.wpr.org/news/regulators-approve-electric-rate-hikes-for-we-energies-wps)
 - [Wisconsin Public Radio, "State regulators approve rate hikes for 3 Wisconsin utilities," Nov. 2025](https://www.wpr.org/news/state-regulators-approve-rate-hikes-for-3-wisconsin-utilities)
 - [Wisconsin Public Radio, "We Energies, Wisconsin Public Service seeking rate hikes in 2027, 2028"](https://www.wpr.org/news/we-energies-wisconsin-public-service-rate-hikes-2027-2028)
+- [EnergySage, Wisconsin Solar Incentives](https://www.energysage.com/local-data/solar-rebates-incentives/wi/)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

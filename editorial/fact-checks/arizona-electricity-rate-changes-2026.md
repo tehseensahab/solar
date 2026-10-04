@@ -10,4 +10,7 @@ RESOLVED (Oct 4, 2026): TEP case NOT decided. TEP rate page: anticipates approva
 VERIFIED, regulator (ACC post, July 10, 2026): APS hearing May 18 - July 7, 2026 (31 days); ROO by late November 2026; vote deadline Dec 31, 2026; rates early 2027.
 MISMATCH: TEP says 11.6% / about 12%; news says 13% (AZ Luminaria) and 14% (other outlets). Both shown with attribution.
 NOT VERIFIED: date of ACC vote on TEP; APS export rate; SRP; eDocket not accessible.
+SOLAR SECTION ADDED Oct 5, 2026.
+SOLAR, SECONDARY ONLY (mysolarfy.com installer summary): APS RCP about 6.17 c/kWh for 2026, 10-year lock, max 10% annual step-down, proposed about 5.55 c from Sept 2026 pending ACC; TEP about 5-6 c, up to 10-year lock; ACC Decision No. 75859 (voted Dec 2016); retail about 15.48 c.
+NOT VERIFIED AGAINST TARIFF: APS Rate Rider RCP and TEP Rider 14 values. CHECK aps.com and tep.com tariff sheets.
 COVER: Unsplash photo _ciUqT1HEuY (Vivint Solar). Generic image; location not verified and not claimed to be in this state.

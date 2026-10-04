@@ -11,4 +11,7 @@ CHECKED AGAIN (Oct 4, 2026): Uprise RI (Sept 16, 2026): evidentiary hearing at 9
 OUR MATH: 29.69 - 14 = 15.69; 14 + 20.45 = 34.45; 29.69 - 34.45 = -4.76.
 STILL OPEN: final PUC order on the LRS rate itself (not reported in sources we could open; Providence Journal blocked).
 NOT VERIFIED: delivery rates; net metering terms.
+SOLAR SECTION ADDED Oct 5, 2026.
+SOLAR, SECONDARY ONLY (NuWatt Energy; installer): post-April 15, 2023 systems about 80% of retail for exports; pre-April 2023 full retail; 125% of annual consumption; year-end excess at avoided cost; REG $0.2723/kWh for 15 years (NOT used as stated; the guide's claim that REG stacks with net metering is doubtful).
+SEARCH RESULT TITLE ONLY: RIE net metering tariff compliance filing, Docket 25-50-EL, May 18, 2026. NOT READ. PRIORITY CHECK next session: confirm the export credit formula.
 COVER: Unsplash photo _aSFmmvS62I (Raze Solar). Generic image; location not verified and not claimed to be in this state.

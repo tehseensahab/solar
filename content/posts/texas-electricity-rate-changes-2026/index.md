@@ -68,8 +68,15 @@ Watch for the outcome of Oncor's tracker request and for the surcharge line on y
 **Published:** September 30, 2026
 **Last verified:** September 29, 2026
 
+## Compare With Nearby States
+
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Texas's average residential price at 15.88¢/kWh in July 2026, up 3.4% from 15.36¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $158.80 (1,000 × 15.88¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Louisiana](/posts/louisiana-electricity-rate-changes-2026/), [New Mexico](/posts/new-mexico-electricity-rate-changes-2026/), [Oklahoma](/posts/oklahoma-electricity-rate-changes-2026/), [Arkansas](/posts/arkansas-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+
 ## Sources
 
 - Oncor rate case page: https://www.oncor.com/content/oncorwww/us/en/home/rate-case.html
 - Oncor first-quarter 2026 results: https://www.prnewswire.com/news-releases/oncor-reports-first-quarter-2026-results-302764848.html
 - Public Utility Commission of Texas: https://www.puc.texas.gov
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

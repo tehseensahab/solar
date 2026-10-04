@@ -21,6 +21,8 @@ faq:
     a: "The North Dakota Monitor reported that state law requires the Public Service Commission to approve interim rate requests within 60 days, without a public hearing."
   - q: "How much did Xcel Energy rates rise in North Dakota?"
     a: "12.92% for residential customers. That is $11.94 a month in total: $11.36 from interim rates already in place plus $0.58 more under the final order."
+  - q: "Does North Dakota have net metering?"
+    a: "For customers of investor-owned utilities, with systems of 100 kW or smaller. Solar offsets your own use within the month, and the utility buys any net excess each month at its avoided-cost rate."
 ---
 
 North Dakota did not have a rate change on October 1, 2026. The most recent change came about a month before, when Montana-Dakota Utilities (MDU) started charging interim rates.
@@ -59,9 +61,16 @@ The news report we used did not say whether the interim increase is refundable i
 
 ## What This Means for Homeowners With Solar
 
-We did not verify North Dakota's current net metering or export credit rules for this article, so we give no export rates here. Ask your utility for its current solar tariff, and check how exported energy is credited before sizing a system. Fixed monthly charges are not reduced by solar.
+North Dakota's net metering rule covers investor-owned utilities and pays the avoided cost for surplus.
 
-Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
+- **Size limit:** 100 kW or smaller.
+- **Within the month:** your solar offsets your own use.
+- **Monthly surplus:** the utility buys net excess generation at its avoided-cost rate, reconciled every month, with no banking of credits at retail value.
+- **Cooperatives and municipal utilities:** are not covered by the rule.
+
+**What it means:** anything you do not use in the same month earns only the avoided cost. With monthly reconciliation and long, dark winters, size to your summer daytime use.
+
+Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
 
 ## What to Check on Your Bill
 
@@ -75,8 +84,17 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 
 Figures come from the North Dakota Monitor. We did not open PSC orders. We did not confirm whether MDU's interim rates are subject to refund.
 
+## Compare With Nearby States
+
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts North Dakota's average residential price at 13.41¢/kWh in July 2026, up 0.8% from 13.31¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $134.10 (1,000 × 13.41¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Minnesota](/posts/minnesota-electricity-rate-changes-2026/), [Montana](/posts/montana-electricity-rate-changes-2026/), [South Dakota](/posts/south-dakota-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+
 ## Sources
 
 - [North Dakota Monitor, "North Dakota approves Xcel electricity rate increase," Feb. 5, 2026](https://northdakotamonitor.com/2026/02/05/north-dakota-approves-xcel-electricity-rate-increase/)
 - [North Dakota Monitor, "North Dakota regulators approve short-term electric rate increase for MDU," Aug. 26, 2026](https://northdakotamonitor.com/2026/08/26/north-dakota-regulators-approve-short-term-electric-rate-increase-for-mdu/)
 - [Montana-Dakota Utilities, rate cases](https://www.montana-dakota.com/rates-services/rate-cases/)
+- [American Council for an Energy-Efficient Economy, State Policy Database: North Dakota](https://database.aceee.org/state/north-dakota)
+- [National Conference of State Legislatures, State Net Metering Policies](https://www.ncsl.org/energy/state-net-metering-policies)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
