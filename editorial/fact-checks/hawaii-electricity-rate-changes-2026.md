@@ -1,0 +1,11 @@
+# Internal fact-check record: hawaii-electricity-rate-changes-2026
+
+Not published. Lives outside content/.
+
+UTILITY DOCUMENT (Hawaiian Electric effective rate summary, May 2026): Schedule R effective rate and 500 kWh bill: Oahu 47.75 c / $241.77; Hawaii Island 43.14 / $218.27; Maui 46.75 / $237.02; Lanai 64.11 / $323.75; Molokai 53.23 / $269.65.
+SECONDARY (Civil Beat, May 2025): rate case opened late Feb 2025; first major request in over five years; possible implementation before Jan 1, 2027; wildfire and insurance costs; $500M loan fee about $4 a month on Oahu; PBR framework since 2020.
+FROM OUR OWN POSTS: EIA 18.2 c for 2026.
+OUR MATH: 47.75 / 18.2 = 2.62.
+BACKGROUND, NOT RE-VERIFIED: NEM closed to new customers (2015), successor programs pay less for exports. Flagged in Limitations.
+NOT VERIFIED: October 2026 rates; rate case status/amount; KIUC.
+COVER: Unsplash photo tC4tHCeoO44 (VD Photography). Generic image; location not verified and not claimed to be in this state.
