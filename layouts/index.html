@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{ $latest := first 9 (where site.RegularPages "Section" "posts") }}
+{{ $latest := first 9 (where site.RegularPages "Section" "posts").ByDate.Reverse }}
 <section class="hero">
   <div class="wrap hero-inner">
     <p class="eyebrow">{{ site.Params.tagline }}</p>

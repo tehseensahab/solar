@@ -60,6 +60,8 @@ QUERIES = {
     "eia-residential-price-forecast-sept-2026": ["electricity transmission lines sunset"],
     "columbia-missouri-electric-rates-october-2026": ["utility lineman pole"],
     "energysage-h1-2026-solar-market-report": ["solar installer roof"],
+    "north-carolina-electricity-rate-changes-2026": ["solar panels house roof"],
+    "solar-payback-period-without-federal-tax-credit": ["calculator bills desk"],
 }
 
 BANNED = re.compile(r"\b(ai[- ]generated|illustrations?|vector|render(?:ed|ing|s)?|3d)\b", re.I)
