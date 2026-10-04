@@ -5,20 +5,20 @@ lastVerified: 2026-10-04
 imageAlt: "Rooftop solar panels in the foreground with wooded hills and blue sky behind."
 imageCredit: "Photo by Aron Schmitz on [Unsplash](https://unsplash.com/photos/solar-panels-on-roof-over-hillside-Fm30OtHVonE?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
-description: "Puget Sound Energy's electric rates rose on January 1, 2026. Regulators' 2025 order put the base rate step at $7.67 a month for 800 kWh; local reporting put the full January change near $17. No new October 1 change was found."
+description: "Puget Sound Energy's electric rates rose on January 1, 2026. Five filings approved in December 2025 added a net $16.84 a month (12.18%) at 800 kWh, on top of a $7.67 base rate step set earlier. No October 1 change was found."
 readtime: "4 min read"
 author: "Tehseen Arbab"
 tags: ["Washington", "Puget Sound Energy", "Washington UTC", "Seattle City Light"]
 takeaways:
   - "We found no new rate change for Washington's investor-owned utilities dated October 1, 2026."
   - "Puget Sound Energy's 2026 base rate step, approved in January 2025, was $7.67 a month (6.3%) for a customer using 800 kWh."
-  - "Local reporting put the total January 1, 2026 electric increase at about 12%, or roughly $17 a month, after the commission approved further requests on December 23, 2025."
+  - "Five separate filings approved in December 2025 added a net $16.84 a month, or 12.18%, on January 1, 2026. Power costs alone added $28.04, partly offset by credits."
   - "Public utilities such as Seattle City Light, Snohomish PUD and Tacoma Power set their own rates and also raised them for 2026."
 faq:
   - q: "Did Washington electric rates change on October 1, 2026?"
     a: "We found no approved change on that date for Puget Sound Energy. Its 2026 changes took effect on January 1, 2026."
   - q: "How much did Puget Sound Energy rates rise in 2026?"
-    a: "The Utilities and Transportation Commission's January 2025 order set a 2026 base rate step of $7.67 a month for 800 kWh. Local news reported the total January 1, 2026 electric increase at about 12%, or about $17 a month, once other approved filings were included."
+    a: "Two things changed on January 1, 2026. The rate plan approved in January 2025 set a base rate step of $7.67 a month at 800 kWh. Separately, the commission approved five filings in December 2025 that added a net $16.84 a month, or 12.18%."
   - q: "Who sets electric rates in Washington?"
     a: "The Utilities and Transportation Commission regulates investor-owned utilities such as Puget Sound Energy, Avista and PacifiCorp. Public utility districts and city utilities set their own rates."
 ---
@@ -33,7 +33,7 @@ This article covers PSE, which serves more than 1.2 million electric customers i
 |---|---|---|---|
 | Base rates, year 1 | PSE | January 2025 | +$13.08 a month (12%) at 800 kWh |
 | Base rates, year 2 | PSE | January 2026 | +$7.67 a month (6.3%) at 800 kWh |
-| Total January 2026 change, as reported | PSE | Jan. 1, 2026 | About +$17 a month (about 12%) |
+| Power cost and other filings, net | PSE | Jan. 1, 2026 | +$16.84 a month (12.18%) at 800 kWh |
 | October 1, 2026 | PSE | n/a | No change found |
 
 ## What the UTC Approved
@@ -45,11 +45,22 @@ On January 15, 2025, the UTC approved a two-year rate plan for PSE:
 - **Return on equity:** 9.8% in 2025 and 9.9% in 2026.
 - **Denied:** separate cost trackers, some clean generation expenses, electrification pilots and alternative fuel projects.
 
-## Why the January 2026 Change Looked Bigger
+## The Second January 2026 Change
 
-The Vashon-Maury Island Beachcomber reported that PSE electric rates rose about 12% on January 1, 2026, roughly $17 a month for an average customer using 800 kWh. It said the UTC approved PSE's requests at its December 23, 2025 meeting, and that PSE cited Climate Commitment Act compliance, clean energy, reliability work and low-income assistance.
+In December 2025 the UTC approved five more PSE filings, all effective January 1, 2026. Its release lists the effect on a residential customer using 800 kWh:
 
-That is more than the $7.67 base rate step. The difference appears to come from other filings approved alongside it. We did not review those filings, so we report both figures and do not reconcile them.
+| Docket | What it covers | Per month | Change |
+|---|---|---|---|
+| UE-250747 | Power costs, including Climate Commitment Act and clean energy compliance | +$28.04 | +20.27% |
+| UE-250901 | No-cost allowance revenue returned to customers | −$10.08 | −7.28% |
+| UE-250733 | Removing Colstrip coal plant costs | −$3.04 | −2.2% |
+| UE-250880 | Bill discount program rates | +$1.74 | +1.26% |
+| UE-250930 | Voluntary renewable energy | +$0.18 | +0.13% |
+| **Net** | | **+$16.84** | **+12.18%** |
+
+The UTC said PSE's energy unit costs rose 59% between 2025 and 2026, which drove the power cost filing.
+
+**How this relates to the $7.67.** The five dockets above are separate from the general rate case that set the $7.67 base rate step. The UTC's December release does not list that step, so the two appear to add together. We did not find a UTC document giving the combined total, so we do not state one.
 
 ## Public Utilities
 
@@ -81,10 +92,11 @@ PSE's approved two-year plan covered 2025 and 2026. We did not find the status o
 
 ## Limitations
 
-The typical bill figures use 800 kWh a month, not the 1,000 kWh used in most of our state articles. The $17 figure comes from local news, not a UTC document. Avista and PacifiCorp rates were not researched. Public utility figures come from an installer blog.
+The typical bill figures use 800 kWh a month, not the 1,000 kWh used in most of our state articles. We did not confirm the combined effect of the base rate step and the December 2025 filings. Avista and PacifiCorp rates were not researched. Public utility figures come from an installer blog.
 
 ## Sources
 
 - [Washington UTC, "State regulators approve new rates for PSE," Jan. 15, 2025](https://www.utc.wa.gov/news/2025/state-regulators-approve-new-rates-pse)
+- [Washington UTC, "State regulators approve multiple orders impacting Puget Sound Energy rates," Dec. 2025](https://www.utc.wa.gov/news/2025/state-regulators-approve-multiple-orders-impacting-puget-sound-energy-rates)
 - [Vashon-Maury Island Beachcomber, "Puget Sound Energy electric, natural gas rates go up," Jan. 2, 2026](https://www.vashonbeachcomber.com/2026/01/02/puget-sound-energy-electric-natural-gas-rates-go-up/)
 - [Northwest Electric & Solar, "Washington Utility Rate Increases Coming in 2026"](https://nwsolar.com/blog/washington-utility-rate-increases-coming-in-2026/)

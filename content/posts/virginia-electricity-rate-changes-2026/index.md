@@ -42,7 +42,7 @@ This article covers Dominion Energy Virginia, which serves more than 2.5 million
 
 - **Revenue:** $565.7 million for 2026 and $209.9 million for 2027. Dominion had asked for $822 million and $345 million.
 - **Bills:** $149.92 + $11.24 = **$161.16** in 2026, then + $2.36 = **$163.52** in 2027. That is $13.60, or about 9%, over two years. Dominion had sought $19.57.
-- **Return on equity:** 9.8%, against a request of 10.4%.
+- **Return on equity:** 9.8%, up from 9.7%, against a request of 10.4%.
 - **Large customers:** a new rate class, GS-5, for customers using 25 megawatts or more starts January 1, 2027. It requires 14-year contracts with minimum demand payments. The SCC's stated aim was to assign more cost to data centers.
 
 These bill figures cover base rates only. Riders and fuel are billed separately.
@@ -84,7 +84,7 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 
 ## Limitations
 
-The SCC's own news release could not be opened for this article, so the biennial review figures come from Cardinal News and the rider figures from a law firm summary. We did not confirm the exact effective date of the 2026 base rate step, the current fuel factor or net metering terms.
+The SCC's own news release could not be opened for this article, so the biennial review figures come from Cardinal News and the rider figures from a law firm summary. Two public radio and news reports we checked say the $11.24 step applies "for 2026" without giving a day, so we still cannot state the exact effective date. One of them gives the starting bill as about $140, where Cardinal News gives $149.92; we use the more specific figure. We did not confirm the current fuel factor or net metering terms.
 
 ## Sources
 

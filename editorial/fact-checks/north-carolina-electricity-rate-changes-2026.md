@@ -14,3 +14,4 @@ NOT VERIFIED: 2026 fuel/rider changes for DEC and DEP; cause of the DEC bill mov
 NOT ACCESSIBLE: duke-energy.com tariff PDFs (Rider RSC, NMB, Schedule RS) returned 403. Solar minimum bill and non-bypassable figures are from the NCUC order summary, labeled as such. Third-party sites give conflicting current values ($22 vs $8 minimum), so none are stated as current.
 POWERPAIR: status from Southern Energy Management (Sept 8, 2026) and WFAE (Oct 31, 2025). Installer sources.
 COVER: Unsplash photo _Y4Uu2ORpe4 (Maverick Frame). Location not stated; generic home with rooftop solar, not confirmed to be North Carolina.
+CHECKED AGAIN (Oct 4, 2026): news search still shows no NCUC final order on either Duke rate case; latest item is the Sept 30 op-ed. STILL OPEN.

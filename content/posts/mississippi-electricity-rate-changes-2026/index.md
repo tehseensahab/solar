@@ -16,7 +16,7 @@ takeaways:
   - "Entergy Mississippi serves about 459,000 customers in 45 counties. Mississippi Power and cooperatives set rates separately."
 faq:
   - q: "Did Mississippi electric rates change on October 1, 2026?"
-    a: "Entergy Mississippi filed for a reduction of about $0.41 a month for October 2026 approval. We could not confirm the Public Service Commission's decision."
+    a: "Entergy Mississippi said on August 27, 2026 that it had filed for a reduction of about $0.41 a month for October. When we checked on October 4, we found no report of the Public Service Commission's decision."
   - q: "Did Entergy Mississippi raise rates in 2026?"
     a: "Entergy says its annual rate plan, effective with the July 2026 billing cycle, prevented a $4.87 monthly increase that would otherwise have occurred."
   - q: "How did data centers lower bills?"
@@ -42,7 +42,7 @@ The company attributes that to revenue from data center customers. It says about
 
 ## The October Filing
 
-Entergy says it filed an additional reduction of about $0.41 a month for October 2026 approval, related to its ad valorem (property) tax adjustment. In an earlier year, the same adjustment lowered a typical 1,000 kWh bill by 29 cents.
+In a news release dated August 27, 2026, Entergy said it had filed an additional reduction of about $0.41 a month that would take effect in October if approved. It relates to the ad valorem (property) tax adjustment. We found no report of the commission's vote. In an earlier year, the same adjustment lowered a typical 1,000 kWh bill by 29 cents.
 
 ## What to Keep in Mind
 
