@@ -30,7 +30,7 @@ tags: ["Massachusetts", "Eversource", "National Grid", "Unitil", "basic service"
 | National Grid | Aug. 1, 2026 | 14.751¢/kWh | 16.669¢/kWh before adjustment factors | +1.918¢ (about +13%) | Basic service; adjustments could raise it to about 17.29¢ |
 | Unitil | Not verified | — | — | — | — |
 
-**What these are:** the supply portion of your bill only, not delivery. Figures come from a Massachusetts energy-rates blog and consumer sites reporting on utility filings; we could not open the state's official rate spreadsheet (see fact-check note). Treat them as close but unconfirmed.
+**What these are:** the supply portion of your bill only, not delivery. Figures come from a Massachusetts energy-rates blog and consumer sites reporting on utility filings; we could not open the state's official rate spreadsheet. Treat them as close but unconfirmed.
 
 ## What Is Changing on October 1, 2026?
 
