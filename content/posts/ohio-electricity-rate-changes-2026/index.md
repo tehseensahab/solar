@@ -72,6 +72,7 @@ Ohio's investor-owned utilities must offer net metering, but an exported kWh is 
 - **Size limit:** systems can be sized up to 120% of a customer's average yearly use, per DSIRE.
 - **Suppliers:** the same ruling kept customers who shop with a competitive supplier eligible for net metering credits from the utility.
 - **Not covered:** cooperatives and municipal utilities set their own terms.
+- **2026 review:** the PUCO put this rule forward unchanged in its five-year review, and did not adopt AEP Ohio's request to move toward net billing, according to a February 10, 2026 state review memo. We could not confirm the final step. See [Ohio net metering in 2026](/posts/ohio-net-metering-rule-review-2026/).
 
 **What it means:** the June 1 supply increases were driven by capacity costs, which is the part an exported kWh does not earn. A kWh used in the house avoids the whole supply rate plus the per-kWh delivery charges. We did not find the current cents-per-kWh credit for each utility, and the sources for these rules date from 2017 to 2019, so confirm them against your utility's net metering tariff.
 
@@ -105,3 +106,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - Canary Media, What Ohio's latest net metering ruling means for utility customers (Jan. 9, 2019): https://www.canarymedia.com/articles/enn/what-ohios-latest-net-metering-ruling-means-for-utility-customers
 - DSIRE, Ohio programs: https://programs.dsireusa.org/system/program/OH
 - [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- Ohio Common Sense Initiative, CSI Review memo: Net Metering (Feb. 10, 2026): https://dam.assets.ohio.gov/image/upload/governor.ohio.gov/csi/CSI_REC_PUCO_2-10-26.pdf

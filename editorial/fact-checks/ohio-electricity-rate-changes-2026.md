@@ -9,3 +9,5 @@ NOT FOUND: Duke Energy Ohio; any Oct 1, 2026 change; Ohio net metering; distribu
 FirstEnergy auction date: CRA release, 2026-06-09.
 
 SOLAR SECTION ADDED Oct 5, 2026. Sources are old: Canary Media Jan 9, 2019 on PUCO Dec 19, 2018 ruling (energy-only credit, 120%, shopping customers eligible); DSIRE (120%, generation rate). PUCO net metering page could not be read (returned unreadable). Whether rules changed after 2019 NOT verified; article discloses the source dates. Numeric credit rates not found. Takeaways and FAQ added from article facts.
+
+Oct 6, 2026: added 2026 review bullet (CSI memo Feb 10, 2026) and link to ohio-net-metering-rule-review-2026.
