@@ -10,7 +10,6 @@ copyright = "Solar Examiner"
 [params]
   description = "Independent reporting and buying guides on residential and community solar."
   tagline = "Solar, examined."
-  favicon = "☀️"
   author = "SolarExaminer Editorial Team"
   email = "editorial@solarexaminer.com"
   ogDefault = "/og-default.jpg"

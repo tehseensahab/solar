@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div class="wrap page-head">
+  <h1>Page not found</h1>
+  <p class="lead">That page doesn't exist or has moved. Try the homepage or one of the sections below.</p>
+  <div class="btn-row">
+    <a class="btn btn-primary" href="/">Back to home</a>
+    <a class="btn btn-secondary" href="/rates-by-state/">Rates by state</a>
+  </div>
+</div>
+<section class="section wrap">
+  <div class="section-head"><h2>Browse by category</h2></div>
+  {{ partial "category-grid.html" . }}
+</section>
+{{ end }}
