@@ -1,12 +1,13 @@
 ---
 title: "Illinois Electricity Rate Changes: What Changed in 2026 and What's Next"
+seoTitle: "ComEd and Ameren Illinois Rates, October 2026: New Supply Prices"
 date: 2026-09-30
 lastmod: 2026-10-05
 lastVerified: 2026-09-30
 draft: false
 author: "Tehseen Arbab"
 slug: "illinois-electricity-rate-changes-2026"
-description: "Ameren Illinois and ComEd reset their default electricity supply prices on October 1, 2026. Here are the exact rates, what they cover, and what it means for homeowners with solar."
+description: "ComEd's price to compare fell to 10.103¢/kWh and Ameren Illinois' supply price to 10.441¢ on October 1, 2026. What the rates cover and how long they last."
 seo_title: "Illinois Electric Rates October 2026: Ameren & ComEd Price Changes"
 primary_keyword: "Illinois electricity rate increase October 2026"
 secondary_keywords: ["Illinois electric rates October 2026", "Ameren Illinois new electric rates October 2026", "ComEd price to compare October 2026", "Illinois electric bill 2026"]
