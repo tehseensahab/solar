@@ -1,0 +1,12 @@
+{{- /* Tag pages are thin single-article lists: keep them out of the sitemap (they are also noindex,follow in head-seo.html). */ -}}
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {{- range .Data.Pages }}
+  {{- if and .Permalink (not (hasPrefix .RelPermalink "/tags/")) }}
+  <url>
+    <loc>{{ .Permalink }}</loc>{{ if not .Lastmod.IsZero }}
+    <lastmod>{{ safeHTML (.Lastmod.Format "2006-01-02T15:04:05-07:00") }}</lastmod>{{ end }}
+  </url>
+  {{- end }}
+  {{- end }}
+</urlset>
