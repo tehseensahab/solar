@@ -4,7 +4,7 @@
 {{- $isArticle := and (eq .Type "posts") .IsPage -}}
 {{- $image := absURL site.Params.ogDefault -}}
 {{- if $isArticle }}{{ with (partial "cover.html" .) }}{{ if .has }}{{ $image = .og.Permalink }}{{ end }}{{ end }}{{ end -}}
-<title>{{ if .IsHome }}{{ site.Title }} — {{ site.Params.tagline }}{{ else }}{{ .Title }} · {{ site.Title }}{{ end }}</title>
+<title>{{ if .IsHome }}{{ site.Title }} — {{ site.Params.tagline }}{{ else }}{{ .Params.seoTitle | default .Title }} · {{ site.Title }}{{ end }}</title>
 <meta name="description" content="{{ $desc }}">
 {{ if eq .Kind "404" }}<meta name="robots" content="noindex">{{ else if hasPrefix .RelPermalink "/tags/" }}<meta name="robots" content="noindex, follow">{{ else }}<link rel="canonical" href="{{ .Permalink }}">{{ end }}
 <meta property="og:site_name" content="{{ site.Title }}">

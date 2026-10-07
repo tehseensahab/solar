@@ -1,12 +1,13 @@
 ---
 title: "Massachusetts Electricity Rate Changes: What Changed in 2026 and What's Next"
+seoTitle: "Eversource & National Grid Rate Changes 2026 in Massachusetts"
 date: 2026-09-30
 lastmod: 2026-10-05
 lastVerified: 2026-09-30
 draft: false
 author: "Tehseen Arbab"
 slug: "massachusetts-electricity-rate-changes-2026"
-description: "Massachusetts basic service rates for Eversource, National Grid and Unitil changed on August 1, 2026. We checked what, if anything, changes on October 1 and what comes next."
+description: "Eversource, National Grid and Unitil basic service rates reset on August 1, 2026. Nothing changed on October 1. See what rose, who is affected and what is next."
 seo_title: "Massachusetts Electric Rates 2026: Eversource & National Grid"
 primary_keyword: "Massachusetts electricity rate increase October 2026"
 secondary_keywords: ["Massachusetts electric rates October 2026", "Eversource basic service rate August 2026", "National Grid Massachusetts rates 2026", "Massachusetts electric bill increase 2026"]

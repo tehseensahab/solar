@@ -1,12 +1,13 @@
 ---
 title: "Michigan Electricity Rate Changes: What Changed in 2026 and What's Next"
+seoTitle: "DTE & Consumers Energy Rate Increase 2026: Michigan Guide"
 date: 2026-09-30
 lastmod: 2026-10-05
 lastVerified: 2026-09-30
 draft: false
 author: "Tehseen Arbab"
 slug: "michigan-electricity-rate-changes-2026"
-description: "DTE and Consumers Energy both won electric rate increases in 2026, and both have new requests pending. Here is what took effect, what did not change on October 1, and what is next."
+description: "DTE's $242.4M rate increase took effect March 5, 2026, about $4.23 a month. Consumers Energy's $276.6M followed May 1. See what is pending next."
 seo_title: "Michigan Electric Rates 2026: DTE & Consumers Energy Increases"
 primary_keyword: "Michigan electricity rate increase October 2026"
 secondary_keywords: ["Michigan electric rates October 2026", "DTE electric rate increase 2026", "Consumers Energy rate increase 2026", "Michigan electric bill increase 2026"]
