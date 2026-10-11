@@ -234,7 +234,7 @@ a:focus-visible { outline: 2px solid var(--teal); outline-offset: 2px; }
 .calc .seg label { flex: 1; margin: 0; font-weight: 600; font-size: .9rem; cursor: pointer; text-align: center; }
 .calc .seg input { position: absolute; opacity: 0; pointer-events: none; }
 .calc .seg span { display: block; padding: 9px 10px; border-radius: 5px; color: var(--ink-soft); transition: background-color .15s, color .15s; }
-.calc .seg small { display: block; font-size: .74rem; font-weight: 400; margin-top: 1px; }
+.calc .seg small { display: block; font-size: .75rem; font-weight: 400; margin-top: 1px; }
 .calc .seg label:hover span { color: var(--ink); }
 .calc .seg input:checked + span { background: var(--teal); color: var(--on-accent); }
 .calc .seg input:focus-visible + span { outline: 2px solid var(--teal); outline-offset: 2px; }
@@ -253,7 +253,7 @@ a:focus-visible { outline: 2px solid var(--teal); outline-offset: 2px; }
 .calc-empty p { color: var(--ink-soft); margin: 0 0 16px; }
 .calc-empty .btn { font: 600 .9rem var(--font-sans); background: var(--bg); cursor: pointer; padding: 10px 16px; }
 .calc .stat { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
-.calc .stat-k { font-size: .74rem; font-weight: 600; color: var(--ink-soft); text-transform: uppercase; letter-spacing: .05em; }
+.calc .stat-k { font-size: .75rem; font-weight: 600; color: var(--ink-soft); text-transform: uppercase; letter-spacing: .05em; }
 .calc .stat-v { font-family: var(--font-serif); font-weight: 600; font-size: 1.3rem; font-variant-numeric: tabular-nums; line-height: 1.2; }
 .calc .stat-s { font-size: .82rem; color: var(--ink-soft); line-height: 1.4; margin: 0; }
 .calc .stat-big .stat-v { font-size: clamp(2.3rem, 5vw, 3rem); color: var(--teal); line-height: 1.1; margin: 2px 0 4px; }
@@ -275,7 +275,7 @@ a:focus-visible { outline: 2px solid var(--teal); outline-offset: 2px; }
 .calc-note { font-size: .8rem; color: var(--ink-soft); margin: 10px 0 0; }
 .calc-chart { margin: 20px 0 0; background: var(--bg); border: 1px solid var(--line); border-radius: var(--radius); padding: 12px 14px 8px; }
 .calc-chart svg { display: block; width: 100%; height: auto; overflow: visible; }
-.calc-chart figcaption { font-size: .74rem; font-weight: 600; color: var(--ink-soft); text-transform: uppercase; letter-spacing: .05em; margin-bottom: 6px; }
+.calc-chart figcaption { font-size: .75rem; font-weight: 600; color: var(--ink-soft); text-transform: uppercase; letter-spacing: .05em; margin-bottom: 6px; }
 .calc-chart .c-line { fill: none; stroke: var(--teal); stroke-width: 2.5; stroke-linejoin: round; stroke-linecap: round; }
 .calc-chart .c-gain { fill: var(--teal); opacity: .14; }
 .calc-chart .c-loss { fill: var(--gold); opacity: .18; }
@@ -285,10 +285,10 @@ a:focus-visible { outline: 2px solid var(--teal); outline-offset: 2px; }
 .calc-chart .c-lab { font: 600 12px var(--font-sans); fill: var(--ink); font-variant-numeric: tabular-nums; }
 .calc-chart .c-soft { font-weight: 400; fill: var(--ink-soft); }
 .calc-table { width: 100%; border-collapse: collapse; margin: 18px 0 0; font-size: .86rem; font-variant-numeric: tabular-nums; }
-.calc-table caption { text-align: left; font-size: .74rem; font-weight: 600; color: var(--ink-soft); text-transform: uppercase; letter-spacing: .05em; margin-bottom: 4px; }
+.calc-table caption { text-align: left; font-size: .75rem; font-weight: 600; color: var(--ink-soft); text-transform: uppercase; letter-spacing: .05em; margin-bottom: 4px; }
 .calc-table th { font-weight: 600; color: var(--ink-soft); font-size: .8rem; }
 .calc-table th, .calc-table td { border-bottom: 1px solid var(--line); padding: 7px 10px 7px 0; text-align: left; }
-.calc-table th:not(:first-child), .calc-table td:not(:first-child) { text-align: right; padding-right: 0; padding-left: 10px; }
+.calc-table th:not(:first-child), .calc-table td:not(:first-child) { white-space: nowrap; text-align: right; padding-right: 0; padding-left: 10px; }
 .calc-flags { list-style: none; margin: 16px 0 0; padding: 12px 14px; border-left: 4px solid var(--gold); background: var(--bg); border-radius: 4px; font-size: .86rem; }
 .calc-flags li + li { margin-top: 6px; }
 .calc-years { margin-top: 16px; font-size: .9rem; }
@@ -310,11 +310,30 @@ a:focus-visible { outline: 2px solid var(--teal); outline-offset: 2px; }
   .calc-page > .wrap { padding: 0 16px; }
   .calc-page { padding-bottom: 64px; }
   .calc-bar:not([hidden]) { position: fixed; left: 0; right: 0; bottom: 0; z-index: 20; display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 10px 16px calc(10px + env(safe-area-inset-bottom)); background: var(--teal); color: var(--on-accent); box-shadow: 0 -4px 16px rgba(0, 0, 0, .18); }
-  .calc-bar small { display: block; font-size: .72rem; opacity: .85; }
+  .calc-bar small { display: block; font-size: .75rem; opacity: .85; }
   .calc-bar strong { font-family: var(--font-serif); font-size: 1.15rem; font-variant-numeric: tabular-nums; }
   .calc-bar-go { font-size: .84rem; font-weight: 600; white-space: nowrap; }
 }
 @media (max-width: 560px) { .calc-chart .c-lab { font-size: 17px; } }
+@media (max-width: 860px) {
+  .calc input[type="range"] { height: 44px; }
+  .calc-steps a { min-height: 44px; }
+  .link-btn { min-height: 44px; padding: 0 2px; }
+  .calc-actions { gap: 0 22px; margin-top: 14px; padding-top: 6px; }
+  .calc-years summary { padding: 12px 0; }
+  .calc-years { margin-top: 6px; }
+  .calc .hint { font-size: .84rem; }
+  .calc-head { padding-top: 22px; }
+  .calc-head h1 { font-size: 1.7rem; }
+  .calc-head .lead { font-size: 1rem; }
+  .calc-page .post-body { font-size: 1.05rem; }
+  .calc-page .post-body table { font-size: .86rem; }
+  .calc-page .post-body th, .calc-page .post-body td { min-width: 84px; padding: 8px 9px; overflow-wrap: normal; }
+  .calc-page .post-body th:first-child, .calc-page .post-body td:first-child { min-width: 104px; }
+}
+@media (max-width: 440px) {
+  .calc .field-row { grid-template-columns: 1fr; gap: 18px 0; }
+}
 @media (max-width: 400px) {
   .calc .stat-grid { grid-template-columns: 1fr; }
   .calc .seg-full { flex-direction: column; }

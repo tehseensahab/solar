@@ -87,7 +87,7 @@
       stat("Before rounding", fmt(kwExact, 2) + " kW", "Rounded up to whole panels") +
       stat("Rough price", usd(cost), "At $" + cfg.ppw.toFixed(2) + "/W, before incentives") +
       "</div>" +
-      '<a class="btn btn-primary calc-next" href="/solar-payback-calculator/?' + esc(p.toString()) + '">Estimate payback for this system →</a>';
+      '<a class="btn btn-primary calc-next" href="/solar-payback-calculator/?' + esc(p.toString()) + '">Estimate payback for this&nbsp;system&nbsp;→</a>';
   }
 
   /* ---------- Payback and ROI ---------- */
@@ -268,10 +268,11 @@
   });
 
   /* Phone: keep the headline result in view while the reader edits inputs. */
-  var resultsSeen = false;
-  function showBar() { if (bar) bar.hidden = resultsSeen || !bar.dataset.ready; }
+  var resultsSeen = false, inputsSeen = true;
+  function showBar() { if (bar) bar.hidden = resultsSeen || !inputsSeen || !bar.dataset.ready; }
   if (bar && "IntersectionObserver" in window) {
     new IntersectionObserver(function (en) { resultsSeen = en[0].isIntersecting; showBar(); }, { threshold: 0.15 }).observe(el("results"));
+    new IntersectionObserver(function (en) { inputsSeen = en[0].isIntersecting; showBar(); }).observe(form.querySelector(".calc-inputs"));
   }
   update();
 })();
