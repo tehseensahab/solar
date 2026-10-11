@@ -27,7 +27,18 @@
     return '<div class="stat' + (big ? " stat-big" : "") + '"><span class="stat-k">' + label + '</span><span class="stat-v">' + value + "</span>" +
       (sub ? '<span class="stat-s">' + sub + "</span>" : "") + "</div>";
   }
-  function empty(msg) { out.innerHTML = '<p class="calc-empty">' + msg + "</p>"; }
+  var bar = el("calc-bar");
+  function setBar(k, v) {
+    if (!bar) return;
+    if (!v) { bar.hidden = true; return; }
+    el("bar-k").textContent = k; el("bar-v").textContent = v; bar.dataset.ready = "1"; showBar();
+  }
+  function empty(msg, example) {
+    out.innerHTML = '<div class="calc-empty"><h2>Your estimate</h2><p>' + msg + "</p>" +
+      (example ? '<button type="button" class="btn btn-secondary" id="example">Try an example: 10,000 kWh a year</button>' : "") + "</div>";
+    if (bar) { bar.hidden = true; delete bar.dataset.ready; }
+  }
+  function advSum(text) { var a = el("adv-sum"); if (a) a.textContent = text; }
   function syncMode() {
     var m = mode();
     form.querySelectorAll("[data-show]").forEach(function (f) { f.hidden = f.dataset.show !== m; });
@@ -45,7 +56,10 @@
     var annual = mode() === "bill" ? (num("bill") * 12) / (rate / 100) : num("kwh");
     var extra = num("extra"); if (!isFinite(extra) || extra < 0) extra = 0;
     var offset = num("offset"), prod = num("prod"), panel = num("panel");
-    if (!(annual > 0)) return empty(mode() === "bill" ? "Enter your average monthly bill to see an estimate." : "Enter your yearly kWh use to see an estimate.");
+    advSum((prod > 0 ? fmt(prod) : "?") + " kWh per kW · " + (panel > 0 ? fmt(panel) : "?") + " W panels");
+    var bh = el("bill-hint");
+    if (bh) bh.textContent = "We divide your yearly bill by the average residential price of " + rate.toFixed(2) + "¢/kWh (EIA, July 2026). Rougher than kWh from your bills.";
+    if (!(annual > 0)) return empty(mode() === "bill" ? "Enter your average monthly bill and the result appears here." : "Enter your yearly kWh use and the result appears here.", mode() !== "bill");
     if (!(offset > 0) || !(prod > 0) || !(panel > 0)) return empty("Check the coverage, output and panel wattage fields.");
 
     var need = annual + extra;
@@ -60,15 +74,20 @@
     p.set("kw", kw.toFixed(2)); p.set("prod", String(prod)); p.set("use", String(Math.round(need)));
     if (el("state").value) p.set("state", el("state").value);
 
+    var pct = made / need * 100, scale = Math.max(need, made);
+    setBar("System size", fmt(kw, 1) + " kW · " + panels + " panels");
     out.innerHTML =
-      stat("System size", fmt(kw, 1) + " kW", panels + " panels of " + fmt(panel) + " W", true) +
+      stat("Estimated system size", fmt(kw, 1) + " kW", panels + " panels of " + fmt(panel) + " W", true) +
+      '<div class="cover" role="img" aria-label="Estimated output is ' + fmt(pct) + ' percent of your yearly use">' +
+      '<div class="cover-row"><span>Your use</span><div class="cover-track"><i class="cover-use" style="width:' + (need / scale * 100).toFixed(1) + '%"></i></div><b>' + fmt(need) + " kWh</b></div>" +
+      '<div class="cover-row"><span>Solar output</span><div class="cover-track"><i class="cover-sun" style="width:' + (made / scale * 100).toFixed(1) + '%"></i></div><b>' + fmt(made) + " kWh</b></div>" +
+      '<p class="stat-s">First-year output covers about ' + fmt(pct) + "% of the use you are planning for" +
+      (mode() === "bill" ? ", estimated from your bill at " + rate.toFixed(2) + "¢/kWh" : (extra ? ", including " + fmt(extra) + " kWh of planned extra use" : "")) + ".</p></div>" +
       '<div class="stat-grid">' +
-      stat("Yearly use to plan for", fmt(need) + " kWh", mode() === "bill" ? "From your bill at " + rate.toFixed(2) + "¢/kWh" : (extra ? "Includes " + fmt(extra) + " kWh you plan to add" : "")) +
-      stat("Estimated first-year output", fmt(made) + " kWh", "About " + fmt(made / need * 100) + "% of that use") +
-      stat("Exact size before rounding", fmt(kwExact, 2) + " kW", "Rounded up to whole panels") +
-      stat("Rough price before incentives", usd(cost), "At the $" + cfg.ppw.toFixed(2) + "/W U.S. median") +
+      stat("Before rounding", fmt(kwExact, 2) + " kW", "Rounded up to whole panels") +
+      stat("Rough price", usd(cost), "At $" + cfg.ppw.toFixed(2) + "/W, before incentives") +
       "</div>" +
-      '<a class="btn btn-primary calc-next" href="/solar-payback-calculator/?' + esc(p.toString()) + '">Estimate payback for this system →</a>';
+      '<a class="btn btn-primary calc-next" href="/solar-payback-calculator/?' + esc(p.toString()) + '">Estimate payback for this&nbsp;system&nbsp;→</a>';
   }
 
   /* ---------- Payback and ROI ---------- */
@@ -94,8 +113,8 @@
     }
     return { rows: rows, payback: payback, total: cum + a.net, net: cum, irr: irr(flows), first: rows[0].save };
   }
-  function chart(rows, net) {
-    var W = 520, H = 220, L = 8, R = 8, T = 14, B = 26;
+  function chart(rows, net, pb) {
+    var W = 520, H = 230, L = 10, R = 10, T = 26, B = 30;
     var pts = [{ t: 0, cum: -net }].concat(rows);
     var min = Math.min.apply(null, pts.map(function (r) { return r.cum; }));
     var max = Math.max.apply(null, pts.map(function (r) { return r.cum; }));
@@ -103,16 +122,30 @@
     var n = rows.length;
     function x(t) { return L + (W - L - R) * t / n; }
     function y(v) { return T + (H - T - B) * (max - v) / (max - min); }
-    var d = pts.map(function (r, i) { return (i ? "L" : "M") + x(r.t).toFixed(1) + " " + y(r.cum).toFixed(1); }).join(" ");
-    var last = pts[pts.length - 1];
-    return '<figure class="calc-chart"><svg viewBox="0 0 ' + W + " " + H + '" role="img" aria-label="Running total of savings minus cost, year 0 to year ' + n + '">' +
-      '<line class="c-zero" x1="' + L + '" x2="' + (W - R) + '" y1="' + y(0).toFixed(1) + '" y2="' + y(0).toFixed(1) + '"/>' +
-      '<path class="c-line" d="' + d + '"/>' +
-      '<circle class="c-dot" cx="' + x(last.t).toFixed(1) + '" cy="' + y(last.cum).toFixed(1) + '" r="4"/>' +
-      '<text class="c-lab" x="' + L + '" y="' + (H - 6) + '">Year 0: ' + usd(-net) + "</text>" +
-      '<text class="c-lab" text-anchor="end" x="' + (W - R) + '" y="' + (H - 6) + '">Year ' + n + ": " + usd(last.cum) + "</text>" +
-      '<text class="c-lab c-soft" x="' + (L + 4) + '" y="' + (y(0) - 5).toFixed(1) + '">Break-even</text>' +
-      "</svg><figcaption>Running total: savings so far minus what you paid.</figcaption></figure>";
+    var line = pts.map(function (r, i) { return (i ? "L" : "M") + x(r.t).toFixed(1) + " " + y(r.cum).toFixed(1); }).join(" ");
+    var area = line + " L" + x(n).toFixed(1) + " " + y(0).toFixed(1) + " L" + x(0).toFixed(1) + " " + y(0).toFixed(1) + " Z";
+    var last = pts[pts.length - 1], y0 = y(0).toFixed(1), ticks = "", step = n > 30 ? 10 : 5;
+    for (var t = 0; t <= n; t += step) {
+      ticks += '<line class="c-tick" x1="' + x(t).toFixed(1) + '" x2="' + x(t).toFixed(1) + '" y1="' + (H - B) + '" y2="' + (H - B + 4) + '"/>' +
+        '<text class="c-lab c-soft" text-anchor="' + (t === 0 ? "start" : t >= n ? "end" : "middle") + '" x="' + x(t).toFixed(1) + '" y="' + (H - 8) + '">' + (t === 0 ? "Year 0" : t) + "</text>";
+    }
+    var mark = "";
+    if (!isNaN(pb)) {
+      var px = x(pb), anchor = px > W * 0.7 ? "end" : px < W * 0.2 ? "start" : "middle";
+      mark = '<line class="c-pb" x1="' + px.toFixed(1) + '" x2="' + px.toFixed(1) + '" y1="' + (T - 6) + '" y2="' + y0 + '"/>' +
+        '<circle class="c-dot" cx="' + px.toFixed(1) + '" cy="' + y0 + '" r="5"/>' +
+        '<text class="c-lab" text-anchor="' + anchor + '" x="' + px.toFixed(1) + '" y="' + (T - 11) + '">Paid back: year ' + fmt(pb, 1) + "</text>";
+    }
+    var id = "clip" + Math.random().toString(36).slice(2, 7);
+    return '<figure class="calc-chart"><figcaption>Running total: savings so far minus what you paid</figcaption>' +
+      '<svg viewBox="0 0 ' + W + " " + H + '" role="img" aria-label="Running total of savings minus cost, from ' + usd(-net) + " in year 0 to " + usd(last.cum) + " in year " + n + '">' +
+      '<defs><clipPath id="' + id + 'a"><rect x="0" y="0" width="' + W + '" height="' + y0 + '"/></clipPath><clipPath id="' + id + 'b"><rect x="0" y="' + y0 + '" width="' + W + '" height="' + H + '"/></clipPath></defs>' +
+      '<path class="c-gain" d="' + area + '" clip-path="url(#' + id + 'a)"/><path class="c-loss" d="' + area + '" clip-path="url(#' + id + 'b)"/>' +
+      '<line class="c-zero" x1="' + L + '" x2="' + (W - R) + '" y1="' + y0 + '" y2="' + y0 + '"/>' + ticks +
+      '<path class="c-line" d="' + line + '"/>' + mark +
+      '<text class="c-lab c-soft" x="' + (L + 2) + '" y="' + (y(0) + 15).toFixed(1) + '">' + usd(-net) + "</text>" +
+      '<text class="c-lab" text-anchor="end" x="' + (W - R) + '" y="' + Math.max(y(last.cum) - 8, 12).toFixed(1) + '">' + usd(last.cum) + "</text>" +
+      "</svg></figure>";
   }
   function yrs(v) { return isNaN(v) ? "Not reached" : fmt(v, 1) + " years"; }
   function payback() {
@@ -126,6 +159,8 @@
     if (!isFinite(a.incent) || a.incent < 0) a.incent = 0;
     if (!isFinite(a.deg)) a.deg = 0;
     if (!isFinite(growth)) growth = 0;
+    advSum((a.prod > 0 ? fmt(a.prod) : "?") + " kWh per kW · " + (a.deg * 100).toFixed(1) + "% loss · " + (growth * 100).toFixed(1) + "% rate growth · " + (a.years || "?") + " years");
+    var po = el("price-out"); if (po) po.textContent = a.kw > 0 && a.ppw > 0 ? usd(a.kw * 1000 * a.ppw) : "n/a";
     if (!(a.kw > 0) || !(a.ppw > 0) || !(a.prod > 0) || !(a.rate > 0)) return empty("Enter system size, price, output and electric rate to see an estimate.");
     if (!(a.years >= 1 && a.years <= 40)) return empty("Years counted must be between 1 and 40.");
     if (a.mode === "nb" && (!(a.self >= 0 && a.self <= 1) || !(a.exp >= 0))) return empty("Check the self-use share and export credit rate.");
@@ -141,18 +176,19 @@
     var capped = a.mode === "nem" && a.use > 0 && a.made > a.use;
     var late = !isNaN(r.payback) && r.payback > 15;
 
-    var h = stat("Estimated payback", isNaN(r.payback) ? "Not within " + a.years + " years" : fmt(r.payback, 1) + " years",
-        "With " + (a.deg * 100).toFixed(1) + "% yearly output loss and " + (growth * 100).toFixed(1) + "% yearly rate growth", true) +
+    var pbText = isNaN(r.payback) ? "Not within " + a.years + " years" : fmt(r.payback, 1) + " years";
+    setBar("Estimated payback", pbText);
+    var h = stat("Estimated payback", pbText,
+        (a.mode === "nb" ? "Net billing" : "Net metering") + " · " + usd(a.net) + " net cost · " + usd(r.first) + " saved in year one", true) +
+      chart(r.rows, a.net, r.payback) +
       '<div class="stat-grid">' +
-      stat("Net cost", usd(a.net), fmt(a.kw, 1) + " kW at $" + a.ppw.toFixed(2) + "/W" + (a.incent ? ", less " + usd(a.incent) : "")) +
-      stat("First-year bill savings", usd(r.first), fmt(a.made) + " kWh in year one") +
-      stat("Simple payback", yrs(simple), "Net cost ÷ first-year savings") +
-      stat(a.years + "-year net gain", usd(r.net), "Savings of " + usd(r.total) + " minus net cost") +
-      stat("Return on investment", fmt(roi) + "%", "Net gain ÷ net cost, over " + a.years + " years") +
+      stat(a.years + "-year net gain", usd(r.net), usd(r.total) + " saved, minus net cost") +
+      stat("Return on investment", fmt(roi) + "%", "Net gain ÷ net cost") +
       stat("Yearly rate of return", isNaN(r.irr) ? "n/a" : fmt(r.irr * 100, 1) + "%", "Internal rate of return, before tax") +
-      "</div>" + chart(r.rows, a.net);
+      stat("Simple payback", yrs(simple), "Net cost ÷ first-year savings") +
+      "</div>";
 
-    h += '<table class="calc-table"><caption>Same system, different rate growth</caption><thead><tr><th>Rate growth</th><th>Payback</th><th>' + a.years + "-year net gain</th></tr></thead><tbody>" +
+    h += '<table class="calc-table"><caption>If electric rates grow more slowly</caption><thead><tr><th>Rate growth</th><th>Payback</th><th>' + a.years + "-year net gain</th></tr></thead><tbody>" +
       "<tr><td>0% a year (rates stay flat)</td><td>" + yrs(flat.payback) + "</td><td>" + usd(flat.net) + "</td></tr>" +
       "<tr><td>" + (growth * 100).toFixed(1) + "% a year (your input)</td><td>" + yrs(r.payback) + "</td><td>" + usd(r.net) + "</td></tr></tbody></table>";
 
@@ -169,9 +205,19 @@
   }
 
   /* ---------- Wiring ---------- */
-  ["kw", "prod", "use", "state", "rate"].forEach(function (k) {
-    var e = el(k), v = qs.get(k);
-    if (!e || v === null) return;
+  var fields = Array.prototype.slice.call(form.querySelectorAll("input[name], select[name]"));
+  var defaults = {};
+  fields.forEach(function (f) { if (f.type !== "radio") defaults[f.name] = f.value; });
+  var defMode = mode();
+
+  qs.forEach(function (v, k) {
+    if (k === "mode") {
+      var r = form.querySelector('input[name="mode"][value="' + v.replace(/[^a-z]/g, "") + '"]');
+      if (r) r.checked = true;
+      return;
+    }
+    var e = form.querySelector('[name="' + k.replace(/[^a-z]/g, "") + '"]');
+    if (!e || e.type === "radio") return;
     if (e.tagName === "SELECT") { if (e.querySelector('option[value="' + v.replace(/[^a-z-]/g, "") + '"]')) e.value = v; }
     else if (isFinite(parseFloat(v))) e.value = parseFloat(v);
   });
@@ -180,9 +226,53 @@
     if (qs.get("state") && !qs.get("rate")) el("rate").value = stateRate();
     st.addEventListener("change", function () { el("rate").value = stateRate(); });
   }
+  form.querySelectorAll('input[type="range"]').forEach(function (r) {
+    var n = el(r.dataset.for);
+    r.value = n.value;
+    r.addEventListener("input", function () { n.value = r.value; });
+    n.addEventListener("input", function () { r.value = n.value; });
+  });
+
+  function link() {
+    var p = new URLSearchParams();
+    fields.forEach(function (f) {
+      if (f.type === "radio") return;
+      if (f.value !== "" && f.value !== defaults[f.name]) p.set(f.name, f.value);
+    });
+    if (mode() !== defMode) p.set("mode", mode());
+    var q = p.toString();
+    return location.pathname + (q ? "?" + q : "");
+  }
   var calc = kind === "size" ? size : payback;
-  function update() { syncMode(); calc(); }
+  function update() {
+    syncMode(); calc();
+    try { history.replaceState(null, "", link() + location.hash); } catch (e) {}
+  }
   form.addEventListener("input", update);
   form.addEventListener("change", update);
+  out.addEventListener("click", function (e) {
+    if (e.target.id !== "example") return;
+    el("kwh").value = 10000; update();
+  });
+  el("calc-reset").addEventListener("click", function () {
+    form.reset();
+    form.querySelectorAll('input[type="range"]').forEach(function (r) { r.value = el(r.dataset.for).value; });
+    update();
+  });
+  var copy = el("copy-link");
+  copy.addEventListener("click", function () {
+    var url = location.origin + link();
+    function done(ok) { copy.textContent = ok ? "Link copied" : "Copy failed"; setTimeout(function () { copy.textContent = "Copy link to this estimate"; }, 2000); }
+    if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(url).then(function () { done(true); }, function () { done(false); });
+    else done(false);
+  });
+
+  /* Phone: keep the headline result in view while the reader edits inputs. */
+  var resultsSeen = false, inputsSeen = true;
+  function showBar() { if (bar) bar.hidden = resultsSeen || !inputsSeen || !bar.dataset.ready; }
+  if (bar && "IntersectionObserver" in window) {
+    new IntersectionObserver(function (en) { resultsSeen = en[0].isIntersecting; showBar(); }, { threshold: 0.15 }).observe(el("results"));
+    new IntersectionObserver(function (en) { inputsSeen = en[0].isIntersecting; showBar(); }).observe(form.querySelector(".calc-inputs"));
+  }
   update();
 })();

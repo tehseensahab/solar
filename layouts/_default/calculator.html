@@ -1,140 +1,148 @@
 {{ define "main" }}
 {{- $d := site.Data.calculators -}}
+{{- $us := site.Data.eia_prices.us.y2026 -}}
+{{- $isSize := eq .Params.calculator "size" -}}
 <article class="calc-page">
-  <header class="post-head">
-    <a class="cat" href="/calculators/">Calculators</a>
+  <header class="post-head calc-head">
+    <nav class="calc-steps" aria-label="Calculators">
+      <a href="/solar-system-size-calculator/"{{ if $isSize }} aria-current="page"{{ end }}><b>1</b> System size</a>
+      <span aria-hidden="true">→</span>
+      <a href="/solar-payback-calculator/"{{ if not $isSize }} aria-current="page"{{ end }}><b>2</b> Payback and ROI</a>
+    </nav>
     <h1>{{ .Title }}</h1>
     {{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}
-    {{ with .Params.lastVerified }}{{ $v := time . }}<p class="byline">Default figures last verified <time datetime="{{ $v.Format "2006-01-02" }}">{{ $v.Format "Jan 2, 2006" }}</time> · Estimates only, not a quote</p>{{ end }}
   </header>
 
   <div class="wrap">
   <form class="calc" id="calc" data-calc="{{ .Params.calculator }}" novalidate onsubmit="return false">
     <div class="calc-inputs">
-    {{ if eq .Params.calculator "size" }}
+    {{ if $isSize }}
       <fieldset>
-        <legend>1. Your electricity use</legend>
+        <legend>Your electricity use</legend>
         <div class="field">
-          <label for="state">State</label>
-          <select id="state" name="state">
-            <option value="">U.S. average ({{ site.Data.eia_prices.us.y2026 }}¢/kWh)</option>
-            {{- range $s := site.Data.states }}{{ $p := index site.Data.eia_prices.states $s.slug }}{{ with $p }}
-            <option value="{{ $s.slug }}" data-rate="{{ .y2026 }}">{{ $s.name }} ({{ .y2026 }}¢/kWh)</option>{{ end }}{{ end }}
-          </select>
-          <p class="hint">Only used to turn a bill into kWh. EIA average residential price, July 2026.</p>
-        </div>
-        <div class="field">
-          <span class="label" id="mode-label">What do you know?</span>
-          <div class="seg" role="radiogroup" aria-labelledby="mode-label">
-            <label><input type="radio" name="mode" value="kwh" checked> <span>My kWh use</span></label>
-            <label><input type="radio" name="mode" value="bill"> <span>Only my bill</span></label>
+          <div class="seg" role="radiogroup" aria-label="What do you know?">
+            <label><input type="radio" name="mode" value="kwh" checked> <span>I know my kWh</span></label>
+            <label><input type="radio" name="mode" value="bill"> <span>I only know my bill</span></label>
           </div>
         </div>
         <div class="field" data-show="kwh">
-          <label for="kwh">Electricity use, last 12 months</label>
-          <div class="unit"><input id="kwh" name="kwh" type="number" inputmode="decimal" min="0" step="100" placeholder="e.g. 10800"><span>kWh / year</span></div>
-          <p class="hint">Add up the kWh on your last 12 bills. One month × 12 is less reliable because use changes by season.</p>
+          <label for="kwh">Electricity used in the last 12 months</label>
+          <div class="unit"><input id="kwh" name="kwh" type="number" inputmode="decimal" min="0" step="100" placeholder="e.g. 10000"><span>kWh / year</span></div>
+          <p class="hint">Add up the kWh on your last 12 bills.</p>
         </div>
-        <div class="field" data-show="bill" hidden>
-          <label for="bill">Average monthly electric bill</label>
-          <div class="unit"><span>$</span><input id="bill" name="bill" type="number" inputmode="decimal" min="0" step="5" placeholder="e.g. 165"><span>/ month</span></div>
-          <p class="hint">We divide your yearly bill by the average price above. Less accurate than kWh from your bills.</p>
+        <div class="field-row" data-show="bill" hidden>
+          <div class="field">
+            <label for="bill">Average monthly bill</label>
+            <div class="unit"><span>$</span><input id="bill" name="bill" type="number" inputmode="decimal" min="0" step="5" placeholder="e.g. 165"></div>
+          </div>
+          <div class="field">
+            <label for="state">State</label>
+            <select id="state" name="state">
+              <option value="">U.S. average</option>
+              {{- range $s := site.Data.states }}{{ with index site.Data.eia_prices.states $s.slug }}
+              <option value="{{ $s.slug }}" data-rate="{{ .y2026 }}">{{ $s.name }}</option>{{ end }}{{ end }}
+            </select>
+          </div>
+          <p class="hint hint-wide" id="bill-hint">We divide your yearly bill by the average residential price (EIA, July 2026). Rougher than kWh from your bills.</p>
         </div>
         <div class="field">
-          <label for="extra">Extra use you plan to add <span class="opt">(optional)</span></label>
+          <label for="extra">Planned extra use <span class="opt">(optional)</span></label>
           <div class="unit"><input id="extra" name="extra" type="number" inputmode="decimal" min="0" step="100" value="0"><span>kWh / year</span></div>
-          <p class="hint">An EV, heat pump or other new load. Use the figure from the vehicle or equipment maker.</p>
+          <p class="hint">An EV, heat pump or other new load.</p>
         </div>
       </fieldset>
       <fieldset>
-        <legend>2. What you want solar to cover</legend>
+        <legend>How much to cover with solar</legend>
         <div class="field">
-          <label for="offset">Share of your use to cover</label>
-          <div class="unit"><input id="offset" name="offset" type="number" inputmode="decimal" min="1" max="200" step="5" value="100"><span>%</span></div>
-          <p class="hint">Under net billing, covering 100% is often not the best value. See the note below.</p>
+          <label for="offset">Share of your use</label>
+          <div class="slider">
+            <input type="range" id="offset-r" data-for="offset" min="10" max="150" step="5" value="100" aria-label="Share of your use to cover">
+            <div class="unit unit-sm"><input id="offset" name="offset" type="number" inputmode="decimal" min="1" max="200" step="5" value="100"><span>%</span></div>
+          </div>
+          <p class="hint">If your utility pays less than retail for exported power, a smaller system can be better value.</p>
         </div>
       </fieldset>
-      <fieldset>
-        <legend>3. Your roof and panels</legend>
+      <details class="calc-adv">
+        <summary><span>Assumptions</span><span class="adv-sum" id="adv-sum"></span></summary>
         <div class="field">
           <label for="prod">Yearly output per kW of panels</label>
           <div class="unit"><input id="prod" name="prod" type="number" inputmode="decimal" min="300" max="2500" step="25" value="{{ $d.production_per_kw }}"><span>kWh / kW</span></div>
-          <p class="hint">Default is NREL's U.S. mean. NREL's range runs from about {{ lang.FormatNumber 0 $d.production_low }} (least sun) to {{ lang.FormatNumber 0 $d.production_high }} (most sun). For your address, run <a href="https://pvwatts.nlr.gov/" rel="noopener">PVWatts</a> for a 1 kW system and enter its annual kWh.</p>
+          <p class="hint">NREL's U.S. mean. The range is about {{ lang.FormatNumber 0 $d.production_low }} (least sun) to {{ lang.FormatNumber 0 $d.production_high }} (most sun). For your address, run <a href="https://pvwatts.nlr.gov/" rel="noopener">PVWatts</a> for a 1 kW system and enter its annual kWh.</p>
         </div>
         <div class="field">
           <label for="panel">Panel wattage</label>
           <div class="unit"><input id="panel" name="panel" type="number" inputmode="decimal" min="100" max="800" step="5" value="{{ $d.panel_watts }}"><span>W</span></div>
-          <p class="hint">Our assumption. Use the wattage on your quote or the panel datasheet.</p>
+          <p class="hint">Our assumption. Use the wattage on your quote.</p>
         </div>
-      </fieldset>
+      </details>
     {{ else }}
       <fieldset>
-        <legend>1. The system</legend>
-        <div class="field">
-          <label for="kw">System size</label>
-          <div class="unit"><input id="kw" name="kw" type="number" inputmode="decimal" min="0" step="0.1" value="7"><span>kW</span></div>
-          <p class="hint">From your quote, or from the <a href="/solar-system-size-calculator/">system size calculator</a>.</p>
-        </div>
-        <div class="field">
-          <label for="ppw">Installed price per watt</label>
-          <div class="unit"><span>$</span><input id="ppw" name="ppw" type="number" inputmode="decimal" min="0" step="0.01" value="{{ $d.price_per_watt }}"><span>/ W</span></div>
-          <p class="hint">Default is the EnergySage median for the first half of 2026. Use your quote: total price ÷ watts. With a loan, use the total of all payments.</p>
-        </div>
-        <div class="field">
-          <label for="incent">Incentives you have confirmed <span class="opt">(optional)</span></label>
-          <div class="unit"><span>$</span><input id="incent" name="incent" type="number" inputmode="decimal" min="0" step="100" value="0"></div>
-          <p class="hint">State, utility or local only. The 30% federal credit does not apply to homeowner-owned systems installed after 2025.</p>
-        </div>
-        <div class="field">
-          <label for="prod">Yearly output per kW of panels</label>
-          <div class="unit"><input id="prod" name="prod" type="number" inputmode="decimal" min="300" max="2500" step="25" value="{{ $d.production_per_kw }}"><span>kWh / kW</span></div>
-          <p class="hint">Default is NREL's U.S. mean; the range is about {{ lang.FormatNumber 0 $d.production_low }} to {{ lang.FormatNumber 0 $d.production_high }}. Run <a href="https://pvwatts.nlr.gov/" rel="noopener">PVWatts</a> for your address.</p>
-        </div>
-      </fieldset>
-      <fieldset>
-        <legend>2. Your electricity</legend>
-        <div class="field">
-          <label for="state">State</label>
-          <select id="state" name="state">
-            <option value="" data-rate="{{ site.Data.eia_prices.us.y2026 }}">U.S. average</option>
-            {{- range $s := site.Data.states }}{{ $p := index site.Data.eia_prices.states $s.slug }}{{ with $p }}
-            <option value="{{ $s.slug }}" data-rate="{{ .y2026 }}">{{ $s.name }}</option>{{ end }}{{ end }}
-          </select>
-          <p class="hint">Fills in the rate below with the EIA state average for July 2026.</p>
-        </div>
-        <div class="field">
-          <label for="rate">Electric rate</label>
-          <div class="unit"><input id="rate" name="rate" type="number" inputmode="decimal" min="0" step="0.1" value="{{ site.Data.eia_prices.us.y2026 }}"><span>¢ / kWh</span></div>
-          <p class="hint">Better: the per-kWh charges on your own bill. State averages include fixed monthly charges, which solar usually does not reduce.</p>
-        </div>
-        <div class="field">
-          <label for="use">Your yearly electricity use <span class="opt">(optional)</span></label>
-          <div class="unit"><input id="use" name="use" type="number" inputmode="decimal" min="0" step="100" placeholder="leave blank to skip"><span>kWh / year</span></div>
-          <p class="hint">If the system makes more than you use, we give the surplus no value under net metering.</p>
-        </div>
-      </fieldset>
-      <fieldset>
-        <legend>3. How your utility credits solar</legend>
-        <div class="field">
-          <div class="seg" role="radiogroup" aria-label="Billing arrangement">
-            <label><input type="radio" name="mode" value="nem" checked> <span>Net metering (full retail)</span></label>
-            <label><input type="radio" name="mode" value="nb"> <span>Net billing (lower export credit)</span></label>
+        <legend>The system</legend>
+        <div class="field-row">
+          <div class="field">
+            <label for="kw">System size</label>
+            <div class="unit"><input id="kw" name="kw" type="number" inputmode="decimal" min="0" step="0.1" value="7"><span>kW</span></div>
           </div>
-          <p class="hint">Check your utility's solar tariff. This choice can move payback by years. See <a href="/posts/net-metering-state-guide/">our net metering guide</a>.</p>
+          <div class="field">
+            <label for="ppw">Price per watt</label>
+            <div class="unit"><span>$</span><input id="ppw" name="ppw" type="number" inputmode="decimal" min="0" step="0.01" value="{{ $d.price_per_watt }}"><span>/ W</span></div>
+          </div>
+          <p class="hint hint-wide">Total price: <strong id="price-out"></strong>. The default is the EnergySage median for the first half of 2026. From a quote, divide total price by watts. Don't know the size? <a href="/solar-system-size-calculator/">Estimate it</a>.</p>
+        </div>
+        <div class="field">
+          <label for="incent">Confirmed incentives <span class="opt">(optional)</span></label>
+          <div class="unit"><span>$</span><input id="incent" name="incent" type="number" inputmode="decimal" min="0" step="100" value="0"></div>
+          <p class="hint">State, utility or local only. The 30% federal credit ended for systems installed after 2025.</p>
+        </div>
+      </fieldset>
+      <fieldset>
+        <legend>Your electricity</legend>
+        <div class="field-row">
+          <div class="field">
+            <label for="state">State</label>
+            <select id="state" name="state">
+              <option value="" data-rate="{{ $us }}">U.S. average</option>
+              {{- range $s := site.Data.states }}{{ with index site.Data.eia_prices.states $s.slug }}
+              <option value="{{ $s.slug }}" data-rate="{{ .y2026 }}">{{ $s.name }}</option>{{ end }}{{ end }}
+            </select>
+          </div>
+          <div class="field">
+            <label for="rate">Electric rate</label>
+            <div class="unit"><input id="rate" name="rate" type="number" inputmode="decimal" min="0" step="0.1" value="{{ $us }}"><span>¢ / kWh</span></div>
+          </div>
+          <p class="hint hint-wide">Picking a state fills in its EIA average for July 2026. The per-kWh charges on your own bill are better: averages include fixed charges that solar usually does not reduce.</p>
+        </div>
+      </fieldset>
+      <fieldset>
+        <legend>How your utility credits solar</legend>
+        <div class="field">
+          <div class="seg seg-full" role="radiogroup" aria-label="Billing arrangement">
+            <label><input type="radio" name="mode" value="nem" checked> <span>Net metering<small>Exports credited at the full rate</small></span></label>
+            <label><input type="radio" name="mode" value="nb"> <span>Net billing<small>Exports credited at a lower rate</small></span></label>
+          </div>
+          <p class="hint">This choice can move payback by years. Check your utility's solar tariff or <a href="/posts/net-metering-state-guide/">our state guide</a>.</p>
         </div>
         <div class="field" data-show="nb" hidden>
           <label for="self">Share of solar used in the home</label>
-          <div class="unit"><input id="self" name="self" type="number" inputmode="decimal" min="0" max="100" step="5" value="{{ $d.self_use }}"><span>%</span></div>
+          <div class="slider">
+            <input type="range" id="self-r" data-for="self" min="0" max="100" step="5" value="{{ $d.self_use }}" aria-label="Share of solar used in the home">
+            <div class="unit unit-sm"><input id="self" name="self" type="number" inputmode="decimal" min="0" max="100" step="5" value="{{ $d.self_use }}"><span>%</span></div>
+          </div>
           <p class="hint">Our illustration. Ask your installer for an estimate from your usage data.</p>
         </div>
         <div class="field" data-show="nb" hidden>
           <label for="exp">Export credit rate</label>
           <div class="unit"><input id="exp" name="exp" type="number" inputmode="decimal" min="0" step="0.1" value="{{ $d.export_rate }}"><span>¢ / kWh</span></div>
-          <p class="hint">Our illustration. Use the figure in your utility's tariff. It rises with the rate growth below; regulators can also cut it.</p>
+          <p class="hint">Our illustration. Use the figure in your utility's tariff. It rises with rate growth here; regulators can also cut it.</p>
         </div>
       </fieldset>
-      <fieldset>
-        <legend>4. Assumptions over time</legend>
+      <details class="calc-adv">
+        <summary><span>Assumptions</span><span class="adv-sum" id="adv-sum"></span></summary>
+        <div class="field">
+          <label for="prod">Yearly output per kW of panels</label>
+          <div class="unit"><input id="prod" name="prod" type="number" inputmode="decimal" min="300" max="2500" step="25" value="{{ $d.production_per_kw }}"><span>kWh / kW</span></div>
+          <p class="hint">NREL's U.S. mean; the range is about {{ lang.FormatNumber 0 $d.production_low }} to {{ lang.FormatNumber 0 $d.production_high }}. Run <a href="https://pvwatts.nlr.gov/" rel="noopener">PVWatts</a> for your address.</p>
+        </div>
         <div class="field-row">
           <div class="field">
             <label for="deg">Panel output loss</label>
@@ -144,6 +152,7 @@
             <label for="esc">Rate growth</label>
             <div class="unit"><input id="esc" name="esc" type="number" inputmode="decimal" min="-5" max="10" step="0.5" value="{{ $d.rate_growth }}"><span>% / yr</span></div>
           </div>
+          <p class="hint hint-wide">Output loss is NREL's median. Rate growth is our assumption, not a forecast.</p>
         </div>
         <div class="field-row">
           <div class="field">
@@ -155,18 +164,27 @@
             <div class="unit"><span>$</span><input id="upkeep" name="upkeep" type="number" inputmode="decimal" min="0" step="10" value="0"><span>/ yr</span></div>
           </div>
         </div>
-        <p class="hint">Output loss is NREL's median. Rate growth is our assumption, not a forecast; try 0% to see the result if rates stay flat.</p>
-      </fieldset>
+        <div class="field">
+          <label for="use">Your yearly electricity use <span class="opt">(optional)</span></label>
+          <div class="unit"><input id="use" name="use" type="number" inputmode="decimal" min="0" step="100" placeholder="blank = no limit"><span>kWh / year</span></div>
+          <p class="hint">Under net metering, output beyond your own use is given no value.</p>
+        </div>
+      </details>
     {{ end }}
     </div>
 
-    <div class="calc-results" aria-live="polite">
-      <h2>Your estimate</h2>
-      <div id="out"><p class="calc-empty">Enter your figures to see an estimate.</p></div>
-      <p class="calc-note">An estimate from the inputs shown, not a quote, a forecast or a promise of savings. <a href="#how-it-works">How it is calculated</a>.</p>
+    <div class="calc-results" id="results" aria-live="polite">
+      <div id="out"></div>
+      <div class="calc-actions">
+        <button type="button" class="link-btn" id="copy-link">Copy link to this estimate</button>
+        <button type="button" class="link-btn" id="calc-reset">Reset</button>
+      </div>
+      <p class="calc-note">An estimate from the figures entered, not a quote or a promise of savings. {{ with .Params.lastVerified }}Defaults verified {{ (time .).Format "Jan 2, 2006" }}. {{ end }}<a href="#how-it-works">How it is calculated</a>.</p>
     </div>
   </form>
   </div>
+
+  <a class="calc-bar" id="calc-bar" href="#results" hidden><span><small id="bar-k"></small><strong id="bar-v"></strong></span><span class="calc-bar-go">Details ↓</span></a>
 
   <div class="post-body" id="how-it-works">
     {{ .Content }}
@@ -181,6 +199,6 @@
     {{ end }}
   </div>
 </article>
-<script>window.SE_CALC = {{ dict "ppw" $d.price_per_watt "usRate" (float site.Data.eia_prices.us.y2026) | jsonify | safeJS }};</script>
+<script>window.SE_CALC = {{ dict "ppw" $d.price_per_watt "usRate" (float $us) | jsonify | safeJS }};</script>
 <script src="/js/calculators.js" defer></script>
 {{ end }}
