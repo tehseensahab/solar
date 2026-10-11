@@ -17,8 +17,11 @@
   {{ partial "footer.html" . }}
   <script>
   (function () {
-    var nav = document.querySelector(".nav-strip .wrap"), cur = nav && nav.querySelector("a.active");
-    if (cur && nav.scrollWidth > nav.clientWidth) nav.scrollLeft = cur.offsetLeft - (nav.clientWidth - cur.offsetWidth) / 2;
+    var nav = document.querySelector(".nav-strip"), mb = document.getElementById("menu-toggle");
+    if (!nav || !mb) return;
+    function set(open) { nav.classList.toggle("open", open); mb.setAttribute("aria-expanded", open ? "true" : "false"); }
+    mb.addEventListener("click", function () { set(!nav.classList.contains("open")); });
+    document.addEventListener("keydown", function (e) { if (e.key === "Escape") set(false); });
   })();
   (function () {
     var root = document.documentElement, btn = document.getElementById("theme-toggle");

@@ -67,6 +67,10 @@ a:focus-visible { outline: 2px solid var(--teal); outline-offset: 2px; }
 .masthead .brand-tag { display: block; font-size: .82rem; color: var(--ink-soft); margin-top: 2px; font-style: italic; }
 .nav-strip { border-top: 1px solid var(--line); }
 .nav-strip .wrap { position: relative; display: flex; justify-content: center; flex-wrap: wrap; gap: 8px 32px; padding: 12px 64px; }
+.nav-links { display: contents; }
+.menu-toggle { -webkit-appearance: none; appearance: none; display: none; align-items: center; gap: 8px; height: 44px; margin: 4px 0; padding: 0 12px 0 0; border: 0; background: none; color: var(--ink); font: 600 .95rem var(--font-sans); cursor: pointer; }
+.menu-toggle svg { width: 22px; height: 22px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; }
+.menu-toggle:focus-visible { outline: 2px solid var(--teal); outline-offset: 2px; }
 .nav-strip a { font-size: .92rem; font-weight: 600; color: var(--ink-soft); padding-bottom: 3px; border-bottom: 2px solid transparent; }
 .nav-strip a:hover, .nav-strip a.active { color: var(--teal); border-color: var(--gold); }
 
@@ -346,12 +350,17 @@ a:focus-visible { outline: 2px solid var(--teal); outline-offset: 2px; }
 
 /* phones: one-row scrolling menu, and tidier calculators hub */
 @media (max-width: 760px) {
-  .nav-strip { position: relative; }
-  .nav-strip .wrap { position: static; display: block; white-space: nowrap; padding: 0 60px 0 16px; overflow-x: auto; overflow-y: hidden; scrollbar-width: none; -webkit-overflow-scrolling: touch; }
-  .nav-strip .wrap::-webkit-scrollbar { display: none; }
-  .nav-strip a { display: inline-block; white-space: nowrap; padding: 13px 0 10px; margin-right: 22px; }
-  .nav-strip a:last-of-type { margin-right: 0; }
-  .theme-toggle { position: absolute; right: 0; top: 0; bottom: 0; transform: none; width: 52px; height: 100%; margin: 0; border: 0; border-left: 1px solid var(--line); border-radius: 0; box-shadow: -14px 0 14px -6px var(--bg); }
+  .nav-strip .wrap { justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 0; padding: 0 8px 0 16px; }
+  .theme-toggle { position: static; transform: none; order: 2; width: 44px; height: 44px; margin: 4px 0; }
+  /* The menu button only appears when scripts run (data-theme is set by script); otherwise the links stay visible. */
+  :root[data-theme] .menu-toggle { display: inline-flex; order: 1; }
+  :root[data-theme] .nav-links { display: none; }
+  :root[data-theme] .nav-strip.open .nav-links { display: grid; }
+  .nav-links { order: 3; flex: 0 0 100%; display: grid; grid-template-columns: 1fr 1fr; gap: 0 16px; padding: 4px 0 12px; border-top: 1px solid var(--line); }
+  .nav-links a { padding: 13px 0 11px; border-bottom: 1px solid var(--line); font-size: 1rem; }
+  .nav-links a:hover, .nav-links a.active { border-bottom-color: var(--gold); }
+  .nav-strip.open .m-open, .menu-toggle .m-close { display: none; }
+  .nav-strip.open .m-close { display: block; }
   .page-head { padding: 28px 20px 6px; }
   .page-head h1 { font-size: 1.8rem; }
   .page-head .lead { font-size: 1.02rem; }
