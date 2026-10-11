@@ -5,11 +5,12 @@
 </div>
 <section class="section wrap">
   <div class="calc-hub">
-    {{ range slice "/solar-system-size-calculator" "/solar-payback-calculator" }}{{ with site.GetPage . }}
+    {{ range $i, $path := slice "/solar-system-size-calculator" "/solar-payback-calculator" }}{{ with site.GetPage $path }}
     <a class="cat-card calc-hub-card" href="{{ .RelPermalink }}">
+      <span class="calc-hub-step">Step {{ add $i 1 }}</span>
       <h2>{{ .Title }}</h2>
       <p>{{ .Description }}</p>
-      <span class="calc-hub-go">Open calculator →</span>
+      <span class="btn btn-primary calc-hub-go">Open calculator →</span>
     </a>
     {{ end }}{{ end }}
   </div>

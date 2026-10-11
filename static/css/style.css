@@ -295,10 +295,13 @@ a:focus-visible { outline: 2px solid var(--teal); outline-offset: 2px; }
 .calc-years summary { cursor: pointer; font-weight: 600; font-size: .84rem; color: var(--teal); }
 .calc-years > table { display: block; overflow-x: auto; max-height: 320px; overflow-y: auto; }
 .calc-bar { display: none; }
-.calc-hub { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 22px; }
+.calc-hub { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr)); gap: 22px; }
+.calc-hub-card { display: flex; flex-direction: column; align-items: flex-start; padding: 24px; }
+.calc-hub-step { font-size: .75rem; font-weight: 600; text-transform: uppercase; letter-spacing: .05em; color: var(--teal); margin-bottom: 8px; }
 .calc-hub-card h2 { font-size: 1.3rem; }
-.calc-hub-card p { color: var(--ink-soft); margin: 0 0 14px; }
-.calc-hub-go { font-weight: 600; color: var(--teal); }
+.calc-hub-card p { color: var(--ink-soft); margin: 0 0 20px; }
+.calc-hub-go { margin-top: auto; padding: 11px 20px; font-size: .95rem; text-align: center; }
+.calc-hub-card:hover .calc-hub-go { border-color: var(--gold); }
 .calc-hub-note { color: var(--ink-soft); margin: 24px 0 0; }
 .calc-hub-note a { color: var(--teal); text-decoration: underline; }
 @media (max-width: 860px) {
@@ -339,3 +342,18 @@ a:focus-visible { outline: 2px solid var(--teal); outline-offset: 2px; }
   .calc .seg-full { flex-direction: column; }
 }
 @media (prefers-reduced-motion: reduce) { .cover-track i, .calc .unit, .calc .seg span { transition: none; } }
+
+/* phones: one-row scrolling menu, and tidier calculators hub */
+@media (max-width: 760px) {
+  .nav-strip .wrap { justify-content: flex-start; flex-wrap: nowrap; align-items: center; gap: 0 22px; padding: 0 0 0 16px; overflow-x: auto; scrollbar-width: none; -webkit-overflow-scrolling: touch; }
+  .nav-strip .wrap::-webkit-scrollbar { display: none; }
+  .nav-strip a { flex: none; white-space: nowrap; padding: 13px 0 10px; }
+  .theme-toggle { position: sticky; right: 0; top: auto; transform: none; flex: none; margin-left: auto; width: 52px; height: 48px; border: 0; border-left: 1px solid var(--line); border-radius: 0; box-shadow: -14px 0 14px -6px var(--bg); }
+  .page-head { padding: 28px 20px 6px; }
+  .page-head h1 { font-size: 1.8rem; }
+  .page-head .lead { font-size: 1.02rem; }
+  .calc-hub { gap: 16px; }
+  .calc-hub-card { padding: 20px; }
+  .calc-hub-go { align-self: stretch; }
+  .calc-hub-note { font-size: .95rem; }
+}
