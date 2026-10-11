@@ -200,5 +200,5 @@
   </div>
 </article>
 <script>window.SE_CALC = {{ dict "ppw" $d.price_per_watt "usRate" (float $us) | jsonify | safeJS }};</script>
-<script src="/js/calculators.js" defer></script>
+<script src="/js/calculators.js?v={{ now.Unix }}" defer></script>
 {{ end }}
