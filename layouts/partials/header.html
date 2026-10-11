@@ -8,6 +8,7 @@
       {{- range site.Menus.main }}
       {{- $exact := eq .URL "/" }}
       {{- $active := cond $exact (eq $.RelPermalink .URL) (hasPrefix $.RelPermalink .URL) }}
+      {{- if and $.Params.calculator (eq .URL "/calculators/") }}{{ $active = true }}{{ end }}
       <a href="{{ .URL }}"{{ if $active }} class="active" aria-current="page"{{ end }}>{{ .Name }}</a>
       {{- end }}
       <button type="button" id="theme-toggle" class="theme-toggle" aria-pressed="false" aria-label="Switch to dark mode">
