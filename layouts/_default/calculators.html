@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="wrap page-head">
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}
+</div>
+<section class="section wrap">
+  <div class="calc-hub">
+    {{ range slice "/solar-system-size-calculator" "/solar-payback-calculator" }}{{ with site.GetPage . }}
+    <a class="cat-card calc-hub-card" href="{{ .RelPermalink }}">
+      <h2>{{ .Title }}</h2>
+      <p>{{ .Description }}</p>
+      <span class="calc-hub-go">Open calculator →</span>
+    </a>
+    {{ end }}{{ end }}
+  </div>
+  <p class="calc-hub-note">Start with system size. It passes your result to the payback calculator. Both give estimates from the figures you enter, not quotes. See our <a href="/methodology/">methodology</a>.</p>
+</section>
+{{ end }}
