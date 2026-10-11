@@ -61,3 +61,14 @@
 {{- end }}
 <script type="application/ld+json">{{ dict "@context" "https://schema.org" "@graph" $graph | jsonify | safeJS }}</script>
 {{- end }}
+
+{{- if .Params.calculator }}
+{{- $app := dict "@type" "WebApplication" "name" .Title "url" .Permalink "description" $desc "applicationCategory" "FinanceApplication" "operatingSystem" "Any" "isAccessibleForFree" true "offers" (dict "@type" "Offer" "price" "0" "priceCurrency" "USD") "publisher" $publisher "inLanguage" "en-US" }}
+{{- $cgraph := slice $app (dict "@type" "BreadcrumbList" "itemListElement" (slice (dict "@type" "ListItem" "position" 1 "name" "Home" "item" $home) (dict "@type" "ListItem" "position" 2 "name" "Calculators" "item" (absURL "calculators/")) (dict "@type" "ListItem" "position" 3 "name" .Title "item" .Permalink))) }}
+{{- with .Params.faq }}
+{{- $qs := slice }}
+{{- range . }}{{ $qs = $qs | append (dict "@type" "Question" "name" .q "acceptedAnswer" (dict "@type" "Answer" "text" .a)) }}{{ end }}
+{{- $cgraph = $cgraph | append (dict "@type" "FAQPage" "mainEntity" $qs) }}
+{{- end }}
+<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@graph" $cgraph | jsonify | safeJS }}</script>
+{{- end }}

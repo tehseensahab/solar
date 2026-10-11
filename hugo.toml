@@ -29,6 +29,11 @@ copyright = "Solar Examiner"
   weight = 20
 
 [[menu.main]]
+  name = "Calculators"
+  url = "/calculators/"
+  weight = 25
+
+[[menu.main]]
   name = "Electric Rates"
   url = "/categories/electric-rates/"
   weight = 30

@@ -1,0 +1,13 @@
+# Default inputs for the calculators. Every figure is editable by the reader.
+# Update the value, source and date together.
+verified: "2026-10-11"
+price_per_watt: 2.57        # EnergySage median, H1 2026, before incentives
+production_per_kw: 1375     # NREL ATB 2024 residential PV mean DC capacity factor 15.7% x 8,760 h
+production_low: 1113        # NREL ATB 2024 class 10 (12.7%)
+production_high: 1717       # NREL ATB 2024 class 1 (19.6%)
+degradation: 0.5            # % a year, NREL median
+rate_growth: 2              # % a year, our assumption
+years: 25                   # NREL: panel warranties typically 20 to 25 years
+panel_watts: 400            # our assumption; use the wattage on your quote
+self_use: 50                # % used on site under net billing, our illustration
+export_rate: 7              # cents/kWh under net billing, our illustration
