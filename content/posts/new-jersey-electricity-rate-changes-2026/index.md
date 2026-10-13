@@ -89,6 +89,7 @@ Rules checked October 5, 2026. Solar tariffs change, so confirm the current term
 
 ## What Happens Next
 
+- **JCP&L rate request (pending):** JCP&L filed on August 7, 2026 for a $253 million base distribution increase plus $476 million in storm costs over 10 years. It estimates +$14.23 a month (about 8.8%) for a 767 kWh residential customer, starting January 2028. Not approved. See [our JCP&L article](/posts/jcpl-rate-increase-request-2026/).
 - The next BGS auction cycle is expected in early 2027, with new supply rates on June 1, 2027. The BPU has not published details yet.
 - PSE&G's reconciliation charges update quarterly, per its tariff page.
 
@@ -106,3 +107,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - PSE&G electric tariffs page: https://nj.pseg.com/aboutpseg/regulatorypage/electrictariffs
 - NJBPU staff presentation, Jurisdictional Survey of NEM Reforms, Stakeholder Workshop 1 (Nov. 19, 2024): https://nj.gov/bpu/pdf/publicnotice/19.11.2024%20Jurisdictional%20Survey%20of%20NEM%20Reforms%20-%20Stakeholder%20Workshop%201%5b1%5d%20%20-%20%20Read-Only.pdf
 - [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- FirstEnergy, JCP&L rate proposal release (Aug. 7, 2026): https://investors.firstenergycorp.com/investor-materials/news-releases/news-details/2026/JCPL-Rate-Proposal-Delays-Bill-Impact-for-Residential-Customers-Until-2028-While-Supporting-Reliability-Investments/default.aspx
