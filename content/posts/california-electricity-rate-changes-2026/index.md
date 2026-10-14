@@ -1,14 +1,16 @@
 ---
 title: "California Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-09-30
+lastVerified: 2026-10-14
 imageAlt: "Aerial view of a suburban neighborhood with solar panels on many rooftops along curving streets."
 imageCredit: "Photo by Shanjir H | Photo4life AU on [Unsplash](https://unsplash.com/photos/aerial-view-of-a-suburban-neighborhood-with-houses-and-streets-MXR6DAo8NCo?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
-description: "As of September 29, 2026, PG&E, Southern California Edison and SDG&E have not published an October 1 residential rate change. Here is what is in effect, what to check, and what could still change."
+description: "As of September 29, 2026, no October 1 change had been posted. Update October 14: SCE's advisory now lists an October 1 change, average residential rate 34.4 to 34.5 cents per kWh. Here is what is in effect and what to check."
 readtime: "5 min read"
 author: "Tehseen Arbab"
 weight: 7
 takeaways:
+  - "Update, October 14, 2026: SCE's rate advisory now lists an October 1, 2026 change, moving the average residential rate from 34.4 to 34.5 cents per kWh. The statements below were accurate as of September 29."
   - "No official October 1, 2026 residential rate change had been posted by SCE, PG&E or SDG&E as of September 29, 2026."
   - "SCE's most recent posted change was June 1, 2026: the average residential rate moved from 34.5 to 34.4 cents per kWh, a 0.1% decrease."
   - "PG&E's last residential change was March 1, 2026, a 1.8% decrease for customers who buy both supply and delivery from PG&E."
@@ -21,6 +23,8 @@ faq:
   - q: "Will my rate change if I buy power from a Community Choice Aggregator?"
     a: "Possibly. PG&E says it does not set the generation rates that Community Choice Aggregator and Direct Access providers charge, so those customers should ask their provider."
 ---
+
+**Update, October 14, 2026:** SCE's rate advisory page now lists an October 1, 2026 residential change: the average rate moves from 34.4 to 34.5 cents per kWh, and SCE estimates a typical 500 kWh bill on rate TOU-D-4-9pm rises $2.79 (1.5%). Details are in [our report on the change](/posts/sce-october-2026-rate-change/). The page does not show when SCE posted it. We found no October 1 change posted for PG&E or SDG&E when we last checked on September 29 and have not rechecked them. The text below is unchanged from September 30.
 
 California's three big investor-owned utilities had not announced a residential rate change for October 1, 2026 as of September 29, 2026. That is different from October 2025, when Southern California Edison raised its average residential rate from 31.2 to 35.3 cents per kWh. This article covers what is in effect now and what could still change.
 

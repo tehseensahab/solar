@@ -1,7 +1,7 @@
 ---
 title: "Washington Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
-lastVerified: 2026-10-04
+lastVerified: 2026-10-14
 imageAlt: "Rooftop solar panels in the foreground with wooded hills and blue sky behind."
 imageCredit: "Photo by Aron Schmitz on [Unsplash](https://unsplash.com/photos/solar-panels-on-roof-over-hillside-Fm30OtHVonE?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -97,7 +97,7 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 
 ## What Happens Next
 
-PSE's approved two-year plan covered 2025 and 2026. We did not find the status of its next general rate case.
+PSE's approved two-year plan covered 2025 and 2026. Its next general rate case is pending: on February 27, 2026, PSE asked the UTC for electric increases of 15.2% in 2027, 3.7% in 2028 and 8.7% in 2029. For a typical 800 kWh home, PSE's notice shows the bill rising $28.31 a month at the first step, with the basic charge rising from $7.49 to $12.50. Nothing is approved. See our [report on PSE's rate plan](/posts/pse-rate-plan-2027-2029/). (Updated October 14, 2026.)
 
 ## Limitations
 
