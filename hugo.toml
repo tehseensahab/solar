@@ -94,6 +94,11 @@ copyright = "Solar Examiner"
   weight = 60
 
 [[menu.footer]]
+  name = "Write for us"
+  url = "/write-for-us/"
+  weight = 65
+
+[[menu.footer]]
   name = "Contact"
   url = "/contact/"
   weight = 70
