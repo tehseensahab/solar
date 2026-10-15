@@ -4,6 +4,9 @@ title = "Solar Examiner"
 enableRobotsTXT = true
 copyright = "Solar Examiner"
 
+[services.googleAnalytics]
+  id = "G-HR5GK39X8C"
+
 [pagination]
   pagerSize = 9
 
