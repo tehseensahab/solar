@@ -27,7 +27,7 @@ faq:
 
 Maryland customers on Pepco's default supply saw a real change on October 1, 2026. Pepco's residential standard offer service (SOS) rate, the price you pay for electricity if you have not picked a retail supplier, rose about 11% for the winter period. Separately, Baltimore Gas and Electric (BGE) has a delivery rate increase pending.
 
-This article covers Pepco's Maryland supply rates and BGE's pending distribution case. Delmarva Power, Potomac Edison, SMECO and municipal utilities are not covered.
+This article covers Pepco's Maryland supply rates and BGE's pending distribution case. Potomac Edison's pending request is summarized below. Delmarva Power, SMECO and municipal utilities are not covered.
 
 ## Quick Summary
 
@@ -69,6 +69,10 @@ Maryland's Office of People's Counsel published a consumer guide to BGE's reques
 - **Timing:** early 2027, if approved. Hearing dates had not been announced.
 
 The guide says BGE's distribution rates have risen 58% since 2020.
+
+## Potomac Edison: Pending Distribution Increase
+
+Potomac Edison filed for a $52.8 million distribution increase on September 4, 2026 (Case No. 9904). The company estimates about 5.3% on the average residential bill. It is not approved. See [our Potomac Edison article](/posts/potomac-edison-maryland-rate-request-2026/).
 
 ## Pepco's Delivery Rates
 
@@ -112,3 +116,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [EnergyChoiceMatters, "Pepco-MD Residential, Small Commercial SOS Rates Increasing 11-13% In October," April 22, 2026](http://www.energychoicematters.com/stories/20260422a.html)
 - [Solar United Neighbors, "Net metering in Maryland"](https://solarunitedneighbors.org/resources/net-metering-in-maryland/)
 - [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [FirstEnergy, Potomac Edison rate proposal (last modified Sept. 8, 2026)](https://www.firstenergycorp.com/newsroom/news_articles/pe-proposes-rate-adjustment.html)

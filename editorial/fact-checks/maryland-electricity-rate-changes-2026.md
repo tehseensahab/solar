@@ -13,3 +13,5 @@ SOLAR, SECONDARY (Solar United Neighbors, page modified July 12, 2024): full ret
 OUR MATH: 14.677 - 13.175 = 1.502 c.
 NOT VERIFIED: 2026 legislation effects; utility tariffs.
 COVER: Unsplash photo RDqeSz1cM5E (Tim Mossholder). Generic image; location not verified and not claimed to be in this state.
+
+Oct 15, 2026: added Potomac Edison pending request section (FirstEnergy release; Case 9904 per Hoodline/PowerLines).
