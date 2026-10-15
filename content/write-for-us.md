@@ -1,9 +1,9 @@
 ---
 title: "Write for us"
-description: "How to contribute to Solar Examiner: what we publish, our guest post and sponsored article guidelines, link rules and how to pitch."
+description: "How to publish a sponsored article on Solar Examiner: what we accept, link rules, editorial review and how to pitch. Plus how energy experts can contribute."
 ---
 
-Solar Examiner publishes guest articles and sponsored articles on residential solar, home batteries, electricity rates and consumer energy costs. Our readers are mostly US homeowners and electricity customers, so every piece has to help them make a decision.
+Solar Examiner publishes sponsored articles on residential solar, home batteries, electricity rates and consumer energy costs. Our readers are mostly US homeowners and electricity customers, so every piece has to help them make a decision.
 
 ## What we publish
 
@@ -16,18 +16,22 @@ Pieces that fit one of our sections:
 
 Good topics answer a specific question a homeowner is asking, for example how to read an installer proposal, how a state's export credit works, or how to size a battery for backup.
 
-## Two ways to contribute
+## Sponsored articles
 
-| | Guest article | Sponsored article |
-|---|---|---|
-| Who it suits | Researchers, engineers, energy analysts, writers | Companies that want to reach our readers |
-| Cost | Free | Paid. Email for current rates |
-| Byline | Your name and a short bio | Your name or company |
-| Label | "Guest contributor" | "Sponsored" at the top of the article |
-| Links | Up to 1 link in your bio, `rel="nofollow"` | Up to 2 links, `rel="sponsored"` |
-| Editorial review | Full | Full. Payment does not buy publication or approval of claims |
+| | |
+|---|---|
+| Who it suits | Companies and brands that want to reach US homeowners and electricity customers |
+| Cost | Paid. Email for current rates |
+| Byline | Your name or company |
+| Label | "Sponsored" at the top of the article, before the content |
+| Links | Up to 2 links, marked `rel="sponsored"` |
+| Editorial review | Full. Payment does not buy publication or approval of claims |
 
 All links in paid content are marked `rel="sponsored"`, as search engines require. We do not sell followed links, link insertions into existing articles, or unlabeled placements.
+
+## Energy experts
+
+We occasionally commission articles from utility analysts, engineers, regulators and energy researchers. These pieces carry your name and credentials but no outbound links. Send your credentials and two topics you could cover, not a draft.
 
 ## Article requirements
 
@@ -67,7 +71,6 @@ Email **[editorial@solarexaminer.com](mailto:editorial@solarexaminer.com)** with
 - A proposed headline and the reader question it answers.
 - A 3 to 5 line outline.
 - The main primary sources you will use.
-- Whether it is a guest article or a sponsored article.
 - Two links to work you have published.
 - Any connection to companies mentioned.
 
