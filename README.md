@@ -34,3 +34,8 @@ Covers are processed with `.Fill "1200x630 webp q80"`; a gray placeholder shows 
 5. Every push to `main` redeploys automatically.
 
 No GitHub Actions workflow is needed — Cloudflare Pages builds Hugo natively.
+
+
+## Writers
+
+New articles are bylined **John Marshall** or **Craig Leslie** (they write for all three publications: WiFi Weekly, Solar Examiner and FirewallSync). Pick whichever of the two wrote the piece. Existing articles keep their current bylines.

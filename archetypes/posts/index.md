@@ -3,7 +3,7 @@ title: '{{ replace .File.ContentBaseName "-" " " | title }}'
 description: ""
 date: {{ .Date }}
 draft: true
-author: ""
+author: ""            # "John Marshall" or "Craig Leslie"
 categories: []
 imageAlt: ""
 imageCredit: ""
