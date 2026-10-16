@@ -55,6 +55,8 @@ Delivery charge increases raise the value of the electricity you avoid buying. A
 
 ## What Happens Next?
 
+- **Winter 2026–27 outlook (PSC, October 15, 2026):** full-service residential electric supply bills are expected to be similar to last winter on a statewide average, and gas bills lower. Market-priced electric supply is forecast at about $74 a month for 600 kWh (+4.6%). See [our October session summary](/posts/new-york-psc-october-2026-session/).
+
 The PSC is still reviewing the NYSEG and RG&E rate cases, and news coverage expected a final decision in the coming months. Any final action will include a public comment period. Check the PSC's website for the docket.
 
 **Published:** September 30, 2026
@@ -72,3 +74,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - NYSEG electric temporary rate case summary: https://dps.ny.gov/system/files/documents/2026/05/nyseg-electric-temporary-rate-case-summary_0.pdf
 - Con Edison rate case visual supplement: https://dps.ny.gov/system/files/documents/2026/01/con-edison-rate-case-visual-supplement-electric-gas_0.pdf
 - [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- NY PSC, "Utilities Prepared to Meet Consumer Demand for Electricity and Natural Gas During Winter" (Oct. 15, 2026): https://dps.ny.gov/news/utilities-prepared-meet-consumer-demand-electricity-and-natural-gas-during-winter-1
