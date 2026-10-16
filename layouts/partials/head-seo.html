@@ -6,7 +6,8 @@
 {{- if $isArticle }}{{ with (partial "cover.html" .) }}{{ if .has }}{{ $image = .og.Permalink }}{{ end }}{{ end }}{{ end -}}
 <title>{{ if .IsHome }}{{ site.Title }} — {{ site.Params.tagline }}{{ else }}{{ .Params.seoTitle | default .Title }} · {{ site.Title }}{{ end }}</title>
 <meta name="description" content="{{ $desc }}">
-{{ if eq .Kind "404" }}<meta name="robots" content="noindex">{{ else if hasPrefix .RelPermalink "/tags/" }}<meta name="robots" content="noindex, follow">{{ else }}<link rel="canonical" href="{{ .Permalink }}">{{ end }}
+{{ if eq .Kind "404" }}<meta name="robots" content="noindex">{{ else if hasPrefix .RelPermalink "/tags/" }}<meta name="robots" content="noindex, follow">{{ else }}<link rel="canonical" href="{{ .Permalink }}">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">{{ end }}
 <meta property="og:site_name" content="{{ site.Title }}">
 <meta property="og:title" content="{{ .Title }}">
 <meta property="og:description" content="{{ $desc }}">
@@ -37,7 +38,7 @@
 <link rel="icon" href="/favicon.ico" sizes="48x48">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-{{- $publisher := dict "@type" "NewsMediaOrganization" "@id" (printf "%s#organization" $home) "name" site.Title "url" $home "description" site.Params.description "publishingPrinciples" (absURL "editorial-policy/") "correctionsPolicy" (absURL "corrections/") "ownershipFundingInfo" (absURL "affiliate-disclosure/") "email" site.Params.email "contactPoint" (dict "@type" "ContactPoint" "contactType" "editorial" "email" site.Params.email "url" (absURL "contact/")) }}
+{{- $publisher := dict "@type" "NewsMediaOrganization" "@id" (printf "%s#organization" $home) "name" site.Title "url" $home "logo" (dict "@type" "ImageObject" "url" (absURL "icon-512.png") "width" 512 "height" 512) "description" site.Params.description "publishingPrinciples" (absURL "editorial-policy/") "correctionsPolicy" (absURL "corrections/") "ownershipFundingInfo" (absURL "affiliate-disclosure/") "email" site.Params.email "contactPoint" (dict "@type" "ContactPoint" "contactType" "editorial" "email" site.Params.email "url" (absURL "contact/")) }}
 {{- if .IsHome }}
 <script type="application/ld+json">{{ dict "@context" "https://schema.org" "@graph" (slice (dict "@type" "WebSite" "name" site.Title "url" $home "description" site.Params.description "publisher" $publisher) $publisher) | jsonify | safeJS }}</script>
 {{- end }}
@@ -46,7 +47,8 @@
 {{- $author := $publisher }}
 {{- $author = dict "@type" "Organization" "name" site.Params.author "url" (absURL "about/") }}
 {{- with .Params.author }}{{ $author = dict "@type" "Person" "name" . }}{{ end }}
-{{- $article := dict "@type" "Article" "headline" .Title "description" $desc "url" .Permalink "mainEntityOfPage" .Permalink "image" (slice $image) "datePublished" (.Date.Format $iso) "dateModified" (.Lastmod.Format $iso) "author" $author "publisher" $publisher "inLanguage" "en-US" "isAccessibleForFree" true "publishingPrinciples" (absURL "editorial-policy/") "isPartOf" (dict "@type" "WebSite" "name" site.Title "url" $home) "speakable" (dict "@type" "SpeakableSpecification" "cssSelector" (slice ".post-head .lead" ".takeaways")) }}
+{{- $isNews := false }}{{ with $cat }}{{ $isNews = eq (lower .LinkTitle) "news" }}{{ end }}
+{{- $article := dict "@type" (cond $isNews "NewsArticle" "Article") "headline" .Title "description" $desc "url" .Permalink "mainEntityOfPage" .Permalink "image" (slice $image) "datePublished" (.Date.Format $iso) "dateModified" (.Lastmod.Format $iso) "author" $author "publisher" $publisher "inLanguage" "en-US" "isAccessibleForFree" true "publishingPrinciples" (absURL "editorial-policy/") "isPartOf" (dict "@type" "WebSite" "name" site.Title "url" $home) "speakable" (dict "@type" "SpeakableSpecification" "cssSelector" (slice ".post-head .lead" ".takeaways")) }}
 {{- with .Params.tags }}{{ $article = merge $article (dict "keywords" (delimit . ", ")) }}{{ end }}
 {{- with .Params.lastVerified }}{{ $article = merge $article (dict "temporalCoverage" ((time .).Format "2006-01-02")) }}{{ end }}
 {{- with $cat }}{{ $article = merge $article (dict "articleSection" .LinkTitle) }}{{ end }}
