@@ -1,0 +1,10 @@
+# Staff writers: shown on the About page and linked from bylines.
+# url: LinkedIn or personal profile (used as schema.org sameAs). Leave empty until known.
+"John Marshall":
+  role: "Researcher and writer"
+  bio: "John Marshall researches and writes about electricity rates, rate cases and solar incentives for Solar Examiner. He works from utility tariffs, regulator filings and agency data, and dates every figure he reports."
+  url: ""
+"Craig Leslie":
+  role: "Researcher and writer"
+  bio: "Craig Leslie researches and writes about residential and community solar for Solar Examiner, from equipment to costs and policy. He checks each figure against its original source before publication and notes when a number is an estimate or still changing."
+  url: ""

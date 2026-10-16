@@ -20,7 +20,11 @@ Every article opens with the short answer, then shows the evidence. We rely on p
 
 ## Who writes it
 
-Articles carry the name of the writer. Pieces without a named writer appear under the SolarExaminer Editorial Team.
+Articles carry the name of the writer. Our writers:
+
+{{< writers >}}
+
+Pieces without a named writer appear under the SolarExaminer Editorial Team.
 
 ## Money and independence
 
