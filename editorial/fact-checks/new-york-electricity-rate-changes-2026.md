@@ -14,3 +14,5 @@ Not published. Lives outside content/.
 | Con Edison 2026-2028 plan, February 2026 start | DPS visual supplement | Verified in title and notes; dollar figures NOT captured |
 | National Grid, Central Hudson, O&R | Not researched | NOT covered |
 | Energy service company supply pricing | Not researched | NOT verified |
+
+Oct 16, 2026: added PSC winter outlook bullet (Oct 15 release).
