@@ -1,15 +1,20 @@
 {{- $desc := .Description | default site.Params.description -}}
 {{- $home := site.Home.Permalink -}}
 {{- $iso := "2006-01-02T15:04:05Z07:00" -}}
-{{- $isArticle := and (eq .Type "posts") .IsPage -}}
+{{- $isPost := and (eq .Type "posts") .IsPage -}}
+{{- $isHub := and $isPost (eq .Layout "state-hub") -}}
+{{- $isArticle := and $isPost (not $isHub) -}}
+{{- $hub := dict -}}
+{{- $ogTitle := .Title -}}
+{{- if $isHub }}{{ $hub = partial "state/ctx.html" . }}{{ with $hub.d }}{{ $ogTitle = printf "%s Electricity Rates & Solar: Prices, Net Metering, Incentives" .name }}{{ with .summary }}{{ $desc = partial "state/md.html" (dict "text" . "ctx" $hub) | plainify | htmlUnescape }}{{ end }}{{ end }}{{ end -}}
 {{- $image := absURL site.Params.ogDefault -}}
-{{- if $isArticle }}{{ with (partial "cover.html" .) }}{{ if .has }}{{ $image = .og.Permalink }}{{ end }}{{ end }}{{ end -}}
-<title>{{ if .IsHome }}{{ site.Title }} — {{ site.Params.tagline }}{{ else }}{{ .Params.seoTitle | default .Title }} · {{ site.Title }}{{ end }}</title>
+{{- if $isPost }}{{ with (partial "cover.html" .) }}{{ if .has }}{{ $image = .og.Permalink }}{{ end }}{{ end }}{{ end -}}
+<title>{{ if .IsHome }}{{ site.Title }} — {{ site.Params.tagline }}{{ else if $isHub }}{{ $ogTitle }} · {{ site.Title }}{{ else }}{{ .Params.seoTitle | default .Title }} · {{ site.Title }}{{ end }}</title>
 <meta name="description" content="{{ $desc }}">
-{{ if eq .Kind "404" }}<meta name="robots" content="noindex">{{ else if hasPrefix .RelPermalink "/tags/" }}<meta name="robots" content="noindex, follow">{{ else }}<link rel="canonical" href="{{ .Permalink }}">
+{{ if eq .Kind "404" }}<meta name="robots" content="noindex">{{ else if or (hasPrefix .RelPermalink "/tags/") (hasPrefix .RelPermalink "/states/") }}<meta name="robots" content="noindex, follow">{{ else }}<link rel="canonical" href="{{ .Permalink }}">
 <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">{{ end }}
 <meta property="og:site_name" content="{{ site.Title }}">
-<meta property="og:title" content="{{ .Title }}">
+<meta property="og:title" content="{{ $ogTitle }}">
 <meta property="og:description" content="{{ $desc }}">
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:type" content="{{ if $isArticle }}article{{ else }}website{{ end }}">
@@ -17,10 +22,10 @@
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:title" content="{{ $ogTitle }}">
 <meta name="twitter:description" content="{{ $desc }}">
 <meta name="twitter:image" content="{{ $image }}">
-<meta name="author" content="{{ if $isArticle }}{{ .Params.author | default site.Params.author }}{{ else }}{{ site.Params.author }}{{ end }}">
+<meta name="author" content="{{ if $isPost }}{{ .Params.author | default site.Params.author }}{{ else }}{{ site.Params.author }}{{ end }}">
 {{- if $isArticle }}
 <meta property="article:published_time" content="{{ .Date.Format $iso }}">
 <meta property="article:modified_time" content="{{ .Lastmod.Format $iso }}">
@@ -63,6 +68,21 @@
 {{- end }}
 <script type="application/ld+json">{{ dict "@context" "https://schema.org" "@graph" $graph | jsonify | safeJS }}</script>
 {{- end }}
+
+{{- if $isHub }}{{ with $hub.d }}
+{{- $name := .name }}
+{{- $rates := absURL "rates-by-state/" }}
+{{- $crumbs := slice (dict "@type" "ListItem" "position" 1 "name" "Home" "item" $home) (dict "@type" "ListItem" "position" 2 "name" "Rates by State" "item" $rates) (dict "@type" "ListItem" "position" 3 "name" $name "item" $.Permalink) }}
+{{- $crumbId := printf "%s#breadcrumb" $.Permalink }}
+{{- $wp := dict "@type" "WebPage" "@id" (printf "%s#webpage" $.Permalink) "url" $.Permalink "name" $ogTitle "headline" $ogTitle "description" $desc "inLanguage" "en-US" "datePublished" ($.Date.Format $iso) "dateModified" ($hub.refreshed.Format $iso) "primaryImageOfPage" (dict "@type" "ImageObject" "url" $image) "isPartOf" (dict "@type" "WebSite" "name" site.Title "url" $home) "publisher" $publisher "breadcrumb" (dict "@id" $crumbId) "about" (dict "@type" "State" "name" $name "containedInPlace" (dict "@type" "Country" "name" "United States")) "speakable" (dict "@type" "SpeakableSpecification" "cssSelector" (slice ".hub-summary" ".hub-updated")) }}
+{{- $graph := slice $wp (dict "@type" "BreadcrumbList" "@id" $crumbId "itemListElement" $crumbs) }}
+{{- with partial "state/faq.html" $ }}
+{{- $qs := slice }}
+{{- range . }}{{ $qs = $qs | append (dict "@type" "Question" "name" .q "acceptedAnswer" (dict "@type" "Answer" "text" .a)) }}{{ end }}
+{{- $graph = $graph | append (dict "@type" "FAQPage" "mainEntity" $qs) }}
+{{- end }}
+<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@graph" $graph | jsonify | safeJS }}</script>
+{{- end }}{{ end }}
 
 {{- if .Params.calculator }}
 {{- $app := dict "@type" "WebApplication" "name" .Title "url" .Permalink "description" $desc "applicationCategory" "FinanceApplication" "operatingSystem" "Any" "isAccessibleForFree" true "offers" (dict "@type" "Offer" "price" "0" "priceCurrency" "USD") "publisher" $publisher "inLanguage" "en-US" }}

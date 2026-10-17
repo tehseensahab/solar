@@ -1,11 +1,14 @@
-{{- /* Tag pages are thin single-article lists: keep them out of the sitemap (they are also noindex,follow in head-seo.html). */ -}}
+{{- /* Tag and state-term pages are thin lists: keep them out of the sitemap (they are noindex,follow in head-seo.html).
+       State hubs use their data refresh date (data/states/<slug>.yaml `refreshed`) as lastmod. */ -}}
 {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   {{- range .Data.Pages }}
-  {{- if and .Permalink (not (hasPrefix .RelPermalink "/tags/")) }}
+  {{- if and .Permalink (not (hasPrefix .RelPermalink "/tags/")) (not (hasPrefix .RelPermalink "/states/")) }}
+  {{- $lm := .Lastmod }}
+  {{- if and (eq .Type "posts") (eq .Layout "state-hub") }}{{ with partial "state/ctx.html" . }}{{ with .refreshed }}{{ $lm = . }}{{ end }}{{ end }}{{ end }}
   <url>
-    <loc>{{ .Permalink }}</loc>{{ if not .Lastmod.IsZero }}
-    <lastmod>{{ safeHTML (.Lastmod.Format "2006-01-02T15:04:05-07:00") }}</lastmod>{{ end }}
+    <loc>{{ .Permalink }}</loc>{{ if not $lm.IsZero }}
+    <lastmod>{{ safeHTML ($lm.Format "2006-01-02T15:04:05-07:00") }}</lastmod>{{ end }}
   </url>
   {{- end }}
   {{- end }}
