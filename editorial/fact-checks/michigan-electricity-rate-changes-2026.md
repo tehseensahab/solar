@@ -9,3 +9,5 @@ NOT VERIFIED on mi-psc.my.site.com or utility sites: MPSC orders themselves; DTE
 Statement that MPSC review "typically takes many months" is general knowledge; a Gatby blog claimed 10-12 months (not used).
 
 SOLAR SECTION ADDED Oct 5, 2026. DTE Rider 18 page (outflow credit basis quote; 150 kW/100% as stated by DTE) and MPSC DG page (PA 235: 550 kW, 110%; tariffs approved Mar 13, 2025). CONFLICT between the two on size limits is disclosed in the article. Numeric outflow rate NOT found; Consumers Energy tariff not read; program cap percent not verified. Takeaways and FAQ added from article facts.
+
+Oct 17, 2026: added Consumers gas decision bullet (MPSC Oct 15 release).

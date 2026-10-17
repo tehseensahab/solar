@@ -85,6 +85,8 @@ Rules checked October 5, 2026. Solar tariffs change, so confirm the current term
 
 ## What Happens Next
 
+- **Consumers Energy gas (approved):** the MPSC approved a $139.2 million natural gas increase on October 15, 2026 (Case U-21981), effective November 1: +$3.92 a month (4.33%) for a typical customer using 75 ccf. See [our article](/posts/consumers-energy-gas-rate-increase-november-2026/).
+
 - The MPSC will decide DTE's $474.3M request; the Michigan Public Service Commission review typically takes many months. A decision date has not been announced in the sources we found.
 - Consumers Energy's U-22070 case is in its early stages.
 - DTE has said it may pause future electric rate requests after this filing if certain data center conditions are met, per the Attorney General; that is not a commitment.
@@ -106,3 +108,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - DTE Energy, Rooftop Solar and Private Generation (Rider 18): https://solutions.dteenergy.com/dte/en/Services/CleanVision-Service/Rooftop-Solar-and-Private-Generation/p/ROOFTOP_SOLAR
 - Michigan Public Service Commission, Distributed Generation: https://www.michigan.gov/mpsc/consumer/electricity/distributed-generation
 - [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- MPSC, Consumers natural gas rate decision (Oct. 15, 2026): https://www.michigan.gov/mpsc/commission/news-releases/2026/10/15/mpsc-approves-continued-safety-investments-for-consumers-natural-gas-system
