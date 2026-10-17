@@ -1,0 +1,16 @@
+{{- /* "Latest <State> news": 5 newest posts carrying the same `states` term, excluding the hub. Input: dict page ctx. */ -}}
+{{- $c := .ctx -}}
+{{- $self := .page -}}
+{{- with site.GetPage (printf "/states/%s" $c.key) -}}
+{{- $news := first 5 (where .Pages.ByDate.Reverse "Permalink" "ne" $self.Permalink) -}}
+{{- with $news }}
+<section class="hub-news" aria-labelledby="hub-news-h">
+  <h2 id="hub-news-h">Latest {{ $c.d.name }} news</h2>
+  <ul>
+  {{- range . }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>{{ with .Description }}<span>{{ . | truncate 160 }}</span>{{ end }}</li>
+  {{- end }}
+  </ul>
+</section>
+{{- end }}
+{{- end -}}

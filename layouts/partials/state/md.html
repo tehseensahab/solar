@@ -1,0 +1,20 @@
+{{- /*
+  Render editorial markdown from a state data file, replacing data tokens so
+  monthly refreshes stay data-only:
+  {rate} {prev} {change} {us} {month} {prev_month}
+  ({change} renders as "up 3.0%" / "down 0.5%")
+  Input: dict "text" <string> "ctx" <state ctx> ["page" <page> "block" true].
+  Output: HTML (block paragraphs when "block" is set).
+*/ -}}
+{{- $t := .text | default "" -}}
+{{- with .ctx.p -}}
+  {{- $t = replace $t "{rate}" (printf "%s¢/kWh" .y2026) -}}
+  {{- $t = replace $t "{prev}" (printf "%s¢/kWh" .y2025) -}}
+  {{- $t = replace $t "{change}" (cond (hasPrefix .change "-") (printf "down %s" (strings.TrimPrefix "-" .change)) (printf "up %s" (strings.TrimPrefix "+" .change))) -}}
+{{- end -}}
+{{- with $.ctx.e -}}
+  {{- $t = replace $t "{us}" (printf "%s¢/kWh" .us.y2026) -}}
+  {{- $t = replace $t "{month}" .month -}}
+  {{- $t = replace $t "{prev_month}" .prev_month -}}
+{{- end -}}
+{{- if .block }}{{ .page.RenderString (dict "display" "block") $t }}{{ else }}{{ $t | markdownify }}{{ end -}}

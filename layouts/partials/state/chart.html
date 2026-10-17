@@ -1,0 +1,47 @@
+{{- /*
+  Static SVG rate chart, no JS. Input: state ctx.
+  With 3+ monthly points in data/eia_series.yaml: line chart, state vs U.S.
+  Otherwise: bars for the two sourced months in data/eia_prices.yaml plus the U.S. average.
+*/ -}}
+{{- $c := . -}}
+{{- $name := $c.d.name -}}
+{{- $ser := site.Data.eia_series -}}
+{{- $vals := slice -}}
+{{- with $ser }}{{ with index .states $c.key }}{{ $vals = . }}{{ end }}{{ end -}}
+{{- if ge (len $vals) 3 -}}
+  {{- $months := $ser.months -}}
+  {{- $us := $ser.us -}}
+  {{- $all := $vals -}}{{ if eq (len $us) (len $vals) }}{{ $all = $all | append $us }}{{ end -}}
+  {{- $nums := slice }}{{ range $all }}{{ $nums = $nums | append (float .) }}{{ end -}}
+  {{- $lo := math.Floor (sub (index (sort $nums) 0) 1) -}}
+  {{- $hi := math.Ceil (add (index (sort $nums "value" "desc") 0) 1) -}}
+  {{- $w := 640.0 }}{{ $h := 220.0 }}{{ $l := 44.0 }}{{ $r := 12.0 }}{{ $t := 14.0 }}{{ $b := 30.0 -}}
+  {{- $n := sub (len $vals) 1 -}}
+  {{- $sx := div (sub (sub $w $l) $r) (float $n) -}}
+  {{- $sy := div (sub (sub $h $t) $b) (sub $hi $lo) -}}
+  {{- $pts := slice }}{{ range $i, $v := $vals }}{{ $pts = $pts | append (printf "%.1f,%.1f" (add $l (mul $sx (float $i))) (sub (sub $h $b) (mul $sy (sub (float $v) $lo)))) }}{{ end -}}
+  {{- $upts := slice }}{{ if eq (len $us) (len $vals) }}{{ range $i, $v := $us }}{{ $upts = $upts | append (printf "%.1f,%.1f" (add $l (mul $sx (float $i))) (sub (sub $h $b) (mul $sy (sub (float $v) $lo)))) }}{{ end }}{{ end -}}
+<figure class="rate-chart">
+  <svg viewBox="0 0 {{ $w }} {{ $h }}" role="img" aria-labelledby="rc-t rc-d" preserveAspectRatio="xMidYMid meet">
+    <title id="rc-t">{{ $name }} average residential electricity price, {{ index $months 0 }} to {{ index $months $n }}</title>
+    <desc id="rc-d">Monthly average residential price in cents per kWh{{ if $upts }}, with the U.S. average for comparison{{ end }}. Source: EIA.</desc>
+    {{- range $g := seq (int $lo) (int $hi) }}{{ if eq (mod $g 2) 0 }}{{ $y := sub (sub $h $b) (mul $sy (sub (float $g) $lo)) }}
+    <line class="rc-grid" x1="{{ $l }}" x2="{{ sub $w $r }}" y1="{{ $y }}" y2="{{ $y }}"/><text class="rc-ax" x="{{ sub $l 6 }}" y="{{ add $y 4 }}" text-anchor="end">{{ $g }}¢</text>{{ end }}{{ end }}
+    {{- with $upts }}<polyline class="rc-us" points="{{ delimit . " " }}"/>{{ end }}
+    <polyline class="rc-state" points="{{ delimit $pts " " }}"/>
+    <text class="rc-ax" x="{{ $l }}" y="{{ sub $h 8 }}">{{ index $months 0 }}</text>
+    <text class="rc-ax" x="{{ sub $w $r }}" y="{{ sub $h 8 }}" text-anchor="end">{{ index $months $n }}</text>
+  </svg>
+  <figcaption><span class="rc-key rc-key-state"></span>{{ $name }}{{ if $upts }} <span class="rc-key rc-key-us"></span>U.S. average{{ end }} · ¢/kWh, residential, monthly. Source: <a href="{{ $c.e.source_url }}">{{ $c.e.source }}</a>.</figcaption>
+</figure>
+{{- else -}}{{- with $c.p -}}
+  {{- $us := float $c.e.us.y2026 -}}
+  {{- $rows := slice (dict "label" $c.e.prev_month "v" (float .y2025) "cls" "rb-prev") (dict "label" $c.e.month "v" (float .y2026) "cls" "rb-now") (dict "label" (printf "U.S., %s" $c.e.month) "v" $us "cls" "rb-us") -}}
+  {{- $max := 0.0 }}{{ range $rows }}{{ if gt .v $max }}{{ $max = .v }}{{ end }}{{ end -}}
+<figure class="rate-bars" role="img" aria-label="{{ $name }} average residential price: {{ .y2025 }} cents per kWh in {{ $c.e.prev_month }}, {{ .y2026 }} cents in {{ $c.e.month }}; U.S. average {{ $c.e.us.y2026 }} cents.">
+  {{- range $rows }}
+  <div class="rb-row"><span class="rb-label">{{ .label }}</span><span class="rb-track"><span class="rb-bar {{ .cls }}" style="width:{{ printf "%.1f" (mul 100 (div .v $max)) }}%"></span></span><span class="rb-val">{{ printf "%.2f" .v }}¢</span></div>
+  {{- end }}
+  <figcaption>Average residential price, ¢/kWh. Source: <a href="{{ $c.e.source_url }}">{{ $c.e.source }}</a>, released {{ (time $c.e.released).Format "January 2, 2006" }}. EIA publishes the same month one year apart; summer months include seasonal pricing where utilities use it.</figcaption>
+</figure>
+{{- end -}}{{- end -}}

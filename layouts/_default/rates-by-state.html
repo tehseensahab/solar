@@ -3,27 +3,34 @@
   <h1>{{ .Title }}</h1>
   {{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}
 </div>
-<section class="section wrap">
+{{ with .Content }}<section class="section wrap post-body">{{ . }}</section>{{ end }}
+{{- $e := site.Data.eia_prices }}
+{{- $all := slice }}{{ range site.Data.states }}{{ $all = $all | append . }}{{ end }}
+{{- range $region := slice "Northeast" "Midwest" "South" "West" }}
+<section class="section wrap" aria-labelledby="region-{{ urlize $region }}">
+  <h2 id="region-{{ urlize $region }}" class="region-h">{{ $region }}</h2>
   <ul class="state-grid">
-    {{- range site.Data.states }}
+    {{- range sort (where $all "region" $region) "name" }}
     {{- $page := site.GetPage (printf "/posts/%s-electricity-rate-changes-2026" .slug) }}
+    {{- $p := index $e.states .slug }}
     {{- if $page }}
-    <li><a class="state state-live" href="{{ $page.RelPermalink }}"><span class="state-name">{{ .name }}</span><span class="state-note">View rates →</span></a></li>
+    <li><a class="state state-live" href="{{ $page.RelPermalink }}"><span class="state-name">{{ .name }}</span>{{ with $p }}<span class="state-rate">{{ .y2026 }}¢<small>/kWh</small></span><span class="state-note">{{ partial "state/arrow.html" .change }} <span class="vs">vs. {{ $e.prev_month }}</span></span>{{ else }}<span class="state-note">View rates →</span>{{ end }}</a></li>
     {{- else }}
     <li><span class="state state-soon" aria-disabled="true"><span class="state-name">{{ .name }}</span><span class="state-note">Coming soon</span></span></li>
     {{- end }}
     {{- end }}
   </ul>
 </section>
+{{- end }}
 {{ with site.Data.eia_prices }}
 <section class="section wrap post-body">
   <h2>Average residential electricity price by state</h2>
-  <p>Average residential price in July 2026 and July 2025, from the U.S. Energy Information Administration (EIA). The U.S. average was {{ .us.y2026 }}¢/kWh, against {{ .us.y2025 }}¢ a year earlier. The 1,000 kWh column is the price × 1,000 kWh.</p>
+  <p>Average residential price in {{ .month }} and {{ .prev_month }}, from the U.S. Energy Information Administration (EIA). The U.S. average was {{ .us.y2026 }}¢/kWh, against {{ .us.y2025 }}¢ a year earlier. The 1,000 kWh column is the price × 1,000 kWh.</p>
   <table>
-    <thead><tr><th>State</th><th>July 2026 (¢/kWh)</th><th>July 2025 (¢/kWh)</th><th>Change</th><th>Cost of 1,000 kWh</th></tr></thead>
+    <thead><tr><th>State</th><th>{{ .month }} (¢/kWh)</th><th>{{ .prev_month }} (¢/kWh)</th><th>Change</th><th>Cost of 1,000 kWh</th></tr></thead>
     <tbody>
     {{- $prices := .states }}
-    {{- range site.Data.states }}
+    {{- range sort site.Data.states "name" }}
     {{- $p := index $prices .slug }}
     {{- $name := .name }}
     {{- $page := site.GetPage (printf "/posts/%s-electricity-rate-changes-2026" .slug) }}
@@ -33,8 +40,8 @@
     {{- end }}
     </tbody>
   </table>
-  <p><strong>How to read this:</strong> EIA divides each state's total residential revenue by the kWh sold, so the figure includes fixed monthly charges and covers every utility in the state. It is not a tariff rate, and your utility's rate can be well above or below it. July figures reflect summer pricing where utilities charge seasonal rates. Values are preliminary estimates.</p>
-  <p>Source: <a href="https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a">EIA, Electric Power Monthly, Table 5.6.A</a>, July 2026 data, released September 24, 2026.</p>
+  <p><strong>How to read this:</strong> EIA divides each state's total residential revenue by the kWh sold, so the figure includes fixed monthly charges and covers every utility in the state. It is not a tariff rate, and your utility's rate can be well above or below it. Summer months reflect summer pricing where utilities charge seasonal rates. Values are preliminary estimates.</p>
+  <p>Source: <a href="https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a">EIA, Electric Power Monthly, Table 5.6.A</a>, {{ .month }} data, released {{ (time .released).Format "January 2, 2006" }}.</p>
 </section>
 {{ end }}
 {{ end }}

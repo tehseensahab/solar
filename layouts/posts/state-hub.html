@@ -1,0 +1,169 @@
+{{- /*
+  State hub. Front matter: layout: state-hub, states: ["<State>"].
+  Editorial and data live in data/states/<slug>.yaml; prices in data/eia_prices.yaml
+  (and optional monthly trend in data/eia_series.yaml). The original rate article
+  body renders unchanged in the "rate changes" section.
+*/ -}}
+{{ define "main" }}
+{{ $c := partial "state/ctx.html" . }}
+{{ $d := $c.d }}{{ $p := $c.p }}{{ $e := $c.e }}
+{{ $cover := partial "cover.html" . }}
+{{ $faq := partial "state/faq.html" . }}
+<article class="hub">
+  <header class="post-head">
+    <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a> › <a href="/rates-by-state/">Rates by State</a> › <span>{{ $d.name }}</span></nav>
+    <h1>{{ $d.name }} Electricity Rates and Solar</h1>
+    <p class="byline">
+      {{- $by := .Params.author | default site.Params.author }}By {{ if index site.Data.writers $by }}<a rel="author" href="{{ printf "about/#%s" (anchorize $by) | absURL }}">{{ $by }}</a>{{ else }}<span rel="author">{{ $by }}</span>{{ end }}
+      · Published <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+    </p>
+    {{ with $d.summary }}<p class="lead hub-summary">{{ partial "state/md.html" (dict "text" . "ctx" $c) }}</p>{{ end }}
+    <p class="hub-updated">Last updated: <time datetime="{{ $c.refreshed.Format "2006-01-02" }}">{{ $c.refreshed.Format "January 2, 2006" }}</time> · Data: <a href="{{ $e.source_url }}">{{ $e.source }}</a>, {{ $e.month }}</p>
+  </header>
+  <figure class="post-cover">
+    {{- if $cover.has }}
+    <img src="{{ $cover.webp.RelPermalink }}" width="1200" height="630" alt="{{ $cover.alt }}" decoding="async" fetchpriority="high">
+    {{- end }}
+    {{ with $cover.credit }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
+  </figure>
+  <div class="post-body">
+    <nav class="toc" aria-label="On this page">
+      <strong>On this page</strong>
+      <ol>
+        <li><a href="#rates">Current rates</a></li>
+        {{ with $d.solar }}<li><a href="#solar-worth">Is solar worth it?</a></li>{{ end }}
+        {{ with $d.net_metering }}<li><a href="#net-metering">Net metering</a></li>{{ end }}
+        <li><a href="#federal">Federal tax credits</a></li>
+        {{ with $d.incentives }}<li><a href="#state-incentives">State incentives</a></li>{{ end }}
+        {{ with $d.utilities }}<li><a href="#utilities">Major utilities</a></li>{{ end }}
+        {{ with $d.community_solar }}<li><a href="#community-solar">Community solar</a></li>{{ end }}
+        {{ with $d.meaning }}<li><a href="#what-it-means">What it means</a></li>{{ end }}
+        <li><a href="#rate-changes">2026 rate changes</a></li>
+        <li><a href="#faq">FAQ</a></li>
+      </ol>
+    </nav>
+
+    <section id="rates" aria-labelledby="rates-h">
+      <h2 id="rates-h">{{ $d.name }} electricity rates now</h2>
+      {{ with $p }}
+      {{ $up := not (hasPrefix .change "-") }}
+      <dl class="rate-stats">
+        <div><dt>Average residential price, {{ $e.month }}</dt><dd>{{ .y2026 }}¢<small>/kWh</small></dd></div>
+        <div><dt>Change from {{ $e.prev_month }}</dt><dd class="{{ cond $up "chg-up" "chg-down" }}">{{ cond $up "▲" "▼" }} {{ replace .change "-" "−" }}</dd></div>
+        <div><dt>U.S. average, {{ $e.month }}</dt><dd>{{ $e.us.y2026 }}¢<small>/kWh</small></dd></div>
+      </dl>
+      {{ partial "state/chart.html" $c }}
+      <p>These are statewide averages: EIA divides all residential revenue in {{ $d.name }} by all residential kWh sold, so fixed charges are included and every utility is blended together. Your own rate depends on your utility and plan; {{ if $d.utilities }}the <a href="#utilities">utility section</a> and {{ end }}the <a href="#rate-changes">2026 rate changes</a> below cover what individual utilities are charging and requesting. EIA's monthly figures are preliminary and can be revised.</p>
+      {{ end }}
+    </section>
+
+    {{ with $d.solar }}
+    <section id="solar-worth" aria-labelledby="solar-worth-h">
+      <h2 id="solar-worth-h">Is solar worth it in {{ $d.name }}?</h2>
+      {{ partial "state/md.html" (dict "text" . "ctx" $c "page" $ "block" true) }}
+    </section>
+    {{ end }}
+
+    {{ with $d.net_metering }}
+    <section id="net-metering" aria-labelledby="net-metering-h">
+      <h2 id="net-metering-h">Net metering and export credits in {{ $d.name }}</h2>
+      {{ with .status }}<p class="nm-status"><span>Status:</span> {{ . }}</p>{{ end }}
+      {{ partial "state/md.html" (dict "text" .text "ctx" $c "page" $ "block" true) }}
+    </section>
+    {{ end }}
+
+    {{ partial "state/federal.html" $c }}
+
+    {{ with $d.incentives }}
+    <section id="state-incentives" aria-labelledby="state-incentives-h">
+      <h2 id="state-incentives-h">{{ $d.name }} solar incentives</h2>
+      {{ range . }}
+      <h3>{{ .name }}</h3>
+      {{ partial "state/md.html" (dict "text" .text "ctx" $c "page" $ "block" true) }}
+      {{ end }}
+    </section>
+    {{ end }}
+
+    {{ with $d.bill_vs_solar }}
+    <section id="bill-vs-solar" aria-labelledby="bill-vs-solar-h">
+      <h2 id="bill-vs-solar-h">Average monthly bill vs. a typical solar payment</h2>
+      {{ partial "state/md.html" (dict "text" . "ctx" $c "page" $ "block" true) }}
+    </section>
+    {{ end }}
+
+    {{ with $d.utilities }}
+    <section id="utilities" aria-labelledby="utilities-h">
+      <h2 id="utilities-h">Major {{ $d.name }} utilities</h2>
+      <table>
+        <thead><tr><th>Utility</th><th>Rates and latest action</th></tr></thead>
+        <tbody>
+        {{- range . }}
+        <tr><td>{{ with .page }}{{ with site.GetPage . }}<a href="{{ .RelPermalink }}">{{ end }}{{ end }}{{ .name }}{{ with .page }}{{ with site.GetPage . }}</a>{{ end }}{{ end }}</td><td>{{ partial "state/md.html" (dict "text" .detail "ctx" $c) }}</td></tr>
+        {{- end }}
+        </tbody>
+      </table>
+    </section>
+    {{ end }}
+
+    {{ with $d.community_solar }}
+    <section id="community-solar" aria-labelledby="community-solar-h">
+      <h2 id="community-solar-h">Community solar in {{ $d.name }}</h2>
+      {{ partial "state/md.html" (dict "text" . "ctx" $c "page" $ "block" true) }}
+    </section>
+    {{ end }}
+
+    {{ with $d.meaning }}
+    <section id="what-it-means" aria-labelledby="what-it-means-h">
+      <h2 id="what-it-means-h">What this means for {{ $d.name }} homeowners</h2>
+      {{ partial "state/md.html" (dict "text" . "ctx" $c "page" $ "block" true) }}
+    </section>
+    {{ end }}
+
+    {{ with $d.sources }}
+    <section class="hub-sources" aria-labelledby="hub-sources-h">
+      <h3 id="hub-sources-h">Sources for the sections above</h3>
+      <ul>{{ range . }}<li><a href="{{ .url }}">{{ .title }}</a></li>{{ end }}</ul>
+    </section>
+    {{ end }}
+
+    <section id="rate-changes" class="hub-detail" aria-labelledby="rate-changes-h">
+      <p class="hub-kicker">In depth</p>
+      <h2 id="rate-changes-h">{{ .Title }}</h2>
+      <p class="byline">Originally published <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>{{ with .Params.lastVerified }}{{ $v := time . }} · Last verified <time datetime="{{ $v.Format "2006-01-02" }}">{{ $v.Format "Jan 2, 2006" }}</time>{{ end }}</p>
+      {{ with .Params.takeaways }}
+      <aside class="takeaways" aria-label="Key takeaways">
+        <h3>Key takeaways</h3>
+        <ul>{{ range . }}<li>{{ . }}</li>{{ end }}</ul>
+      </aside>
+      {{ end }}
+      {{ .Content }}
+    </section>
+
+    {{ partial "state/latest-news.html" (dict "page" . "ctx" $c) }}
+
+    {{ with $faq }}
+    <section class="faq" id="faq">
+      <h2>Frequently asked questions</h2>
+      {{ range . }}
+      <h3>{{ .q }}</h3>
+      <p>{{ .a }}</p>
+      {{ end }}
+    </section>
+    {{ end }}
+
+    {{ with $d.neighbors }}
+    <section class="hub-nearby" aria-labelledby="nearby-h">
+      <h2 id="nearby-h">Compare nearby states</h2>
+      <ul class="state-grid">
+      {{- range . }}{{ $n := index site.Data.states . }}{{ $np := index $e.states . }}{{ $h := site.GetPage (printf "/posts/%s-electricity-rate-changes-2026" .) }}
+        {{- if and $n $h }}
+        <li><a class="state state-live" href="{{ $h.RelPermalink }}"><span class="state-name">{{ $n.name }}</span>{{ with $np }}<span class="state-note">{{ .y2026 }}¢/kWh {{ partial "state/arrow.html" .change }}</span>{{ end }}</a></li>
+        {{- end }}
+      {{- end }}
+      </ul>
+    </section>
+    {{ end }}
+  </div>
+  <div class="wrap">{{ partial "related.html" . }}</div>
+</article>
+{{ end }}

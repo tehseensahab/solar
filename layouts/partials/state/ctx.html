@@ -1,0 +1,19 @@
+{{- /*
+  State context for a page. Input: a page whose `states` front matter names one state
+  (hubs) or one or more states (news posts; the first is used).
+  Returns: dict with key, d (data/states/<key>.yaml), p (eia_prices row), hub (hub page or false),
+  refreshed (time), fill (map of {tokens} for summary text).
+*/ -}}
+{{- $out := dict -}}
+{{- with .Params.states -}}
+  {{- $key := urlize (index . 0) -}}
+  {{- $d := index site.Data.states $key -}}
+  {{- if $d -}}
+    {{- $e := site.Data.eia_prices -}}
+    {{- $p := index $e.states $key -}}
+    {{- $hub := site.GetPage (printf "/posts/%s-electricity-rate-changes-2026" $key) -}}
+    {{- $refreshed := time ($d.refreshed | default $e.released) -}}
+    {{- $out = dict "key" $key "d" $d "p" $p "hub" $hub "refreshed" $refreshed "e" $e -}}
+  {{- end -}}
+{{- end -}}
+{{- return $out -}}

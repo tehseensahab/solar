@@ -1,0 +1,7 @@
+{{- /* FAQ list for a page: front matter faq, plus hub questions from data/states/<slug>.yaml (faq) on state hubs. Max 6. Input: page. */ -}}
+{{- $list := slice -}}
+{{- with .Params.faq }}{{ $list = . }}{{ end -}}
+{{- if eq .Layout "state-hub" }}{{ $c := partial "state/ctx.html" . }}{{ with $c.d }}{{ with .faq }}
+  {{- $hubq := slice }}{{ range . }}{{ $hubq = $hubq | append (dict "q" .q "a" (partial "state/md.html" (dict "text" .a "ctx" $c) | plainify | htmlUnescape)) }}{{ end }}
+  {{- $list = $hubq | append $list }}{{ end }}{{ end }}{{ end -}}
+{{- return (first 6 $list) -}}

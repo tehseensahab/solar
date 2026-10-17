@@ -1,0 +1,2 @@
+{{- /* Change arrow for a "+3.0%" / "-0.5%" string. */ -}}
+{{- if hasPrefix . "-" }}<span class="chg-down" aria-label="down {{ strings.TrimPrefix "-" . }}">▼ {{ replace . "-" "−" }}</span>{{ else }}<span class="chg-up" aria-label="up {{ strings.TrimPrefix "+" . }}">▲ {{ . }}</span>{{ end -}}
