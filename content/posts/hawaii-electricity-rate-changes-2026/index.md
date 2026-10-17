@@ -1,5 +1,7 @@
 ---
-title: "Hawaii Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "Hawaii Electricity Rates and Solar"
+detailTitle: "Hawaii Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/hawaii/"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Small white house with rooftop solar panels surrounded by tropical trees and garden plots."
@@ -17,6 +19,10 @@ takeaways:
   - "Rates were higher on the smaller islands: 53.23 cents on Molokai and 64.11 cents on Lanai."
   - "Hawaiian Electric has a general rate case under way, its first major request in more than five years, with new rates possible before January 1, 2027."
 faq:
+  - q: "Is solar worth it in Hawaii?"
+    a: "Usually, because the power it replaces is the most expensive in the country. Under Smart Renewable Energy Export, midday exports earn far less than evening-peak exports (13.5¢ vs 32.9¢ on Oahu), so most new systems pair panels with a battery to shift midday output into the evening."
+  - q: "What is the average electricity rate in Hawaii?"
+    a: "EIA's statewide residential average was {rate} in {month}, against {prev} in {prev_month}. Island rates differ: Hawaiian Electric's May 2026 effective rate was 47.75¢/kWh on Oahu and 64.11¢ on Lanai."
   - q: "Did Hawaii electric rates change on October 1, 2026?"
     a: "Hawaiian Electric's effective rates change monthly, so October's rate differs from September's. We did not find the October 2026 figure. In May 2026 the Oahu residential rate was 47.75 cents per kWh."
   - q: "Why are Hawaii's electric rates so high?"
@@ -100,7 +106,7 @@ We used the May 2026 rate summary and did not find October's. The rate case info
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Hawaii's average residential price at 48.00¢/kWh in July 2026, up 22.0% from 39.36¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $480.00 (1,000 × 48.00¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [California](/posts/california-electricity-rate-changes-2026/), [Alaska](/posts/alaska-electricity-rate-changes-2026/), [Washington](/posts/washington-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [California](/rates/california/), [Alaska](/rates/alaska/), [Washington](/rates/washington/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

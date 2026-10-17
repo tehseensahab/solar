@@ -6,6 +6,8 @@ neighbors: [georgia, north-carolina, florida]
 refreshed: 2026-10-18
 guides: [time-of-use-rates-and-solar, fixed-charges-and-solar-savings]
 
+rate_note: Dominion Energy South Carolina's standard Rate 8 charges 15.878¢/kWh for the first 800 kWh, with a separate seasonal rate above 800 kWh and a daily facilities charge ([Dominion bill insert, July 2026](https://cdn-dominionenergy-prd-001.azureedge.net/-/media/content/paying-my-bill/billing-inserts/pdfs/south-carolina/2026/07-jul/2026-07-desc-electric-rates-change.pdf?rev=a53e2b0cfef34514a2ff0e6632f7f6ab&hash=6E3FAE26B130B690CC9833EC9650F57A)).
+
 summary: >-
   In South Carolina the residential average was {rate} in {month}, {change} from {prev_month}, with the national
   average at {us}. Dominion Energy South Carolina's settled 7.6% increase took effect in July 2026, adding about $12 a
@@ -47,11 +49,6 @@ meaning: |-
   1,000 kWh home pays about $4.37 less in a winter month than a summer one by our math. Fixed charges matter for solar
   owners too; see our [fixed-charge guide](/posts/fixed-charges-and-solar-savings/).
 
-faq:
-  - q: "Is solar worth it in South Carolina?"
-    a: "At Dominion Energy South Carolina it depends on timing as much as size. Solar Choice nets kWh within TOU periods in the month, pays leftover excess each November at avoided cost and has a $13.50 minimum bill. Systems that cover peak-period use, or add a battery, get the most value."
-  - q: "What is the average electricity rate in South Carolina?"
-    a: "EIA puts South Carolina's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Dominion's standard Rate 8 charges 15.878¢/kWh for the first 800 kWh, plus a daily facilities charge."
 
 sources:
   - title: "Dominion Energy South Carolina, Electric Rates Change bill insert, July 2026"

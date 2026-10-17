@@ -47,11 +47,6 @@ meaning: |-
   possible increase. Our [rate case explainer](/posts/how-electric-rate-cases-work/) covers how to follow and comment on
   a case.
 
-faq:
-  - q: "Is solar worth it in South Dakota?"
-    a: "It is a hard case for most homes. South Dakota has no net metering, so exports earn only avoided cost; only the solar you use in real time offsets the retail rate. Size a system to daytime use and ask your utility for its export rate and interconnection costs before buying."
-  - q: "What is the average electricity rate in South Dakota?"
-    a: "EIA puts South Dakota's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
 
 sources:
   - title: "South Dakota PUC, Solar Energy FAQ"

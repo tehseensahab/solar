@@ -56,11 +56,6 @@ meaning: |-
   hearing from October 20 and the SCC's November 17 hearing on the proposed Dominion–NextEra merger (PUR-2026-00112). Our
   [rate case explainer](/posts/how-electric-rate-cases-work/) covers how riders and base rates differ.
 
-faq:
-  - q: "Is solar worth it in Virginia?"
-    a: "Often yes, for a system sized to annual use. The SCC kept one-for-one net metering with 12-month netting at Dominion and Appalachian Power; only surplus beyond annual use is paid at under 6¢ (5.829¢ at Dominion per an installer summary, 5.66¢ at Appalachian Power)."
-  - q: "What is the average electricity rate in Virginia?"
-    a: "EIA puts Virginia's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Dominion's 1,000 kWh base-rate bill is $161.16 for 2026 under the SCC's order, before riders and fuel."
 
 sources:
   - title: "Cardinal News, Nov. 26, 2025"

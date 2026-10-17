@@ -46,11 +46,6 @@ meaning: |-
   new rates apply back to May 2026 or start in February 2027. Our
   [rate case explainer](/posts/how-electric-rate-cases-work/) covers how effective dates and interim rates are decided.
 
-faq:
-  - q: "Is solar worth it in Wyoming?"
-    a: "For a system sized to annual use, it can be. Wyoming net metering gives kWh credits that offset use through the calendar year; only year-end leftovers are sold at about 3¢/kWh. Low retail prices mean longer payback than in high-cost states."
-  - q: "What is the average electricity rate in Wyoming?"
-    a: "EIA puts Wyoming's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
 
 sources:
   - title: "Cowboy State Daily, May 14, 2026"

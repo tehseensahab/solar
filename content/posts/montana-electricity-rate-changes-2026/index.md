@@ -1,5 +1,7 @@
 ---
-title: "Montana Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "Montana Electricity Rates and Solar"
+detailTitle: "Montana Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/montana/"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Power poles and lines silhouetted against a pink and violet dusk sky."
@@ -17,6 +19,10 @@ takeaways:
   - "Residential electric base rates rose 17%, about 12% on an overall bill, according to the Missoula Current."
   - "About $8 a month of a typical bill pays for the Yellowstone County Generating Station."
 faq:
+  - q: "Is solar worth it in Montana?"
+    a: "At NorthWestern Energy it can be, because retail net metering credits each kWh at the full retail rate, which rose about 12% on the overall residential bill in 2026. Size to annual use and choose a reset month so summer credits last through winter, since leftover credits are forfeited at the reset."
+  - q: "What is the average electricity rate in Montana?"
+    a: "EIA puts Montana's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
   - q: "Did Montana electric rates change on October 1, 2026?"
     a: "We found no change on that date. NorthWestern Energy's new rates took effect February 1, 2026."
   - q: "How much did NorthWestern Energy rates go up in 2026?"
@@ -92,7 +98,7 @@ The 2026 figures come from one news report, which drew on an environmental group
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Montana's average residential price at 14.99¢/kWh in July 2026, up 5.0% from 14.27¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $149.90 (1,000 × 14.99¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Idaho](/posts/idaho-electricity-rate-changes-2026/), [North Dakota](/posts/north-dakota-electricity-rate-changes-2026/), [South Dakota](/posts/south-dakota-electricity-rate-changes-2026/), [Wyoming](/posts/wyoming-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Idaho](/rates/idaho/), [North Dakota](/rates/north-dakota/), [South Dakota](/rates/south-dakota/), [Wyoming](/rates/wyoming/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

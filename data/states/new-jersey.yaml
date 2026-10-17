@@ -53,11 +53,6 @@ meaning: |-
   matters most is the BPU's net metering successor. Customers can also shop for supply; our
   [supplier guide](/posts/how-to-compare-electricity-supplier-offers/) explains how to compare against BGS.
 
-faq:
-  - q: "Is solar worth it in New Jersey?"
-    a: "Under today's retail-rate net metering and high prices, often yes. But the state crossed the 5.8% threshold that lets the BPU replace net metering, and a review is open, so ask installers what crediting rule and term their savings estimate assumes."
-  - q: "What is the average electricity rate in New Jersey?"
-    a: "EIA puts New Jersey's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. The BPU's June 2026 figures put the average 650 kWh bill between about $137 (JCP&L) and $202 (ACE)."
 
 sources:
   - title: "NJBPU, 2026 BGS auction results, Feb. 12, 2026"

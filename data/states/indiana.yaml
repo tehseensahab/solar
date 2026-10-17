@@ -52,11 +52,6 @@ meaning: |-
   efficiency keep bills moving, as the temporary $9.52 fuel charge through August 2026 showed. Our
   [rate case explainer](/posts/how-electric-rate-cases-work/) covers how to take part in Duke's upcoming case.
 
-faq:
-  - q: "Is solar worth it in Indiana?"
-    a: "Only for systems sized to your own use, for most households. New customers' exports are credited under EDG billing, 5.4325¢/kWh at AES Indiana from July 27, 2026, well under the retail energy rate. Power you use yourself avoids retail charges plus Indiana's 7% sales tax on utility bills."
-  - q: "What is the average electricity rate in Indiana?"
-    a: "EIA puts Indiana's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Fixed monthly charges range from $11 at CenterPoint to $17 at AES Indiana, per Indiana Public Media."
 
 sources:
   - title: "AES Indiana, Rider 16: Excess Distributed Generation, effective July 27, 2026 (tariff)"

@@ -6,6 +6,8 @@ neighbors: [maine, massachusetts, vermont]
 refreshed: 2026-10-18
 guides: [how-to-compare-electricity-supplier-offers, solar-export-credit-rates-by-utility-2026]
 
+rate_note: Eversource's default energy service rate (supply only) is 14.009¢/kWh from August 1, 2026 to January 31, 2027 ([Valley News](https://vnews.com/2026/06/30/new-hampshire-electric-rates/)); the statewide figure above is all-in.
+
 summary: >-
   New Hampshire households paid an average {rate} in {month}, {change} from {prev_month}, well above the U.S. figure
   of {us}. Default energy service reset on August 1 and holds until February 1, 2027, with community power programs
@@ -52,11 +54,6 @@ meaning: |-
   [supplier comparison guide](/posts/how-to-compare-electricity-supplier-offers/) shows how to compare offers on a
   like-for-like basis.
 
-faq:
-  - q: "Is solar worth it in New Hampshire?"
-    a: "Often, given high regional prices and net metering 2.0, which credits exports at full supply and transmission value plus 25% of distribution (about 20¢/kWh at Eversource in one 2026 estimate), with the structure set through 2041. Self-used solar is worth even more."
-  - q: "What is the average electricity rate in New Hampshire?"
-    a: "EIA puts New Hampshire's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Supply alone is 14.009¢/kWh on Eversource default service from August 1, 2026."
 
 sources:
   - title: "Valley News, NH rates compared, June 30, 2026"

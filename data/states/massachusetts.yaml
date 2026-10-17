@@ -6,6 +6,8 @@ neighbors: [connecticut, new-hampshire, rhode-island, new-york]
 refreshed: 2026-10-18
 guides: [how-to-compare-electricity-supplier-offers, how-to-compare-solar-quotes]
 
+rate_note: Eversource's eastern Massachusetts basic service rate (supply only) is 17.323¢/kWh from August 1, 2026, per [MA Energy Ratings](https://www.maenergyratings.com/blog/ma-basic-service-rates-rising-august-1/); the statewide figure above is all-in.
+
 summary: >-
   Massachusetts households paid an average {rate} in {month}, {change} from a year earlier and among the highest
   prices in the continental U.S. (the U.S. average was {us}). Basic service supply rose 11% to 17% at the big
@@ -55,11 +57,6 @@ meaning: |-
   basic service headline. Our [supplier comparison guide](/posts/how-to-compare-electricity-supplier-offers/) shows
   how to compare them.
 
-faq:
-  - q: "Is solar worth it in Massachusetts?"
-    a: "For many homes, yes. Retail prices are high, and net metering credits for systems up to 25 kW include supply and delivery and roll over without expiring. Compare several quotes on price per watt and estimated production."
-  - q: "What is the average electricity rate in Massachusetts?"
-    a: "EIA puts the statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Supply alone is 17.323¢/kWh on Eversource's eastern Massachusetts basic service from August 1, 2026."
 
 sources:
   - title: "Mass.gov, Net Metering Guide (updated July 13, 2026)"

@@ -97,7 +97,7 @@ For comparison, scenario A with the old 30% credit would have cost $12,593 and p
 Three things stand out:
 
 1. **The electric rate is the biggest lever.** Going from 12¢ to 30¢ cuts payback from about 15 years to about 6.
-2. **Export rules come next.** Scenario B takes four years longer than scenario A with the same system and the same rate. The 7¢ credit is close to what Georgia Power pays for exports in 2026, as covered in our [Georgia rate article](/posts/georgia-electricity-rate-changes-2026/).
+2. **Export rules come next.** Scenario B takes four years longer than scenario A with the same system and the same rate. The 7¢ credit is close to what Georgia Power pays for exports in 2026, as covered in our [Georgia rate article](/rates/georgia/).
 3. **Using more of your own power helps under net billing.** Moving from 50% to 70% self-use saves two years in our example.
 
 ## What the Formula Leaves Out

@@ -6,6 +6,8 @@ neighbors: [california, alaska, washington]
 refreshed: 2026-10-18
 guides: [time-of-use-rates-and-solar, battery-sizing-guide]
 
+rate_note: Hawaiian Electric's own all-in effective residential rate for Oahu was 47.75¢/kWh in May 2026 and changes monthly with fuel costs ([effective rate summary](https://www.hawaiianelectric.com/documents/billing_and_payment/rates/effective_rate_summary/2026/efs_2026_05.pdf)).
+
 summary: >-
   No state pays more for electricity: Hawaii's residential average reached {rate} in {month}, {change} from
   {prev_month}, against {us} for the U.S. Hawaiian Electric's rates move monthly with fuel costs, and a general rate
@@ -57,11 +59,6 @@ meaning: |-
   would raise the value of self-consumed solar and storage further. Our
   [battery sizing guide](/posts/battery-sizing-guide/) helps match storage to evening use.
 
-faq:
-  - q: "Is solar worth it in Hawaii?"
-    a: "Usually, because the power it replaces is the most expensive in the country. Under Smart Renewable Energy Export, midday exports earn far less than evening-peak exports (13.5¢ vs 32.9¢ on Oahu), so most new systems pair panels with a battery to shift midday output into the evening."
-  - q: "What is the average electricity rate in Hawaii?"
-    a: "EIA's statewide residential average was {rate} in {month}, against {prev} in {prev_month}. Island rates differ: Hawaiian Electric's May 2026 effective rate was 47.75¢/kWh on Oahu and 64.11¢ on Lanai."
 
 sources:
   - title: "Hawaiian Electric, Effective Rate Summary, May 2026"

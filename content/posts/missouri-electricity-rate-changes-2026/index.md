@@ -1,5 +1,7 @@
 ---
-title: "Missouri Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "Missouri Electricity Rates and Solar"
+detailTitle: "Missouri Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/missouri/"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Rows of transmission towers and power lines crossing a brown farm field."
@@ -17,6 +19,10 @@ takeaways:
   - "Evergy Missouri Metro has asked for about $137.9 million a year. Public hearings were held in July 2026."
   - "One city did change rates on October 1: Columbia's municipal utility raised usage fees 6%."
 faq:
+  - q: "Is solar worth it in Missouri?"
+    a: "It can be for a system sized so monthly production stays at or below monthly use. Within the month solar offsets retail-rate usage, but end-of-month surplus earns only avoided cost, 3.84¢/kWh in summer and 3.39¢ in winter at Ameren Missouri. Pending rate increases would raise the value of self-used solar."
+  - q: "What is the average electricity rate in Missouri?"
+    a: "EIA puts Missouri's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Ameren's pending case would add about $13 a month for an average residential customer if approved as filed."
   - q: "Did Missouri electric rates change on October 1, 2026?"
     a: "Not at Ameren Missouri or Evergy, as far as we found. Columbia's city-owned utility raised electric usage fees 6% on that date."
   - q: "How much is Ameren Missouri asking for?"
@@ -94,7 +100,7 @@ The Ameren bill impact comes from a local TV report. We did not open the PSC cas
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Missouri's average residential price at 16.09¢/kWh in July 2026, up 3.4% from 15.56¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $160.90 (1,000 × 16.09¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arkansas](/posts/arkansas-electricity-rate-changes-2026/), [Illinois](/posts/illinois-electricity-rate-changes-2026/), [Iowa](/posts/iowa-electricity-rate-changes-2026/), [Kansas](/posts/kansas-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arkansas](/rates/arkansas/), [Illinois](/rates/illinois/), [Iowa](/rates/iowa/), [Kansas](/rates/kansas/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

@@ -49,11 +49,6 @@ meaning: |-
   securitization of about $2 billion in storm and environmental costs is meant to lower bills over time by using cheaper
   financing. Our [rate case explainer](/posts/how-electric-rate-cases-work/) covers stay-outs and phased increases.
 
-faq:
-  - q: "Is solar worth it in West Virginia?"
-    a: "For many homes it can be. Export credits for new customers were cut but remain fairly high: about 12.4¢/kWh at Appalachian Power and Wheeling Power and about 9¢ at Mon Power and Potomac Edison. Self-used solar avoids the full retail rate, which rose at both utility groups in 2026."
-  - q: "What is the average electricity rate in West Virginia?"
-    a: "EIA puts West Virginia's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
 
 sources:
   - title: "WV MetroNews, Appalachian Power base rate increase, May 13, 2026"

@@ -53,11 +53,6 @@ meaning: |-
   September and cut the late fee to 1.5%. For households, the practical lesson is to watch the fuel line rather than
   rate-case headlines. Our [bill-reading guide](/posts/how-to-read-your-electric-bill/) shows where to find it.
 
-faq:
-  - q: "Is solar worth it in Louisiana?"
-    a: "Usually only for a system sized to your daytime use. Exports are credited at avoided cost under two-channel billing, and retail power is among the cheapest in the U.S. Self-used solar avoids both the energy charge and the per-kWh fuel adjustment, about 3.8¢ at Entergy Louisiana in May 2026."
-  - q: "What is the average electricity rate in Louisiana?"
-    a: "EIA puts Louisiana's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. The PSC's comparison put the 1,000 kWh bill average across listed utilities at $138.45 in May 2026."
 
 sources:
   - title: "Louisiana PSC, Residential Electric Bill Comparison, May 2026"

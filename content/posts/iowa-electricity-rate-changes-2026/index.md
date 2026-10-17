@@ -1,5 +1,7 @@
 ---
-title: "Iowa Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "Iowa Electricity Rates and Solar"
+detailTitle: "Iowa Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/iowa/"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Line of transmission towers crossing a harvested field under a pale blue sky."
@@ -17,6 +19,10 @@ takeaways:
   - "Alliant still expects 2026 electric bills to rise, because riders are changing."
   - "MidAmerican Energy has a proposed rate increase in docket RPU-2026-0001. Public comment meetings were held September 8 to 10, 2026."
 faq:
+  - q: "Is solar worth it in Iowa?"
+    a: "Timing helps more in Iowa than elsewhere: today's retail-rate credit is locked for 20 years for systems installed before the value-of-solar method takes effect, which must happen by July 1, 2027 at the latest. Moderate retail prices mean payback still depends on usage and system cost."
+  - q: "What is the average electricity rate in Iowa?"
+    a: "EIA puts Iowa's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Rates differ between utilities; a local TV report found Alliant's residential rates were 62% above MidAmerican's in 2024."
   - q: "Did Iowa electric rates change on October 1, 2026?"
     a: "We found no base rate change on that date. Alliant Energy's base rates are frozen until at least late 2029. Riders can still change."
   - q: "If Alliant's base rates are frozen, why is my bill higher?"
@@ -92,7 +98,7 @@ Alliant information comes from its own customer outlook page. We did not find Mi
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Iowa's average residential price at 15.99¢/kWh in July 2026, up 4.4% from 15.31¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $159.90 (1,000 × 15.99¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Illinois](/posts/illinois-electricity-rate-changes-2026/), [Minnesota](/posts/minnesota-electricity-rate-changes-2026/), [Nebraska](/posts/nebraska-electricity-rate-changes-2026/), [Wisconsin](/posts/wisconsin-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Illinois](/rates/illinois/), [Minnesota](/rates/minnesota/), [Nebraska](/rates/nebraska/), [Wisconsin](/rates/wisconsin/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

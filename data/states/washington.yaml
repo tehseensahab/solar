@@ -55,11 +55,6 @@ meaning: |-
   [bill-reading guide](/posts/how-to-read-your-electric-bill/) helps separate power cost and climate program lines from base
   charges.
 
-faq:
-  - q: "Is solar worth it in Washington?"
-    a: "Under today's one-for-one net metering it often can be, especially at PSE after the 2026 increases. But PSE has reached the 4% threshold and no successor rate has been announced, so get written confirmation of which schedule your system will be on and for how long."
-  - q: "What is the average electricity rate in Washington?"
-    a: "EIA puts Washington's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. PSE's typical 800 kWh bill was $129.83 after the 2026 base-rate step, before the separate power cost filings."
 
 sources:
   - title: "Washington UTC, new rates for PSE, Jan. 15, 2025"

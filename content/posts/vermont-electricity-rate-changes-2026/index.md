@@ -1,5 +1,7 @@
 ---
-title: "Vermont Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "Vermont Electricity Rates and Solar"
+detailTitle: "Vermont Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/vermont/"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Large building with a steep roof covered in solar panels under an overcast sky."
@@ -17,6 +19,10 @@ takeaways:
   - "Regulators approved about $113 million of resilience spending over four years, roughly a third of the $341 million requested."
   - "Several small municipal utilities are seeking larger increases, from 14% to 30%."
 faq:
+  - q: "Is solar worth it in Vermont?"
+    a: "Often, for small home systems: net metering credits are set by the PUC with small systems in the most favorable category, and adjustors are locked for 10 years. Because the PUC updates terms every two years, ask your installer which adjustors your application will get, and budget a few weeks for the Certificate of Public Good."
+  - q: "What is the average electricity rate in Vermont?"
+    a: "EIA puts Vermont's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}. Green Mountain Power's rates rose 5.5% on October 1, 2026."
   - q: "Did Vermont electric rates change on October 1, 2026?"
     a: "Yes for Green Mountain Power customers. A 5.5% increase took effect on October 1, 2026."
   - q: "How much will my Green Mountain Power bill go up?"
@@ -98,7 +104,7 @@ Figures come from VTDigger and Vermont Public. We did not open the PUC order, an
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Vermont's average residential price at 23.75¢/kWh in July 2026, up 7.3% from 22.14¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $237.50 (1,000 × 23.75¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [New Hampshire](/posts/new-hampshire-electricity-rate-changes-2026/), [New York](/posts/new-york-electricity-rate-changes-2026/), [Massachusetts](/posts/massachusetts-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [New Hampshire](/rates/new-hampshire/), [New York](/rates/new-york/), [Massachusetts](/rates/massachusetts/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

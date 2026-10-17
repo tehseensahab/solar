@@ -54,11 +54,6 @@ meaning: |-
   [rate case explainer](/posts/how-electric-rate-cases-work/) explains why settled amounts usually land below
   requests.
 
-faq:
-  - q: "Is solar worth it in North Carolina?"
-    a: "It can be, but the rules for new Duke customers are tighter: Residential Solar Choice uses time-of-use pricing, a minimum monthly bill and a per-kW charge, and the Net Metering Bridge rider closes to new applicants after December 31, 2026. Systems sized to daytime use, or paired with a battery for the evening peak, hold their value best."
-  - q: "What is the average electricity rate in North Carolina?"
-    a: "EIA puts North Carolina's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Duke Energy Carolinas' 1,000 kWh residential bill was cited at $156.81 in July 2026 settlement coverage."
 
 sources:
   - title: "NCUC, Order Approving Revised Net Metering Tariffs, Docket E-100, Sub 180"

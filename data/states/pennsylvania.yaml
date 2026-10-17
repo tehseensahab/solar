@@ -6,6 +6,8 @@ neighbors: [delaware, new-jersey, new-york, ohio]
 refreshed: 2026-10-18
 guides: [how-to-compare-electricity-supplier-offers, how-to-read-your-electric-bill]
 
+rate_note: PECO's price to compare (supply only) is 11.572¢/kWh from June 1, 2026, a PUC estimate ([Pennsylvania PUC](https://www.puc.pa.gov/press-release/2026/puc-alerts-consumers-to-june-1-electric-price-changes-and-higher-summer-energy-costs-5-20-26)); the statewide figure above is all-in.
+
 summary: >-
   Pennsylvania's residential average was {rate} in {month}, {change} on the year, compared with {us} nationally.
   Default supply prices (the Price to Compare) rose at every major utility on June 1, by as much as 12% at Penelec,
@@ -51,11 +53,6 @@ meaning: |-
   [supplier comparison guide](/posts/how-to-compare-electricity-supplier-offers/) uses Pennsylvania's disclosure rules
   as its worked example. The December 1 reset is the next change to watch.
 
-faq:
-  - q: "Is solar worth it in Pennsylvania?"
-    a: "Often, because state rules credit residential solar at the full retail kWh rate up to your usage, carry excess forward, and pay year-end surplus at the Price to Compare. Size the system to annual use and, if you shop for supply, check how your supplier handles net metering."
-  - q: "What is the average electricity rate in Pennsylvania?"
-    a: "EIA puts Pennsylvania's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Supply alone ranges from about 11.6¢ to 14.1¢/kWh across major utilities after June 1, 2026."
 
 sources:
   - title: "52 Pa. Code §75.13, net metering general provisions"

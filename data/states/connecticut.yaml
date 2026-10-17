@@ -6,6 +6,8 @@ neighbors: [massachusetts, new-york, rhode-island]
 refreshed: 2026-10-18
 guides: [how-to-compare-electricity-supplier-offers, how-to-read-your-electric-bill]
 
+rate_note: The default supply price alone (standard service, supply only, before delivery and the public benefits credit) is 11.58¢/kWh at Eversource and 11.99¢ at UI for July–December 2026 ([Connecticut Mirror](https://ctmirror.org/2026/05/15/eversource-ui-customers-summer-electricity-rates/)); the statewide figure above is all-in.
+
 summary: >-
   Connecticut's statewide residential average moved {change} between {prev_month} and {month}, to {rate}, still high
   next to the U.S. figure of {us}; in July 2026 it was one of only a few states with a year-over-year decline. Bills
@@ -56,11 +58,6 @@ meaning: |-
   compare their price against it. Our [supplier comparison guide](/posts/how-to-compare-electricity-supplier-offers/) shows
   how.
 
-faq:
-  - q: "Is solar worth it in Connecticut?"
-    a: "Often, and Connecticut's RRES program offers two paths: netting at the retail rate, or a buy-all rate fixed for 20 years ($0.3289/kWh for 2026 enrollments at Eversource). Because 2026 rate cuts lowered what netting saves and the relief is temporary, compare both options before enrolling."
-  - q: "What is the average electricity rate in Connecticut?"
-    a: "EIA puts Connecticut's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Supply alone is 11.58¢/kWh at Eversource and 11.99¢ at UI on standard service through December 31, 2026."
 
 sources:
   - title: "Eversource, Connecticut Residential Solar Incentives"

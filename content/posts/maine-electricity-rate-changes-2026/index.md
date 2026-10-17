@@ -1,5 +1,7 @@
 ---
-title: "Maine Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "Maine Electricity Rates and Solar"
+detailTitle: "Maine Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/maine/"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Utility pole, transformer and power lines silhouetted against a deep red sky."
@@ -17,6 +19,10 @@ takeaways:
   - "For Versant's Bangor Hydro District it is 12.9540 cents, up from 10.5628 cents."
   - "For a Central Maine Power home using 550 kWh, that is about $11 more a month than in 2025."
 faq:
+  - q: "Is solar worth it in Maine?"
+    a: "Often, because net energy billing gives rooftop solar one-for-one kWh credits and Maine's prices are high. Size the system to annual use, since unused credits do not last indefinitely, and remember the monthly minimum bill ($8.00 at CMP and $9.00 at Versant, per a 2026 guide)."
+  - q: "What is the average electricity rate in Maine?"
+    a: "EIA puts Maine's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. The supply part alone, the 2026 standard offer, is 12.7210¢/kWh at CMP and 12.9540¢ at Versant's Bangor Hydro District."
   - q: "Did Maine electric rates change on October 1, 2026?"
     a: "We found no change on that date. The standard offer supply price is fixed from January 1 to December 31, 2026."
   - q: "What is Maine's standard offer rate in 2026?"
@@ -90,7 +96,7 @@ We verified supply prices on the PUC's site. We did not research 2026 delivery r
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Maine's average residential price at 32.41¢/kWh in July 2026, up 15.8% from 27.98¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $324.10 (1,000 × 32.41¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [New Hampshire](/posts/new-hampshire-electricity-rate-changes-2026/), [Vermont](/posts/vermont-electricity-rate-changes-2026/), [Massachusetts](/posts/massachusetts-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [New Hampshire](/rates/new-hampshire/), [Vermont](/rates/vermont/), [Massachusetts](/rates/massachusetts/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

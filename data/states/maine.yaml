@@ -6,6 +6,8 @@ neighbors: [new-hampshire, vermont, massachusetts]
 refreshed: 2026-10-18
 guides: [how-to-read-your-electric-bill, budget-billing-explained]
 
+rate_note: Central Maine Power's 2026 standard offer (supply only) is 12.7210¢/kWh for the full calendar year ([Maine PUC](https://www.maine.gov/mpuc/regulated-utilities/electricity/standard-offer-rates/cmp)); the statewide figure above is all-in.
+
 summary: >-
   Mainers paid an average of {rate} for residential power in {month}, {change} from {prev_month}, far above the U.S.
   average of {us}. The 2026 standard offer supply price jumped about 20% at Central Maine Power and 23% at Versant's
@@ -57,11 +59,6 @@ meaning: |-
   2027 standard offer, which had not been announced when we checked. Delivery rates are set separately and were not
   part of this research. For spreading high winter bills, see our [budget billing guide](/posts/budget-billing-explained/).
 
-faq:
-  - q: "Is solar worth it in Maine?"
-    a: "Often, because net energy billing gives rooftop solar one-for-one kWh credits and Maine's prices are high. Size the system to annual use, since unused credits do not last indefinitely, and remember the monthly minimum bill ($8.00 at CMP and $9.00 at Versant, per a 2026 guide)."
-  - q: "What is the average electricity rate in Maine?"
-    a: "EIA puts Maine's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. The supply part alone, the 2026 standard offer, is 12.7210¢/kWh at CMP and 12.9540¢ at Versant's Bangor Hydro District."
 
 sources:
   - title: "Maine PUC, Standard Offer Rates, Central Maine Power"

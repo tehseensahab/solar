@@ -54,11 +54,6 @@ meaning: |-
   [export credit comparison](/posts/solar-export-credit-rates-by-utility-2026/) shows how much that one number moves
   payback.
 
-faq:
-  - q: "Is solar worth it in Kentucky?"
-    a: "It is a closer call than in most states. Retail power is relatively cheap, and the export credit at LG&E and KU, restored by the PSC in February 2026, is still subject to a rehearing motion. A system sized so most output is used at home is the lower-risk choice; get the current net metering tariff before signing."
-  - q: "What is the average electricity rate in Kentucky?"
-    a: "EIA puts Kentucky's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Typical KU and LG&E bills after the 2026 order work out to about 13.1¢ and 13.2¢ per kWh all-in."
 
 sources:
   - title: "Kentucky PSC, Order for KU and LG&E Rate Cases, Feb. 16, 2026"

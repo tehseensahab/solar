@@ -51,11 +51,6 @@ meaning: |-
   households. Our guide to [how rate cases work](/posts/how-electric-rate-cases-work/) explains how to comment on
   a pending filing.
 
-faq:
-  - q: "Is solar worth it in Arkansas?"
-    a: "For new systems it depends on how much you use during daylight. Since Act 278, surplus earns avoided cost and credits no longer bank month to month, so a system sized to daytime use is worth far more per panel than one built to cancel the annual bill."
-  - q: "What is the average electricity rate in Arkansas?"
-    a: "EIA puts the statewide residential average at {rate} in {month}, against {prev} in {prev_month}. The U.S. average was {us}."
 
 sources:
   - title: "University of Arkansas Division of Agriculture, Net Metering Policies in Arkansas"

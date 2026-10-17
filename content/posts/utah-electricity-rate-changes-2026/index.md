@@ -1,5 +1,7 @@
 ---
-title: "Utah Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "Utah Electricity Rates and Solar"
+detailTitle: "Utah Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/utah/"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Transmission towers silhouetted at sunset with hills on the horizon."
@@ -17,6 +19,10 @@ takeaways:
   - "A 10.6% decrease in energy charges, worth about $11 a month, more than offset it for a typical home."
   - "Rocky Mountain Power agreed to file no general rate increases through 2028. Fuel and wildfire charges can still change."
 faq:
+  - q: "Is solar worth it in Utah?"
+    a: "Usually only for systems sized to daytime use or paired with a battery. Rocky Mountain Power credits exports at 4.855¢/kWh in summer and 4.033¢ in winter under Schedule 137, unused credits expire annually, and Utah's retail prices are low."
+  - q: "What is the average electricity rate in Utah?"
+    a: "EIA puts Utah's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
   - q: "Did Utah electric rates change on October 1, 2026?"
     a: "We found no change on that date. Rocky Mountain Power's settlement rates took effect July 1, 2026."
   - q: "Did Rocky Mountain Power bills go up in 2026?"
@@ -101,7 +107,7 @@ Figures come from Utah News Dispatch. We did not open the Public Service Commiss
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Utah's average residential price at 13.12¢/kWh in July 2026, down 2.5% from 13.45¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $131.20 (1,000 × 13.12¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arizona](/posts/arizona-electricity-rate-changes-2026/), [Colorado](/posts/colorado-electricity-rate-changes-2026/), [Idaho](/posts/idaho-electricity-rate-changes-2026/), [Nevada](/posts/nevada-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arizona](/rates/arizona/), [Colorado](/rates/colorado/), [Idaho](/rates/idaho/), [Nevada](/rates/nevada/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

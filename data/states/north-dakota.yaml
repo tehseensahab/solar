@@ -49,11 +49,6 @@ meaning: |-
   the interim amount is refundable if final rates come in lower. Check MDU's customer notice. Our
   [rate case explainer](/posts/how-electric-rate-cases-work/) covers how interim rates work.
 
-faq:
-  - q: "Is solar worth it in North Dakota?"
-    a: "For most homes it is a long-payback purchase. Power is cheap, and investor-owned utilities buy monthly surplus at avoided cost with no retail banking. Size any system to summer daytime use, and if you are a co-op or city utility customer, ask your utility for its own terms."
-  - q: "What is the average electricity rate in North Dakota?"
-    a: "EIA puts North Dakota's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
 
 sources:
   - title: "North Dakota Monitor, Xcel rate increase, Feb. 5, 2026"

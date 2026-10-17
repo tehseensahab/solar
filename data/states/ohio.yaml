@@ -6,6 +6,8 @@ neighbors: [indiana, kentucky, michigan, pennsylvania]
 refreshed: 2026-10-18
 guides: [how-to-compare-electricity-supplier-offers, solar-export-credit-rates-by-utility-2026]
 
+rate_note: AEP Ohio's default supply rate (supply only, before delivery and riders) is 10.12¢/kWh from June 1, 2026 to May 31, 2027 ([AEP Ohio](https://www.aepohiowire.com/sso-generation-rate-increase/)); the statewide figure above is all-in.
+
 summary: >-
   Ohio's residential average climbed to {rate} in {month}, {change} from a year earlier, against {us} nationally,
   after default supply prices reset on June 1. Default supply prices reset on June 1, 2026, with the biggest jumps at
@@ -55,11 +57,6 @@ meaning: |-
   [supplier comparison guide](/posts/how-to-compare-electricity-supplier-offers/) shows how. For solar owners, the
   PUCO's net metering review is the decision to follow.
 
-faq:
-  - q: "Is solar worth it in Ohio?"
-    a: "It can be for a system sized to daytime use. Exports are credited only for the energy portion of supply, without capacity or delivery, while self-used solar avoids the full supply and per-kWh delivery charges. The 2026 capacity-driven price increases widened that gap."
-  - q: "What is the average electricity rate in Ohio?"
-    a: "EIA puts Ohio's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Supply alone ranges from about 10.0¢ to 10.9¢/kWh at the major utilities from June 2026, before delivery and riders."
 
 sources:
   - title: "AEP Ohio Wire, SSO rate change, June 30, 2026"

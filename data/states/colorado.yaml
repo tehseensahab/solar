@@ -61,11 +61,6 @@ meaning: |-
   demand charge. Our explainer on [residential demand charges](/posts/residential-demand-charges-explained/) shows
   how one short spike in use can set a month's charge.
 
-faq:
-  - q: "Is solar worth it in Colorado?"
-    a: "At Xcel Energy, often yes for a system sized to your use: surplus earns kWh credits at the retail rate. Year-end leftovers are paid far below retail, so avoid oversizing. Colorado Springs Utilities and other municipal utilities and co-ops use different rules, including demand charges, so check your utility first."
-  - q: "What is the average electricity rate in Colorado?"
-    a: "EIA puts Colorado's statewide residential average at {rate} in {month}, compared with {prev} in {prev_month}. Xcel's August 29, 2026 increase added about $5.00 a month for a typical residential customer."
 
 sources:
   - title: "Colorado PUC, \"PUC Cuts Xcel Energy's Electric Rate Request and Expands Consumer Protections\""

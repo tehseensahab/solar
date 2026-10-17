@@ -1,5 +1,7 @@
 ---
-title: "Indiana Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "Indiana Electricity Rates and Solar"
+detailTitle: "Indiana Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/indiana/"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Steel transmission tower and power lines above a plowed field under a cloudy sky."
@@ -17,6 +19,10 @@ takeaways:
   - "AES Indiana says each phase adds less than $5 a month at 1,000 kWh, and less than $10 in total by 2027. Mirror Indy put the total at about $9.50."
   - "A 2026 state law moves utilities to three-year rate cycles, with Duke Energy Indiana due to file first, by mid-December."
 faq:
+  - q: "Is solar worth it in Indiana?"
+    a: "Only for systems sized to your own use, for most households. New customers' exports are credited under EDG billing, 5.4325¢/kWh at AES Indiana from July 27, 2026, well under the retail energy rate. Power you use yourself avoids retail charges plus Indiana's 7% sales tax on utility bills."
+  - q: "What is the average electricity rate in Indiana?"
+    a: "EIA puts Indiana's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Fixed monthly charges range from $11 at CenterPoint to $17 at AES Indiana, per Indiana Public Media."
   - q: "Did Indiana electric rates change on October 1, 2026?"
     a: "We found no base rate change on that date. AES Indiana's first phase took effect in July 2026 and its second is set for January 2027. Trackers such as the fuel adjustment change on their own schedules."
   - q: "How much did AES Indiana rates go up?"
@@ -102,7 +108,7 @@ We did not open the IURC order. Bill figures come from AES's news release and Mi
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Indiana's average residential price at 16.73¢/kWh in July 2026, up 3.4% from 16.18¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $167.30 (1,000 × 16.73¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Illinois](/posts/illinois-electricity-rate-changes-2026/), [Kentucky](/posts/kentucky-electricity-rate-changes-2026/), [Michigan](/posts/michigan-electricity-rate-changes-2026/), [Ohio](/posts/ohio-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Illinois](/rates/illinois/), [Kentucky](/rates/kentucky/), [Michigan](/rates/michigan/), [Ohio](/rates/ohio/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

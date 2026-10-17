@@ -1,5 +1,7 @@
 ---
-title: "Nevada Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "Nevada Electricity Rates and Solar"
+detailTitle: "Nevada Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/nevada/"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Transmission tower silhouetted against a purple and orange dusk sky."
@@ -17,6 +19,10 @@ takeaways:
   - "The changes needed Public Utilities Commission approval. When we checked on October 4, 2026, we found no report of the commission's decision."
   - "A daily demand charge for residential customers is now expected in January 2027. It is estimated at about $20 a month, offset by lower per-kWh rates."
 faq:
+  - q: "Is solar worth it in Nevada?"
+    a: "It can be, but less simply than before. New customers earn 75% of retail for surplus, northern Nevada now nets in 15-minute intervals, and a daily demand charge is expected in southern Nevada in January 2027. Pairing solar with a battery and running heavy loads in daylight protects more of the value."
+  - q: "What is the average electricity rate in Nevada?"
+    a: "EIA puts Nevada's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
   - q: "Did NV Energy rates change on October 1, 2026?"
     a: "NV Energy asked for a decrease on that date: 3.63% for Southern Nevada residential customers and 1.82% in Northern Nevada. The request needed commission approval, which we could not confirm."
   - q: "What is NV Energy's daily demand charge?"
@@ -89,7 +95,7 @@ The October decrease is a filed proposal. We searched on October 4, 2026 and fou
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Nevada's average residential price at 12.77¢/kWh in July 2026, up 3.1% from 12.39¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $127.70 (1,000 × 12.77¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arizona](/posts/arizona-electricity-rate-changes-2026/), [California](/posts/california-electricity-rate-changes-2026/), [Utah](/posts/utah-electricity-rate-changes-2026/), [Idaho](/posts/idaho-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arizona](/rates/arizona/), [California](/rates/california/), [Utah](/rates/utah/), [Idaho](/rates/idaho/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

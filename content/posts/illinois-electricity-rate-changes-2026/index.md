@@ -1,5 +1,7 @@
 ---
-title: "Illinois Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "Illinois Electricity Rates and Solar"
+detailTitle: "Illinois Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/illinois/"
 seoTitle: "ComEd and Ameren Illinois Rates, October 2026: New Supply Prices"
 date: 2026-09-30
 lastmod: 2026-10-05
@@ -26,6 +28,10 @@ takeaways:
   - "Both prices cover supply only and run through May 2027. Delivery charges are separate and did not change on October 1."
   - "Solar systems connected on or after January 1, 2025 are on net billing: exports earn supply-related credit, not the full retail rate."
 faq:
+  - q: "Is solar worth it in Illinois?"
+    a: "Often, because Illinois Shines pays for a system's renewable energy credits and ComEd and Ameren offer rebates. New systems since January 1, 2025 are on net billing, where exports earn supply-based credits, so size the system to your own use and confirm current incentive amounts before signing."
+  - q: "What is the average electricity rate in Illinois?"
+    a: "EIA puts the statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Supply is only part of that: ComEd's default supply price from October 2026 is 10.103¢/kWh, before delivery, taxes and fees."
   - q: "Did Illinois electricity rates change on October 1, 2026?"
     a: "Yes. Ameren Illinois and ComEd both reset their default supply prices for October 2026 through May 2027. Ameren's is 10.441 cents per kWh for the first 800 kWh and 8.262 cents above that. ComEd's is 10.103 cents per kWh."
   - q: "Will my ComEd bill go down in October 2026?"
@@ -100,7 +106,7 @@ Neither utility has published a single "typical bill" estimate that we could ver
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Illinois's average residential price at 19.22¢/kWh in July 2026, up 11.6% from 17.22¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $192.20 (1,000 × 19.22¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Indiana](/posts/indiana-electricity-rate-changes-2026/), [Iowa](/posts/iowa-electricity-rate-changes-2026/), [Missouri](/posts/missouri-electricity-rate-changes-2026/), [Wisconsin](/posts/wisconsin-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Indiana](/rates/indiana/), [Iowa](/rates/iowa/), [Missouri](/rates/missouri/), [Wisconsin](/rates/wisconsin/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

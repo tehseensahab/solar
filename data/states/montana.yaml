@@ -49,11 +49,6 @@ meaning: |-
   fuel. Our [rate case explainer](/posts/how-electric-rate-cases-work/) explains interim rates and how they are
   reconciled after a final order.
 
-faq:
-  - q: "Is solar worth it in Montana?"
-    a: "At NorthWestern Energy it can be, because retail net metering credits each kWh at the full retail rate, which rose about 12% on the overall residential bill in 2026. Size to annual use and choose a reset month so summer credits last through winter, since leftover credits are forfeited at the reset."
-  - q: "What is the average electricity rate in Montana?"
-    a: "EIA puts Montana's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
 
 sources:
   - title: "Missoula Current, PSC approval of NorthWestern rate increase"

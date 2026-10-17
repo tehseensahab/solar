@@ -51,11 +51,6 @@ meaning: |-
   15 minutes each day. Our explainer on [residential demand charges](/posts/residential-demand-charges-explained/)
   uses NV Energy's design as a worked example.
 
-faq:
-  - q: "Is solar worth it in Nevada?"
-    a: "It can be, but less simply than before. New customers earn 75% of retail for surplus, northern Nevada now nets in 15-minute intervals, and a daily demand charge is expected in southern Nevada in January 2027. Pairing solar with a battery and running heavy loads in daylight protects more of the value."
-  - q: "What is the average electricity rate in Nevada?"
-    a: "EIA puts Nevada's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
 
 sources:
   - title: "KTNV, NV Energy asks PUCN to lower electric rates, Aug. 2026"

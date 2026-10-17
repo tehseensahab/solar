@@ -57,11 +57,6 @@ meaning: |-
   change, multiply your current bill by 0.055 (a $120 bill rises about $6.60, our illustration). Our
   [rate case explainer](/posts/how-electric-rate-cases-work/) covers how to comment on pending municipal requests.
 
-faq:
-  - q: "Is solar worth it in Vermont?"
-    a: "Often, for small home systems: net metering credits are set by the PUC with small systems in the most favorable category, and adjustors are locked for 10 years. Because the PUC updates terms every two years, ask your installer which adjustors your application will get, and budget a few weeks for the Certificate of Public Good."
-  - q: "What is the average electricity rate in Vermont?"
-    a: "EIA puts Vermont's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}. Green Mountain Power's rates rose 5.5% on October 1, 2026."
 
 sources:
   - title: "VTDigger, Sept. 8, 2026"

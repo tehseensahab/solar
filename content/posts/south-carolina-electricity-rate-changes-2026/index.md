@@ -1,5 +1,7 @@
 ---
-title: "South Carolina Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "South Carolina Electricity Rates and Solar"
+detailTitle: "South Carolina Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/south-carolina/"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Two-story house with dark solar panels on its roof and more panels set on the front lawn."
@@ -17,6 +19,10 @@ takeaways:
   - "The settlement takes a typical bill from about $157 to about $169. By our math from the new rates, a 1,000 kWh winter bill is about $169.38 before taxes."
   - "Dominion's July 2026 bill insert confirms the Public Service Commission approved the increase. The standard residential rate is now 15.878 cents per kWh for the first 800 kWh."
 faq:
+  - q: "Is solar worth it in South Carolina?"
+    a: "At Dominion Energy South Carolina it depends on timing as much as size. Solar Choice nets kWh within TOU periods in the month, pays leftover excess each November at avoided cost and has a $13.50 minimum bill. Systems that cover peak-period use, or add a battery, get the most value."
+  - q: "What is the average electricity rate in South Carolina?"
+    a: "EIA puts South Carolina's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Dominion's standard Rate 8 charges 15.878¢/kWh for the first 800 kWh, plus a daily facilities charge."
   - q: "Did South Carolina electric rates change on October 1, 2026?"
     a: "We found no change on that date. Dominion Energy South Carolina's increase was approved and took effect with the first billing cycle of July 2026. On the standard plan, the rate for use above 800 kWh is lower from October through April."
   - q: "How much is the Dominion Energy South Carolina increase?"
@@ -116,7 +122,7 @@ Approval and current rates come from Dominion's bill insert. Settlement figures 
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts South Carolina's average residential price at 15.47¢/kWh in July 2026, up 5.2% from 14.70¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $154.70 (1,000 × 15.47¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Georgia](/posts/georgia-electricity-rate-changes-2026/), [North Carolina](/posts/north-carolina-electricity-rate-changes-2026/), [Florida](/posts/florida-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Georgia](/rates/georgia/), [North Carolina](/rates/north-carolina/), [Florida](/rates/florida/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

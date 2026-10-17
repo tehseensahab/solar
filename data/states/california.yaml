@@ -60,11 +60,6 @@ meaning: |-
   advisory pages for consolidated filings. Our [time-of-use and solar guide](/posts/time-of-use-rates-and-solar/)
   explains why the hour of production now matters as much as the amount.
 
-faq:
-  - q: "Is solar worth it in California?"
-    a: "Often yes, because the power it replaces is expensive, averaging {rate} statewide in {month}. Under the Net Billing Tariff, exports earn much less than retail, so the best results come from systems sized to daytime use or paired with a battery. New fixed monthly charges at SCE and PG&E slightly reduce savings because panels cannot offset them."
-  - q: "What is the average electricity rate in California?"
-    a: "EIA's statewide residential average was {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}. Individual utilities differ: SCE's average residential rate was 34.4¢/kWh after June 1, 2026."
 
 sources:
   - title: "CPUC, Net Energy Metering and Net Billing (Decision D.22-12-056)"

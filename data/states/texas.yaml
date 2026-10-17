@@ -6,6 +6,8 @@ neighbors: [louisiana, new-mexico, oklahoma, arkansas]
 refreshed: 2026-10-18
 guides: [how-to-compare-electricity-supplier-offers, how-to-compare-solar-quotes]
 
+rate_note: In competitive areas the energy price comes from the retail plan you choose, and your utility's regulated delivery charges are added on top ([Public Utility Commission of Texas](https://www.puc.texas.gov)).
+
 summary: >-
   Across Texas the residential average was {rate} in {month}, {change} year over year, against {us} for the U.S.,
   though what a household pays depends on its retail plan. In most of the state the energy price is set by the retail
@@ -53,11 +55,6 @@ meaning: |-
   [plan comparison guide](/posts/how-to-compare-electricity-supplier-offers/) explains fixed versus variable plans and
   how to read an offer, and our [solar quote guide](/posts/how-to-compare-solar-quotes/) covers what to ask installers.
 
-faq:
-  - q: "Is solar worth it in Texas?"
-    a: "It depends on your retail plan. Texas has no statewide net metering, so export credit comes from your provider's buyback plan (if any) or your city utility's program. Self-used solar reliably avoids both energy and delivery charges; price the plan you will pair with solar before signing."
-  - q: "What is the average electricity rate in Texas?"
-    a: "EIA puts Texas's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. In competitive areas, your plan's energy price plus your utility's delivery charges determine your actual rate."
 
 sources:
   - title: "Oncor, rate case page"

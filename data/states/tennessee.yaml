@@ -51,11 +51,6 @@ meaning: |-
   households, monthly bills still move with TVA's fuel cost adjustment and with local utility charges. Our
   [bill-reading guide](/posts/how-to-read-your-electric-bill/) shows where those lines appear.
 
-faq:
-  - q: "Is solar worth it in Tennessee?"
-    a: "Only for systems sized to your own daytime use, for most homes. There is no net metering in the TVA region; TVA buys exported power at a baseline 3.766¢/kWh, while retail power is relatively cheap. Ask your local power company about interconnection rules and fees first."
-  - q: "What is the average electricity rate in Tennessee?"
-    a: "EIA puts Tennessee's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}. Your local power company's rate schedule determines your actual price."
 
 sources:
   - title: "TVA, Dispersed Power Production Guidelines, effective Dec. 1, 2025"

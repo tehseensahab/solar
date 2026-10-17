@@ -1,5 +1,7 @@
 ---
-title: "Washington Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "Washington Electricity Rates and Solar"
+detailTitle: "Washington Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/washington/"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Rooftop solar panels in the foreground with wooded hills and blue sky behind."
@@ -17,6 +19,10 @@ takeaways:
   - "Five separate filings approved in December 2025 added a net $16.84 a month, or 12.18%, on January 1, 2026. Power costs alone added $28.04, partly offset by credits."
   - "Public utilities such as Seattle City Light, Snohomish PUD and Tacoma Power set their own rates and also raised them for 2026."
 faq:
+  - q: "Is solar worth it in Washington?"
+    a: "Under today's one-for-one net metering it often can be, especially at PSE after the 2026 increases. But PSE has reached the 4% threshold and no successor rate has been announced, so get written confirmation of which schedule your system will be on and for how long."
+  - q: "What is the average electricity rate in Washington?"
+    a: "EIA puts Washington's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. PSE's typical 800 kWh bill was $129.83 after the 2026 base-rate step, before the separate power cost filings."
   - q: "Did Washington electric rates change on October 1, 2026?"
     a: "We found no approved change on that date for Puget Sound Energy. Its 2026 changes took effect on January 1, 2026."
   - q: "How much did Puget Sound Energy rates rise in 2026?"
@@ -109,7 +115,7 @@ The typical bill figures use 800 kWh a month, not the 1,000 kWh used in most of 
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Washington's average residential price at 14.71¢/kWh in July 2026, up 9.4% from 13.45¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $147.10 (1,000 × 14.71¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Idaho](/posts/idaho-electricity-rate-changes-2026/), [Oregon](/posts/oregon-electricity-rate-changes-2026/), [Alaska](/posts/alaska-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Idaho](/rates/idaho/), [Oregon](/rates/oregon/), [Alaska](/rates/alaska/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

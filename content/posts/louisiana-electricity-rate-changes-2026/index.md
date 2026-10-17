@@ -1,5 +1,7 @@
 ---
-title: "Louisiana Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "Louisiana Electricity Rates and Solar"
+detailTitle: "Louisiana Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/louisiana/"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Wall of round analog electric meters mounted in rows on a gray metal panel."
@@ -17,6 +19,10 @@ takeaways:
   - "About $8.87 of that $12.59 rise is the fuel adjustment, which changes monthly."
   - "Cleco's bill fell slightly over the same months, from $149.63 to $146.41."
 faq:
+  - q: "Is solar worth it in Louisiana?"
+    a: "Usually only for a system sized to your daytime use. Exports are credited at avoided cost under two-channel billing, and retail power is among the cheapest in the U.S. Self-used solar avoids both the energy charge and the per-kWh fuel adjustment, about 3.8¢ at Entergy Louisiana in May 2026."
+  - q: "What is the average electricity rate in Louisiana?"
+    a: "EIA puts Louisiana's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. The PSC's comparison put the 1,000 kWh bill average across listed utilities at $138.45 in May 2026."
   - q: "Did Louisiana electric rates change on October 1, 2026?"
     a: "We found no base rate order with that date. Fuel adjustments change every month, so bills move even without a rate case."
   - q: "Why did my Entergy Louisiana bill go up in 2026?"
@@ -88,7 +94,7 @@ We compared two months, January and May 2026. We did not review later months, so
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Louisiana's average residential price at 12.72¢/kWh in July 2026, down 3.0% from 13.12¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $127.20 (1,000 × 12.72¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arkansas](/posts/arkansas-electricity-rate-changes-2026/), [Mississippi](/posts/mississippi-electricity-rate-changes-2026/), [Texas](/posts/texas-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arkansas](/rates/arkansas/), [Mississippi](/rates/mississippi/), [Texas](/rates/texas/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

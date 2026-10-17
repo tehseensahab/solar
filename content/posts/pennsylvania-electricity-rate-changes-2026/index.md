@@ -1,5 +1,7 @@
 ---
-title: "Pennsylvania Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "Pennsylvania Electricity Rates and Solar"
+detailTitle: "Pennsylvania Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/pennsylvania/"
 date: 2026-09-30
 imageAlt: "Row of brick houses with solar panels covering the dark roofs."
 imageCredit: "Photo by Uitbundig on [Unsplash](https://unsplash.com/photos/a-house-with-a-lot-of-solar-panels-on-the-roof-yxiP843xyrI?utm_source=solarexaminer&utm_medium=referral)"
@@ -16,6 +18,10 @@ takeaways:
   - "The change applies only to customers on default service. Customers who shop with a supplier pay their contract price."
   - "We found no official October 1, 2026 rate change."
 faq:
+  - q: "Is solar worth it in Pennsylvania?"
+    a: "Often, because state rules credit residential solar at the full retail kWh rate up to your usage, carry excess forward, and pay year-end surplus at the Price to Compare. Size the system to annual use and, if you shop for supply, check how your supplier handles net metering."
+  - q: "What is the average electricity rate in Pennsylvania?"
+    a: "EIA puts Pennsylvania's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Supply alone ranges from about 11.6¢ to 14.1¢/kWh across major utilities after June 1, 2026."
   - q: "Are Pennsylvania electricity rates going up on October 1, 2026?"
     a: "We found no official October 1 change. Default service prices reset on June 1 and December 1, so the next scheduled reset after June is in December."
   - q: "What is the Price to Compare?"
@@ -74,7 +80,7 @@ Default service prices are scheduled to reset again December 1. PPL had a propos
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Pennsylvania's average residential price at 21.72¢/kWh in July 2026, up 11.3% from 19.51¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $217.20 (1,000 × 21.72¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Delaware](/posts/delaware-electricity-rate-changes-2026/), [New Jersey](/posts/new-jersey-electricity-rate-changes-2026/), [New York](/posts/new-york-electricity-rate-changes-2026/), [Ohio](/posts/ohio-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Delaware](/rates/delaware/), [New Jersey](/rates/new-jersey/), [New York](/rates/new-york/), [Ohio](/rates/ohio/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

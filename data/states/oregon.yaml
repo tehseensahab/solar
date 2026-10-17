@@ -51,11 +51,6 @@ meaning: |-
   on PGE's compliance plan. Our [battery sizing guide](/posts/battery-sizing-guide/) helps if you are pairing storage
   with panels.
 
-faq:
-  - q: "Is solar worth it in Oregon?"
-    a: "Often, for a system sized to your annual use. PGE and Pacific Power offer net metering with kWh credits, and Energy Trust of Oregon offers incentives, but unused credits are donated each March, so oversizing gives power away."
-  - q: "What is the average electricity rate in Oregon?"
-    a: "EIA puts Oregon's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. PGE's April 2026 increase added about $8 a month for an average customer."
 
 sources:
   - title: "Energy Trust of Oregon, Solar: Net Metering"
