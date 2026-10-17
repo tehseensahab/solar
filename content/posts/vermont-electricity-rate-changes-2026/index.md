@@ -73,7 +73,7 @@ Vermont has net metering, with credit rates set by the Public Utility Commission
 - **How credits are set:** a statewide blended rate, adjusted up or down by system category and size. Small home systems (15 kW or less) are in the most favorable category.
 - **Rate lock:** adjustors are fixed for 10 years from the date a system is commissioned, according to an installer guide.
 - **Permit:** every system needs a Certificate of Public Good from the PUC. For small home systems this typically takes a few weeks.
-- **Under review:** the PUC's 2026 biennial update (Case 26-0291-INV) is setting rates for new systems. We did not find the result.
+- **Updated August 1, 2026:** the PUC's 2026 biennial update (Case 26-0291-INV, order of May 29, 2026) raised the blended residential rate to $0.2071 per kWh and set new-system compensation at $0.1571 per kWh for small home systems. On September 9, 2026 the PUC also opened a rulemaking on the net-metering rule. See [our October 17 update](/posts/vermont-net-metering-rule-rewrite-2026/).
 - **Community solar:** group or "virtual" net metering for new projects ended on January 1, 2025.
 
 **What it means:** your credit rate depends on when you apply, so a system filed before a biennial update takes effect keeps the earlier adjustors. With Green Mountain Power's rates up 5.5% in October 2026, self-used solar is worth more. Ask your installer which adjustors your application will get.

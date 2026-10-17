@@ -52,7 +52,7 @@ Oncor's rates apply to customers in its delivery territory, including much of th
 
 ## What This Means for Homeowners With Solar
 
-Higher delivery charges make electricity you avoid buying more valuable. What you earn for exports depends on your retail plan, so compare buyback terms on the plan's Electricity Facts Label before you sign. We found no change to solar compensation rules in the sources reviewed.
+Higher delivery charges make electricity you avoid buying more valuable. What you earn for exports depends on your retail plan, so compare buyback terms on the plan's Electricity Facts Label before you sign. We found no change to solar compensation rules in the sources reviewed. Separately, Texas now requires home solar sellers and salespeople to register with the state: see [what homeowners can check before signing](/posts/texas-solar-retailer-registration-2026/).
 
 ## What Homeowners Should Check on Their Electric Bill
 
