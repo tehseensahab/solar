@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Brick barn with a roof covered in solar panels beside a green lawn and trees."
 imageCredit: "Photo by Sergej ***** on [Unsplash](https://unsplash.com/photos/barns-with-solar-panels-in-a-grassy-field-pvY0LKn3GDI?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Wisconsin"]
 description: "Wisconsin utilities set rates by calendar year, so nothing changed on October 1, 2026. We Energies bills rose about $9.73 a month in 2026, and the company is asking for more in 2027 and 2028."
 readtime: "4 min read"
 author: "Tehseen Arbab"

@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Residential street with parked cars and a transmission tower rising behind the houses."
 imageCredit: "Photo by Arlind Photography on [Unsplash](https://unsplash.com/photos/residential-street-with-parked-cars-houses-and-power-lines-zhRbFT87Gxo?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Alaska"]
 description: "Alaska has no statewide grid and no single rate change date. Golden Valley Electric has charged a 7.4% interim, refundable increase since January 15, 2026, with its rate case under review through February 2027."
 readtime: "4 min read"
 author: "Tehseen Arbab"

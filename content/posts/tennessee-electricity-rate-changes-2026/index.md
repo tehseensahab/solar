@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Transmission towers rising above a forested valley with hills in the distance."
 imageCredit: "Photo by Jaël Vallée on [Unsplash](https://unsplash.com/photos/electric-posts-near-tress-under-clear-sky-at-daytime-BvpTdaKbCcQ?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Tennessee"]
 description: "TVA's board approved its fiscal 2027 budget on August 20, 2026 without announcing a base rate increase. The rate change it did approve applies to data centers. Your local power company can still change its own rates."
 readtime: "4 min read"
 author: "Tehseen Arbab"

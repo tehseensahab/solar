@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Large building with a steep roof covered in solar panels under an overcast sky."
 imageCredit: "Photo by Markus Winkler on [Unsplash](https://unsplash.com/photos/a-house-with-solar-panels-on-the-roof-VX0ZEZSwqnY?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Vermont"]
 description: "Green Mountain Power's rates rose 5.5% on October 1, 2026 after Vermont regulators trimmed a 7.5% request. The utility serves more than 275,000 customers."
 readtime: "4 min read"
 author: "Tehseen Arbab"

@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Rows of solar panels installed on a large corrugated metal roof, seen from above."
 imageCredit: "Photo by Rafael Moreno on [Unsplash](https://unsplash.com/photos/solar-panels-are-installed-on-a-rooftop-73JOOymZQTQ?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["South Dakota"]
 description: "Xcel Energy's South Dakota rates rose July 1, 2026 under a settlement: $25.6 million, about $13.48 a month for a typical home, with a refund of about $43.52 for interim overcharges. Black Hills Energy has a 25% request pending."
 readtime: "4 min read"
 author: "Tehseen Arbab"

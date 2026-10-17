@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "House with solar panels on a tiled roof behind a garden with lavender and shrubs."
 imageCredit: "Photo by Watt A Lot on [Unsplash](https://unsplash.com/photos/a-house-with-solar-panels-gqpuuF3a2tY?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Connecticut"]
 description: "Connecticut supply rates fell on July 1, 2026, and a public benefits credit has cut bills further since May 1. The state's consumer advocate says the credit is set through April 30, 2027, though regulators can adjust it."
 readtime: "4 min read"
 author: "Tehseen Arbab"

@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Suburban homes at dusk with solar panels on a tile roof."
 imageCredit: "Photo by Vivint Solar on [Unsplash](https://unsplash.com/photos/a-house-with-a-solar-panel-on-the-roof-_ciUqT1HEuY?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Arizona"]
 description: "Arizona's two largest regulated utilities have rate increases pending, not approved. APS is asking for about 14% overall, roughly $20 a month for residential customers, with a vote expected around December 2026. TEP asked for 13%."
 readtime: "4 min read"
 author: "Tehseen Arbab"

@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Wooden utility pole and power lines against pink and purple sunset clouds."
 imageCredit: "Photo by Kilian Murphy on [Unsplash](https://unsplash.com/photos/silhouetted-utility-pole-under-a-colorful-pink-and-purple-sunset-B0R8hY-PBLg?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["New Hampshire"]
 description: "New Hampshire supply rates rose on August 1, 2026 and run through January 31, 2027. Eversource's default rate is about 14.0 cents per kWh and Liberty's about 15.8 cents. Nothing changes on October 1."
 readtime: "4 min read"
 author: "Tehseen Arbab"

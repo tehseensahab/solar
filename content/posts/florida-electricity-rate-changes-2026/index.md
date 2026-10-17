@@ -4,6 +4,8 @@ date: 2026-09-30
 imageAlt: "Aerial view of waterfront houses with palm trees beside turquoise water, some roofs fitted with solar panels."
 imageCredit: "Photo by Diwei Zhu on [Unsplash](https://unsplash.com/photos/coastal-houses-with-palm-trees-beside-a-turquoise-ocean-kBydV9ID5Ws?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Florida"]
 description: "FPL's one-month September storm refund ends with October bills, and Duke Energy Florida's June-to-September reduction was scheduled to end after September. Here is what changed and what to expect."
 readtime: "6 min read"
 author: "Tehseen Arbab"

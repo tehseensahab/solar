@@ -6,6 +6,7 @@ lastVerified: 2026-10-02
 imageAlt: "Utility worker in a bucket lift working on a power pole against a clear sky."
 imageCredit: "Photo by American Public Power Association on [Unsplash](https://unsplash.com/photos/man-standing-on-bucket-beside-gray-current-post-at-daytime-hp1-hMaMBrU?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["News"]
+states: ["Missouri"]
 faq:
   - q: "Did the fixed customer charge change in Columbia, MO?"
     a: "No. The city says usage fees rise 6% but the customer charge will not change."

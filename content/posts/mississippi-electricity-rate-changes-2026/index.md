@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Utility pole and power lines beside trees with sunlit clouds overhead."
 imageCredit: "Photo by Albert Zhuang on [Unsplash](https://unsplash.com/photos/utility-pole-and-trees-at-golden-hour-lmn6m1NkDpo?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Mississippi"]
 description: "Entergy Mississippi's annual rate plan kept rates flat in July 2026, avoiding a $4.87 monthly increase, and the company filed for a 41-cent monthly reduction for October 2026."
 readtime: "4 min read"
 author: "Tehseen Arbab"

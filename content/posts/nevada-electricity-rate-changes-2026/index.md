@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Transmission tower silhouetted against a purple and orange dusk sky."
 imageCredit: "Photo by Munkhtuvshin .T on [Unsplash](https://unsplash.com/photos/silhouette-of-a-power-line-tower-at-sunset-TV6mIqQ61jc?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Nevada"]
 description: "NV Energy asked regulators to lower electric rates on October 1, 2026: about $5 a month in Southern Nevada and about $1.86 in the north. A new daily demand charge for homes has been delayed to January 2027."
 readtime: "4 min read"
 author: "Tehseen Arbab"

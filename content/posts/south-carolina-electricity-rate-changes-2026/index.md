@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Two-story house with dark solar panels on its roof and more panels set on the front lawn."
 imageCredit: "Photo by Zendure Power Station on [Unsplash](https://unsplash.com/photos/a-house-with-solar-panels-on-the-roof-lspvbK-OIkU?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["South Carolina"]
 description: "South Carolina regulators approved a Dominion Energy rate increase effective with the first billing cycle of July 2026. The settlement was 7.6%, about $12 a month at 1,000 kWh, down from the 12.7% requested."
 readtime: "4 min read"
 author: "Tehseen Arbab"

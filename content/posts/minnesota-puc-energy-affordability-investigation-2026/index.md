@@ -5,6 +5,7 @@ lastVerified: 2026-10-14
 imageAlt: "Minnesota State Capitol in St. Paul with snow on the grounds under a blue sky."
 imageCredit: "Photo by David Anderson on [Unsplash](https://unsplash.com/photos/a-large-white-building-sitting-on-top-of-a-snow-covered-field-h-lrLNdSgL8?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["News"]
+states: ["Minnesota"]
 description: "The Minnesota Public Utilities Commission held the first of three sessions on October 13 in its statewide investigation into electric and gas affordability (Docket 26-341). A report to the Governor and Legislature is due in early 2027."
 readtime: "5 min read"
 author: "Tehseen Arbab"

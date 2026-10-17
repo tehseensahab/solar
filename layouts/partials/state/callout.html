@@ -1,0 +1,3 @@
+{{- /* Above-the-fold link from a news post to its state hub. Input: page. */ -}}
+{{- $c := partial "state/ctx.html" . -}}
+{{- with $c.hub }}<p class="state-callout"><a href="{{ .RelPermalink }}">Full {{ $c.d.name }} electricity rate data →</a></p>{{ end -}}

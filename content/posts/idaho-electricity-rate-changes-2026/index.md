@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Highway through dry open country with a line of power poles alongside."
 imageCredit: "Photo by Oscar Madison on [Unsplash](https://unsplash.com/photos/highway-with-cars-and-power-towers-dNhdEzZC8Ik?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Idaho"]
 description: "Idaho Power's rates rose twice in 2026: a 7.48% general increase on January 1 and a 3.15% annual adjustment on June 1, about $3.64 a month for a home using 900 kWh. No October 1 change was found."
 readtime: "4 min read"
 author: "Tehseen Arbab"

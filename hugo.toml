@@ -20,6 +20,7 @@ copyright = "Solar Examiner"
 [taxonomies]
   category = "categories"
   tag = "tags"
+  state = "states"
 
 [[menu.main]]
   name = "Home"

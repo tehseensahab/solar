@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Small white house with rooftop solar panels surrounded by tropical trees and garden plots."
 imageCredit: "Photo by VD Photography on [Unsplash](https://unsplash.com/photos/an-aerial-view-of-a-house-with-a-solar-panel-on-the-roof-tC4tHCeoO44?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Hawaii"]
 description: "Hawaii's electric rates change every month with fuel costs. In May 2026 the effective residential rate on Oahu was 47.75 cents per kWh. Hawaiian Electric's first general rate case in years could raise base rates by January 2027."
 readtime: "4 min read"
 author: "Tehseen Arbab"

@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Utility pole, transformer and power lines silhouetted against a deep red sky."
 imageCredit: "Photo by Chauanna Lima on [Unsplash](https://unsplash.com/photos/utility-pole-against-red-sky-3uHuJ1XYaWA?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Maine"]
 description: "Maine's default supply price rose about 20% on January 1, 2026 and is fixed for the year: 12.72 cents per kWh for Central Maine Power customers and 12.95 cents for Versant's Bangor Hydro District. Nothing changes on October 1."
 readtime: "4 min read"
 author: "Tehseen Arbab"

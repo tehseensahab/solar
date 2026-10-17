@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Solar panels on a clay tile roof with a faint rainbow in the sky behind."
 imageCredit: "Photo by Joshua Bowers on [Unsplash](https://unsplash.com/photos/a-solar-panel-on-a-roof-with-a-rainbow-in-the-background-0SyvPKyZc-M?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["New Mexico"]
 description: "PNM's second approved rate step took effect April 1, 2026, adding about $6.23 a month for an average residential customer. El Paso Electric has asked for an increase of more than $40 a month, starting in 2027."
 readtime: "4 min read"
 author: "Tehseen Arbab"

@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Rooftop solar panels in a residential neighborhood with a rainbow over hills behind."
 imageCredit: "Photo by Lara John on [Unsplash](https://unsplash.com/photos/rainbow-over-a-suburban-neighborhood-with-solar-panels-VNIjztzKF_U?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["North Dakota"]
 description: "North Dakota regulators approved a 12.92% residential increase for Xcel Energy in February 2026, about $11.94 a month. Montana-Dakota Utilities began charging a 12.3% interim increase, about $12.90 a month, around September 1."
 readtime: "4 min read"
 author: "Tehseen Arbab"

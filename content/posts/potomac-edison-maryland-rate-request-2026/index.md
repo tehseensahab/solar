@@ -5,6 +5,7 @@ lastVerified: 2026-10-15
 imageAlt: "Two line workers in hard hats repairing equipment on a utility pole from a bucket truck."
 imageCredit: "Photo by Mario Spencer on [Unsplash](https://unsplash.com/photos/linemen-working-on-a-utility-pole-with-bucket-truck-UyqxlMS8X84?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["News"]
+states: ["Maryland"]
 description: "Potomac Edison filed a $52.8 million distribution rate request with the Maryland Public Service Commission in September 2026 (Case No. 9904). The utility puts the average residential impact at about 5.3%. Nothing has been approved."
 readtime: "5 min read"
 author: "Tehseen Arbab"

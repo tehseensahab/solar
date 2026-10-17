@@ -16,6 +16,8 @@ internal_links_suggested: ["community choice aggregation explained", "how to rea
 imageAlt: "Weathered wooden houses lining a sunny residential street."
 imageCredit: "Photo by Emi Mo on [Unsplash](https://unsplash.com/photos/historic-wooden-houses-line-a-sunny-street-with-shadows-j5TewHOqdpw?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Massachusetts"]
 tags: ["Massachusetts", "Eversource", "National Grid", "Unitil", "basic service"]
 readtime: "6 min read"
 takeaways:

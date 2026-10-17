@@ -5,6 +5,7 @@ lastVerified: 2026-10-16
 imageAlt: "Red barns at the edge of a harvested field glowing in late-day sun."
 imageCredit: "Photo by Hudson Graves on [Unsplash](https://unsplash.com/photos/farm-buildings-in-a-field-at-sunset-t5s7F2_IxLg?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["News"]
+states: ["New York"]
 description: "New York's Office of Renewable Energy Siting and Electric Transmission denied a permit for Hecate Energy's 42 MW Shepherd's Run solar project in Copake, Columbia County, on October 14, 2026, citing wetlands and flood protection requirements."
 readtime: "4 min read"
 author: "Tehseen Arbab"

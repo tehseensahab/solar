@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Close view of steel transmission towers and power lines against a green and yellow sky."
 imageCredit: "Photo by Fré Sonneveld on [Unsplash](https://unsplash.com/photos/black-transmission-towers-under-green-sky-q6n8nIrDQHE?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Kansas"]
 description: "Evergy's last Kansas base rate increase took effect in October 2025: $128 million, about $8.47 a month for a home using 900 kWh. We found no new base rate change for October 2026."
 readtime: "4 min read"
 author: "Tehseen Arbab"

@@ -13,6 +13,7 @@
       · {{ .ReadingTime }} min read
     </p>
     {{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}
+    {{ partial "state/callout.html" . }}
   </header>
   <figure class="post-cover">
     {{- if $cover.has }}
@@ -39,6 +40,7 @@
       {{ end }}
     </section>
     {{ end }}
+    {{ partial "state/related-box.html" . }}
   </div>
   <div class="wrap">{{ partial "related.html" . }}</div>
 </article>

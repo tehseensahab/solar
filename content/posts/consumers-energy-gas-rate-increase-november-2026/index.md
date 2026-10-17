@@ -5,6 +5,7 @@ lastVerified: 2026-10-17
 imageAlt: "Gray residential gas meter with copper and yellow pipes on a pale green wall."
 imageCredit: "Photo by Parth Mishra on [Unsplash](https://unsplash.com/photos/a-gas-meter-mounted-on-a-pale-green-wall-GtenqOzEZgU?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["News"]
+states: ["Michigan"]
 description: "Michigan regulators approved a $139.2 million natural gas rate increase for Consumers Energy on October 15, 2026, about 58% of the $240 million requested. A typical residential customer using 75 ccf a month will pay $3.92 more, starting November 1."
 readtime: "5 min read"
 author: "John Marshall"

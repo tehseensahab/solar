@@ -16,6 +16,8 @@ internal_links_suggested: ["net metering explainer", "how to read your electric 
 imageAlt: "Large gray house with a dark solar panel section on its roof."
 imageCredit: "Photo by Vivint Solar on [Unsplash](https://unsplash.com/photos/gray-concrete-house-_XxvXRdacDo?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Illinois"]
 tags: ["Illinois", "Ameren Illinois", "ComEd", "electricity rates", "net billing"]
 readtime: "6 min read"
 takeaways:

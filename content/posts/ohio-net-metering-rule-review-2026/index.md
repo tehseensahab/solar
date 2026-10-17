@@ -5,6 +5,7 @@ lastVerified: 2026-10-06
 imageAlt: "Red brick house with dormer windows under a deep blue sky with scattered clouds."
 imageCredit: "Photo by collin williams on [Unsplash](https://unsplash.com/photos/brown-and-white-concrete-house-under-blue-sky-5pHBbCV39rw?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["News"]
+states: ["Ohio"]
 description: "Ohio's five-year review of its net metering rule produced a no-change proposal. AEP Ohio's push for net billing and limits on shopping customers was not adopted in it. Here is what stays, what is unconfirmed, and what solar owners should check."
 readtime: "6 min read"
 author: "Tehseen Arbab"

@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Transmission towers silhouetted at sunset with hills on the horizon."
 imageCredit: "Photo by DM David on [Unsplash](https://unsplash.com/photos/power-lines-and-towers-silhouetted-against-a-colorful-sunset-4BGLvNFvfYM?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Utah"]
 description: "Rocky Mountain Power's Utah base rates rose 4.2% on July 1, 2026, about $3.44 a month, but a larger drop in energy charges means typical bills fell. The settlement bars new rate case filings through 2028."
 readtime: "4 min read"
 author: "Tehseen Arbab"

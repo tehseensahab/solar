@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Line of transmission towers crossing open fields at dusk."
 imageCredit: "Photo by Alexandru Boicu on [Unsplash](https://unsplash.com/photos/landscape-photography-of-electric-towers-under-a-calm-blue-sky-h0z0ptvGVR8?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Kentucky"]
 description: "Kentucky regulators approved smaller increases than LG&E and Kentucky Utilities asked for in February 2026: $8.73 a month for a typical KU customer and $5.14 for LG&E electric. No October 1 change was found."
 readtime: "4 min read"
 author: "Tehseen Arbab"

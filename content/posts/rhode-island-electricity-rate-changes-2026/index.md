@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Worker in a blue hoodie and cap working on an electric meter mounted on a wall."
 imageCredit: "Photo by Raze Solar on [Unsplash](https://unsplash.com/photos/person-working-on-electrical-meter-_aSFmmvS62I?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Rhode Island"]
 description: "Rhode Island Energy's residential supply rate for October 2026 through March 2027 is 17.029 cents per kWh, up from 11.092 cents in summer: about $29.69 more a month at 500 kWh. Bill credits of roughly $14 a month from October, and $20.45 more from January to March, offset part of it."
 readtime: "4 min read"
 author: "Tehseen Arbab"

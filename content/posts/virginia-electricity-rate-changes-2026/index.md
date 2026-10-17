@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Solar panels mounted on the shingle roof of a house under a clear blue sky."
 imageCredit: "Photo by Michael Roberts on [Unsplash](https://unsplash.com/photos/a-solar-panel-on-the-roof-of-a-house-U0ys6tX7UMU?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Virginia"]
 description: "Dominion Energy Virginia's base rates rose in 2026 under a State Corporation Commission order: about $11.24 a month at 1,000 kWh, with $2.36 more in 2027. Several rider changes followed over the summer."
 readtime: "4 min read"
 author: "Tehseen Arbab"

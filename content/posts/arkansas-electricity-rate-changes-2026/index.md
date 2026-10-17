@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Three transmission towers and a single tree on a green hillside under a clear blue sky."
 imageCredit: "Photo by Spencer DeMera on [Unsplash](https://unsplash.com/photos/a-green-hillside-with-power-lines-and-a-single-tree-2dubeOplsqM?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Arkansas"]
 description: "Entergy Arkansas bills have risen in steps during 2026, including a new rider for power plant construction that adds about $4.22 a month at 1,000 kWh from June. A further small increase is requested for January 2027."
 readtime: "4 min read"
 author: "Tehseen Arbab"

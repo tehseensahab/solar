@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Row of modern townhouses with garages and dark solar panels on a larger roof behind."
 imageCredit: "Photo by Troy Mortier on [Unsplash](https://unsplash.com/photos/modern-townhouses-with-garages-and-solar-panels-WIQtUv49q18?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Delaware"]
 description: "Delmarva Power's default supply rates in Delaware rose 17% to 20% on June 1, 2026, about $14.64 a month for a typical home. A $67.8 million delivery rate increase is also pending."
 readtime: "4 min read"
 author: "Tehseen Arbab"

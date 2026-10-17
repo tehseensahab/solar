@@ -5,6 +5,7 @@ lastVerified: 2026-10-16
 imageAlt: "Large brick house with rooftop solar panels behind a wall and palm trees."
 imageCredit: "Photo by Wiseman Mabasa on [Unsplash](https://unsplash.com/photos/a-large-house-with-solar-panels-on-the-roof-f93lJ_3wOmM?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["News"]
+states: ["New York"]
 description: "The New York PSC revoked the eligibility of 11 distributed energy suppliers on October 15, 2026, including Sunnova and PosiGen, and ordered several to show how they will honor existing customer agreements. Here is what it means for solar lease, PPA and community solar customers."
 readtime: "6 min read"
 author: "Tehseen Arbab"

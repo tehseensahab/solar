@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Wall of round analog electric meters mounted in rows on a gray metal panel."
 imageCredit: "Photo by Alexander Schimmeck on [Unsplash](https://unsplash.com/photos/white-and-black-electric-meter-k_-KlaENC-Q?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Louisiana"]
 description: "Entergy Louisiana's 1,000 kWh residential bill rose from about $138 in January 2026 to about $151 in May, according to the Public Service Commission's monthly comparison. Most of the change was fuel."
 readtime: "4 min read"
 author: "Tehseen Arbab"

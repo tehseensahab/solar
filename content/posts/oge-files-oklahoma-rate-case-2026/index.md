@@ -6,6 +6,7 @@ lastVerified: 2026-10-02
 imageAlt: "Wooden utility pole with power lines and a tall mast against a blue sky."
 imageCredit: "Photo by Mikhail Abramkin on [Unsplash](https://unsplash.com/photos/brown-electric-post-under-blue-sky-during-daytime-Coewo0NyG5U?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["News"]
+states: ["Oklahoma"]
 faq:
   - q: "Has OG&E's rate increase been approved?"
     a: "No. OG&E filed a request with the Oklahoma Corporation Commission this week. Regulators will review it for months, and the final amount could be lower."

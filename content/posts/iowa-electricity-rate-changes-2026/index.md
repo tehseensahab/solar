@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Line of transmission towers crossing a harvested field under a pale blue sky."
 imageCredit: "Photo by James Wainscoat on [Unsplash](https://unsplash.com/photos/brown-and-black-electric-towers-under-white-sky-during-daytime-ACc9WvDRJA8?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Iowa"]
 description: "Alliant Energy's Iowa base rates are frozen until at least late 2029, so nothing changed on October 1, 2026. Riders still move bills, and MidAmerican Energy has a rate increase proposal before state regulators."
 readtime: "4 min read"
 author: "Tehseen Arbab"

@@ -5,6 +5,7 @@ lastVerified: 2026-10-11
 imageAlt: "Aerial view of a Colorado Springs neighborhood and highway with mountains in the distance."
 imageCredit: "Photo by Russell Smith on [Unsplash](https://unsplash.com/photos/aerial-photography-of-houses-near-mountain-O-eYeUZDtck?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["News"]
+states: ["Colorado"]
 description: "Colorado Springs City Council approved new net metering rates on September 22, 2026. Solar customers will choose a grid access charge with time-of-day rates or a demand charge. The utility estimates both raise bills about $38 a month."
 readtime: "7 min read"
 author: "Tehseen Arbab"

@@ -16,6 +16,8 @@ internal_links_suggested: ["how rate cases work", "how to read your electric bil
 imageAlt: "Solar panels on a roof edge in the snow, lit by an orange sunset."
 imageCredit: "Photo by Daniil Silantev on [Unsplash](https://unsplash.com/photos/solar-panels-reflect-a-colorful-sunset-over-snow-bhrVNTw48ZQ?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Michigan"]
 tags: ["Michigan", "DTE", "Consumers Energy", "MPSC", "rate case"]
 readtime: "6 min read"
 takeaways:

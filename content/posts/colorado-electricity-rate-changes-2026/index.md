@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "House with a metal roof and rooftop solar panels surrounded by dense green trees."
 imageCredit: "Photo by Jordi Villanova on [Unsplash](https://unsplash.com/photos/a-house-with-a-solar-panel-on-the-roof-2eeam_HMvIk?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Colorado"]
 description: "Xcel Energy's Colorado electric rates rose on August 29, 2026. Regulators approved $157 million of a $356 million request, about $5.00 a month, or 4.77%, for residential customers."
 readtime: "4 min read"
 author: "Tehseen Arbab"

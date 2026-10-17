@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Row of electric meters mounted on a weathered white wall with conduit below."
 imageCredit: "Photo by Tim Mossholder on [Unsplash](https://unsplash.com/photos/gray-electric-meters-RDqeSz1cM5E?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Maryland"]
 description: "Pepco's default supply price for Maryland homes rose about 11% on October 1, 2026, to roughly 14.7 cents per kWh for the winter period. BGE has a separate distribution increase pending that would not take effect before early 2027."
 readtime: "4 min read"
 author: "Tehseen Arbab"

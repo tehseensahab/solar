@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Utility poles silhouetted against a bright orange sunset with dark clouds."
 imageCredit: "Photo by Josh Roberts on [Unsplash](https://unsplash.com/photos/dramatic-sunset-with-silhouetted-power-lines-and-clouds-TzRrFKsoL-c?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["West Virginia"]
 description: "West Virginia regulators approved two electric increases in mid-2026: Appalachian Power base rates rose $4.84 per 1,000 kWh on June 1, and Mon Power bills rose $3.65 a month on August 1, with a second step in June 2027."
 readtime: "4 min read"
 author: "Tehseen Arbab"

@@ -5,6 +5,8 @@ lastVerified: 2026-10-03
 imageAlt: "Two-story house with solar panels on its roof and a red pickup truck parked in the driveway."
 imageCredit: "Photo by Gary Cole on [Unsplash](https://unsplash.com/photos/a-red-pick-up-truck-parked-in-front-of-a-house-2pbElAv6K4I?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Georgia"]
 description: "Georgia Power bills fell about $4 a month on June 1, 2026 after regulators approved new fuel and storm charges. Base rates are frozen through 2028, and winter pricing began with October bills."
 readtime: "5 min read"
 author: "Tehseen Arbab"

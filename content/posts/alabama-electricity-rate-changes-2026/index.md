@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Utility poles and bare trees silhouetted against an orange and teal sunset."
 imageCredit: "Photo by Jay Heike on [Unsplash](https://unsplash.com/photos/sunset-over-a-rural-landscape-with-power-lines-ytf2iFVFM6Y?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Alabama"]
 description: "Alabama Power says customer rates are frozen through 2027, so there was no rate change on October 1, 2026. A new state utility law took effect that day, and a charge for a gas plant is expected in 2028."
 readtime: "4 min read"
 author: "Tehseen Arbab"

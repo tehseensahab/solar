@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Rooftop solar panels in the foreground with wooded hills and blue sky behind."
 imageCredit: "Photo by Aron Schmitz on [Unsplash](https://unsplash.com/photos/solar-panels-on-roof-over-hillside-Fm30OtHVonE?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Washington"]
 description: "Puget Sound Energy's electric rates rose on January 1, 2026. Five filings approved in December 2025 added a net $16.84 a month (12.18%) at 800 kWh, on top of a $7.67 base rate step set earlier. No October 1 change was found."
 readtime: "4 min read"
 author: "Tehseen Arbab"

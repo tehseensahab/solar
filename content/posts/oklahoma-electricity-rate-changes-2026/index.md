@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Transmission towers crossing a flat field with wind turbines in the distance."
 imageCredit: "Photo by American Public Power Association on [Unsplash](https://unsplash.com/photos/transmission-towers-and-wind-turbines-on-the-field-znytbxrOv_4?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Oklahoma"]
 description: "PSO customers have paid an interim increase of about $11 a month since July 1, 2026, subject to refund. A proposed settlement would cut the permanent increase to about $2.45. OG&E filed its own request on October 1."
 readtime: "4 min read"
 author: "Tehseen Arbab"

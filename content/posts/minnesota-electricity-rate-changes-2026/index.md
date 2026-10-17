@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Transmission tower and power lines above a green hillside under a blue sky with thin clouds."
 imageCredit: "Photo by Thomas Despeyroux on [Unsplash](https://unsplash.com/photos/electrical-tower-on-grass-field-Dh5pUa2PwrY?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Minnesota"]
 description: "Minnesota regulators approved about $211 million in Xcel Energy electric increases for 2025 and 2026, nearly 60% below the request, with final approval on July 31, 2026. Xcel puts the average residential impact at $2.78 a month. Customers are due a refund of interim rates."
 readtime: "4 min read"
 author: "Tehseen Arbab"

@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Power poles and lines silhouetted against a pink and violet dusk sky."
 imageCredit: "Photo by Damian Luginbühl on [Unsplash](https://unsplash.com/photos/power-lines-silhouetted-against-a-colorful-sunset-sky-Ye0VjceVNzE?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Montana"]
 description: "NorthWestern Energy's Montana electric rates rose on February 1, 2026 after a December 2025 decision: a 17% increase in residential base rates, about 12% on a typical bill. No October 1 change was found."
 readtime: "4 min read"
 author: "Tehseen Arbab"

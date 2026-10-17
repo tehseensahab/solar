@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Two solar panels on a flat rooftop with a house and bright autumn trees behind."
 imageCredit: "Photo by Yuma Solar on [Unsplash](https://unsplash.com/photos/two-solar-panels-on-a-rooftop-with-autumn-foliage-1WDIkQumWtA?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Oregon"]
 description: "Oregon's two largest utilities raised residential rates on April 1, 2026: Portland General Electric by 5%, about $8 a month, and Pacific Power by about 3%. A state law bars increases from November through March."
 readtime: "4 min read"
 author: "Tehseen Arbab"

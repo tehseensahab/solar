@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Transmission tower silhouetted against an orange sky with the sun low on the horizon."
 imageCredit: "Photo by Elisa Photography on [Unsplash](https://unsplash.com/photos/a-power-line-pylon-silhouetted-against-a-vibrant-orange-sunset-1nLnz0y-cLY?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Nebraska"]
 description: "Nebraska's public power utilities raised rates in January 2026: OPPD by about 6% for residential customers, roughly $7 a month, and NPPD retail rates by 3%, a little over $5 a month. No October 1 change was found."
 readtime: "4 min read"
 author: "Tehseen Arbab"

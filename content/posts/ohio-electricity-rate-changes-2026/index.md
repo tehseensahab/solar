@@ -15,6 +15,8 @@ internal_links_suggested: ["how to read your electric bill", "shopping for an el
 imageAlt: "House with a group of solar panels on its tiled roof under a blue sky."
 imageCredit: "Photo by Watt A Lot on [Unsplash](https://unsplash.com/photos/a-house-with-solar-panels-Ja8t8nJN2I4?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Ohio"]
 tags: ["Ohio", "AEP Ohio", "AES Ohio", "FirstEnergy", "PUCO"]
 readtime: "6 min read"
 takeaways:

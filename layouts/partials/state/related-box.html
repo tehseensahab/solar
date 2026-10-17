@@ -1,0 +1,15 @@
+{{- /* End-of-post box: state hub + up to 2 evergreen guides (data/states/<slug>.yaml `guides`, else defaults). Input: page. */ -}}
+{{- $c := partial "state/ctx.html" . -}}
+{{- $self := . -}}
+{{- with $c.hub }}
+{{- $guides := $c.d.guides | default (slice "solar-payback-period-without-federal-tax-credit" "how-to-read-your-electric-bill") }}
+<aside class="state-box" aria-labelledby="state-box-h">
+  <h2 id="state-box-h">More on {{ $c.d.name }} electricity</h2>
+  <ul>
+    <li><a href="{{ .RelPermalink }}"><strong>{{ $c.d.name }} electricity rates and solar</strong></a>{{ with $c.p }}: statewide average {{ .y2026 }}¢/kWh in {{ $c.e.month }} ({{ replace .change "-" "−" }} from a year earlier), net metering, incentives and utility-by-utility changes.{{ end }}</li>
+    {{- $n := 0 }}
+    {{- range $guides }}{{ if lt $n 2 }}{{ with site.GetPage (printf "/posts/%s" .) }}{{ if ne .Permalink $self.Permalink }}{{ $n = add $n 1 }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}{{ end }}{{ end }}{{ end }}
+  </ul>
+</aside>
+{{- end -}}

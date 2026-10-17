@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Aerial view of a residential neighborhood with solar panels on many rooftops."
 imageCredit: "Photo by C on [Unsplash](https://unsplash.com/photos/residential-neighborhood-with-solar-panels-WNbTfLYmRf4?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Wyoming"]
 description: "Rocky Mountain Power has asked Wyoming regulators for an 8.8% general rate increase, $70.5 million, for 2027. A fuel cost credit lowered bills about 6% on July 1, 2026. Nothing changed on October 1."
 readtime: "4 min read"
 author: "Tehseen Arbab"

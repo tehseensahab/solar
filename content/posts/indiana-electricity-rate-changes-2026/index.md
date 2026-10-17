@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Steel transmission tower and power lines above a plowed field under a cloudy sky."
 imageCredit: "Photo by Daniel Barnes on [Unsplash](https://unsplash.com/photos/gray-metal-electric-towers-under-blue-sky-during-daytime-khQIi4vjLIg?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Indiana"]
 description: "Indiana regulators approved a $71 million AES Indiana increase in June 2026, well below the $193 million requested, in two phases: July 2026 and January 2027. A new law changes how base rates are set from here."
 readtime: "4 min read"
 author: "Tehseen Arbab"

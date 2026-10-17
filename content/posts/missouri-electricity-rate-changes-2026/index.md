@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Rows of transmission towers and power lines crossing a brown farm field."
 imageCredit: "Photo by Chris Weiher on [Unsplash](https://unsplash.com/photos/a-row-of-power-lines-in-the-middle-of-a-field-_lC8tokDnSg?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["Missouri"]
 description: "Missouri's two largest electric utilities have rate requests pending, not approved. Ameren Missouri is asking for $343 million, about $13 a month for a typical home, with new rates expected in mid-2027."
 readtime: "4 min read"
 author: "Tehseen Arbab"

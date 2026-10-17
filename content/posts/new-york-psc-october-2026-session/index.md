@@ -5,6 +5,7 @@ lastVerified: 2026-10-16
 imageAlt: "The ornate stone facade and red-roofed towers of the New York State Capitol in Albany."
 imageCredit: "Photo by sofia inductgroup on [Unsplash](https://unsplash.com/photos/ornate-white-building-with-red-roofs-and-many-windows-z_iMW8r6HNg?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["News"]
+states: ["New York"]
 description: "At its October 15, 2026 session, the New York Public Service Commission said winter electric supply bills should be similar to last year, approved demand response changes with a $25 monthly smart thermostat credit, and revoked the eligibility of 14 energy companies."
 readtime: "6 min read"
 author: "Tehseen Arbab"

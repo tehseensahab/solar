@@ -5,6 +5,7 @@ lastVerified: 2026-10-13
 imageAlt: "Utility worker in a bucket truck repairing a power line beside a green field."
 imageCredit: "Photo by Roger Starnes Sr on [Unsplash](https://unsplash.com/photos/utility-worker-repairing-power-lines-D6wIhN18Fx0?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["News"]
+states: ["New Jersey"]
 description: "Jersey Central Power & Light asked New Jersey regulators for a $253 million base distribution increase plus $476 million in storm costs. It estimates a typical 767 kWh residential bill would rise $14.23 a month, about 8.8%, with the increase held off until January 2028."
 readtime: "6 min read"
 author: "Tehseen Arbab"

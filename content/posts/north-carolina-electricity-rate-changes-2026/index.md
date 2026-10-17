@@ -5,6 +5,8 @@ lastVerified: 2026-10-04
 imageAlt: "Cream-sided house with a two-car garage and solar panels on its roof, framed by trees."
 imageCredit: "Photo by Maverick Frame on [Unsplash](https://unsplash.com/photos/a-house-with-solar-panels-a-garage-and-green-landscaping-_Y4Uu2ORpe4?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
+layout: "state-hub"
+states: ["North Carolina"]
 description: "No new Duke Energy base rates took effect in North Carolina on October 1, 2026. Two pending settlements would raise a 1,000 kWh residential bill by about $9.40 to $9.60 a month on January 1, 2027, if regulators approve them."
 readtime: "6 min read"
 author: "Tehseen Arbab"
