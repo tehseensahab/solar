@@ -1,0 +1,15 @@
+# Optional monthly trend for the state hub charts (12-24 months).
+# Source must be EIA Electric Power Monthly (Table 5.6.A/5.6.B) or the EIA
+# electricity data browser, residential sector, cents/kWh, one value per month.
+# Leave a state out (or the whole block empty) when the monthly series has not
+# been read from EIA: the chart then falls back to the two sourced points in
+# eia_prices.yaml (same month, this year vs last year). Never interpolate.
+#
+# Format:
+# months: ["2025-08", "2025-09", ...]   # oldest first
+# us: ["17.62", ...]
+# states:
+#   arizona: ["15.10", ...]              # same length as months
+months: []
+us: []
+states: {}

@@ -1,0 +1,79 @@
+name: California
+slug: california
+abbr: CA
+region: West
+neighbors: [arizona, nevada, oregon, hawaii]
+refreshed: 2026-10-18
+guides: [time-of-use-rates-and-solar, fixed-charges-and-solar-savings]
+
+summary: >-
+  California households paid an average {rate} in {month}, {change} on a year earlier and close to double the
+  U.S. average of {us}. The big three utilities trimmed or held rates in 2026 after steep increases in 2024 and
+  2025, while new monthly fixed charges shift part of every bill away from kWh. Solar still saves a lot at
+  California prices, but under the Net Billing Tariff its value now depends on using or storing the power rather
+  than exporting it.
+
+solar: |-
+  California has the country's most valuable kilowatt-hours to offset and some of its least generous export
+  credits, and the gap between the two decides whether a new system pays.
+
+  Since April 15, 2023, new rooftop customers of PG&E, SCE and SDG&E take service on the Net Billing Tariff
+  (CPUC Decision 22-12-056). Solar that serves your home first still avoids the full retail charge, which at
+  California's average of {rate} is worth far more than in most states. Exports, though, are credited at a value
+  reflecting their worth to the grid, which is well below retail during sunny midday hours. A system sized to
+  daytime use, or paired with a battery that shifts midday output into the evening peak, keeps most of its
+  production at retail value; an oversized array mostly earns export credits.
+
+  The new fixed charges cut the other way. SCE began moving residential customers to a Base Services Charge on
+  November 15, 2025, and PG&E introduced one in March 2026. A charge that does not vary with kWh cannot be offset
+  by panels, so it lowers per-kWh prices and trims solar savings at the margin. Ask any installer to model your
+  actual rate plan, including the fixed charge and the evening peak window.
+
+net_metering:
+  status: "Net Billing Tariff for new customers since April 15, 2023 (exports valued below retail)"
+  text: |-
+    The [CPUC](https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/demand-side-management/net-energy-metering)
+    replaced net energy metering with the Net Billing Tariff in Decision D.22-12-056. Customers applying to
+    interconnect on or after April 15, 2023 with PG&E, SCE or SDG&E take service under it: on-site generation
+    serves on-site load first, and exports are credited at a rate reflecting their value to the grid rather than
+    the retail rate. SCE calls its version the Solar Billing Plan. Earlier customers remain on the NEM terms they
+    signed up under; check your interconnection agreement for the term. Municipal utilities such as LADWP and
+    SMUD set their own solar rules. Checked October 18, 2026.
+
+utilities:
+  - name: Southern California Edison (SCE)
+    detail: "Average residential rate 34.5¢ to 34.4¢/kWh on June 1, 2026 (−0.1%); typical 500 kWh bill $187.40. Base Services Charge phased in from November 15, 2025."
+  - name: Pacific Gas and Electric (PG&E)
+    detail: "Bundled residential rates down 1.8% on March 1, 2026 (about −$5.14 a month on a typical bill). 2027–2030 General Rate Case pending; no related rate change before January 2027 at the earliest."
+  - name: San Diego Gas & Electric (SDG&E)
+    detail: "Average bundled residential rate up about 4.7¢/kWh on January 1, 2026."
+  - name: Community Choice Aggregators, LADWP, SMUD and other public utilities
+    detail: "CCAs set the generation portion of the bill while the utility sets delivery; public utilities set all of their own rates. Not covered in our research."
+
+meaning: |-
+  After two years of sharp increases, 2026 has been a holding year for California's investor-owned utilities:
+  PG&E cut rates for the fifth time since early 2024, SCE's June change was a rounding error, and SDG&E's January
+  increase was the exception. The structural change matters more than the headline rates. Fixed monthly charges
+  now cover part of the cost of the grid, which lowers per-kWh prices for heavy users and electrified homes and
+  reduces what each solar kWh saves. Combined with the Net Billing Tariff, that pushes new solar buyers toward
+  batteries and toward sizing for self-use. Watch PG&E's General Rate Case for 2027 and your utility's rate
+  advisory pages for consolidated filings. Our [time-of-use and solar guide](/posts/time-of-use-rates-and-solar/)
+  explains why the hour of production now matters as much as the amount.
+
+faq:
+  - q: "Is solar worth it in California?"
+    a: "Often yes, because the power it replaces is expensive, averaging {rate} statewide in {month}. Under the Net Billing Tariff, exports earn much less than retail, so the best results come from systems sized to daytime use or paired with a battery. New fixed monthly charges at SCE and PG&E slightly reduce savings because panels cannot offset them."
+  - q: "What is the average electricity rate in California?"
+    a: "EIA's statewide residential average was {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}. Individual utilities differ: SCE's average residential rate was 34.4¢/kWh after June 1, 2026."
+
+sources:
+  - title: "CPUC, Net Energy Metering and Net Billing (Decision D.22-12-056)"
+    url: "https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/demand-side-management/net-energy-metering"
+  - title: "SCE, Rate Advisory"
+    url: "https://www.sce.com/save-money/rates-financing/sce-rate-advisory"
+  - title: "PG&E press release, March 2, 2026"
+    url: "https://investor.pgecorp.com/news-events/press-releases/press-release-details/2026/PGE-Lowers-Electric-Prices-in-March-Fifth-Electric-Rate-Drop-Since-Early-2024/default.aspx"
+  - title: "PG&E, General Rate Case"
+    url: "https://www.pge.com/en/regulation/general-rate-case.html"
+  - title: "SDG&E, January 2026 Electric Rate Change Alert"
+    url: "https://www.sdge.com/sites/default/files/January%202026%20Electric%20Rate%20Change%20Alert.pdf"

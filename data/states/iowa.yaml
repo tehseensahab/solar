@@ -1,0 +1,71 @@
+name: Iowa
+slug: iowa
+abbr: IA
+region: Midwest
+neighbors: [illinois, minnesota, nebraska, wisconsin]
+refreshed: 2026-10-18
+guides: [solar-export-credit-rates-by-utility-2026, how-electric-rate-cases-work]
+
+summary: >-
+  For Iowans, power averaged {rate} in {month}, {change} on {prev_month}; the U.S. average was {us}. Alliant Energy's
+  base rates are frozen until at least late 2029, while MidAmerican Energy has a rate case under way. Solar has a
+  time-limited advantage: credits stay at the retail rate, locked for 20 years, until a value- of-solar method takes
+  over by July 1, 2027 at the latest.
+
+solar: |-
+  Iowa is the rare state where the calendar is the main variable in the solar decision. Under Iowa Code 476.49,
+  investor-owned utilities still credit solar at the retail rate, through either net billing with kWh credits or
+  inflow-outflow billing with dollar credits. MidAmerican uses inflow-outflow, crediting exports at the retail
+  volumetric rate including riders in 15-minute intervals.
+
+  The law also locks the outflow rate in place for 20 years from installation. That matters because the Iowa
+  Utilities Commission must adopt a value-of-solar method when distributed generation reaches 5% statewide or by
+  July 1, 2027, whichever comes first; after that, the rate for new customers can move up to 5% a year. A system
+  connected before the change keeps today's retail-rate credit for two decades. Retail prices are moderate by
+  national standards, which lengthens payback, so get quotes based on your own usage and keep the system within the
+  110% of annual use limit.
+
+net_metering:
+  status: "Retail-rate credits (net billing or inflow-outflow), locked 20 years; value of solar due by July 1, 2027"
+  text: |-
+    [Iowa Code 476.49](https://www.legis.iowa.gov/docs/code/476.49.pdf) requires investor-owned utilities to offer
+    net billing (kWh credits at retail) or inflow-outflow billing (dollar credits over short intervals). Per
+    [MidAmerican](https://www.midamericanenergy.com/customer-interconnection), exports are credited at the retail
+    volumetric rate including riders, in 15-minute increments. The outflow rate in place at installation is fixed
+    for 20 years. Systems can be up to 1 MW and no more than 110% of annual use. A value-of-solar method is due when
+    distributed generation reaches 5% statewide or by July 1, 2027, after which rates for new customers can change
+    by up to 5% a year. Checked October 5, 2026.
+
+utilities:
+  - name: MidAmerican Energy
+    detail: "Rate case under way (Docket RPU-2026-0001); customer notices approved June 2, 2026 and comment meetings held September 8–10. Proposed amount not found. Temporary rates can start 10 days after filing, subject to refund."
+  - name: Alliant Energy (Interstate Power and Light)
+    detail: "Base rates set October 2024 and frozen until at least late 2029; 2026 bills expected to rise through rider changes. Basic service charge $0.5096 a day (about $15.50 a month)."
+  - name: Co-ops and municipal utilities
+    detail: "Set their own rates and solar terms; not covered in our research."
+
+meaning: |-
+  Iowa's two big utilities illustrate two ways bills change. Alliant's base rates cannot move until late 2029, yet its
+  2026 residential bills were expected to rise anyway as riders expired or shifted into base rates and the regional
+  transmission charge increased. MidAmerican, which says Iowa's residential rates rank among the lowest nationally,
+  is going through a traditional rate case, where temporary rates can start before a decision and are refundable with
+  interest. For solar, the deadline is the story: anyone weighing a system should know that the retail-rate credit
+  available today is locked for 20 years, while systems installed after the value-of-solar method takes effect will
+  not get the same terms. Our [rate case explainer](/posts/how-electric-rate-cases-work/) covers how interim rates and
+  refunds work.
+
+faq:
+  - q: "Is solar worth it in Iowa?"
+    a: "Timing helps more in Iowa than elsewhere: today's retail-rate credit is locked for 20 years for systems installed before the value-of-solar method takes effect, which must happen by July 1, 2027 at the latest. Moderate retail prices mean payback still depends on usage and system cost."
+  - q: "What is the average electricity rate in Iowa?"
+    a: "EIA puts Iowa's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Rates differ between utilities; a local TV report found Alliant's residential rates were 62% above MidAmerican's in 2024."
+
+sources:
+  - title: "Iowa Code 476.49, billing methods for distributed generation"
+    url: "https://www.legis.iowa.gov/docs/code/476.49.pdf"
+  - title: "MidAmerican Energy, Customer Interconnection and Rates"
+    url: "https://www.midamericanenergy.com/customer-interconnection"
+  - title: "Iowa Utilities Commission, MidAmerican customer notices order, June 2, 2026"
+    url: "https://iuc.iowa.gov/press-release/2026-06-02/iuc-issues-order-approving-customer-notices-midamerican-energy-company-proposed-rate-increase"
+  - title: "Alliant Energy, Iowa Energy Cost Outlook"
+    url: "https://www.alliantenergy.com/account-and-billing/understanding-bill-rates/iowa/outlook"

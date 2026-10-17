@@ -1,0 +1,68 @@
+name: Arkansas
+slug: arkansas
+abbr: AR
+region: South
+neighbors: [louisiana, missouri, oklahoma, tennessee]
+refreshed: 2026-10-18
+guides: [solar-export-credit-rates-by-utility-2026, how-electric-rate-cases-work]
+
+summary: >-
+  Arkansas homes paid an average {rate} in {month}, {change} from {prev_month} and still well below the U.S.
+  average of {us}. Entergy Arkansas raised bills in steps during 2026 and has a small base-rate change requested
+  for January 2027. Since the 2023 net metering law, new rooftop systems earn avoided cost for exports, which makes
+  solar a self-consumption decision rather than a bill-zeroing one.
+
+solar: |-
+  Two features of Arkansas make solar math tighter than in many states: power is cheap by national standards, and
+  systems connected after September 30, 2024 lost the one-for-one credit. Under Act 278 of 2023, new customers can
+  no longer bank credits from one billing cycle to the next, and surplus power is paid at avoided cost, which the
+  University of Arkansas extension service describes as much lower than retail.
+
+  What still earns full value is the solar you consume as it is produced, and that value is rising: Entergy's
+  construction rider, recovered per kWh, is avoided by self-use. A household with heavy daytime load (air
+  conditioning, a pool pump, someone home during the day) gets the most from each panel. A household that is out
+  all day would export most of its production at the low rate, which is where a battery or a smaller array earns
+  its keep. Existing owners installed by September 30, 2024 keep retail-rate credits for 20 years.
+
+net_metering:
+  status: "Net billing for systems installed after Sept. 30, 2024; earlier systems grandfathered for 20 years"
+  text: |-
+    [Act 278 of 2023](https://www.uaex.uada.edu/environment-nature/energy/solar/net-metering.aspx) split Arkansas
+    solar customers into two groups:
+
+    - **Installed by September 30, 2024:** one-for-one retail credit, grandfathered for 20 years.
+    - **Installed after that date:** net billing. Surplus is paid at the utility's avoided cost, and credits no
+      longer carry from one billing cycle to the next.
+
+    Residential systems are limited to 25 kW. Rules checked October 5, 2026.
+
+utilities:
+  - name: Entergy Arkansas (about 735,000 customers)
+    detail: "About +$6 a month in January 2026 (4.54%). Construction rider of +$5.77 and a nuclear credit of −$1.55 at 1,000 kWh were filed for June 2026 bills. Base-rate request of about +$1.16 a month for January 2027."
+  - name: SWEPCO, OG&E (Arkansas) and cooperatives
+    detail: "Separate rate cases and tariffs; not covered in our research."
+
+meaning: |-
+  The Generating Arkansas Jobs Act of 2025 changed how new power plants reach bills: instead of one jump when a
+  plant opens, Entergy recovers construction costs in yearly steps, filed each March and reflected in June bills.
+  Expect a recurring spring adjustment while the Ironwood and Jefferson stations and the Arkansas Cypress solar and
+  battery project are built. The January 2027 base-rate request is small for residential customers, but it also
+  brings optional time-of-use rates and a 50% customer-charge discount for more than 113,000 low-income
+  households. Our guide to [how rate cases work](/posts/how-electric-rate-cases-work/) explains how to comment on
+  a pending filing.
+
+faq:
+  - q: "Is solar worth it in Arkansas?"
+    a: "For new systems it depends on how much you use during daylight. Since Act 278, surplus earns avoided cost and credits no longer bank month to month, so a system sized to daytime use is worth far more per panel than one built to cancel the annual bill."
+  - q: "What is the average electricity rate in Arkansas?"
+    a: "EIA puts the statewide residential average at {rate} in {month}, against {prev} in {prev_month}. The U.S. average was {us}."
+
+sources:
+  - title: "University of Arkansas Division of Agriculture, Net Metering Policies in Arkansas"
+    url: "https://www.uaex.uada.edu/environment-nature/energy/solar/net-metering.aspx"
+  - title: "Talk Business & Politics, Entergy Arkansas rate filing, March 2026"
+    url: "https://talkbusiness.net/2026/03/entergy-arkansas-rate-filing-outlines-investments-rate-hikes-and-decreases/"
+  - title: "Talk Business & Politics, Entergy Arkansas rate request, Feb. 2026"
+    url: "https://talkbusiness.net/2026/02/entergy-arkansas-requests-rate-hike-residential-bills-to-rise-by-1/"
+  - title: "Camden News, Jan. 4, 2026"
+    url: "https://www.camdenarknews.com/news/2026/jan/04/entergys-residential-rates-rising-about-6-per/"

@@ -1,0 +1,62 @@
+name: Delaware
+slug: delaware
+abbr: DE
+region: South
+neighbors: [maryland, new-jersey, pennsylvania]
+refreshed: 2026-10-18
+guides: [how-to-compare-electricity-supplier-offers, liheap-energy-assistance-2026-27]
+
+summary: >-
+  At {rate} in {month} ({change} on the year), Delaware's residential average now sits close to the national {us},
+  after a sharp jump in Delmarva Power's supply price. Delmarva Power's default supply price rose about a fifth on
+  June 1, and a delivery rate case is still open. Net metering with retail credits remains, and a 2026 bill to remove
+  the 8% cap passed the Senate, so solar's value has risen with supply prices.
+
+solar: |-
+  Delaware's rooftop solar economics improved in 2026 for an unwelcome reason: supply got more expensive. Under net
+  metering, surplus solar earns credits against later use at the retail rate, so the June jump in Delmarva's standard offer
+  supply price, from about 9.36¢ to 11.11¢ per kWh in summer, raised the value of every kWh a system produces.
+
+  The policy risk is the cap. State law has limited net metering to 8% of a utility's peak demand, and the sponsor of Senate
+  Bill 239 said many utilities are already above it while still accepting applications. SB 239, which removes the cap,
+  passed the Senate 18 to 0 in March 2026; we have not confirmed House passage. Until that is settled, get written
+  confirmation from Delmarva Power that your system will be net metered before signing. Delaware Electric Cooperative and
+  municipal customers should check their own utility's terms.
+
+net_metering:
+  status: "Net metering with retail credits; 8% cap removal (SB 239) passed the Senate, House status unconfirmed"
+  text: |-
+    Delaware offers net metering with credits against later use. State law has capped it at 8% of a utility's peak demand;
+    [Senate Bill 239](https://www.delawarepublic.org/politics-government/2026-03-17/net-metering-bill-gains-delaware-state-senate-appproval),
+    which removes the cap, passed the Senate 18 to 0 in March 2026 and went to the House. We have not confirmed final
+    passage or read Delmarva's net metering tariff. Checked October 5, 2026.
+
+utilities:
+  - name: Delmarva Power (Delaware)
+    detail: "Residential standard offer service from June 1, 2026: 11.1063¢/kWh summer and 11.4049¢ winter (from 9.3569¢ and 9.4804¢); about +$14.64 a month at 811 kWh per the State of Delaware. Pending: $67.8 million base rate case filed December 2025 and a $37 million affordability and load flexibility application."
+  - name: Delaware Electric Cooperative and municipal utilities
+    detail: "Not covered in our research."
+
+meaning: |-
+  Delaware's June increase was a supply story: Delmarva cited higher regional prices it does not control, the state said an
+  independent expert confirmed the auction worked properly, and the Public Advocate pointed to rapid data center demand
+  growth in the PJM region. The pending base rate case would add to delivery charges on top of that. Households facing
+  higher bills can look to Delmarva's Customer Relief Fund, up to $500 for eligible customers, and to winter assistance
+  programs covered in our [LIHEAP guide](/posts/liheap-energy-assistance-2026-27/). Customers can also shop for supply
+  against the standard offer price; our [supplier guide](/posts/how-to-compare-electricity-supplier-offers/) explains how.
+
+faq:
+  - q: "Is solar worth it in Delaware?"
+    a: "It improved in 2026: net metering credits surplus at the retail rate, and Delmarva's supply price rose about a fifth in June. The open risk is the 8% net metering cap; a bill to remove it passed the Senate in March 2026, so get written confirmation that your system will be net metered."
+  - q: "What is the average electricity rate in Delaware?"
+    a: "EIA puts Delaware's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Delmarva's supply price alone is 11.1063¢/kWh in summer and 11.4049¢ in winter from June 1, 2026."
+
+sources:
+  - title: "State of Delaware, Delmarva rate increase, April 6, 2026"
+    url: "https://news.delaware.gov/2026/04/06/upcoming-electricity-rate-increase-adds-to-cost-increases-for-delmarva-customers/"
+  - title: "Delaware Division of the Public Advocate, April 9, 2026"
+    url: "https://publicadvocate.delaware.gov/2026/04/09/dpas-statement-on-delmarva-powers-sos-filing/"
+  - title: "Delaware Public Media, SB 239, March 17, 2026"
+    url: "https://www.delawarepublic.org/politics-government/2026-03-17/net-metering-bill-gains-delaware-state-senate-appproval"
+  - title: "WBOC, Delmarva Power new rates filing"
+    url: "https://www.wboc.com/news/delmarva-power-expects-higher-bills-for-delaware-customers-following-new-rates-filing/article_d1083f96-f31a-47dd-8c7e-22e38bdafe92.html"

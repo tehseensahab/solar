@@ -1,0 +1,68 @@
+name: Minnesota
+slug: minnesota
+abbr: MN
+region: Midwest
+neighbors: [iowa, north-dakota, south-dakota, wisconsin]
+refreshed: 2026-10-18
+guides: [how-electric-rate-cases-work, solar-payback-period-without-federal-tax-credit]
+
+summary: >-
+  Minnesota's residential average, {rate} in {month} ({change} year over year), sits close to the national figure of
+  {us}. Xcel Energy's two-year rate case closed in 2026 at nearly 60% below the request, and customers are owed an
+  interim-rate refund. Net metering at about the average retail rate for systems under 40 kW keeps solar's case solid
+  at investor-owned utilities, with more caution at co-ops and municipal utilities.
+
+solar: |-
+  Minnesota's net metering law is one of the more consumer-friendly in the Midwest. Systems under 40 kW, which covers
+  nearly every home, are credited at the utility's average retail energy rate, and monthly surplus becomes credits
+  for later months. At investor-owned utilities like Xcel, credits left at year-end are paid at the avoided-cost
+  rate, so sizing to annual use, not beyond it, keeps nearly every kWh at retail value.
+
+  Where you live in the state matters. Municipal utilities and cooperatives may add fees for net-metered customers to
+  recover fixed costs, and leftover credits can simply expire there. Ask your utility for its net metering charges in
+  writing before comparing quotes. Northern winters cut production for months, but the annual credit structure
+  smooths that out at Xcel. There is no statewide cap, though a utility can ask regulators to review once net
+  metering reaches 4% of its annual sales.
+
+net_metering:
+  status: "Net metering at average retail energy rate for systems under 40 kW; year-end credits at avoided cost (IOUs)"
+  text: |-
+    Per [Solar United Neighbors](https://solarunitedneighbors.org/resources/net-metering-in-minnesota/), systems
+    under 40 kW are credited at the utility's average retail energy rate. Monthly surplus becomes credits; at
+    investor-owned utilities such as Xcel, leftovers at year-end are paid at the avoided-cost rate, while at
+    municipal utilities and cooperatives they can expire. Co-ops and municipal utilities may charge net-metered
+    customers additional fees. There is no statewide cap, but a utility can seek review once net metering reaches 4%
+    of annual sales. Summary from an advocacy guide, not the statute or tariffs. Checked October 5, 2026.
+
+utilities:
+  - name: Xcel Energy (Northern States Power)
+    detail: "PUC approved $82.9 million (2.3%) for 2025 and $127.3 million (3.4%) for 2026 in Docket 24-320; final rate approval July 31, 2026. Interim rates (5.2%) to be refunded as a one-time credit with interest; date not announced. Separate $40.6 million Prairie Island refund ordered May 7, 2026."
+  - name: Minnesota Power, Otter Tail Power, co-ops and municipal utilities
+    detail: "Separate rates; not covered in our research."
+
+meaning: |-
+  Minnesota's commission is putting affordability at the center of its work. In the Xcel case it approved less than
+  half of the two-year request, cut late fees from 1.5% to 0.45%, expanded the low-income usage credit to 500 kWh a
+  month and capped recoverable executive pay. In October it opened a statewide affordability investigation (Docket
+  26-341), with sessions on October 13, November 2 and December 8 and a report due in early 2027; see our
+  [coverage of the first session](/posts/minnesota-puc-energy-affordability-investigation-2026/). Xcel customers
+  should watch for two credits: the interim-rate refund and the Prairie Island refund. Bill impact figures from Xcel,
+  local media and the Citizens Utility Board differ, so compare your own bills before and after final rates.
+
+faq:
+  - q: "Is solar worth it in Minnesota?"
+    a: "At Xcel and other investor-owned utilities it can be, because systems under 40 kW are credited at about the average retail energy rate. Size to annual use, since year-end leftovers are paid at avoided cost. At co-ops and municipal utilities, check for net metering fees first."
+  - q: "What is the average electricity rate in Minnesota?"
+    a: "EIA puts Minnesota's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
+
+sources:
+  - title: "Minnesota PUC, Xcel electric rate decision (news release)"
+    url: "https://content.govdelivery.com/accounts/MNPUBUC/bulletins/41d2eb6"
+  - title: "Xcel Energy, 2025 Minnesota Electric Rate Case"
+    url: "https://www.xcelenergy.com/company/rates_and_regulations/filings/minnesota_electric_rate_case"
+  - title: "Minnesota Attorney General, Prairie Island refund, May 7, 2026"
+    url: "https://www.ag.state.mn.us/Office/Communications/2026/05/07_Xcel.asp"
+  - title: "Solar United Neighbors, Net metering in Minnesota"
+    url: "https://solarunitedneighbors.org/resources/net-metering-in-minnesota/"
+  - title: "Minnesota PUC, utility affordability"
+    url: "https://mn.gov/puc/consumers/affordability/"

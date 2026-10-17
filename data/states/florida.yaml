@@ -1,0 +1,71 @@
+name: Florida
+slug: florida
+abbr: FL
+region: South
+neighbors: [alabama, georgia, south-carolina]
+refreshed: 2026-10-18
+guides: [fixed-charges-and-solar-savings, how-to-compare-solar-quotes]
+
+summary: >-
+  In {month} Florida's residential average was {rate}, {change} from {prev_month}, compared with {us} nationally. FPL
+  is in year one of a four-year rate agreement running through 2029, and Duke Energy Florida lowered bills three times
+  in 2026 through storm-charge true-ups. Solar has a solid case here: FPL still banks surplus as kWh credits month to
+  month, though a $30 minimum bill and a low year-end payout limit oversizing.
+
+solar: |-
+  Florida keeps one of the more favorable rooftop solar setups in the Southeast. At FPL, the state's largest
+  utility, power you export is subtracted from your usage and any surplus goes into a kWh bank that rolls to the
+  next month, so in practice exported power offsets later use at the retail rate during the year.
+
+  Three limits shape the payback. First, FPL's residential tariff has a $30 minimum base bill that applies to net
+  metering customers too; a system that would push your bill below it is oversized. Second, unused credits at the
+  December read are paid out at FPL's average annual cost of generation, which tracks natural gas and sits well
+  below retail. Third, FPL's tiered energy charge means kWh above 1,000 a month cost about 2¢ more, so solar first
+  offsets your most expensive usage. Aim for a system that covers most of your annual use, not all of it, and
+  weigh hurricane-rated mounting and roof condition in the quote. Tampa Electric, Duke Energy Florida and
+  municipal utilities such as JEA and OUC have their own tariffs.
+
+net_metering:
+  status: "Net metering with monthly kWh banking at FPL; year-end surplus paid at average generation cost"
+  text: |-
+    Per [FPL's net metering FAQ](https://fpl.com/clean-energy/net-metering/faq.html), excess production is
+    subtracted from monthly usage and any surplus is banked as kWh for the next bill. Credits left at the December
+    meter read are paid on the December bill at FPL's average annual cost of electricity generation. Systems are
+    tiered by AC size: up to 10 kW, over 10 kW to 100 kW, and over 100 kW to 2 MW; Tier 2 and Tier 3 require
+    liability insurance. The $30 minimum base bill still applies. The statewide framework is Florida PSC Rule
+    25-6.065 for investor-owned utilities. Checked October 18, 2026.
+
+utilities:
+  - name: Florida Power & Light (FPL, most of Florida)
+    detail: "Four-year rate agreement for 2026–2029 approved November 20, 2025. October 2026 rate sheet: $10.52 base charge, 7.865¢/kWh base energy for the first 1,000 kWh; typical 1,000 kWh bill $136.64 (August 2026). A September storm refund of 0.797¢/kWh ended with October bills."
+  - name: Duke Energy Florida
+    detail: "Three bill reductions in 2026 from storm-charge removal and true-ups, including about $6 a month (1,000 kWh) from June through September; not base-rate cuts."
+  - name: Tampa Electric, JEA, OUC and other utilities
+    detail: "Set their own rates; not covered in our research."
+
+meaning: |-
+  Florida's bills in 2026 have moved on storm accounting more than on base rates. FPL's four-year agreement fixes
+  its base-rate path through 2029, so month-to-month swings come from clauses reviewed each year: fuel, storm
+  protection and storm cost true-ups. September's refund and October's return to normal are a good example. Duke's
+  reductions were also storm-cost true-ups rather than lower base rates, so they should not be read as a lasting
+  cut. For solar buyers the stable base-rate path makes savings easier to estimate, but the $30 minimum bill means
+  a right-sized system matters; our [fixed-charge guide](/posts/fixed-charges-and-solar-savings/) shows how a bill
+  floor changes payback.
+
+faq:
+  - q: "Is solar worth it in Florida?"
+    a: "At FPL it can be, because surplus is banked as kWh credits month to month. Keep the system below your annual use: credits left in December are paid at FPL's average generation cost, and the $30 minimum base bill still applies. Other utilities, including Duke Energy Florida, Tampa Electric and municipal utilities, use their own tariffs."
+  - q: "What is the average electricity rate in Florida?"
+    a: "EIA puts Florida's statewide residential average at {rate} in {month}, compared with {prev} in {prev_month}. FPL's typical 1,000 kWh bill was $136.64 in August 2026."
+
+sources:
+  - title: "FPL, Net Metering FAQ"
+    url: "https://fpl.com/clean-energy/net-metering/faq.html"
+  - title: "FPL residential rates, October 2026 (tariff summary)"
+    url: "https://www.fpl.com/content/dam/fplgp/us/en/rates/pdf/residential-rates-oct2026.pdf"
+  - title: "FPL, PSC approval of 2026–2029 rate agreement, Nov. 20, 2025"
+    url: "https://newsroom.fpl.com/2025-11-20-Florida-regulators-approve-FPL-rate-agreement-that-keeps-customer-bills-low,-meets-needs-of-growing-state"
+  - title: "Duke Energy Florida, third rate reduction, May 29, 2026"
+    url: "https://news.duke-energy.com/releases/duke-energy-florida-implements-third-rate-reduction-to-lower-residential-customer-bills-by-approximately-25-in-2026"
+  - title: "Florida Administrative Code, Rule 25-6.065"
+    url: "https://www.flrules.org/gateway/ruleNo.asp?id=25-6.065"

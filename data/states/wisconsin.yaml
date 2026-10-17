@@ -1,0 +1,73 @@
+name: Wisconsin
+slug: wisconsin
+abbr: WI
+region: Midwest
+neighbors: [illinois, iowa, michigan, minnesota]
+refreshed: 2026-10-18
+guides: [solar-export-credit-rates-by-utility-2026, how-electric-rate-cases-work]
+
+summary: >-
+  Wisconsin's residential average was {rate} in {month}, {change} year over year, compared with a national figure of
+  {us}. The PSC sets rates two years at a time, so 2026 increases arrived in January and 2027 is already approved for
+  three utilities and pending for We Energies and Wisconsin Public Service. Net metering terms differ by utility, with
+  most crediting surplus at avoided cost, so solar pays best when sized to monthly use.
+
+solar: |-
+  Wisconsin has no single statewide net metering rule; each investor-owned utility's terms are set in its rate cases. The
+  common thread at We Energies, Alliant (Wisconsin Power and Light) and Wisconsin Public Service is that production up to
+  your monthly use offsets retail energy charges, while net excess is credited at an avoided-cost rate. Xcel Energy is the
+  exception, rolling credits over monthly at retail and paying year-end excess at a wholesale rate. Size limits also differ:
+  300 kW at We Energies, 100 kW at Xcel and 20 kW at Alliant and WPS, per EnergySage.
+
+  That makes monthly, not annual, sizing the rule for most Wisconsin homes. Scheduled January increases at every major
+  utility steadily raise what self-used solar saves. The statewide Focus on Energy program offers a small solar incentive when
+  funding is available. Utilities have proposed changes to solar buyback rates in past rate cases, so check whether the 2027
+  filings include one before signing.
+
+net_metering:
+  status: "Utility-by-utility terms; surplus at avoided cost at most IOUs (Xcel rolls credits monthly at retail)"
+  text: |-
+    Per [EnergySage](https://www.energysage.com/local-data/solar-rebates-incentives/wi/), net excess generation at We
+    Energies, Alliant and Wisconsin Public Service is credited at avoided cost, while Xcel rolls credits over monthly at
+    retail and pays year-end excess at a wholesale rate. Size limits: We Energies 300 kW, Xcel 100 kW, Alliant and WPS 20 kW.
+    These come from a secondary source; we have not read each utility's tariff. Checked October 5, 2026.
+
+incentives:
+  - name: Focus on Energy solar incentive
+    text: "The statewide Focus on Energy program offers a small solar incentive when funding is available, per EnergySage. Check current availability with Focus on Energy before counting on it."
+
+utilities:
+  - name: We Energies
+    detail: "+$9.73 a month for an average residential customer in 2026 (approved Nov. 2024); requested 4.7% for 2027 (about $13 a month) and 4.5% for 2028."
+  - name: Wisconsin Public Service (WPS)
+    detail: "+$5.04 a month in 2026; requested 6.3% for 2027 (about $11 a month) and 3.5% for 2028."
+  - name: Alliant Energy (Wisconsin Power and Light)
+    detail: "+$9.57 a month in 2026 and +$17.45 in 2027 (approved Nov. 2025)."
+  - name: Madison Gas and Electric
+    detail: "+$0.13 a month in 2026 and +$5.44 in 2027 (approved)."
+  - name: Xcel Energy (Northern States Power-Wisconsin)
+    detail: "+$13.47 a month in 2026 and +$24.91 in 2027 (approved)."
+
+meaning: |-
+  Wisconsin's two-year rate cycle means the important decisions arrive late in the year for bills starting in January. For
+  2027, Alliant, MGE and Xcel are already settled, with Xcel's approved increase the largest at about $25 a month on average;
+  We Energies and WPS have asked for almost $500 million more in electric revenue over 2027 and 2028, with decisions expected
+  before January. Wisconsin Public Radio reported that We Energies had the third-highest residential electric rates among
+  Midwest investor-owned utilities in 2025. Each utility defines an average customer differently, so compare your own bills
+  in January. Our [rate case explainer](/posts/how-electric-rate-cases-work/) explains how to participate in the pending cases.
+
+faq:
+  - q: "Is solar worth it in Wisconsin?"
+    a: "It depends on your utility. At We Energies, Alliant and WPS, production up to your monthly use offsets retail charges but surplus earns avoided cost, so size to monthly use. Xcel rolls credits monthly at retail. Annual rate increases at every major utility raise the value of self-used solar."
+  - q: "What is the average electricity rate in Wisconsin?"
+    a: "EIA puts Wisconsin's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
+
+sources:
+  - title: "Wisconsin Public Radio, We Energies and WPS rate approval, Nov. 2024"
+    url: "https://www.wpr.org/news/regulators-approve-electric-rate-hikes-for-we-energies-wps"
+  - title: "Wisconsin Public Radio, rate hikes for 3 utilities, Nov. 2025"
+    url: "https://www.wpr.org/news/state-regulators-approve-rate-hikes-for-3-wisconsin-utilities"
+  - title: "Wisconsin Public Radio, We Energies and WPS 2027–2028 requests"
+    url: "https://www.wpr.org/news/we-energies-wisconsin-public-service-rate-hikes-2027-2028"
+  - title: "EnergySage, Wisconsin Solar Incentives (secondary)"
+    url: "https://www.energysage.com/local-data/solar-rebates-incentives/wi/"

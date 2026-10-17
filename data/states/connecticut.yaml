@@ -1,0 +1,73 @@
+name: Connecticut
+slug: connecticut
+abbr: CT
+region: Northeast
+neighbors: [massachusetts, new-york, rhode-island]
+refreshed: 2026-10-18
+guides: [how-to-compare-electricity-supplier-offers, how-to-read-your-electric-bill]
+
+summary: >-
+  Connecticut's statewide residential average moved {change} between {prev_month} and {month}, to {rate}, still high
+  next to the U.S. figure of {us}; in July 2026 it was one of only a few states with a year-over-year decline. Bills
+  fell in May when the public benefits charge became a credit and again in July when standard service supply dropped;
+  the credit is scheduled through April 30, 2027. New rooftop solar goes through the RRES program, where a 20-year
+  buy-all rate offers an unusual fixed-price option.
+
+solar: |-
+  Connecticut replaced net metering with the Residential Renewable Energy Solutions (RRES) program, and it gives homeowners
+  a real choice. Under the netting option, solar serves the home first and surplus earns bill credits at the same rate you
+  pay, rolling over monthly, so its value rises and falls with rates. Under the buy-all option, you sell all production at a
+  fixed rate, which Eversource lists at $0.3289 per kWh for 2026 enrollments, locked for 20 years, and buy all your power
+  as usual.
+
+  The 2026 rate cuts sharpen that choice. Lower supply and public benefits rates reduce what each netted kWh saves, while
+  the buy-all price does not move. Eversource has said the public benefits relief is temporary, which argues against
+  assuming 2026 rates will hold. Because the decision lasts 20 years, compare both options on your own usage before
+  enrolling. Systems are capped at 25 kW and sized to historical use, with allowances for an EV or heat pump; income-based
+  adders raise payments for lower-income households and distressed areas.
+
+net_metering:
+  status: "Net metering replaced by RRES: netting at the retail rate, or 20-year fixed buy-all rate"
+  text: |-
+    Per [Eversource](https://www.eversource.com/residential/save-money-energy/clean-energy-options/solar-energy/solar-incentives),
+    RRES offers a netting option, where surplus earns bill credits at the rate you pay and rolls over monthly, and a
+    buy-all option at $0.3289/kWh for 2026 (up from $0.3195 in 2025), locked for 20 years. Systems are limited to 25 kW,
+    sized to historical use with allowances for an electric vehicle or heat pump. Income and distressed-area adders apply.
+    Checked October 5, 2026.
+
+incentives:
+  - name: RRES buy-all tariff and income adders
+    text: "The buy-all option pays a fixed $0.3289 per kWh for 2026 enrollments for 20 years, with extra per-kWh adders for lower-income households and economically distressed areas, per Eversource. United Illuminating customers should confirm UI's equivalent terms."
+
+utilities:
+  - name: Eversource
+    detail: "Standard service 11.58¢/kWh for July 1 to December 31, 2026 (from 12.64¢). Public benefits charge became a credit of about 1.5¢/kWh from May 1, 2026 to April 30, 2027, about −$31 a month at 700 kWh (OCC)."
+  - name: United Illuminating (UI)
+    detail: "Standard service 11.99¢/kWh for July 1 to December 31, 2026 (from 13.69¢). Public benefits credit of about 1.3¢/kWh, about −$34.15 a month at 700 kWh (OCC)."
+  - name: Municipal utilities
+    detail: "Not covered in our research."
+
+meaning: |-
+  Connecticut's 2026 bill relief came largely from long-term contracts with the Millstone and Seabrook nuclear plants, which
+  pay customers back when market prices are high; the state put the combined effect at roughly 14% off residential bills.
+  That is a market-dependent benefit, and Eversource has warned charges may rise once the payback period ends in 2027. We
+  found no report of a September adjustment, so the credit should still be on October bills; check the public benefits line.
+  Standard service resets every six months, next on January 1, 2027, so customers with retail supplier contracts should
+  compare their price against it. Our [supplier comparison guide](/posts/how-to-compare-electricity-supplier-offers/) shows
+  how.
+
+faq:
+  - q: "Is solar worth it in Connecticut?"
+    a: "Often, and Connecticut's RRES program offers two paths: netting at the retail rate, or a buy-all rate fixed for 20 years ($0.3289/kWh for 2026 enrollments at Eversource). Because 2026 rate cuts lowered what netting saves and the relief is temporary, compare both options before enrolling."
+  - q: "What is the average electricity rate in Connecticut?"
+    a: "EIA puts Connecticut's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Supply alone is 11.58¢/kWh at Eversource and 11.99¢ at UI on standard service through December 31, 2026."
+
+sources:
+  - title: "Eversource, Connecticut Residential Solar Incentives"
+    url: "https://www.eversource.com/residential/save-money-energy/clean-energy-options/solar-energy/solar-incentives"
+  - title: "Connecticut Office of Consumer Counsel, rate adjustment FAQ, May 1, 2026"
+    url: "https://portal.ct.gov/occ/-/media/occ/april-2026-occ-ram-faq.pdf"
+  - title: "Connecticut DEEP, Governor Lamont announces lower electricity rates, 2026"
+    url: "https://portal.ct.gov/deep/news-releases/news-releases---2026/governor-lamont-announces-lower-electricity-rates-in-response-to-benefits-received"
+  - title: "Connecticut Mirror, May 15, 2026"
+    url: "https://ctmirror.org/2026/05/15/eversource-ui-customers-summer-electricity-rates/"

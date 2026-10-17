@@ -1,0 +1,70 @@
+name: Texas
+slug: texas
+abbr: TX
+region: South
+neighbors: [louisiana, new-mexico, oklahoma, arkansas]
+refreshed: 2026-10-18
+guides: [how-to-compare-electricity-supplier-offers, how-to-compare-solar-quotes]
+
+summary: >-
+  Across Texas the residential average was {rate} in {month}, {change} year over year, against {us} for the U.S.,
+  though what a household pays depends on its retail plan. In most of the state the energy price is set by the retail
+  plan you choose, while regulated delivery charges rose at Oncor on June 1, 2026. Texas has no statewide net
+  metering, so the value of rooftop solar depends on the buyback terms of your retail plan or your city utility's
+  program.
+
+solar: |-
+  Texas is the clearest case of "it depends on your plan." In the competitive ERCOT market, which covers most Texans,
+  there is no statewide net metering; export credit comes from your retail electric provider, and only some providers
+  offer solar buyback plans. Those plans vary widely, from credits for every exported kWh to credits capped at your monthly
+  usage to credits at real-time wholesale prices. The Electricity Facts Label on a plan spells out the terms.
+
+  A kWh you use yourself avoids both the provider's energy charge and the utility's per-kWh delivery charge, so self-use
+  is the reliable part of the value, and Oncor's June increase raised it slightly for North Texas homes. Before signing a
+  solar contract, pick (or at least price) the retail plan you will pair it with, because the same system can be worth very
+  different amounts on different plans, and plan terms can change at renewal. Customers of municipal utilities such as
+  Austin Energy and CPS Energy, and of regulated utilities outside ERCOT's competitive area, use their own utility's solar
+  programs instead. Hail and hurricane exposure make warranty and roof terms worth extra attention.
+
+net_metering:
+  status: "No statewide net metering; export credit set by your retail plan or municipal utility program"
+  text: |-
+    Texas has no statewide net metering rule. In competitive areas, export credit depends on your retail electric
+    provider's plan, if it offers solar buyback at all; check the plan's Electricity Facts Label. Municipal utilities such
+    as Austin Energy and CPS Energy run their own solar credit programs, and regulated utilities outside the competitive
+    market have their own tariffs. A [SolarReviews guide](https://www.solarreviews.com/blog/texas-net-metering-complete-guide)
+    summarizes the plan types; we have not verified current credit rates. Checked October 18, 2026.
+
+utilities:
+  - name: Oncor (Dallas–Fort Worth area, delivery)
+    detail: "PUC-approved settlement April 17, 2026; new delivery rates June 1, 2026, about +3% on the total bill (+$4.64 a month at 1,000 kWh on a 15¢ plan, Oncor estimate). A surcharge for January–June and a tracker request tied to about $4.4 billion of 2025 investment were pending."
+  - name: CenterPoint (Houston area, delivery)
+    detail: "No official 2026 residential bill figure found."
+  - name: Retail electric providers
+    detail: "Set the energy price and any solar buyback terms; compare plans on the PUC's Power to Choose site."
+  - name: Austin Energy, CPS Energy, Entergy Texas, SWEPCO, El Paso Electric
+    detail: "Municipal or regulated utilities outside the competitive market; not covered in our research."
+
+meaning: |-
+  In competitive Texas, regulated delivery is the part of the bill that rate cases move. Oncor's 2026 settlement raised
+  delivery from June 1, and customers may also see a temporary surcharge for the January-to-June gap plus a tracker update
+  later in the year, neither of which we could confirm as final. The energy part of the bill moves when your contract
+  renews, so the date on your plan matters more than any October 1 headline. Our
+  [plan comparison guide](/posts/how-to-compare-electricity-supplier-offers/) explains fixed versus variable plans and
+  how to read an offer, and our [solar quote guide](/posts/how-to-compare-solar-quotes/) covers what to ask installers.
+
+faq:
+  - q: "Is solar worth it in Texas?"
+    a: "It depends on your retail plan. Texas has no statewide net metering, so export credit comes from your provider's buyback plan (if any) or your city utility's program. Self-used solar reliably avoids both energy and delivery charges; price the plan you will pair with solar before signing."
+  - q: "What is the average electricity rate in Texas?"
+    a: "EIA puts Texas's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. In competitive areas, your plan's energy price plus your utility's delivery charges determine your actual rate."
+
+sources:
+  - title: "Oncor, rate case page"
+    url: "https://www.oncor.com/content/oncorwww/us/en/home/rate-case.html"
+  - title: "Oncor, first-quarter 2026 results"
+    url: "https://www.prnewswire.com/news-releases/oncor-reports-first-quarter-2026-results-302764848.html"
+  - title: "Public Utility Commission of Texas"
+    url: "https://www.puc.texas.gov"
+  - title: "SolarReviews, Texas net metering guide (secondary)"
+    url: "https://www.solarreviews.com/blog/texas-net-metering-complete-guide"

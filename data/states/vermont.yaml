@@ -1,0 +1,74 @@
+name: Vermont
+slug: vermont
+abbr: VT
+region: Northeast
+neighbors: [new-hampshire, new-york, massachusetts]
+refreshed: 2026-10-18
+guides: [how-electric-rate-cases-work, solar-export-credit-rates-by-utility-2026]
+
+summary: >-
+  Vermont's residential average was {rate} in {month}, {change} from a year earlier, compared with {us} nationally,
+  and Green Mountain Power customers saw a further increase on October 1. Green Mountain Power's rates rose 5.5% on
+  October 1, 2026, after regulators trimmed its request and approved about a third of its resilience spending. Net
+  metering survives with credits set by the PUC every two years, so the timing of a solar application matters as much
+  as the system itself.
+
+solar: |-
+  Vermont's net metering is unusual in that the credit is reset on a schedule. The Public Utility Commission sets a
+  statewide blended rate and adjusts it up or down by system category and size, with small home systems of 15 kW or less in
+  the most favorable category. Those adjustors are fixed for 10 years from commissioning, per an installer guide, and the
+  PUC revisits them in a biennial update. The 2026 update (Case 26-0291-INV) is setting terms for new systems; we have not
+  found the result.
+
+  That makes timing part of the decision: a system filed before an update takes effect keeps the earlier adjustors, so ask
+  your installer which ones your application will receive. Every system also needs a Certificate of Public Good from the
+  PUC, which for small home systems typically takes a few weeks. Green Mountain Power's October increase raised the value
+  of self-used solar. Customers of Burlington Electric, the cooperative and municipal utilities should check their own
+  utility's terms and pending rate cases.
+
+net_metering:
+  status: "Net metering with PUC-set credits (blended rate plus adjustors), updated every two years"
+  text: |-
+    Vermont credits net-metered systems at a statewide blended rate adjusted by system category and size; small home
+    systems (15 kW or less) are in the most favorable category, and adjustors are fixed for 10 years, per
+    [NuWatt Energy's 2026 guide](https://nuwattenergy.com/en/vermont/net-metering-guide-2026). Every system requires a
+    Certificate of Public Good. The PUC's 2026 biennial update (Case 26-0291-INV) sets rates for new systems; see the
+    [Department of Public Service recommendations](https://legislature.vermont.gov/Documents/2026/Workgroups/House%20Energy%20and%20Digital/Net%20Metering/W~TJ%20Poor~26-0291-INV%20-%202026.04.01%20%20-%20DPS%20Recommendations%20re%202026%20Net-Metering%20Biennial%20Update%20~4-29-2026.pdf).
+    We have not found the final decision. Checked October 5, 2026.
+
+community_solar: |-
+  Group, or "virtual," net metering, Vermont's form of community solar, ended for new projects on January 1, 2025,
+  according to [NuWatt Energy's 2026 guide](https://nuwattenergy.com/en/vermont/net-metering-guide-2026). Ask any
+  project sponsor how an existing arrangement is credited before buying into one.
+
+utilities:
+  - name: Green Mountain Power (more than 275,000 customers)
+    detail: "+5.5% on October 1, 2026 (7.5% requested), decided August 28, 2026; about $113 million of resilience spending approved over four years against about $341 million proposed."
+  - name: Municipal utilities (requests)
+    detail: "Swanton Electric 30%, Jacksonville Electric 18%, Hyde Park Electric 15%, Barton Electric 14% requested, per Vermont Public."
+  - name: Vermont Electric Cooperative and Burlington Electric
+    detail: "Not covered in our research."
+
+meaning: |-
+  The GMP decision shows Vermont's PUC putting affordability first: it cut two points from the request, called
+  affordability central to its analysis and approved only about a third of the proposed line-burying program, after opening
+  an investigation into GMP's finances in March. More than 50 customers objected to the original filing. Smaller utilities
+  face steeper pressures, with several municipal systems asking for double-digit increases. To estimate your own GMP
+  change, multiply your current bill by 0.055 (a $120 bill rises about $6.60, our illustration). Our
+  [rate case explainer](/posts/how-electric-rate-cases-work/) covers how to comment on pending municipal requests.
+
+faq:
+  - q: "Is solar worth it in Vermont?"
+    a: "Often, for small home systems: net metering credits are set by the PUC with small systems in the most favorable category, and adjustors are locked for 10 years. Because the PUC updates terms every two years, ask your installer which adjustors your application will get, and budget a few weeks for the Certificate of Public Good."
+  - q: "What is the average electricity rate in Vermont?"
+    a: "EIA puts Vermont's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}. Green Mountain Power's rates rose 5.5% on October 1, 2026."
+
+sources:
+  - title: "VTDigger, Sept. 8, 2026"
+    url: "https://vtdigger.org/2026/09/08/vermont-regulators-finalize-5-5-percent-rate-increase-for-green-mountain-power-customers/"
+  - title: "Vermont Public, Sept. 8, 2026"
+    url: "https://www.vermontpublic.org/local-news/2026-09-08/public-utility-commission-approves-green-mountain-power-rate-increase"
+  - title: "Vermont DPS, recommendations in Case 26-0291-INV"
+    url: "https://legislature.vermont.gov/Documents/2026/Workgroups/House%20Energy%20and%20Digital/Net%20Metering/W~TJ%20Poor~26-0291-INV%20-%202026.04.01%20%20-%20DPS%20Recommendations%20re%202026%20Net-Metering%20Biennial%20Update%20~4-29-2026.pdf"
+  - title: "NuWatt Energy, Vermont Net Metering Guide 2026 (secondary)"
+    url: "https://nuwattenergy.com/en/vermont/net-metering-guide-2026"

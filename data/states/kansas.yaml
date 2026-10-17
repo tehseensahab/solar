@@ -1,0 +1,67 @@
+name: Kansas
+slug: kansas
+abbr: KS
+region: Midwest
+neighbors: [colorado, missouri, nebraska, oklahoma]
+refreshed: 2026-10-18
+guides: [how-electric-rate-cases-work, how-to-compare-solar-quotes]
+
+summary: >-
+  Kansas homes paid an average {rate} in {month}, {change} from a year earlier and below the U.S. average of {us}.
+  Evergy's last base increase, about $8.47 a month for a 900 kWh home, started in October 2025, and we found no new
+  base change in 2026. Net metering survives at Evergy with credits slightly below retail, so solar can pencil out
+  if the system is sized so credits are used before they expire each March 31.
+
+solar: |-
+  Kansas keeps a version of net metering that is close to retail for investor-owned utilities. At the end of each
+  billing cycle, surplus energy becomes a dollar credit at the utility's monthly system average cost per kWh,
+  which EnergySage describes as a little under the retail rate. Credits carry forward month to month.
+
+  The catch is timing: credits expire every March 31. A system that overproduces through summer and fall builds a
+  bank that has to be spent during winter, when panels produce least. If it is not, the surplus is lost. That argues
+  for sizing to annual use, not beyond it. Kansas also exempts the added property value of systems installed after
+  2016 from property tax for 10 years, which removes one cost that applies in some states. Customers of smaller
+  utilities may be offered "parallel generation" instead, which pays 1.5 times avoided cost for exports, a much
+  lower value than net metering.
+
+net_metering:
+  status: "Net metering at Evergy; surplus credited near system average cost, expiring each March 31"
+  text: |-
+    Kansas requires Evergy and the state's other investor-owned utility to offer net metering. Per
+    [EnergySage](https://www.energysage.com/local-data/solar-rebates-incentives/ks/), surplus at the end of a billing
+    cycle converts to a dollar credit at the utility's monthly system average cost per kWh; credits carry forward
+    and expire each year on March 31. Smaller utilities may offer parallel generation instead, paying 1.5 times
+    avoided cost for exports. This summary comes from a secondary source; we have not read Evergy's net metering
+    tariff. Checked October 5, 2026.
+
+incentives:
+  - name: Property tax exemption
+    text: "Solar systems installed after 2016 are exempt from property tax on the added value for 10 years, per EnergySage's summary of Kansas incentives. Confirm with your county appraiser."
+
+utilities:
+  - name: Evergy Kansas Central
+    detail: "KCC approved $128 million a year (65% of the $196.4 million request) on September 25, 2025, docket 25-EKCE-294-RTS; about $8.47 a month at 900 kWh from the October 2025 billing cycle. No new base change found for 2026."
+  - name: Evergy Kansas Metro, Liberty, co-ops and municipal utilities
+    detail: "Separate rates; not covered in our research."
+
+meaning: |-
+  With no new base-rate decision found for 2026, Evergy Kansas Central customers' bills have been moving through the
+  pieces that change on their own schedules: the fuel and purchased power adjustment, the transmission delivery
+  charge and weather-driven usage. The 2025 settlement left one marker for future cases: Commissioner Dwight Keen
+  dissented in part on the 9.7% return on equity for transmission delivery charges, citing affordability. If Evergy
+  files a new Kansas case, that issue is likely to return. Our [rate case explainer](/posts/how-electric-rate-cases-work/)
+  covers how the KCC process works and how to comment.
+
+faq:
+  - q: "Is solar worth it in Kansas?"
+    a: "It can be at Evergy, where surplus is credited close to the retail rate. Because credits expire every March 31, size the system to your annual use so summer surplus is used over winter. Smaller utilities may offer only parallel generation at 1.5 times avoided cost, which is far less valuable."
+  - q: "What is the average electricity rate in Kansas?"
+    a: "EIA puts Kansas's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
+
+sources:
+  - title: "Kansas Corporation Commission, Evergy rate case settlement, Sept. 25, 2025"
+    url: "https://www.kcc.ks.gov/news-9-25-25"
+  - title: "Citizens' Utility Ratepayer Board, CURB News Q2 2025"
+    url: "https://www.kcc.ks.gov/images/PDFs/CURB/CURB_News_25Q2.pdf"
+  - title: "EnergySage, Kansas Solar Incentives (secondary)"
+    url: "https://www.energysage.com/local-data/solar-rebates-incentives/ks/"

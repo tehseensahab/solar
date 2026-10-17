@@ -1,0 +1,72 @@
+name: Hawaii
+slug: hawaii
+abbr: HI
+region: West
+neighbors: [california, alaska, washington]
+refreshed: 2026-10-18
+guides: [time-of-use-rates-and-solar, battery-sizing-guide]
+
+summary: >-
+  No state pays more for electricity: Hawaii's residential average reached {rate} in {month}, {change} from
+  {prev_month}, against {us} for the U.S. Hawaiian Electric's rates move monthly with fuel costs, and a general rate
+  case could set new base rates for 2027. Solar is close to a default choice here, but with export credits that vary
+  by hour, the real decision is the battery.
+
+solar: |-
+  No state rewards self-generated power more than Hawaii. On Oahu, a kWh you used yourself in May 2026 avoided an
+  all-in residential rate of about 47.75¢. That is why the question is less whether to go solar than how to
+  configure it.
+
+  The answer is shaped by Hawaiian Electric's Smart Renewable Energy Export program, which pays for exports by time
+  of day. On Oahu, midday exports earn 13.5¢ while evening-peak exports (5 p.m. to 9 p.m.) earn 32.9¢; on Maui the
+  daytime credit is just 6.6¢. Panels produce at midday, when the credit is lowest. A battery that stores that
+  output and releases it into the evening, either to run the house or to export at the peak credit, captures
+  several times the value. Credits are trued up annually and leftovers expire, so oversizing still wastes
+  production. Kauai Island Utility Cooperative customers have their own programs.
+
+net_metering:
+  status: "No net metering for new customers; time-of-day export credits under Smart Renewable Energy Export"
+  text: |-
+    New rooftop customers on Hawaiian Electric's five island systems use
+    [Smart Renewable Energy Export](https://www.hawaiianelectric.com/products-and-services/smart-renewable-energy-programs/smart-renewable-energy-export).
+    Credits for 2024 to 2026 depend on island and time of day: on Oahu 18.9¢ overnight, 13.5¢ daytime and 32.9¢
+    in the 5 p.m. to 9 p.m. peak; on Hawaii Island 14.8¢, 10.6¢ and 23.1¢; on Maui 13.1¢, 6.6¢ and 18.2¢. New
+    customers get a seven-year rate lock, with updates every three years after that. Credits are reconciled yearly
+    and leftover credits expire. Batteries can earn separate payments under Bring Your Own Device Plus.
+    Checked October 5, 2026.
+
+utilities:
+  - name: Hawaiian Electric — Oahu
+    detail: "Effective residential rate 47.75¢/kWh in May 2026; 500 kWh bill $241.77."
+  - name: Hawaiian Electric — Hawaii Island
+    detail: "43.14¢/kWh in May 2026; 500 kWh bill $218.27."
+  - name: Hawaiian Electric — Maui
+    detail: "46.75¢/kWh in May 2026; 500 kWh bill $237.02."
+  - name: Hawaiian Electric — Lanai and Molokai
+    detail: "Lanai 64.11¢/kWh and Molokai 53.23¢/kWh in May 2026."
+  - name: Kauai Island Utility Cooperative
+    detail: "Member-owned co-op with its own rates; not covered in our research."
+
+meaning: |-
+  Hawaii's rates follow fuel prices month by month through the energy cost recovery charge, which is why the
+  statewide average can jump sharply in a year without any base-rate decision. The pending general rate case is the
+  structural change to watch: Hawaiian Electric has pointed to wildfire-risk investments, insurance premiums and
+  equipment costs, and new rates could take effect before January 1, 2027, though we have not confirmed the current
+  proposed amount. Advocates argue a full rate case weakens the protection of performance-based regulation, which
+  since 2020 has limited between-case increases to an inflation-based formula. For homeowners, higher base rates
+  would raise the value of self-consumed solar and storage further. Our
+  [battery sizing guide](/posts/battery-sizing-guide/) helps match storage to evening use.
+
+faq:
+  - q: "Is solar worth it in Hawaii?"
+    a: "Usually, because the power it replaces is the most expensive in the country. Under Smart Renewable Energy Export, midday exports earn far less than evening-peak exports (13.5¢ vs 32.9¢ on Oahu), so most new systems pair panels with a battery to shift midday output into the evening."
+  - q: "What is the average electricity rate in Hawaii?"
+    a: "EIA's statewide residential average was {rate} in {month}, against {prev} in {prev_month}. Island rates differ: Hawaiian Electric's May 2026 effective rate was 47.75¢/kWh on Oahu and 64.11¢ on Lanai."
+
+sources:
+  - title: "Hawaiian Electric, Effective Rate Summary, May 2026"
+    url: "https://www.hawaiianelectric.com/documents/billing_and_payment/rates/effective_rate_summary/2026/efs_2026_05.pdf"
+  - title: "Hawaiian Electric, Smart Renewable Energy Export"
+    url: "https://www.hawaiianelectric.com/products-and-services/smart-renewable-energy-programs/smart-renewable-energy-export"
+  - title: "Honolulu Civil Beat, May 2025 (rate case)"
+    url: "https://www.civilbeat.org/2025/05/hawaii-residents-could-face-electric-rate-hike-in-2026/"

@@ -1,0 +1,66 @@
+name: Pennsylvania
+slug: pennsylvania
+abbr: PA
+region: Northeast
+neighbors: [delaware, new-jersey, new-york, ohio]
+refreshed: 2026-10-18
+guides: [how-to-compare-electricity-supplier-offers, how-to-read-your-electric-bill]
+
+summary: >-
+  Pennsylvania's residential average was {rate} in {month}, {change} on the year, compared with {us} nationally.
+  Default supply prices (the Price to Compare) rose at every major utility on June 1, by as much as 12% at Penelec,
+  and reset again on December 1. Retail-rate net metering under state rules keeps rooftop solar among the better
+  options in the PJM region.
+
+solar: |-
+  Pennsylvania's net metering rules are written into the state code and are generous by current standards. Under 52 Pa.
+  Code §75.13, utilities credit residential solar at the full retail kWh rate, including generation, transmission and
+  distribution, for production up to your usage in a billing period. Excess kWh carry forward to later bills, and at the
+  end of the year any leftover excess is paid at the default service provider's Price to Compare. Residential systems
+  can be up to 50 kW.
+
+  So nearly every solar kWh is worth retail if the system is sized to annual use, and only true surplus falls to the
+  supply price. Rising supply prices, driven by PJM wholesale costs, add to that value for customers on default service.
+  If you shop with a competitive supplier, your contract price affects what the generation part of the credit is worth,
+  so check how your supplier handles net metering before switching.
+
+net_metering:
+  status: "Retail net metering under state code; year-end surplus paid at the Price to Compare"
+  text: |-
+    [52 Pa. Code §75.13](https://law.cornell.edu/regulations/pennsylvania/52-Pa-Code-SS-75-13) requires utilities to
+    credit customer-generators at the full retail kWh rate, including generation, transmission and distribution, up to
+    usage in the billing period; excess kWh carry forward, and unused excess at year-end is paid at the Price to Compare.
+    Residential systems are limited to 50 kW nameplate. Checked October 18, 2026.
+
+utilities:
+  - name: PECO
+    detail: "Price to Compare 11.024¢ to 11.572¢/kWh on June 1, 2026 (+4.97%, PUC estimate)."
+  - name: PPL Electric
+    detail: "12.953¢ to 13.147¢/kWh on June 1, 2026 (+1.5%). A base-rate settlement was pending in spring; final status not confirmed."
+  - name: Duquesne Light
+    detail: "13.75¢ to 14.14¢/kWh on June 1, 2026 (+2.84%, PUC estimate)."
+  - name: FirstEnergy Pennsylvania (Met-Ed, Penelec, Penn Power, West Penn Power)
+    detail: "June 1, 2026: Met-Ed 13.951¢ (+7.6%), Penelec 13.142¢ (+11.88%), Penn Power 13.477¢ (+6.9%), West Penn 12.075¢ (+10.3%) per kWh."
+
+meaning: |-
+  Pennsylvania's default supply prices reset on June 1 and December 1, based on wholesale market costs, and the PUC notes
+  generation can be half or more of a total bill. June's increases ranged from 1.5% at PPL to nearly 12% at Penelec, with
+  FirstEnergy's western utilities hit hardest. The PUC also warned that fewer supplier offers beat the Price to Compare
+  than in past years, and that many that do are short introductory deals of three to six months. Before switching, check
+  the term, renewal price and any cancellation fee; our
+  [supplier comparison guide](/posts/how-to-compare-electricity-supplier-offers/) uses Pennsylvania's disclosure rules
+  as its worked example. The December 1 reset is the next change to watch.
+
+faq:
+  - q: "Is solar worth it in Pennsylvania?"
+    a: "Often, because state rules credit residential solar at the full retail kWh rate up to your usage, carry excess forward, and pay year-end surplus at the Price to Compare. Size the system to annual use and, if you shop for supply, check how your supplier handles net metering."
+  - q: "What is the average electricity rate in Pennsylvania?"
+    a: "EIA puts Pennsylvania's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Supply alone ranges from about 11.6¢ to 14.1¢/kWh across major utilities after June 1, 2026."
+
+sources:
+  - title: "52 Pa. Code §75.13, net metering general provisions"
+    url: "https://law.cornell.edu/regulations/pennsylvania/52-Pa-Code-SS-75-13"
+  - title: "Pennsylvania PUC, June 1 electric price changes, May 20, 2026"
+    url: "https://www.puc.pa.gov/press-release/2026/puc-alerts-consumers-to-june-1-electric-price-changes-and-higher-summer-energy-costs-5-20-26"
+  - title: "PAPowerSwitch (PUC shopping site)"
+    url: "https://www.papowerswitch.com/"

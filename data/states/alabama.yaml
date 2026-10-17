@@ -1,0 +1,76 @@
+name: Alabama
+slug: alabama
+abbr: AL
+region: South
+neighbors: [georgia, florida, mississippi, tennessee]
+refreshed: 2026-10-18
+guides: [fixed-charges-and-solar-savings, solar-export-credit-rates-by-utility-2026]
+
+summary: >-
+  Alabama households use more power than most, so even an average residential price of {rate} in {month} ({change}
+  from a year earlier; U.S. {us}) adds up to high bills. Alabama Power says its rates are frozen through 2027. For
+  rooftop solar the verdict is weak: there is no net metering, and the state's largest utility charges a monthly fee
+  for every kilowatt of solar you install.
+
+solar: |-
+  Solar in Alabama is held back less by sunshine than by rules. Three things work against a typical
+  Alabama Power customer:
+
+  - **A capacity fee you pay every month.** Rate Rider RGB charges $5.41 per kW of installed solar on
+    secondary service. On the 7.2 kW system Canary Media uses as an average home size, that is about
+    $38.95 a month, or roughly $467 a year, before the panels save you anything.
+  - **Low export value.** Power you send to the grid is credited at roughly Alabama Power's cost of
+    generation, well below the retail rate.
+  - **Frozen rates.** With per-kWh rates held through 2027, the "beat rising rates" pitch has less force
+    in the near term, although usage, taxes and riders can still move bills.
+
+  What can work: a system sized to replace daytime use, or solar paired with a battery for backup, where
+  the value is resilience rather than payback. Run any quote with the RGB fee included; an installer
+  estimate that leaves it out overstates savings. Customers of TVA distributors in north Alabama, co-ops
+  and municipal utilities are under different rules and should check with their own utility.
+
+net_metering:
+  status: "No net metering at Alabama Power; exports credited near avoided cost, plus a per-kW solar fee"
+  text: |-
+    Alabama has no statewide net metering law. At Alabama Power, solar customers keep the retail value only
+    for power they use as it is produced; exports are credited at roughly the utility's generation cost.
+
+    The [Rate Rider RGB](https://www.alabamapower.com/content/dam/alabama-power/pdfs-docs/Rates/RGB.pdf)
+    capacity reservation charge of $5.41 per kW a month has applied since its approval by the Alabama Public
+    Service Commission in 2013 (the current revision took effect with April 2022 billings). A federal judge
+    dismissed a lawsuit challenging the charge in April 2026, so it remains in force. Rules were checked
+    October 5, 2026.
+
+utilities:
+  - name: Alabama Power
+    detail: "Rates frozen through 2027, per the company. A charge of about $3.32 a month for an acquired gas plant is expected from 2028. Solar customers pay $5.41/kW a month under Rider RGB."
+  - name: TVA distributors (north Alabama), cooperatives and municipal utilities
+    detail: "Set their own rates and solar rules; not covered in our research."
+
+meaning: |-
+  The freeze makes Alabama unusual in a year when most neighboring states saw approved or requested increases.
+  Even so, the statewide average was {change} between {prev_month} and {month}: frozen base rates do not freeze
+  bills, because usage, taxes and riders still move. The bigger changes are structural: Senate Bill 270, in effect since October 1, 2026,
+  requires data centers of 150 MW or more to pay the incremental cost of serving them, and the Public Service
+  Commission opened reviews of data center contracts. For homeowners the near-term watch item is 2028, when the
+  gas plant charge and the end of the freeze arrive together. If you are weighing solar, the
+  [fixed-charge guide](/posts/fixed-charges-and-solar-savings/) shows how a per-kW fee like Rider RGB changes the
+  payback math.
+
+faq:
+  - q: "Is solar worth it in Alabama?"
+    a: "For most Alabama Power customers the financial case is weak. There is no net metering, exports are credited near the utility's generation cost, and Rider RGB adds $5.41 per kW of solar each month, about $39 a month on a 7.2 kW system. Solar sized to daytime use, or bought for backup with a battery, can still make sense; get quotes that include the fee."
+  - q: "What is the average electricity rate in Alabama?"
+    a: "EIA puts Alabama's average residential price at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}. That is an average across all utilities, including fixed charges, not a single utility's tariff."
+
+sources:
+  - title: "Alabama Power, Rate Rider RGB (tariff)"
+    url: "https://www.alabamapower.com/content/dam/alabama-power/pdfs-docs/Rates/RGB.pdf"
+  - title: "Alabama Power, \"Are Rates Going Up\""
+    url: "https://www.alabamapower.com/company/media-room/energy-answers/are-rates-going-up.html"
+  - title: "Canary Media, \"Alabama Power can keep charging steep rooftop solar fee\""
+    url: "https://www.canarymedia.com/articles/solar/alabama-power-charge-rooftop-solar-fee"
+  - title: "Birmingham Free Press, \"Alabama Power Freezes Rates as Data Centers Face New Cost Rules,\" Aug. 22, 2026"
+    url: "https://birminghamfreepress.com/2026/08/22/alabama-power-freezes-rates-as-data-centers-face-new-cost-rules/"
+  - title: "WBRC, \"Alabama's new energy law shakes up utility oversight,\" April 4, 2026"
+    url: "https://www.wbrc.com/2026/04/04/alabamas-new-energy-law-shakes-up-utility-oversight-offers-little-cost-savings/"

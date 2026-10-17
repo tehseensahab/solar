@@ -1,0 +1,70 @@
+name: New Mexico
+slug: new-mexico
+abbr: NM
+region: West
+neighbors: [arizona, colorado, texas, oklahoma]
+refreshed: 2026-10-18
+guides: [solar-payback-period-without-federal-tax-credit, how-to-compare-solar-quotes]
+
+summary: >-
+  New Mexico's residential average came to {rate} in {month}, {change} from a year earlier, compared with a U.S.
+  average of {us}. PNM finished a two-step increase in April 2026, and El Paso Electric is asking for more than $40 a
+  month starting in 2027. With retail-rate net metering, strong sun and a state tax credit, New Mexico is one of the
+  better states for solar payback after the federal homeowner credit's end.
+
+solar: |-
+  New Mexico combines three things rarely found together in 2026: retail-rate net metering, excellent solar resource
+  and a state tax credit. PNM customers earn credit at the retail rate for surplus, with credits rolling month to month;
+  only production beyond your total use is paid at avoided cost. Sizing to annual use therefore captures nearly full
+  value.
+
+  The Solar Market Development Tax Credit covers 10% of system cost up to $6,000, which partly replaces the federal
+  homeowner credit that ended after 2025. It is first come, first served within a yearly budget, so confirm funds are
+  available before counting on it. Rising rates at PNM, and potentially large ones at El Paso Electric, push the value
+  of each solar kWh up. El Paso Electric and Southwestern Public Service customers should confirm their own utility's
+  net metering terms, which this research did not cover in detail.
+
+net_metering:
+  status: "Retail-rate net metering at PNM; excess beyond use paid at avoided cost"
+  text: |-
+    Per [EnergySage](https://www.energysage.com/local-data/solar-rebates-incentives/nm/), PNM credits surplus at the
+    retail rate with month-to-month rollover; generation beyond your use is paid at the utility's avoided cost. We
+    have not read PNM's net metering tariff or confirmed El Paso Electric's and SPS's terms. Checked October 5, 2026.
+
+incentives:
+  - name: Solar Market Development Tax Credit
+    text: "A state income tax credit of 10% of system cost, up to $6,000, first come, first served within a yearly budget. EnergySage lists it as active in 2026; confirm availability with the New Mexico Energy, Minerals and Natural Resources Department before you buy. Source: [EnergySage, New Mexico Solar Incentives](https://www.energysage.com/local-data/solar-rebates-incentives/nm/)."
+
+utilities:
+  - name: PNM
+    detail: "Second phase of a PRC-approved increase (Docket 24-00089-UT) on April 1, 2026, about +$6.23 a month for an average customer; funds wildfire prevention, grid upgrades and battery storage."
+  - name: El Paso Electric (Las Cruces, southern New Mexico)
+    detail: "Pending request for $70.4 million in base rates, more than +$40 a month for an average household in two phases from 2027 (KFOX); PRC public hearing June 2026, no decision date."
+  - name: Southwestern Public Service (Xcel Energy)
+    detail: "A $90 million rate stipulation disclosed in 2026; bill impact not confirmed."
+
+meaning: |-
+  New Mexico's rate pressure is shifting south. PNM's two-step increase, about $10 a month in total per the Santa Fe
+  New Mexican when the deal was announced, is now fully in bills, with capped service fees and a $1.5 million
+  contribution to the Good Neighbor Fund attached. El Paso Electric's request is much larger relative to bills; the
+  company cites more than $400 million invested in its New Mexico system, and residents pushed back at the June
+  hearing. For solar buyers in Las Cruces, the outcome could raise the value of self-generated power substantially,
+  but a contract should not assume the full request. Our
+  [payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how to build a scenario with and
+  without a pending increase.
+
+faq:
+  - q: "Is solar worth it in New Mexico?"
+    a: "Often yes. PNM offers retail-rate net metering, the state Solar Market Development Tax Credit covers 10% of cost up to $6,000 while its yearly budget lasts, and rates rose in 2025 and April 2026. Confirm tax credit funds and your utility's terms before signing."
+  - q: "What is the average electricity rate in New Mexico?"
+    a: "EIA puts New Mexico's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
+
+sources:
+  - title: "New Mexico PRC, PNM rate change effective April 1, 2026"
+    url: "https://www.prc.nm.gov/2026/04/01/customer-notice-pnm-rate-change-effective-april-1-2026/"
+  - title: "KFOX, El Paso Electric rate hearing, June 2026"
+    url: "https://kfoxtv.com/news/local/nm-prc-hears-pushback-on-el-paso-electric-rate-hike-that-could-add-40-a-month"
+  - title: "Santa Fe New Mexican, PNM settlement"
+    url: "https://www.santafenewmexican.com/news/local_news/pnm-reaches-deal-that-could-raise-average-monthly-bill-about-10/article_48f4b6a2-ac44-11ef-b775-7b3ace8329a4.html"
+  - title: "EnergySage, New Mexico Solar Incentives (secondary)"
+    url: "https://www.energysage.com/local-data/solar-rebates-incentives/nm/"

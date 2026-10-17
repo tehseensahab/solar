@@ -1,0 +1,71 @@
+name: Maryland
+slug: maryland
+abbr: MD
+region: South
+neighbors: [delaware, pennsylvania, virginia, west-virginia]
+refreshed: 2026-10-18
+guides: [how-to-compare-electricity-supplier-offers, how-electric-rate-cases-work]
+
+summary: >-
+  Maryland's residential average reached {rate} in {month}, {change} on the year, compared with {us} nationally, and
+  winter supply prices have since risen at Pepco. Pepco's default supply price rose about 11% on October 1 after a
+  record PJM capacity auction, and BGE and Potomac Edison both have delivery increases pending. Full retail net
+  metering still applies, which puts Maryland among the stronger states for rooftop solar value.
+
+solar: |-
+  Maryland is one of the few states in its region that still credits rooftop solar at the full retail rate. Monthly
+  surplus earns a credit worth both supply and delivery, so a solar kWh exported in June can offset a kWh bought in
+  December at the same value. That makes the rising pieces of Maryland bills, supply driven by the PJM capacity market
+  and delivery driven by rate cases, directly favorable to solar owners.
+
+  The October change is a concrete example: Pepco's winter standard offer rate of about 14.677¢ per kWh makes each
+  solar kWh worth about 1.5¢ more for Pepco customers on default supply than it was in summer 2026. The main limit
+  is sizing. Systems may be up to 200% of annual use, but leftover credits are paid out each April at the utility's
+  average annual commodity rate, which excludes delivery. A system matched to your use earns retail on nearly every
+  kWh; anything beyond that earns roughly the supply price.
+
+net_metering:
+  status: "Full retail net metering; annual April payout of leftover credits at the commodity rate"
+  text: |-
+    Per [Solar United Neighbors](https://solarunitedneighbors.org/resources/net-metering-in-maryland/), monthly
+    surplus is credited at the full retail rate, systems may be sized up to 200% of annual use, and in April
+    utilities pay out leftover credits at their average annual commodity (supply) rate. This summary comes from an
+    advocacy group's guide; we have not read the utility tariffs. Checked October 5, 2026.
+
+utilities:
+  - name: Pepco (Maryland)
+    detail: "Residential standard offer supply about 14.677¢/kWh for October 2026–May 2027, up from 13.175¢ in summer 2026 (third-party analysis of published rates). PSC denied more than half of Pepco's 2026 distribution request."
+  - name: Baltimore Gas and Electric (BGE)
+    detail: "Pending Case No. 9888: $156.1 million distribution request; residential distribution rate 4.9¢ to 5.8¢/kWh and customer charge $10 to $11, about +$8.58 a month at 900 kWh, early 2027 if approved."
+  - name: Potomac Edison
+    detail: "Pending Case No. 9904: $52.8 million distribution request filed September 4, 2026, about 5.3% on the average residential bill."
+    page: "/posts/potomac-edison-maryland-rate-request-2026"
+  - name: Delmarva Power, SMECO and municipal utilities
+    detail: "Not covered in our research."
+
+meaning: |-
+  Maryland bills are being pushed from two sides at once. On supply, PJM's 2026-27 capacity auction cleared at a
+  record $329.17 per megawatt-day, up 22% from the prior year, which flows into standard offer prices through the
+  utilities' auctions; that is what moved Pepco's winter rate. On delivery, three utilities are in the rate-case
+  cycle: the PSC cut Pepco's 2026 request by more than half, BGE wants a 10.4% return on equity against 9.5% today,
+  and Potomac Edison filed in September (our [Potomac Edison report](/posts/potomac-edison-maryland-rate-request-2026/)
+  has the details). Customers on standard offer service can compare supplier offers against the new price; our
+  [supplier comparison guide](/posts/how-to-compare-electricity-supplier-offers/) explains how.
+
+faq:
+  - q: "Is solar worth it in Maryland?"
+    a: "Often yes, because Maryland still offers full retail net metering: monthly surplus earns credits worth supply and delivery. Size the system to your annual use, since leftover credits are paid each April at the commodity rate only."
+  - q: "What is the average electricity rate in Maryland?"
+    a: "EIA puts Maryland's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Pepco's supply price alone is about 14.677¢/kWh for October 2026 through May 2027, before delivery and taxes."
+
+sources:
+  - title: "Maryland Office of People's Counsel, Consumer's Guide to BGE's Proposed Electric Rate Increase, Aug. 2026"
+    url: "https://opc.maryland.gov/Portals/0/Files/Publications/BGE%20Consumer's%20Guide%20-%202026%20-%20FINAL%20VERSION.pdf?ver=OQulELqGzpKL7xWi5A9GKg%3D%3D"
+  - title: "Maryland PSC, Pepco rate decision, 2026"
+    url: "http://psc.maryland.gov/news/2026/maryland-public-service-commission-denies-over-half-of-pepcos-rate-increase-request/"
+  - title: "Honeydew Advisors, Maryland Pepco SOS Supply Rates (secondary)"
+    url: "https://honeydewadvisors.com/md-pepco-rate-analysis/"
+  - title: "Solar United Neighbors, Net metering in Maryland"
+    url: "https://solarunitedneighbors.org/resources/net-metering-in-maryland/"
+  - title: "FirstEnergy, Potomac Edison rate proposal"
+    url: "https://www.firstenergycorp.com/newsroom/news_articles/pe-proposes-rate-adjustment.html"

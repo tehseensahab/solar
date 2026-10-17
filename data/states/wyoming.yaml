@@ -1,0 +1,63 @@
+name: Wyoming
+slug: wyoming
+abbr: WY
+region: West
+neighbors: [colorado, idaho, montana, utah]
+refreshed: 2026-10-18
+guides: [how-electric-rate-cases-work, solar-payback-period-without-federal-tax-credit]
+
+summary: >-
+  Wyoming's residential power averaged {rate} in {month} ({change} on the year), well under the U.S. figure of {us}.
+  Rocky Mountain Power cut its energy cost adjustment on July 1 but has an 8.8% increase pending for 2027, and Black
+  Hills Energy wants 32% in Upton and Newcastle. Net metering with kWh credits through the calendar year makes a
+  system sized to annual use worthwhile despite low prices.
+
+solar: |-
+  Wyoming's net metering is simple and still fairly generous. For residential systems up to 25 kW, surplus earns kWh credits
+  that offset later use during the calendar year, so a kWh exported in July can cover one bought in December at retail value.
+  Only the credits left at year-end are sold to Rocky Mountain Power at its Schedule 37 avoided-cost rate, about 3¢ per kWh.
+
+  So the rule is to size to annual consumption: nearly every kWh up to that point is worth retail, while anything beyond is
+  worth about 3¢. Low retail prices lengthen payback compared with high-cost states, but the trend helps: a 10.2% increase in
+  2025 and a pending 2027 request both raise the value of each credited kWh. Customers of Cheyenne Light, Fuel and Power,
+  Black Hills Energy and the co-ops should confirm their own utility's terms.
+
+net_metering:
+  status: "Net metering with kWh credits through the calendar year; year-end surplus at about 3¢ (Schedule 37)"
+  text: |-
+    Per [EnergySage](https://www.energysage.com/local-data/net-metering/rocky-mountain-power/), residential systems up to
+    25 kW earn kWh credits that offset later use during the calendar year; remaining credits at year-end are sold to Rocky
+    Mountain Power at its [Schedule 37](https://www.rockymountainpower.net/content/dam/pcorp/documents/en/rockymountainpower/rates-regulation/wyoming/rates/037_Avoided_Cost_Purchases_from_Qualifying_Facilities.pdf)
+    avoided-cost rate, about 3¢/kWh. Checked October 5, 2026.
+
+utilities:
+  - name: Rocky Mountain Power
+    detail: "Energy cost adjustment down 6% on July 1, 2026 (about −$4.50 a month at 700 kWh). Pending 2027 general rate case: $70.5 million (8.8%), 3.9% net for residential after the July decrease; PSC review about 10 months."
+  - name: Black Hills Energy (Upton and Newcastle, about 2,600 customers)
+    detail: "Docket 20002-148-ER-26: $5.1 million (32%), about +$32 a month; consumer advocate proposes $3.6 million and a February 1, 2027 start. Hearing scheduled for October 7–8, 2026; no decision found."
+  - name: Cheyenne Light, Fuel and Power and co-ops
+    detail: "Not covered in our research."
+
+meaning: |-
+  Rocky Mountain Power has been back before the Wyoming PSC repeatedly: a 29.2% request settled at 16.2% in 2023, 10.2%
+  approved against 14.7% in 2025, and now 8.8% for 2027. The company says none of the request relates to data centers and that
+  Wyoming's large-load tariff makes those customers pay for their own infrastructure. In northeast Wyoming, Black Hills
+  Energy's first base-rate request since 2014 is the bigger shock for a small number of households; a key dispute is whether
+  new rates apply back to May 2026 or start in February 2027. Our
+  [rate case explainer](/posts/how-electric-rate-cases-work/) covers how effective dates and interim rates are decided.
+
+faq:
+  - q: "Is solar worth it in Wyoming?"
+    a: "For a system sized to annual use, it can be. Wyoming net metering gives kWh credits that offset use through the calendar year; only year-end leftovers are sold at about 3¢/kWh. Low retail prices mean longer payback than in high-cost states."
+  - q: "What is the average electricity rate in Wyoming?"
+    a: "EIA puts Wyoming's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
+
+sources:
+  - title: "Cowboy State Daily, May 14, 2026"
+    url: "https://cowboystatedaily.com/2026/05/14/rocky-mountain-power-says-8-8-rate-hike-request-not-because-of-data-centers/"
+  - title: "KOTA, Black Hills Energy northeast Wyoming request, Aug. 17, 2026"
+    url: "https://www.kotatv.com/2026/08/17/black-hills-energy-wants-hike-electric-rates-32-northeast-wyoming/"
+  - title: "Rocky Mountain Power, Wyoming Schedule 37 (tariff)"
+    url: "https://www.rockymountainpower.net/content/dam/pcorp/documents/en/rockymountainpower/rates-regulation/wyoming/rates/037_Avoided_Cost_Purchases_from_Qualifying_Facilities.pdf"
+  - title: "EnergySage, Rocky Mountain Power Net Metering (secondary)"
+    url: "https://www.energysage.com/local-data/net-metering/rocky-mountain-power/"

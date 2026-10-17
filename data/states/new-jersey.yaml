@@ -1,0 +1,70 @@
+name: New Jersey
+slug: new-jersey
+abbr: NJ
+region: Northeast
+neighbors: [delaware, new-york, pennsylvania]
+refreshed: 2026-10-18
+guides: [how-to-compare-electricity-supplier-offers, how-electric-rate-cases-work]
+
+summary: >-
+  Statewide, New Jersey's residential average was {rate} in {month} ({change} on the year), against {us} nationally.
+  Supply prices reset each June 1 through the BGS auction, and the 2026 reset barely moved average bills; the next big
+  decision is JCP&L's request for an increase starting in 2028. Retail-rate net metering remains, but the state has
+  crossed the threshold that lets regulators replace it, so new solar buyers face policy risk.
+
+solar: |-
+  For now New Jersey credits home solar at the retail volumetric rate, with an annual reconciliation of unused
+  credits, which together with high prices gives rooftop systems strong economics. The question hanging over the
+  market is how long that lasts. A BPU staff presentation said net-metered generation exceeded 5.8% of total kWh sales
+  in energy year 2024, the threshold in state law that allows the Board to consider a different approach. The BPU
+  opened Docket QO24090723 and held its first stakeholder workshop in November 2024; we have found no final decision.
+
+  For anyone signing a contract, the practical step is to ask what crediting rule the proposal assumes, for how long,
+  and what happens to existing systems if the policy changes. A design that relies on self-consumption holds its value
+  better under any successor policy than one that exports heavily. PSE&G has also proposed a residential time-of-use
+  rate, which, if approved, would change how much a midday kWh is worth.
+
+net_metering:
+  status: "Retail-rate net metering; successor policy under review after crossing the 5.8% threshold"
+  text: |-
+    A [BPU staff presentation](https://nj.gov/bpu/pdf/publicnotice/19.11.2024%20Jurisdictional%20Survey%20of%20NEM%20Reforms%20-%20Stakeholder%20Workshop%201%5b1%5d%20%20-%20%20Read-Only.pdf)
+    describes credits at the retail volumetric rate with an annual reconciliation of unused credits, and says
+    net-metered generation exceeded 5.8% of total kWh sales in energy year 2024. The BPU opened Docket QO24090723 and
+    held a first stakeholder workshop on November 19, 2024. We have not found a decision or any rule on treatment of
+    existing systems. Checked October 5, 2026.
+
+utilities:
+  - name: PSE&G
+    detail: "Average 650 kWh bill $183.46 to $180.23 on June 1, 2026 (−1.8%), per the BPU. Proposed TOU rate RS TOU-3P not confirmed as approved."
+  - name: JCP&L
+    detail: "June 1, 2026: $135.24 to $137.47 (+1.6%) at 650 kWh. Pending: $253 million base distribution increase plus $476 million in storm costs, about +$14.23 a month at 767 kWh, starting January 2028 if approved."
+    page: "/posts/jcpl-rate-increase-request-2026"
+  - name: Atlantic City Electric (ACE)
+    detail: "June 1, 2026: $201.54 to $201.76 (+0.11%) at 650 kWh; supply reconciliation charge adjusts June 1 and October 1 (October 2026 amount not found)."
+  - name: Rockland Electric (RECO)
+    detail: "June 1, 2026: $170.10 to $168.93 (−0.7%) at 650 kWh."
+
+meaning: |-
+  New Jersey's 2026 auction produced small bill changes, helped by the PJM capacity price collar and Executive Order
+  No. 1, which directed Residential Universal Bill Credits to offset supply increases from July 1, 2026. Only about a
+  third of residential supply is bought in each auction, which smooths year-to-year swings. The next pressure point is
+  delivery: JCP&L's request would add about 8.8% to a typical bill from January 2028, with storm costs spread over 10
+  years (our [JCP&L report](/posts/jcpl-rate-increase-request-2026/) has the details). For solar, the decision that
+  matters most is the BPU's net metering successor. Customers can also shop for supply; our
+  [supplier guide](/posts/how-to-compare-electricity-supplier-offers/) explains how to compare against BGS.
+
+faq:
+  - q: "Is solar worth it in New Jersey?"
+    a: "Under today's retail-rate net metering and high prices, often yes. But the state crossed the 5.8% threshold that lets the BPU replace net metering, and a review is open, so ask installers what crediting rule and term their savings estimate assumes."
+  - q: "What is the average electricity rate in New Jersey?"
+    a: "EIA puts New Jersey's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. The BPU's June 2026 figures put the average 650 kWh bill between about $137 (JCP&L) and $202 (ACE)."
+
+sources:
+  - title: "NJBPU, 2026 BGS auction results, Feb. 12, 2026"
+    url: "https://nj.gov/bpu/newsroom/2026/approved/20260212.html"
+  - title: "NJBPU, Jurisdictional Survey of NEM Reforms, Workshop 1, Nov. 19, 2024"
+    url: "https://nj.gov/bpu/pdf/publicnotice/19.11.2024%20Jurisdictional%20Survey%20of%20NEM%20Reforms%20-%20Stakeholder%20Workshop%201%5b1%5d%20%20-%20%20Read-Only.pdf"
+  - title: "NJBPU, order approving 2026 BGS process, Nov. 21, 2025"
+    url: "https://www.nj.gov/bpu/pdf/energy/bgs/ER25040190-%202026%20BGS-%20Order%20Approving%20Auction%20Process.pdf"
+  - title: "FirstEnergy, JCP&L rate proposal, Aug. 7, 2026"
+    url: "https://investors.firstenergycorp.com/investor-materials/news-releases/news-details/2026/JCPL-Rate-Proposal-Delays-Bill-Impact-for-Residential-Customers-Until-2028-While-Supporting-Reliability-Investments/default.aspx"

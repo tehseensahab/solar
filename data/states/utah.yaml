@@ -1,0 +1,63 @@
+name: Utah
+slug: utah
+abbr: UT
+region: West
+neighbors: [arizona, colorado, idaho, nevada]
+refreshed: 2026-10-18
+guides: [solar-export-credit-rates-by-utility-2026, battery-sizing-guide]
+
+summary: >-
+  Utah has some of the lowest residential prices in the U.S., {rate} on average in {month} ({change} from
+  {prev_month}; national average {us}). Rocky Mountain Power's July 2026 settlement raised base rates 4.2% but a
+  larger drop in energy charges cut a typical bill by about $7.56 a month, and no new general rate filings are allowed
+  through 2028. With exports credited at 4¢ to 5¢, solar in Utah only pays when sized to daytime use or paired with
+  storage.
+
+solar: |-
+  Utah's solar economics are defined by a wide gap between what power costs and what exports earn. Rocky Mountain Power's
+  Schedule 137 net billing tariff, effective March 1, 2026, credits exports at 4.855¢ per kWh from June to September and
+  4.033¢ from October to May, and unused credits expire at the end of each annual billing period. Every kWh you use
+  yourself, by contrast, avoids the full retail energy charge.
+
+  Utah's low retail prices narrow the payback window further, and the July 2026 cut to energy charges slightly lowered what
+  self-use saves. The configurations that hold up are a system sized close to daytime load, or one paired with a battery
+  that stores midday output for the evening. The rate-filing pause through 2028 makes the retail side of the calculation
+  fairly predictable, although energy charges, which track fuel and market costs, can still move. Residential systems are
+  limited to 25 kW. Older net metering and transition customers remain on closed schedules.
+
+net_metering:
+  status: "Net billing (Schedule 137): exports credited at 4.855¢ summer / 4.033¢ winter"
+  text: |-
+    Rocky Mountain Power's [Schedule 137](https://www.rockymountainpower.net/content/dam/pcorp/documents/en/rockymountainpower/rates-regulation/utah/rates/137_Net_Billing_Service.pdf),
+    effective March 1, 2026, credits exported energy at 4.855¢/kWh (June–September) and 4.033¢/kWh (October–May).
+    Unused credits expire at the end of each annual billing period, and residential systems are limited to 25 kW. Earlier
+    net metering and transition customers are on separate, closed schedules. Checked October 5, 2026.
+
+utilities:
+  - name: Rocky Mountain Power
+    detail: "Settlement approved August 2026: +4.2% ($93 million) in general rates from July 1 (about +$3.44 a month), offset by a −10.6% energy charge change (about −$11 a month); net about −$7.56 a month for a typical home by our math. No general rate filings through 2028."
+  - name: Municipal utilities and co-ops
+    detail: "Not covered in our research."
+
+meaning: |-
+  The Rocky Mountain Power case was long and contentious: the company first proposed 30.5%, reduced it to 18.1%, received
+  4.7% from the PSC in 2025, and then settled in 2026 for another 4.2% plus a commitment of about $2 billion in grid
+  reliability and resilience investment. Advocates' concern was less the outcome than the process; Utah's Office of
+  Consumer Services said the public prefers a standard case with more visibility into the details. For households, the
+  pause on general rate filings through 2028 brings some predictability, but wildfire mitigation charges sit outside it and
+  energy charges float with markets. Our [battery sizing guide](/posts/battery-sizing-guide/) helps match storage to
+  evening use under low export credits.
+
+faq:
+  - q: "Is solar worth it in Utah?"
+    a: "Usually only for systems sized to daytime use or paired with a battery. Rocky Mountain Power credits exports at 4.855¢/kWh in summer and 4.033¢ in winter under Schedule 137, unused credits expire annually, and Utah's retail prices are low."
+  - q: "What is the average electricity rate in Utah?"
+    a: "EIA puts Utah's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
+
+sources:
+  - title: "Rocky Mountain Power, Utah Schedule 137: Net Billing Service (tariff)"
+    url: "https://www.rockymountainpower.net/content/dam/pcorp/documents/en/rockymountainpower/rates-regulation/utah/rates/137_Net_Billing_Service.pdf"
+  - title: "Utah News Dispatch, July 6, 2026"
+    url: "https://utahnewsdispatch.com/2026/07/06/rocky-mountain-powers-utah-rate-conflict-may-be-settled/"
+  - title: "Utah News Dispatch, Aug. 7, 2026"
+    url: "https://utahnewsdispatch.com/2026/08/07/settlement-with-rocky-mountain-power-approved-advocates-worry-about-transparency/"

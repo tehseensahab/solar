@@ -1,0 +1,61 @@
+name: Mississippi
+slug: mississippi
+abbr: MS
+region: South
+neighbors: [alabama, arkansas, louisiana, tennessee]
+refreshed: 2026-10-18
+guides: [solar-export-credit-rates-by-utility-2026, how-to-read-your-electric-bill]
+
+summary: >-
+  At {rate} in {month}, {change} from {prev_month}, Mississippi's residential power remains inexpensive next to the
+  U.S. average of {us}. Entergy Mississippi held rates flat in its July 2026 formula plan, crediting data center
+  revenue, and filed a small October decrease. Net billing pays exports at avoided cost plus an adder, so rooftop
+  solar in Mississippi works best when sized for self-use.
+
+solar: |-
+  Mississippi takes a middle path between full net metering and pure avoided cost. Under the Public Service
+  Commission's rule for Entergy Mississippi and Mississippi Power, exports are credited monthly at the utility's
+  avoided energy cost plus an adder. The commission's consumer guide describes that adder as 2.5¢ per kWh, with a
+  further 2¢ for qualifying low-income customers, and credits carry forward without limit.
+
+  Even with the adder, an exported kWh earns well under the retail price, so the familiar rule applies: solar you
+  use as it is produced is worth the most. Low retail prices lengthen payback, and residential systems are capped at
+  20 kW. One caution on the numbers: the guide we read dates from the rule's adoption, and the PSC revised the rule
+  in 2022, so get the current adder in writing from your utility or installer. Cooperatives, which serve much of rural
+  Mississippi, follow separate rules.
+
+net_metering:
+  status: "Net billing: exports at avoided cost plus an adder (Entergy Mississippi, Mississippi Power)"
+  text: |-
+    The PSC's
+    [consumer guide](https://www.psc.ms.gov/sites/default/files/Documents/SolarPower_MSConsumerGuide-digital-version_0.pdf)
+    describes exports credited monthly at avoided energy cost plus a 2.5¢/kWh adder (an extra 2¢ for qualifying
+    low-income customers), with credits carried forward without limit and a 20 kW residential size limit. The guide
+    predates the commission's 2022 revision of the rule, so current adders may differ. Cooperatives follow separate
+    rules. Checked October 5, 2026.
+
+utilities:
+  - name: Entergy Mississippi (about 459,000 customers)
+    detail: "July 2026 formula rate plan: no increase, avoiding $4.87 a month per Entergy. Ad valorem tax adjustment of about −$0.41 a month filed for October 2026; commission vote not confirmed."
+  - name: Mississippi Power, TVA-served areas and cooperatives
+    detail: "Separate rates; not covered in our research."
+
+meaning: |-
+  Entergy Mississippi's annual formula rate plan means bills can change every July without a traditional rate case,
+  and in 2026 the company said data center revenue offset what would have been a $4.87 monthly increase while funding
+  part of a $300 million reliability program. That is a comparison with a hypothetical, not a bill cut. The longer-term
+  pressure is new generation: Entergy plans three natural gas plants totaling more than 2,100 MW, whose costs will
+  reach rates in later years. Fuel is recovered separately and changes during the year; our
+  [bill-reading guide](/posts/how-to-read-your-electric-bill/) shows where it appears.
+
+faq:
+  - q: "Is solar worth it in Mississippi?"
+    a: "Usually only for systems sized to your own use. Exports are credited at avoided cost plus an adder (2.5¢/kWh in the PSC's consumer guide, plus 2¢ for qualifying low-income customers), well below retail, and Mississippi's retail prices are low, which lengthens payback. Confirm the current adder, since the rule was revised in 2022."
+  - q: "What is the average electricity rate in Mississippi?"
+    a: "EIA puts Mississippi's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
+
+sources:
+  - title: "Mississippi PSC, Net Metering and Solar Power in Mississippi (consumer guide)"
+    url: "https://www.psc.ms.gov/sites/default/files/Documents/SolarPower_MSConsumerGuide-digital-version_0.pdf"
+  - title: "Entergy, Entergy Mississippi data center benefits release, 2026"
+    url: "https://www.entergy.com/news/first-benefits-from-data-centers-appear-in-entergy-mississippi-customer-bills-eliminating-nearly-5-monthly-increase"

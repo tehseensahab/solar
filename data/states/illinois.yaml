@@ -1,0 +1,78 @@
+name: Illinois
+slug: illinois
+abbr: IL
+region: Midwest
+neighbors: [indiana, iowa, missouri, wisconsin]
+refreshed: 2026-10-18
+guides: [how-to-compare-electricity-supplier-offers, liheap-energy-assistance-2026-27]
+
+summary: >-
+  Illinois homes paid an average {rate} in {month}, {change} from a year earlier and now above the U.S. average of
+  {us}, driven by capacity prices in both of the state's grid regions. Default supply prices at Ameren Illinois and
+  ComEd dropped on October 1 for the winter season, but ComEd's monthly credit is shrinking at the same time. Solar
+  remains attractive thanks to Illinois Shines and utility rebates, even though new systems are on net billing.
+
+solar: |-
+  Illinois is a state where the incentive stack, rather than the export rule, carries the solar case. Systems
+  connected since January 1, 2025 are on net billing: what you use yourself avoids the full retail rate, delivery
+  included, while exports are credited on supply-related components (energy, capacity and transmission). That makes
+  a kWh used at home worth noticeably more than one sent to the grid.
+
+  Offsetting that, Illinois offers incentives that most Midwest states do not. Illinois Shines pays for the
+  renewable energy credits a system generates, and ComEd and Ameren offer a distributed generation (smart inverter)
+  rebate and a storage rebate. Rising capacity costs in MISO and PJM have also pushed retail prices up, which raises
+  what self-consumption saves. For a new buyer, the practical advice is to size for self-use, ask the installer how
+  the Illinois Shines payment is shared or passed through, and confirm current rebate amounts with your utility
+  before signing.
+
+net_metering:
+  status: "Retail net metering for systems connected before Jan. 1, 2025; supply-based net billing after"
+  text: |-
+    Per [Illinois Shines](https://illinoisshines.com/faqs/) and
+    [DSIRE](https://programs.dsireusa.org/system/program/detail/2700/net-billing), systems interconnected before
+    January 1, 2025 that did not take the one-time distributed generation rebate keep full retail net metering.
+    Systems connected on or after that date are on net billing, with exports credited using supply components
+    (energy, capacity, transmission) rather than the full retail rate. A lower default supply price does not by
+    itself mean a larger export credit; check your bill for how credits are calculated. Checked October 5, 2026.
+
+incentives:
+  - name: Illinois Shines (Adjustable Block Program)
+    text: "The state program that pays for the renewable energy credits (RECs) a qualifying system produces. Payments are usually arranged through the installer; ask how much of the value reaches you. Source: [Illinois Shines Consumer FAQs](https://illinoisshines.com/faqs/)."
+  - name: ComEd and Ameren distributed generation and storage rebates
+    text: "Both utilities offer a distributed generation (smart inverter) rebate and a storage rebate, per Illinois Shines. Taking the DG rebate affects which net metering terms apply. Confirm current amounts and requirements with your utility."
+
+utilities:
+  - name: ComEd (northern Illinois)
+    detail: "Default supply price to compare 10.103¢/kWh from October 1, 2026 through May 2027 (from 10.399¢ in summer). Carbon-Free Energy Resource Adjustment credit fell to about 0.115¢/kWh in October; scheduled to end June 2027."
+  - name: Ameren Illinois (central and southern Illinois)
+    detail: "Price to compare 10.441¢/kWh for the first 800 kWh and 8.262¢ above that, October 2026 through May 2027 (summer was 11.326¢). A $65 million delivery increase request is pending."
+  - name: MidAmerican (Quad Cities), co-ops and municipal utilities
+    detail: "Separate tariffs; not covered in our research."
+
+meaning: |-
+  Illinois's price story is mostly about supply, not the wires. Utilities pass through what they pay for power, and
+  capacity auctions in MISO (Ameren) and PJM (ComEd) plus demand growth, including data centers, have pushed that
+  cost up sharply: ComEd's winter price is about 53% above its level two years ago, according to the Citizens Utility
+  Board. October's seasonal drop helps, but ComEd customers should expect the shrinking monthly credit to offset it.
+  Because Illinois has retail choice, the default price is also your benchmark for supplier and municipal
+  aggregation offers; CUB found most aggregation deals it reviewed in Ameren territory cost more than the utility.
+  Our guide to [comparing supplier offers](/posts/how-to-compare-electricity-supplier-offers/) shows how to do the
+  math, and our [LIHEAP guide](/posts/liheap-energy-assistance-2026-27/) covers winter bill help.
+
+faq:
+  - q: "Is solar worth it in Illinois?"
+    a: "Often, because Illinois Shines pays for a system's renewable energy credits and ComEd and Ameren offer rebates. New systems since January 1, 2025 are on net billing, where exports earn supply-based credits, so size the system to your own use and confirm current incentive amounts before signing."
+  - q: "What is the average electricity rate in Illinois?"
+    a: "EIA puts the statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Supply is only part of that: ComEd's default supply price from October 2026 is 10.103¢/kWh, before delivery, taxes and fees."
+
+sources:
+  - title: "Plug In Illinois (ICC), Price to Compare — Ameren Illinois"
+    url: "https://plugin.illinois.gov/understanding-the-price-to-compare/price-to-compare-ameren-illinois.html"
+  - title: "Citizens Utility Board, ComEd new fall price, Sept. 28, 2026"
+    url: "https://www.citizensutilityboard.org/blog/2026/09/28/cub-alerts-comed-customers-of-new-fall-power-price-10-103%c2%a2-per-kwh/"
+  - title: "Citizens Utility Board, Ameren new price, Sept. 28, 2026"
+    url: "https://www.citizensutilityboard.org/blog/2026/09/28/cub-alerts-ameren-customers-of-new-power-price-10-441%C2%A2-per-kwh/"
+  - title: "Illinois Shines, Consumer FAQs"
+    url: "https://illinoisshines.com/faqs/"
+  - title: "DSIRE, Illinois Net Billing"
+    url: "https://programs.dsireusa.org/system/program/detail/2700/net-billing"

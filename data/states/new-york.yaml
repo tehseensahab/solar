@@ -1,0 +1,78 @@
+name: New York
+slug: new-york
+abbr: NY
+region: Northeast
+neighbors: [connecticut, new-jersey, pennsylvania, massachusetts]
+refreshed: 2026-10-18
+guides: [how-to-compare-electricity-supplier-offers, solar-installer-out-of-business]
+
+summary: >-
+  New York is one of the costliest states for power, with a residential average of {rate} in {month} ({change} year
+  over year; U.S. {us}). Upstate NYSEG and RG&E customers have paid temporary rates since June 1 while final decisions
+  are pending, and the PSC expects winter supply bills to be similar to last year. Rooftop solar keeps strong
+  economics thanks to continued net metering and a state tax credit of up to $5,000, offset by a modest monthly per-kW
+  charge.
+
+solar: |-
+  New York is one of the better states for rooftop solar value in 2026. The PSC chose to continue Phase One net
+  metering for residential and small commercial systems rather than move them to a lower export rate. Systems
+  interconnected on or after January 1, 2022 pay a monthly Customer Benefit Contribution of 69 cents to $1.09 per kW
+  of capacity, depending on the utility and compensation option, a charge the PSC said the system's credits will more
+  than offset. On a 7 kW system that works out to about $4.83 to $7.63 a month (7 × $0.69 and 7 × $1.09, our math),
+  small against New York's retail prices.
+
+  The state adds its own incentive: the Solar Energy System Equipment Credit covers 25% of qualified equipment costs,
+  up to $5,000, for systems at your principal residence, including leased systems and power purchase agreements of
+  at least ten years. It is non-refundable but carries forward five years. Two cautions specific to 2026: delivery
+  rates are moving at several upstate utilities, which raises solar's value but makes savings estimates less certain,
+  and the PSC revoked the eligibility of several distributed energy suppliers, including Sunnova and PosiGen, in
+  October. Check an installer's or financier's standing before signing.
+
+net_metering:
+  status: "Phase One net metering continues for residential systems; monthly per-kW charge for systems since 2022"
+  text: |-
+    The [PSC continued Phase One net metering](https://dps.ny.gov/psc-continues-improves-existing-solar-payment-structure-ensure-fairness)
+    for mass-market (residential and small commercial) systems. Systems interconnected on or after January 1, 2022
+    pay a monthly Customer Benefit Contribution of $0.69 to $1.09 per kW, depending on utility, customer class and
+    compensation option; existing customers were not affected. Community solar and larger projects are compensated
+    under the Value Stack, which this page does not cover. Checked October 18, 2026.
+
+incentives:
+  - name: New York State Solar Energy System Equipment Credit
+    text: "A personal income tax credit of 25% of qualified solar equipment expenditures, up to $5,000, for systems at your principal residence. Purchased, leased and 10-year-plus PPA systems qualify; unused credit carries forward up to five years. Source: [NYS Department of Taxation and Finance](https://tax.ny.gov/pit/credits/solar_energy_system_equipment_credit.htm)."
+
+utilities:
+  - name: NYSEG (electric)
+    detail: "Temporary rates from June 1, 2026: revenue +3.7%, typical residential total bill about +0.2% (PSC); final decision pending, subject to reconciliation."
+  - name: RG&E (electric)
+    detail: "Temporary rates from June 1, 2026: revenue +4.0%, typical residential total bill about +2.9% (PSC); final decision pending."
+  - name: Con Edison
+    detail: "Multi-year rate plan for 2026–2028 approved by the PSC; dollar figures not verified here."
+  - name: National Grid, Central Hudson, Orange & Rockland, LIPA/PSEG Long Island
+    detail: "Separate rate plans; not covered in our research."
+
+meaning: |-
+  New York's commission spent October on consumer protection as much as on rates. At its October 15 session it
+  forecast full-service winter electric supply bills similar to last year statewide, with market-priced supply around
+  $74 a month for 600 kWh, approved a $25 monthly smart thermostat credit for demand response and revoked the
+  eligibility of 14 energy companies (see our [October session summary](/posts/new-york-psc-october-2026-session/)).
+  The same day it revoked 11 distributed energy suppliers including Sunnova and PosiGen and ordered several to show
+  how they will honor existing agreements, which matters to lease and PPA customers; our
+  [report on that decision](/posts/new-york-revokes-sunnova-posigen-der-suppliers/) explains what to do. Upstate, the
+  NYSEG and RG&E temporary rates will be trued up against final decisions, so bills could move again.
+
+faq:
+  - q: "Is solar worth it in New York?"
+    a: "Often yes. Residential systems still get Phase One net metering (with a monthly charge of $0.69 to $1.09 per kW for systems since 2022), and the state tax credit covers 25% of equipment cost up to $5,000. Check the standing of any installer or lease provider, since the PSC revoked several suppliers in October 2026."
+  - q: "What is the average electricity rate in New York?"
+    a: "EIA puts New York's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}. Rates vary widely between Con Edison, upstate utilities and Long Island."
+
+sources:
+  - title: "NY DPS, PSC continues and improves existing solar payment structure"
+    url: "https://dps.ny.gov/psc-continues-improves-existing-solar-payment-structure-ensure-fairness"
+  - title: "NYS Department of Taxation and Finance, Solar Energy System Equipment Credit"
+    url: "https://tax.ny.gov/pit/credits/solar_energy_system_equipment_credit.htm"
+  - title: "NY DPS, NYSEG and RG&E temporary rates, May 14, 2026"
+    url: "https://dps.ny.gov/news/commission-grants-only-fraction-nyseg-and-rge-rate-request-temporary-basis"
+  - title: "NY PSC, winter readiness, Oct. 15, 2026"
+    url: "https://dps.ny.gov/news/utilities-prepared-meet-consumer-demand-electricity-and-natural-gas-during-winter-1"

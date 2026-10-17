@@ -1,0 +1,66 @@
+name: North Dakota
+slug: north-dakota
+abbr: ND
+region: Midwest
+neighbors: [minnesota, montana, south-dakota]
+refreshed: 2026-10-18
+guides: [how-electric-rate-cases-work, solar-export-credit-rates-by-utility-2026]
+
+summary: >-
+  North Dakota has some of the cheapest residential power in the country, {rate} on average in {month} ({change} on
+  the year; U.S. {us}). Both investor-owned utilities raised rates in 2026: Xcel Energy after a February settlement,
+  and Montana-Dakota Utilities through interim rates from late August. Cheap power and monthly surplus paid at avoided
+  cost make rooftop solar a hard financial case here.
+
+solar: |-
+  North Dakota offers rooftop solar little help from either side of the ledger. Retail power is among the cheapest in
+  the country, so each kWh a system offsets saves relatively little. And the state's net metering rule, which applies
+  only to investor-owned utilities, reconciles every month: solar offsets your use within the month, but net excess
+  generation is bought at the utility's avoided-cost rate with no banking at retail value.
+
+  Seasonality makes the monthly reconciliation bite. Long summer days can produce surplus that is sold cheaply, while
+  winter months produce little. A system sized to summer daytime use, rather than to annual consumption, keeps most of
+  its output at retail value. The 2026 increases at Xcel and MDU raise the value of self-used solar somewhat. Systems
+  up to 100 kW qualify; co-op and municipal customers are outside the rule and
+  should ask their utility directly.
+
+net_metering:
+  status: "Monthly netting at investor-owned utilities; surplus bought at avoided cost, no retail banking"
+  text: |-
+    North Dakota's net metering rule covers investor-owned utilities and systems of 100 kW or smaller. Within the
+    month, solar offsets use; net excess generation is bought at avoided cost and reconciled monthly, with no banking
+    of credits at retail value, per the [ACEEE State Policy Database](https://database.aceee.org/state/north-dakota)
+    and [NCSL](https://www.ncsl.org/energy/state-net-metering-policies). Cooperatives and municipal utilities are not
+    covered. Checked October 5, 2026.
+
+utilities:
+  - name: Xcel Energy (about 97,000 North Dakota customers)
+    detail: "Settlement approved February 5, 2026: 10.37% overall and 12.92% residential (24%+ requested); $11.94 a month in total for residential, including interim rates. Costs of 23 facilities, mostly Minnesota wind and solar, excluded."
+  - name: Montana-Dakota Utilities (MDU)
+    detail: "Interim 12.3% increase ($26.3 million a year), about +$12.90 a month, approved August 26, 2026; full request 14.5% ($34.5 million) in case 26-0241, hearings likely in 2027."
+  - name: Otter Tail Power and co-ops
+    detail: "Not covered in our research."
+
+meaning: |-
+  North Dakota's PSC approved roughly half of Xcel's original request and excluded the cost of 23 facilities, mostly
+  wind and solar projects in Minnesota, from North Dakota rates, a signal that the commission is scrutinizing what
+  North Dakota customers pay for multistate systems. MDU's interim increase took effect without a hearing, which is
+  normal in interim procedures; the final case will likely not be heard until 2027, and we have not confirmed whether
+  the interim amount is refundable if final rates come in lower. Check MDU's customer notice. Our
+  [rate case explainer](/posts/how-electric-rate-cases-work/) covers how interim rates work.
+
+faq:
+  - q: "Is solar worth it in North Dakota?"
+    a: "For most homes it is a long-payback purchase. Power is cheap, and investor-owned utilities buy monthly surplus at avoided cost with no retail banking. Size any system to summer daytime use, and if you are a co-op or city utility customer, ask your utility for its own terms."
+  - q: "What is the average electricity rate in North Dakota?"
+    a: "EIA puts North Dakota's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
+
+sources:
+  - title: "North Dakota Monitor, Xcel rate increase, Feb. 5, 2026"
+    url: "https://northdakotamonitor.com/2026/02/05/north-dakota-approves-xcel-electricity-rate-increase/"
+  - title: "North Dakota Monitor, MDU interim increase, Aug. 26, 2026"
+    url: "https://northdakotamonitor.com/2026/08/26/north-dakota-regulators-approve-short-term-electric-rate-increase-for-mdu/"
+  - title: "ACEEE State Policy Database: North Dakota"
+    url: "https://database.aceee.org/state/north-dakota"
+  - title: "NCSL, State Net Metering Policies"
+    url: "https://www.ncsl.org/energy/state-net-metering-policies"

@@ -1,0 +1,66 @@
+name: Nebraska
+slug: nebraska
+abbr: NE
+region: Midwest
+neighbors: [iowa, kansas, south-dakota, colorado]
+refreshed: 2026-10-18
+guides: [solar-payback-period-without-federal-tax-credit, how-to-read-your-electric-bill]
+
+summary: >-
+  Public power keeps Nebraska's rates low: the residential average was {rate} in {month}, {change} on the year,
+  against {us} for the U.S. Every Nebraskan is served by public power, so rates are set by elected boards once a year,
+  usually effective in January: OPPD raised residential rates 6% and NPPD 3% for 2026. Low prices and surplus paid at
+  utility-set rates make solar a long-payback choice unless sized closely to monthly use.
+
+solar: |-
+  Nebraska's all-public-power system makes the solar question local. State law requires utilities to offer net
+  metering for systems of 25 kW or less: within the month, solar offsets your own use. Monthly surplus is paid at a
+  utility-set price for "net excess generation," which at NPPD varies by technology and season, with summer running
+  June 1 to September 30. Each public power district and city utility publishes its own rider and rates.
+
+  Low retail prices are the main headwind; OPPD says its rates were 30.2% below the national average in 2024. That
+  lengthens payback even for self-used solar. Planned increases change the outlook somewhat: OPPD has discussed annual
+  increases of 5% to 9% through the end of the decade to fund new gas generation and transmission. For a buyer, the
+  practical steps are to size for monthly use and get your own utility's current net metering rider before comparing
+  quotes.
+
+net_metering:
+  status: "Net metering for systems ≤25 kW; monthly surplus paid at utility-set rates (public power)"
+  text: |-
+    Nebraska law requires net metering for systems of 25 kW or less. Within the month, solar offsets use; monthly
+    surplus is paid at a price each utility sets. [NPPD](https://www.nppd.com/rates/net-metering?locale=en) pays for
+    net excess generation at prices that differ by technology and season (summer is June 1 to September 30). OPPD,
+    LES and other districts and municipal utilities publish their own riders. Checked October 5, 2026.
+
+utilities:
+  - name: Omaha Public Power District (OPPD)
+    detail: "2026: 6.3% average increase (5.8% general plus 0.5% fuel and purchased power), 6% for residential, about $7 a month on a $115 bill, from January 2026."
+  - name: Nebraska Public Power District (NPPD)
+    detail: "2026: 3% retail increase (a little over $5 a month at about 1,000 kWh) and 1% wholesale increase passed through local utilities; about $30.8 million in production cost adjustment credits to wholesale customers."
+  - name: Lincoln Electric System (LES)
+    detail: "New rate schedules effective January 1, 2026; amounts not reviewed."
+
+meaning: |-
+  Because Nebraska has no investor-owned utilities, there are no rate cases before a state commission; boards vote on
+  budgets and rates each fall for the coming January. That makes November and December the months to watch: OPPD's
+  board will be weighing its next step in a plan that a local TV station reported could mean annual increases of 5% to
+  9% through the end of the decade, to pay for 900 MW of new gas generation and 400 miles of transmission. Customers
+  of smaller towns and rural districts see NPPD's wholesale changes indirectly, through their own utility's rates. Our
+  [payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how to factor expected rate increases
+  into a solar estimate without overstating them.
+
+faq:
+  - q: "Is solar worth it in Nebraska?"
+    a: "It is a long-payback purchase for most homes because retail prices are low. Net metering offsets your use within the month, while monthly surplus earns a utility-set price, so size the system to monthly use and get your utility's net metering rider before you buy."
+  - q: "What is the average electricity rate in Nebraska?"
+    a: "EIA puts Nebraska's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
+
+sources:
+  - title: "OPPD The Wire, 2026 Corporate Operating Plan"
+    url: "https://oppdthewire.com/oppd-board-approves-2026-budget-rate-proposal-to-support-reliability/"
+  - title: "KNOP, NPPD 2026 rate increases, Nov. 19, 2025"
+    url: "https://www.knopnews2.com/2025/11/19/nebraska-public-power-district-approves-2026-rate-increases/"
+  - title: "WOWT, OPPD considering 5–9% annual increases, Nov. 18, 2025"
+    url: "https://www.wowt.com/2025/11/18/oppd-proposes-5-9-annual-rate-increases-through-end-decade/"
+  - title: "NPPD, Net Metering"
+    url: "https://www.nppd.com/rates/net-metering?locale=en"

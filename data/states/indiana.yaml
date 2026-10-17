@@ -1,0 +1,71 @@
+name: Indiana
+slug: indiana
+abbr: IN
+region: Midwest
+neighbors: [illinois, kentucky, michigan, ohio]
+refreshed: 2026-10-18
+guides: [solar-export-credit-rates-by-utility-2026, how-electric-rate-cases-work]
+
+summary: >-
+  Indiana's residential average stood at {rate} in {month}, {change} year over year, with the national figure at {us}.
+  AES Indiana's increase is being phased in during July 2026 and January 2027 while the order is reconsidered, and a
+  2026 law moves utilities to three-year rate cycles. With exports credited at about 5.4¢ at AES, solar in Indiana
+  works only when it is sized to the household's own use.
+
+solar: |-
+  Indiana is one of the clearest cases of a state where the end of net metering changed the solar question. New
+  customers are billed under "excess distributed generation" (EDG): anything you export is credited at the
+  utility's average marginal energy price from the prior year, multiplied by 1.25. At AES Indiana that came to
+  5.4325¢ per kWh under Rider 16 from July 27, 2026, and it resets each year with wholesale prices.
+
+  What you use yourself still avoids the full retail charge, and Indiana's 7% sales tax on utility bills slightly
+  raises the value of every kWh you do not buy. So the economics reward self-consumption: a modest system matched to
+  daytime load, or a larger one with a battery, rather than an array built to cancel the year's usage. The EDG size
+  limit, the smaller of 1 MW or your average annual use, also caps how far you can go. Duke, NIPSCO, CenterPoint
+  and Indiana Michigan Power each set their own EDG rate by the same formula; check yours before you compare quotes.
+
+net_metering:
+  status: "Net metering ended for new customers; excess distributed generation (EDG) credit at 1.25× marginal energy price"
+  text: |-
+    Indiana replaced net metering with EDG billing for new customers. At AES Indiana,
+    [Rider 16](https://www.aesindiana.com/sites/aesvault.com/files/2026-07/Rider-16-EDG-46258-Effective-07-27-26.pdf)
+    sets the credit at 5.4325¢/kWh effective July 27, 2026, calculated as the average marginal energy price AES paid
+    in the most recent calendar year times 1.25, reset annually. Systems are limited to the smaller of 1 MW or the
+    customer's average annual use. Other investor-owned utilities set their own EDG rates the same way; we checked
+    only AES. Checked October 5, 2026.
+
+utilities:
+  - name: AES Indiana (about 490,000 customers, Indianapolis)
+    detail: "IURC approved $71 million a year on June 17, 2026: less than $5 a month at 1,000 kWh in July 2026 and less than $5 more in January 2027. Order under reconsideration; base-rate freeze until 2030. Fixed charge $17 a month (Indiana Public Media)."
+  - name: Duke Energy Indiana
+    detail: "Base rates approved in 2025; must file under the new three-year cycle by mid-December 2026."
+  - name: NIPSCO, CenterPoint and Indiana Michigan Power
+    detail: "NIPSCO and CenterPoint base rates approved in 2025; I&M rates set in 2024. CenterPoint's fixed charge is $11 a month (Indiana Public Media)."
+
+meaning: |-
+  The AES decision shows Indiana's regulators and politicians pulling in the same direction: the IURC cut the
+  request from $193 million to $71 million, lowered the authorized return to 9.5% and trimmed the tree-trimming
+  budget, and the governor still asked for reconsideration. Indiana Public Media reported the review could stretch
+  into 2027, with phase 1 rates in bills meanwhile. The longer-term change is House Enrolled Act 1002, which moves
+  utilities to three-year base-rate cycles and ties part of their returns to affordability and outage restoration;
+  Duke Energy Indiana, the largest, files first. Between rate cases, trackers for fuel, infrastructure (TDSIC) and
+  efficiency keep bills moving, as the temporary $9.52 fuel charge through August 2026 showed. Our
+  [rate case explainer](/posts/how-electric-rate-cases-work/) covers how to take part in Duke's upcoming case.
+
+faq:
+  - q: "Is solar worth it in Indiana?"
+    a: "Only for systems sized to your own use, for most households. New customers' exports are credited under EDG billing, 5.4325¢/kWh at AES Indiana from July 27, 2026, well under the retail energy rate. Power you use yourself avoids retail charges plus Indiana's 7% sales tax on utility bills."
+  - q: "What is the average electricity rate in Indiana?"
+    a: "EIA puts Indiana's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Fixed monthly charges range from $11 at CenterPoint to $17 at AES Indiana, per Indiana Public Media."
+
+sources:
+  - title: "AES Indiana, Rider 16: Excess Distributed Generation, effective July 27, 2026 (tariff)"
+    url: "https://www.aesindiana.com/sites/aesvault.com/files/2026-07/Rider-16-EDG-46258-Effective-07-27-26.pdf"
+  - title: "AES Indiana, IURC approval release, June 17, 2026"
+    url: "https://www.aesindiana.com/press-release/aes-indiana-receives-iurc-approval-adjust-base-rates-enable-continued-investment"
+  - title: "Indiana Capital Chronicle, June 17, 2026"
+    url: "https://indianacapitalchronicle.com/2026/06/17/state-regulators-approve-70m-increase-for-aes-less-than-utility-originally-sought/"
+  - title: "Indiana Public Media, Sept. 14, 2026"
+    url: "https://www.ipm.org/news/2026-09-14/heres-what-goes-into-your-electricity-bill-and-what-could-change"
+  - title: "Mirror Indy, AES Indiana rate increase"
+    url: "https://mirrorindy.org/aes-indiana-rate-increase-approved-electric-bill-2026-mike-braun/"

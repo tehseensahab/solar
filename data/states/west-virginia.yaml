@@ -1,0 +1,66 @@
+name: West Virginia
+slug: west-virginia
+abbr: WV
+region: South
+neighbors: [kentucky, maryland, ohio, virginia]
+refreshed: 2026-10-18
+guides: [solar-export-credit-rates-by-utility-2026, how-electric-rate-cases-work]
+
+summary: >-
+  Residential power in West Virginia averaged {rate} in {month} ({change} on the year), compared with {us} for the U.S. as a whole. Both utility groups raised rates in summer 2026, Appalachian Power on June 1 and Mon Power in two
+  steps starting August 1, with stay-outs attached. Export credits for new solar customers were cut but remain closer
+  to retail than in most net billing states, about 9¢ to 12.4¢ per kWh.
+
+solar: |-
+  West Virginia's regulators trimmed rooftop solar compensation for new customers without gutting it. At Appalachian Power
+  and Wheeling Power, the PSC's August 28, 2025 order set the export credit near its staff's recommendation of about 12.4¢
+  per kWh, far above the 5.74¢ the companies proposed; advocates describe that as roughly two-thirds to three-quarters of
+  retail. Mon Power and Potomac Edison settled at about 9¢ for new customers from January 1, 2025, after proposing 6.6¢.
+  Existing customers kept their original terms.
+
+  For a new Appalachian Power customer, the gap between a self-used and an exported kWh is smaller than in most states that
+  have moved off net metering, which makes sizing less critical. Many West Virginia homes heat with electricity and use far
+  more in winter, so a system's annual production often lands below annual use anyway. The 2026 base-rate increases raise
+  the value of self-use at both utility groups.
+
+net_metering:
+  status: "Reduced export credits for new customers: about 12.4¢ (Appalachian/Wheeling) and 9¢ (Mon Power/Potomac Edison)"
+  text: |-
+    **Appalachian Power and Wheeling Power:** about 12.4¢/kWh for new customers under an August 28, 2025 PSC order;
+    customers installed by the PSC's deadline keep one-for-one credit, per
+    [West Virginians for Energy Freedom](https://www.energyfreedomwv.org/news/2025/8/29/psc-agrees-with-public-protect-low-income-ratepayers-preserve-solar).
+
+    **Mon Power and Potomac Edison:** about 9¢/kWh from January 1, 2025 under a settlement approved in March 2024;
+    existing customers keep 11¢ to 13¢ for 25 years, per
+    [West Virginia Public Broadcasting](https://wvpublic.org/story/energy-environment/psc-approves-settlements-in-mon-power-net-metering-fuel-cases/).
+    Checked October 5, 2026.
+
+utilities:
+  - name: Appalachian Power (with Wheeling Power)
+    detail: "PSC approved $40.1 million on May 13, 2026; from June 1, about +$4.84 per 1,000 kWh a month (about 4%). No further base increase until after June 2027. About $2 billion of costs to be securitized."
+  - name: Mon Power and Potomac Edison (West Virginia)
+    detail: "Case 26-0508-E-42T, decided August 3, 2026: +$3.65 a month on August 1, 2026 and +$4.01 on June 1, 2027; average bill $137.86 to $145.52. No new filing before April 1, 2028."
+
+meaning: |-
+  The PSC approved both 2026 increases at well under what was asked: Mon Power sought a single 13% step and received 5.6% in
+  two phases, a structure the commission said minimizes total customer payments even though staff and the consumer advocate's
+  witness opposed it. Both decisions came with stay-outs, so base rates are largely settled into 2027–28. The bill line that
+  can still move each year is the fuel and purchased power charge (ENEC), reviewed separately. Appalachian Power's
+  securitization of about $2 billion in storm and environmental costs is meant to lower bills over time by using cheaper
+  financing. Our [rate case explainer](/posts/how-electric-rate-cases-work/) covers stay-outs and phased increases.
+
+faq:
+  - q: "Is solar worth it in West Virginia?"
+    a: "For many homes it can be. Export credits for new customers were cut but remain fairly high: about 12.4¢/kWh at Appalachian Power and Wheeling Power and about 9¢ at Mon Power and Potomac Edison. Self-used solar avoids the full retail rate, which rose at both utility groups in 2026."
+  - q: "What is the average electricity rate in West Virginia?"
+    a: "EIA puts West Virginia's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
+
+sources:
+  - title: "WV MetroNews, Appalachian Power base rate increase, May 13, 2026"
+    url: "https://wvmetronews.com/2026/05/13/psc-approves-appalachian-power-base-rate-increase-bills-wont-rise-again-for-another-year/"
+  - title: "WDTV, Mon Power rate increase, Aug. 3, 2026"
+    url: "https://www.wdtv.com/2026/08/03/state-utility-regulators-approve-reduced-rate-increase-mon-power/"
+  - title: "West Virginia Public Broadcasting, Mon Power net metering settlement"
+    url: "https://wvpublic.org/story/energy-environment/psc-approves-settlements-in-mon-power-net-metering-fuel-cases/"
+  - title: "West Virginians for Energy Freedom, Aug. 29, 2025"
+    url: "https://www.energyfreedomwv.org/news/2025/8/29/psc-agrees-with-public-protect-low-income-ratepayers-preserve-solar"

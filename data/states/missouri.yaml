@@ -1,0 +1,72 @@
+name: Missouri
+slug: missouri
+abbr: MO
+region: Midwest
+neighbors: [arkansas, illinois, iowa, kansas]
+refreshed: 2026-10-18
+guides: [solar-export-credit-rates-by-utility-2026, fixed-charges-and-solar-savings]
+
+summary: >-
+  Missouri households paid {rate} on average in {month}, {change} from a year earlier; nationally the figure was {us}.
+  Ameren Missouri and Evergy Missouri Metro both have base-rate increases pending, with Ameren targeting new rates in
+  mid-2027. Net metering covers solar used within the month at retail, but end-of-month surplus earns under 4¢ at
+  Ameren, so systems should be sized to monthly use.
+
+solar: |-
+  Missouri's net metering works on a monthly cycle, and that cycle is what to design around. Within a billing month,
+  solar offsets your own use at the retail rate. Whatever is left over at the end of the month is paid at the
+  utility's avoided cost, which Ameren Missouri lists at 3.84¢ per kWh in summer (June to September) and 3.39¢ in
+  winter (October to May).
+
+  That gives a clear sizing rule: if a system's production stays at or below your use every month, almost every kWh
+  earns retail value; production beyond that in sunny months earns less than 4¢. Pending rate cases favor solar
+  owners, because higher per-kWh rates raise the value of self-consumed solar, though Ameren's $9 residential customer
+  charge cannot be offset by panels. Systems can be up to 100 kW. Customers of Columbia, Independence and other
+  municipal utilities and co-ops have their own terms.
+
+net_metering:
+  status: "Net metering within the month; monthly surplus paid at avoided cost (3.84¢ summer / 3.39¢ winter at Ameren)"
+  text: |-
+    Missouri law requires net metering for systems up to 100 kW. Within the month, solar offsets use at the retail
+    rate; monthly surplus is paid at a low avoided-cost rate, which
+    [Ameren Missouri's solar FAQ](https://www.ameren.com/missouri/company/environment-and-sustainability/solar/solar-faqs)
+    lists at 3.84¢/kWh (June–September) and 3.39¢/kWh (October–May). The $9 residential customer charge is not
+    reduced by solar. Checked October 5, 2026.
+
+utilities:
+  - name: Ameren Missouri (about 1.2 million customers)
+    detail: "$355 million approved April 23, 2025 ($446 million asked); $9 customer charge unchanged. Pending case ER-2026-0291: net $343 million a year, about +$13 a month for an average residential customer (KFVS); new rates expected mid-2027."
+  - name: Evergy Missouri Metro (about 313,000 customers)
+    detail: "Case ER-2026-0143 filed February 6, 2026, about $137.9 million a year; public hearings July 14–16, 2026. No decision found."
+  - name: Columbia Water & Light
+    detail: "City-owned; electric usage fees up 6% from October 1, 2026; customer charge unchanged."
+    page: "/posts/columbia-missouri-electric-rates-october-2026"
+  - name: Evergy Missouri West, Liberty and co-ops
+    detail: "Not covered in our research."
+
+meaning: |-
+  Both large Missouri utilities are back before the PSC within about a year of their last decisions. Ameren's new
+  request, roughly $13 a month for an average home if granted, follows a 2025 case in which the commission approved
+  about 80% of the ask. The PSC also approved a large-load rate plan for Ameren in 2026 meant to keep other customers
+  from paying the cost of serving very large users such as data centers; how well those protections work will matter
+  in future cases. Municipal utilities move on their own schedules, as Columbia's October 1 increase shows (see our
+  [Columbia report](/posts/columbia-missouri-electric-rates-october-2026/)). For solar buyers, our
+  [fixed-charge guide](/posts/fixed-charges-and-solar-savings/) explains why the customer charge sets a floor on savings.
+
+faq:
+  - q: "Is solar worth it in Missouri?"
+    a: "It can be for a system sized so monthly production stays at or below monthly use. Within the month solar offsets retail-rate usage, but end-of-month surplus earns only avoided cost, 3.84¢/kWh in summer and 3.39¢ in winter at Ameren Missouri. Pending rate increases would raise the value of self-used solar."
+  - q: "What is the average electricity rate in Missouri?"
+    a: "EIA puts Missouri's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Ameren's pending case would add about $13 a month for an average residential customer if approved as filed."
+
+sources:
+  - title: "Ameren Missouri, Solar FAQs"
+    url: "https://www.ameren.com/missouri/company/environment-and-sustainability/solar/solar-faqs"
+  - title: "Missouri PSC, Ameren Missouri rate case agreement, April 23, 2025"
+    url: "https://psc.mo.gov/Electric/PSC_Approves_Agreement_in_Ameren_Missouri_Electric_Rate_Case--pr-25-33"
+  - title: "Missouri PSC, Evergy Missouri Metro public hearings"
+    url: "https://psc.mo.gov/Electric/PSC_Sets_Local_Public_Hearing_Schedule_for_Evergy_Missouri_Metro_Rate_Case_-_pr-26-70"
+  - title: "Missouri PSC, Ameren large load rate plan"
+    url: "https://psc.mo.gov/Electric/PSC_Approves_Ameren_Missouri_Large_Load_Power_Rate_Plan_with_Customer_Protections--pr-26-40"
+  - title: "KFVS, July 1, 2026"
+    url: "https://www.kfvs12.com/2026/07/01/ameren-customers-can-tell-commission-how-they-feel-about-rate-hike-requested-by-utility-company/"

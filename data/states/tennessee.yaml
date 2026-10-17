@@ -1,0 +1,66 @@
+name: Tennessee
+slug: tennessee
+abbr: TN
+region: South
+neighbors: [alabama, georgia, kentucky, north-carolina]
+refreshed: 2026-10-18
+guides: [solar-export-credit-rates-by-utility-2026, how-to-read-your-electric-bill]
+
+summary: >-
+  Tennessee's TVA-supplied power remains among the cheapest in the country, averaging {rate} for homes in {month}
+  ({change} from a year earlier; U.S. {us}). TVA, which generates most of the state's power and sells it to local
+  power companies, announced no base-rate increase for its fiscal year starting October 1, 2026, and created a
+  separate data center rate instead. With no net metering and exports bought at about 3.8¢, solar in Tennessee pays
+  back only on what you use yourself.
+
+solar: |-
+  Tennessee's power system runs through the Tennessee Valley Authority, a federal agency, and its solar rules do too.
+  There is no net metering in the TVA region. Instead, TVA's Dispersed Power Production program buys output from small
+  producers under a power purchase agreement, at a baseline of 3.766¢ per kWh in guidelines effective December 1, 2025;
+  TVA can revise it at least yearly to reflect its avoided energy cost. Homeowners can use all their output, use some and
+  sell the rest, or sell everything.
+
+  With retail power cheap by national standards and exports worth a fraction of retail, the only reliable value comes from
+  self-consumption. Size a system to daytime load, and treat a battery as a backup purchase rather than a payback tool.
+  Because local power companies, not a state commission, handle interconnection, fees and process vary from utility to
+  utility: Nashville, Memphis, Knoxville and the co-ops each set their own. Ask yours before getting quotes.
+
+net_metering:
+  status: "No net metering in the TVA region; TVA buys exports at a baseline 3.766¢/kWh (Dec. 2025 guidelines)"
+  text: |-
+    Solar rules in Tennessee come from TVA and your local power company. TVA's
+    [Dispersed Power Production guidelines](https://energyright.com/wp-content/uploads/2025/12/December-DPP-Guidelines-for-Publish-1.pdf),
+    effective December 1, 2025, set a baseline purchase price of 3.766¢/kWh, revisable at least once a year. Options are
+    self-use only, partial sale of surplus, or sale of all output. Local power companies set interconnection rules and
+    fees. Kingsport Power is outside the TVA system. Checked October 5, 2026.
+
+utilities:
+  - name: Tennessee Valley Authority (wholesale supplier)
+    detail: "No base-rate increase announced for fiscal 2027 (from October 1, 2026). New data center rate created August 20, 2026. Fuel cost adjustment changes monthly."
+  - name: Local power companies (e.g., Nashville Electric Service, MLGW, KUB, co-ops)
+    detail: "Set retail rates and customer charges on their own schedules; not reviewed in our research."
+  - name: Kingsport Power
+    detail: "Outside the TVA system; not covered."
+
+meaning: |-
+  TVA's August 2026 board decisions put the cost of data center growth on data centers: a new rate that earlier reporting
+  described as averaging about 10% higher for data centers, phased in over three years, with a capacity commitment charge
+  for new loads above 5 MW. TVA's chair framed it as keeping families and small businesses from carrying that cost. The
+  board also approved more than $13 billion through fiscal 2029 for reliability and new capacity, and an Integrated
+  Resource Plan projecting 11 to 32 GW of new capacity by 2040, investments that will shape rates in later years. For
+  households, monthly bills still move with TVA's fuel cost adjustment and with local utility charges. Our
+  [bill-reading guide](/posts/how-to-read-your-electric-bill/) shows where those lines appear.
+
+faq:
+  - q: "Is solar worth it in Tennessee?"
+    a: "Only for systems sized to your own daytime use, for most homes. There is no net metering in the TVA region; TVA buys exported power at a baseline 3.766¢/kWh, while retail power is relatively cheap. Ask your local power company about interconnection rules and fees first."
+  - q: "What is the average electricity rate in Tennessee?"
+    a: "EIA puts Tennessee's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}. Your local power company's rate schedule determines your actual price."
+
+sources:
+  - title: "TVA, Dispersed Power Production Guidelines, effective Dec. 1, 2025"
+    url: "https://energyright.com/wp-content/uploads/2025/12/December-DPP-Guidelines-for-Publish-1.pdf"
+  - title: "TVA board announcement, Aug. 20, 2026"
+    url: "https://www.prnewswire.com/news-releases/tva-board-protects-consumers-strengthens-reliability-amid-rising-power-demand-302856900.html"
+  - title: "Fox 17 Nashville, TVA data center rate"
+    url: "https://fox17.com/news/local/tva-proposes-new-data-center-power-rate-starting-in-october-with-10-average-increase-tennessee-valley-authority"

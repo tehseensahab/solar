@@ -1,0 +1,69 @@
+name: New Hampshire
+slug: new-hampshire
+abbr: NH
+region: Northeast
+neighbors: [maine, massachusetts, vermont]
+refreshed: 2026-10-18
+guides: [how-to-compare-electricity-supplier-offers, solar-export-credit-rates-by-utility-2026]
+
+summary: >-
+  New Hampshire households paid an average {rate} in {month}, {change} from {prev_month}, well above the U.S. figure
+  of {us}. Default energy service reset on August 1 and holds until February 1, 2027, with community power programs
+  offering an alternative in many towns. Net metering 2.0 credits exports at full supply value plus part of delivery,
+  locked through 2041, which keeps rooftop solar competitive.
+
+solar: |-
+  New Hampshire's net metering 2.0 sits between full retail credit and the avoided-cost models of many states. Per a
+  2026 installer guide, exports earn 100% of the energy supply rate, 100% of transmission and 25% of distribution,
+  which the guide estimates at about 20¢ per kWh at Eversource, roughly 69% of retail. Credits roll month to month,
+  and the structure is set through January 1, 2041 under PUC Docket DE 16-576. One installer source describes the
+  percentages differently, so check the tariff.
+
+  Because supply is credited in full, rising default service prices raise export credits as well as bills; the
+  August 2026 reset made every exported kWh worth more. Self-used solar still saves the whole retail rate, including
+  all of distribution, so a system sized to daytime use captures the most. With long-term rules locked in and high
+  regional prices, New Hampshire offers better planning certainty than most states.
+
+net_metering:
+  status: "Net metering 2.0: exports credited at full supply and transmission plus 25% of distribution (through 2041)"
+  text: |-
+    Per [NuWatt Energy's 2026 guide](https://nuwattenergy.com/en/new-hampshire/net-metering-guide-2026), exports
+    under net metering 2.0 earn 100% of the energy (supply) rate, 100% of transmission and 25% of distribution, about
+    20¢/kWh at Eversource. Credits carry forward, and customers can request a cash-out once the balance is large
+    enough. The structure runs through January 1, 2041 under PUC Docket DE 16-576. One other installer source reverses
+    the percentages; we have not read the utility tariffs to settle it. Checked October 5, 2026.
+
+utilities:
+  - name: Eversource
+    detail: "Default energy service 14.009¢/kWh from August 1, 2026 to January 31, 2027 (about $91 at 650 kWh, supply only). Recovering a $38 million cost shortfall."
+  - name: Liberty Utilities
+    detail: "Default energy service 15.835¢/kWh for the same period (about $103 at 650 kWh). Recovering a $9 million shortfall."
+  - name: Community Power (CPCNH)
+    detail: "14.949¢/kWh in Eversource areas and 14.729¢ in Liberty areas for the same period."
+  - name: Unitil and the NH Electric Cooperative
+    detail: "Unitil's rate not found; the co-op sets its own rates. Not covered in our research."
+
+meaning: |-
+  New Hampshire's default service is bought twice a year, so households see supply changes on February 1 and August 1.
+  This August, costs came in above earlier estimates, and utilities are also recovering past shortfalls, which NHPR
+  estimated adds about $6 to $18 a month overall. The comparison table shows why shopping matters: community power
+  was cheaper than Liberty's default rate but more expensive than Eversource's for this period, so the right choice
+  depends on your town and utility. Utilities file proposed February 2027 rates with the PUC in the weeks before; our
+  [supplier comparison guide](/posts/how-to-compare-electricity-supplier-offers/) shows how to compare offers on a
+  like-for-like basis.
+
+faq:
+  - q: "Is solar worth it in New Hampshire?"
+    a: "Often, given high regional prices and net metering 2.0, which credits exports at full supply and transmission value plus 25% of distribution (about 20¢/kWh at Eversource in one 2026 estimate), with the structure set through 2041. Self-used solar is worth even more."
+  - q: "What is the average electricity rate in New Hampshire?"
+    a: "EIA puts New Hampshire's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Supply alone is 14.009¢/kWh on Eversource default service from August 1, 2026."
+
+sources:
+  - title: "Valley News, NH rates compared, June 30, 2026"
+    url: "https://vnews.com/2026/06/30/new-hampshire-electric-rates/"
+  - title: "New Hampshire Public Radio, July 20, 2026"
+    url: "https://www.nhpr.org/nh-news/2026-07-20/electricity-prices-increases-nh-energy-utility"
+  - title: "New Hampshire PUC, Electric Rates"
+    url: "https://www.puc.nh.gov/energy-rates/electric-rates"
+  - title: "NuWatt Energy, New Hampshire Net Metering 2026 (secondary)"
+    url: "https://nuwattenergy.com/en/new-hampshire/net-metering-guide-2026"

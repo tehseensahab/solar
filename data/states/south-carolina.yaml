@@ -1,0 +1,64 @@
+name: South Carolina
+slug: south-carolina
+abbr: SC
+region: South
+neighbors: [georgia, north-carolina, florida]
+refreshed: 2026-10-18
+guides: [time-of-use-rates-and-solar, fixed-charges-and-solar-savings]
+
+summary: >-
+  In South Carolina the residential average was {rate} in {month}, {change} from {prev_month}, with the national
+  average at {us}. Dominion Energy South Carolina's settled 7.6% increase took effect in July 2026, adding about $12 a
+  month at 1,000 kWh, and October brings lower winter pricing above 800 kWh. New solar customers go on a time-of-use
+  "Solar Choice" rate with a $13.50 minimum bill, so solar pays best when it covers peak-period use.
+
+solar: |-
+  At Dominion Energy South Carolina, the rooftop solar question is really a time-of-use question. New solar customers
+  take the Solar Choice rider on Rate 5, a TOU plan updated with the July 2026 rate change. Within a billing month,
+  excess energy in one TOU period is applied to your use in lower-priced periods; any excess still left accumulates and
+  is paid once a year, each November, at Dominion's avoided cost.
+
+  Two features shape a system's value. The $13.50 monthly minimum bill sets a floor that panels cannot reduce, so a
+  system that would drive your bill below it is oversized. And because credits flow from higher-priced to lower-priced
+  periods, production during on-peak hours, or a battery that moves midday output into the peak, is worth more than
+  the same kWh at midday. Systems are limited to 20 kW AC. Dominion also offers "buy all, sell all" and "offset only"
+  options; Duke Energy's South Carolina utilities, Santee Cooper and co-ops have different rules.
+
+net_metering:
+  status: "Solar Choice (TOU-based kWh netting within the month; annual November payout at avoided cost)"
+  text: |-
+    Dominion Energy South Carolina's
+    [Solar Choice rider to Residential Rate 5](https://cdn-dominionenergy-prd-001.azureedge.net/-/media/content/rates-and-tariffs/pdfs/south-carolina/electric/riders/rider-to-residential-rate5-solar-choice.pdf?rev=16c5a20929264ccf8dbff93e7e2b935a&hash=6F6B5E837D842B8D3ACA82C69398629E),
+    effective July 2026, applies excess energy in one TOU period to use in lower-priced periods in the same month, pays
+    accumulated excess each November at avoided cost, sets a $13.50 minimum bill and limits systems to 20 kW AC. Other
+    options are buy all, sell all, and offset only. Checked October 5, 2026.
+
+utilities:
+  - name: Dominion Energy South Carolina (more than 820,000 households)
+    detail: "7.6% increase ($207 million a year) approved in Docket 2025-325-E, effective first July 2026 billing cycle; about +$12 a month at 1,000 kWh. Rate 8: $0.36164 a day basic facilities charge, 15.878¢/kWh for the first 800 kWh, 17.442¢ above 800 in summer and 15.253¢ in winter."
+  - name: Duke Energy Carolinas and Duke Energy Progress (South Carolina), Santee Cooper, co-ops
+    detail: "Separate rates; not covered in our research."
+
+meaning: |-
+  Dominion's case ended well below the request: the settlement cut the increase from 12.7% to 7.6% and the return on
+  equity from a requested 10.5% to 9.9%, with $3 million from shareholders for first-year bill relief and $1 million a
+  year for three years for low-income assistance and weatherization. The basic facilities charge now works out to about
+  $11 a month, up from $9.50 but short of the roughly $13 Dominion sought. With the season switch on October 1, a
+  1,000 kWh home pays about $4.37 less in a winter month than a summer one by our math. Fixed charges matter for solar
+  owners too; see our [fixed-charge guide](/posts/fixed-charges-and-solar-savings/).
+
+faq:
+  - q: "Is solar worth it in South Carolina?"
+    a: "At Dominion Energy South Carolina it depends on timing as much as size. Solar Choice nets kWh within TOU periods in the month, pays leftover excess each November at avoided cost and has a $13.50 minimum bill. Systems that cover peak-period use, or add a battery, get the most value."
+  - q: "What is the average electricity rate in South Carolina?"
+    a: "EIA puts South Carolina's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Dominion's standard Rate 8 charges 15.878¢/kWh for the first 800 kWh, plus a daily facilities charge."
+
+sources:
+  - title: "Dominion Energy South Carolina, Electric Rates Change bill insert, July 2026"
+    url: "https://cdn-dominionenergy-prd-001.azureedge.net/-/media/content/paying-my-bill/billing-inserts/pdfs/south-carolina/2026/07-jul/2026-07-desc-electric-rates-change.pdf?rev=a53e2b0cfef34514a2ff0e6632f7f6ab&hash=6E3FAE26B130B690CC9833EC9650F57A"
+  - title: "Dominion Energy South Carolina, Solar Choice rider to Rate 5"
+    url: "https://cdn-dominionenergy-prd-001.azureedge.net/-/media/content/rates-and-tariffs/pdfs/south-carolina/electric/riders/rider-to-residential-rate5-solar-choice.pdf?rev=16c5a20929264ccf8dbff93e7e2b935a&hash=6F6B5E837D842B8D3ACA82C69398629E"
+  - title: "SC Daily Gazette, May 11, 2026"
+    url: "https://scdailygazette.com/2026/05/11/dominion-energy-settles-on-proposed-7-electricity-rate-hike-in-sc/"
+  - title: "AARP South Carolina, Dominion Energy's rates"
+    url: "https://www.aarp.org/states/south-carolina/dominion-energy-rates/"

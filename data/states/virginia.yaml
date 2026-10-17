@@ -1,0 +1,75 @@
+name: Virginia
+slug: virginia
+abbr: VA
+region: South
+neighbors: [maryland, north-carolina, west-virginia, kentucky]
+refreshed: 2026-10-18
+guides: [how-electric-rate-cases-work, solar-export-credit-rates-by-utility-2026]
+
+summary: >-
+  Virginia's residential average came in at {rate} in {month} ({change} on the year), against a U.S. figure of {us}.
+  Dominion Energy Virginia's 2026 base increase of about $11 a month at 1,000 kWh is in bills, a smaller step follows
+  on January 1, 2027, and Appalachian Power's case goes to hearing on October 20. The SCC kept one-for-one net
+  metering at both utilities in 2025–26, which makes Virginia one of the better Southern states for rooftop solar.
+
+solar: |-
+  Virginia's regulators went the opposite way from most of the South. In April 2026 the SCC kept Dominion's one-for-one
+  kWh net metering with a 12-month netting period, adding only a $1 monthly administrative fee for new customers and
+  rejecting Dominion's proposals for 30-minute netting, a lower export rate and application fees of $100 to $750. Surplus
+  left after the 12-month period is paid at 5.829¢ per kWh, according to an installer's summary of the order. Appalachian
+  Power customers kept annual one-for-one netting up to their own consumption, with net excess paid at 5.66¢.
+
+  The practical rule is simple: size the system to annual use, because every kWh up to that point is worth retail and
+  anything beyond earns under 6¢. Rising base rates and riders, including Dominion's 2026 and 2027 steps, raise the value of
+  each credited kWh. Existing customers stay on their current terms.
+
+net_metering:
+  status: "One-for-one net metering with 12-month netting kept at Dominion (Apr. 2026) and Appalachian Power (Aug. 2025)"
+  text: |-
+    **Dominion (Case PUR-2025-00079, April 30, 2026):** one-for-one kWh credits with a 12-month netting period kept; $1
+    monthly administrative fee for new customers; year-end surplus paid at 5.829¢/kWh per
+    [Virtue Solar's summary](https://www.virtuesolar.com/2026/05/05/net-metering-protected-in-virginia-sccs-final-ruling-on-dominions-nem-2-0/);
+    30-minute netting and application fees rejected.
+
+    **Appalachian Power (August 29, 2025):** annual one-for-one netting up to annual consumption kept; net excess paid at
+    5.66¢/kWh, per the [Southern Environmental Law Center](https://www.selc.org/press-release/commission-approves-appalachian-power-company-proposal-reducing-compensation-to-rooftop-solar-customers-for-net-exports-while-retaining-essential-elements-of-net-metering/).
+    Existing customers keep their terms. Checked October 5, 2026.
+
+community_solar: |-
+  The SCC has draft shared solar rules open for comment (Case PUR-2026-00127), with comments due October 9, 2026,
+  according to a [ReisingerGooch regulatory summary](https://reisingergooch.com/virginia-energy-regulatory-updates-august-2026/).
+  We have not confirmed final rules or program availability.
+
+utilities:
+  - name: Dominion Energy Virginia (more than 2.5 million customers)
+    detail: "SCC biennial review (Nov. 2025): 1,000 kWh bill $149.92 to $161.16 in 2026 and $163.52 in 2027; 9.8% ROE. 2026 riders: transmission +$0.94 (approved July 31), RPS −$2.16 (approved Aug. 5), distribution +$3.46 (filed Aug. 12, not approved). New GS-5 class for 25 MW+ customers from Jan. 1, 2027."
+  - name: Appalachian Power
+    detail: "Request (PUR-2026-00044) for $61.4 million a year, about +$9.10 a month at 1,000 kWh; hearing begins October 20, 2026. Coal ash plan could add $1.06 to $2.28 a month from 2027."
+  - name: Co-ops and municipal utilities
+    detail: "Not covered in our research."
+
+meaning: |-
+  After Dominion's November 2025 biennial review, most 2026 bill movement in Virginia has come from riders reviewed in
+  separate cases, which means a household's bill can change several times a year without a headline rate case. The SCC also
+  created a large-customer class, GS-5, with 14-year contracts and minimum demand payments, aimed at assigning more cost to
+  data centers; it starts with Dominion's second base step on January 1, 2027. Other dates to watch: the Appalachian Power
+  hearing from October 20 and the SCC's November 17 hearing on the proposed Dominion–NextEra merger (PUR-2026-00112). Our
+  [rate case explainer](/posts/how-electric-rate-cases-work/) covers how riders and base rates differ.
+
+faq:
+  - q: "Is solar worth it in Virginia?"
+    a: "Often yes, for a system sized to annual use. The SCC kept one-for-one net metering with 12-month netting at Dominion and Appalachian Power; only surplus beyond annual use is paid at under 6¢ (5.829¢ at Dominion per an installer summary, 5.66¢ at Appalachian Power)."
+  - q: "What is the average electricity rate in Virginia?"
+    a: "EIA puts Virginia's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Dominion's 1,000 kWh base-rate bill is $161.16 for 2026 under the SCC's order, before riders and fuel."
+
+sources:
+  - title: "Cardinal News, Nov. 26, 2025"
+    url: "https://cardinalnews.org/2025/11/26/regulators-approve-dominion-energy-rate-increase/"
+  - title: "Virginia SCC, Order on DEV Biennial Review 2025"
+    url: "https://www.scc.virginia.gov/about-the-scc/newsreleases/release/scc-issues-order-on-dev-biennial-review-2025/scc-rules-in-dev-biennial-review-case.html"
+  - title: "ReisingerGooch, Virginia Energy Regulatory Updates (August 2026)"
+    url: "https://reisingergooch.com/virginia-energy-regulatory-updates-august-2026/"
+  - title: "Virtue Solar, May 5, 2026 (secondary)"
+    url: "https://www.virtuesolar.com/2026/05/05/net-metering-protected-in-virginia-sccs-final-ruling-on-dominions-nem-2-0/"
+  - title: "Southern Environmental Law Center, Aug. 29, 2025"
+    url: "https://www.selc.org/press-release/commission-approves-appalachian-power-company-proposal-reducing-compensation-to-rooftop-solar-customers-for-net-exports-while-retaining-essential-elements-of-net-metering/"

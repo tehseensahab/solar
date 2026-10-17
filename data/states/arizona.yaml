@@ -1,0 +1,74 @@
+name: Arizona
+slug: arizona
+abbr: AZ
+region: West
+neighbors: [california, nevada, new-mexico, utah]
+refreshed: 2026-10-18
+guides: [solar-export-credit-rates-by-utility-2026, time-of-use-rates-and-solar]
+
+summary: >-
+  On paper Arizona looks calm: {rate} on average in {month}, {change} from a year earlier, against a U.S. figure of
+  {us}. That calm average hides pending cases: APS and Tucson Electric Power both have double-digit increase requests
+  before the Arizona Corporation Commission, with an APS vote due by December 31, 2026. Sunshine is abundant, but
+  exports earn about 6¢, so solar pays best when it is sized to what you use.
+
+solar: |-
+  Arizona has the sun; the open question is what the utility pays for it. Since the Arizona Corporation
+  Commission's 2016 decision ended net metering for new customers, APS and TEP have credited exports at a fixed
+  rate locked in when you interconnect. For APS that was about 6.17¢ per kWh for 2026 interconnections, according
+  to an installer summary, against a statewide average retail price near 15¢. A kilowatt-hour you use yourself is
+  therefore worth more than twice one you export.
+
+  Two pending decisions could shift the math. If APS wins most of its roughly 16% residential request, the value
+  of self-consumed solar rises with it. But APS has also proposed doubling the monthly grid access charge that
+  solar customers pay, which KJZZ described as $2 to $3 today, and fixed charges come straight off savings.
+  Because most APS and TEP residential plans are time-of-use, a battery that shifts afternoon production into the
+  evening peak can matter as much as panel count. SRP customers are under a separate board-set rate structure.
+
+net_metering:
+  status: "Net billing (fixed export rate locked for 10 years); no net metering for new customers since 2016"
+  text: |-
+    Arizona ended net metering for new customers under ACC Decision No. 75859 (2016). APS and TEP now use net
+    billing:
+
+    - **APS:** about 6.17¢/kWh for systems interconnected in 2026, locked for 10 years, per an
+      [installer summary](https://mysolarfy.com/arizona-net-billing-2026/). The rate offered to new customers can
+      fall by up to 10% a year, and the same source reports a proposed 5.55¢ from September 2026, pending approval.
+    - **TEP:** about 5¢ to 6¢ per kWh, with a lock of up to 10 years.
+
+    These figures come from a secondary source; we have not yet read the APS and TEP export tariffs themselves.
+    Confirm the rate on your interconnection agreement. Rules checked October 5, 2026.
+
+utilities:
+  - name: Arizona Public Service (APS, about 1.5 million customers)
+    detail: "Last base increase March 1, 2024 (about 8.3%). Pending request of $579.2 million, about 16% for residential (roughly $20 a month); ALJ recommendation expected late November 2026, ACC vote due by December 31, 2026."
+  - name: Tucson Electric Power (TEP, about 455,000 customers)
+    detail: "Request of 11.6% per TEP ($12.92 a month at 638 kWh on the basic plan); undecided, with TEP expecting new rates in late 2026. Docket E-01933A-25-0103."
+  - name: Salt River Project (SRP)
+    detail: "Sets rates through its own elected board, outside the ACC; not covered in our research."
+
+meaning: |-
+  The APS case is the decision to watch this winter, and not only for its size. APS has asked for annual
+  formula-based adjustments for five years in place of traditional rate cases; consumer advocates argue that would
+  mean yearly increases with less scrutiny. If the commission agrees, Arizona bills would move every year by
+  formula rather than in occasional jumps. TEP customers should note that the company's requested increase was not
+  in effect on September 1 as originally planned; current rates apply until the ACC votes. For anyone signing a
+  solar contract before those votes, ask the installer to model both the current and requested rates, and to show
+  the grid access charge separately. See our [time-of-use and solar guide](/posts/time-of-use-rates-and-solar/)
+  for how peak windows change the value of panels and batteries.
+
+faq:
+  - q: "Is solar worth it in Arizona?"
+    a: "Often, if the system is sized to your own use. Exports earn about 6¢/kWh at APS for 2026 interconnections, well under the retail price, so self-consumed solar is worth more than twice exported solar. Pending APS decisions on rates and the solar grid access charge could move the payback either way."
+  - q: "What is the average electricity rate in Arizona?"
+    a: "EIA puts Arizona's statewide residential average at {rate} in {month}, compared with {prev} in {prev_month}. Most APS and TEP customers are on time-of-use plans, so their effective rate depends on when they use power."
+
+sources:
+  - title: "Arizona Corporation Commission, \"What's Next in the APS Rate Case?\" July 10, 2026"
+    url: "https://azcc.gov/news/home/2026/07/10/what-s-next-in-the-aps-rate-case"
+  - title: "Tucson Electric Power, 2026 Rates"
+    url: "https://www.tep.com/2026-rates/"
+  - title: "KJZZ, APS rate request, March 5, 2026"
+    url: "https://www.kjzz.org/politics/2026-03-05/aps-wants-to-raise-rates-but-its-also-asking-for-a-major-overhaul-in-how-it-charges-customers"
+  - title: "SolarFY, Arizona Net Metering & Solar Buyback Rates in 2026 (secondary)"
+    url: "https://mysolarfy.com/arizona-net-billing-2026/"

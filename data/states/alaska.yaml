@@ -1,0 +1,72 @@
+name: Alaska
+slug: alaska
+abbr: AK
+region: West
+neighbors: [washington, hawaii, oregon]
+refreshed: 2026-10-18
+guides: [solar-export-credit-rates-by-utility-2026, how-electric-rate-cases-work]
+
+summary: >-
+  Alaskans paid an average {rate} for residential power in {month}, {change} on a year earlier and among the
+  highest prices in the country, well above the U.S. average of {us}. There is no statewide rate: each Railbelt
+  co-op files its own case with the Regulatory Commission of Alaska. Solar can offset expensive summer
+  kilowatt-hours, but exports earn only avoided cost and winter output is minimal, so it rarely pays off as a
+  whole-home replacement.
+
+solar: |-
+  High prices are the strongest argument for solar in Alaska, and the calendar is the strongest argument against
+  it. Long summer days produce plenty of power, but that surplus is credited at the utility's avoided cost, which
+  the Anchorage Daily News put at roughly a third of the retail rate. In the dark months panels produce very
+  little, so summer credits cannot carry a household through winter under the current rules.
+
+  That makes system size the key decision. A system matched to what you use from spring through early fall
+  captures retail-rate value on most of its output; a system built to "zero out" the annual bill sends much of
+  its summer production to the grid at the low credit. A further check before buying: several Railbelt
+  utilities have reached the 1.5% net metering cap, so confirm your utility is still accepting new net-metered
+  systems on the same terms.
+
+net_metering:
+  status: "Net metering at avoided cost for surplus; some Railbelt utilities past the 1.5% cap"
+  text: |-
+    Alaska's net metering rules date from 2010. Renewable systems up to 25 kW can connect, and surplus power is
+    credited at the utility's avoided cost rather than the retail rate. Large utilities must accept net metering
+    up to 1.5% of average load; the [Renewable Energy Alaska Project](https://alaskarenewableenergy.org/ppf/net-metering/)
+    says at least three Railbelt utilities have passed that level, and Homer Electric raised its own cap to 3%.
+
+    **Pending change:** Senate Bill 150 would credit surplus at the full retail rate and let summer credits
+    carry into winter. It was in committee in early 2026 with the governor's support, according to the
+    [Anchorage Daily News](https://www.adn.com/politics/alaska-legislature/2026/02/26/dunleavy-backs-bill-to-require-net-metering-for-railbelt-utility-customers/).
+    We have not confirmed a final outcome. Rules checked October 5, 2026.
+
+utilities:
+  - name: Golden Valley Electric Association (Fairbanks, Interior)
+    detail: "7.4% interim, refundable increase in effect since January 15, 2026; RCA review runs through February 2027. Filing proposes a residential time-of-use pilot."
+  - name: Chugach Electric Association (Anchorage area)
+    detail: "Permanent rates since February 1, 2025; residential customer charge $12.79 a month in both districts. An 8% simplified filing from December 2024 had no outcome we could find."
+  - name: Matanuska Electric, Homer Electric, AEL&P and rural utilities
+    detail: "Separate rate schedules; not covered in our research."
+
+meaning: |-
+  Alaska's bills are shaped as much by fuel as by rate cases. Southcentral Alaska generates much of its power from
+  Cook Inlet natural gas, and the fuel and purchased power line is updated on its own schedule, so it can move a
+  bill more than a base rate decision. For Golden Valley members the near-term question is whether the final RCA
+  order lands below the 7.4% interim increase, which would trigger refunds. For solar shoppers the decision to
+  watch is SB 150: retail-rate credits with seasonal carryover would change the sizing advice above. Our
+  [export credit guide](/posts/solar-export-credit-rates-by-utility-2026/) explains why the gap between retail and
+  avoided-cost credits matters so much.
+
+faq:
+  - q: "Is solar worth it in Alaska?"
+    a: "It can be for a system sized to summer use. Retail prices are high, but surplus power earns only avoided cost (roughly a third of retail, per the Anchorage Daily News) and winter output is very low. Check whether your utility is still taking new net-metered systems, since several Railbelt utilities have passed the 1.5% cap."
+  - q: "What is the average electricity rate in Alaska?"
+    a: "EIA's statewide average residential price was {rate} in {month}, against {prev} in {prev_month}. Rates differ widely by utility, and rural communities are not represented by that average in any meaningful way."
+
+sources:
+  - title: "Golden Valley Electric Association, Rate Case"
+    url: "https://www.gvea.com/rates-2/rate-case/"
+  - title: "Alaska Energy Transparency Project, \"The Chugach Rate Case: A Wrap Up\""
+    url: "https://www.akenergytransparency.org/news/the-chugach-rate-casea-wrap-up"
+  - title: "Renewable Energy Alaska Project, Net Metering"
+    url: "https://alaskarenewableenergy.org/ppf/net-metering/"
+  - title: "Anchorage Daily News, Feb. 26, 2026 (SB 150)"
+    url: "https://www.adn.com/politics/alaska-legislature/2026/02/26/dunleavy-backs-bill-to-require-net-metering-for-railbelt-utility-customers/"

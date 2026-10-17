@@ -1,0 +1,71 @@
+name: Georgia
+slug: georgia
+abbr: GA
+region: South
+neighbors: [alabama, florida, south-carolina, tennessee]
+refreshed: 2026-10-18
+guides: [solar-export-credit-rates-by-utility-2026, budget-billing-explained]
+
+summary: >-
+  Georgia Power customers are living under a base-rate freeze, and the statewide residential average was {rate} in
+  {month} ({change} on the year; U.S. {us}). Georgia Power's base rates are frozen through at least 2028, and a June
+  2026 fuel-and-storm settlement cut a typical bill by about $4 a month. Rooftop solar faces a modest export credit of
+  about 7.2¢ per kWh and tight enrollment limits, so it suits homes with heavy daytime use.
+
+solar: |-
+  Georgia Power's seasonal pricing is the key to solar value in Georgia. Under the standard Residential Service
+  plan, summer energy above 650 kWh costs 14.6¢ to 15.1¢ per kWh before fuel, while winter energy is 8.2¢. Solar
+  you use yourself in summer therefore avoids the most expensive kWh on the bill, and solar you export earns
+  7.2188¢ (the 2026 Solar Avoided Cost Rate of 3.2188¢ plus a 4¢ adder approved in 2022).
+
+  That pattern favors systems sized to summer daytime load, with air conditioning doing much of the work, and it
+  favors batteries less than in time-of-use states unless you are on a TOU plan. Practical limits apply: residential
+  systems are capped at 10 kW AC, the RNR-11 tariff adds a $5.97 monthly metering charge for single-phase service,
+  and instantaneous netting is first come, first served until renewable capacity reaches 0.2% of Georgia Power's
+  prior-year peak. Confirm the program is still open before signing. EMC and city utility customers face separate
+  rules.
+
+net_metering:
+  status: "No full retail net metering for new Georgia Power customers; exports credited at 7.2188¢/kWh in 2026"
+  text: |-
+    New Georgia Power solar customers use instantaneous netting under the
+    [RNR-11 tariff](https://www.georgiapower.com/content/dam/georgia-power/pdfs/residential-pdfs/residential-rate-plans/RNR-11.pdf):
+    self-used solar offsets usage, and exports are credited at the annual Solar Avoided Cost Rate (3.2188¢/kWh for
+    2026, per Georgia Power's [solar FAQ](https://www.georgiapower.com/residential/save-money-and-energy/products-programs/residential-solar-solutions/residential-rooftop-installations/faqs.html))
+    plus a 4¢ adder, for 7.2188¢/kWh. Monthly netting is limited to the 5,000 customers already in its pilot.
+    The tariff document we reviewed is dated January 2023. Checked October 5, 2026.
+
+utilities:
+  - name: Georgia Power (about 2.8 million customers)
+    detail: "Base rates frozen through at least the end of 2028. June 1, 2026 fuel and storm settlement: about $4.03 to $4.04 less a month at 1,000 kWh. Residential Service energy charge 8.2¢/kWh in winter; 8.8¢ to 15.1¢ in summer tiers."
+  - name: Electric membership cooperatives and city utilities
+    detail: "Set their own rates and solar terms; not covered in our research."
+
+meaning: |-
+  Georgia's PSC has kept headline rates flat while settling the costs that sit outside the freeze. The May 2026
+  decision approved $109 million a year in storm recovery over 67 months, well below the roughly $270 million a year
+  Georgia Power sought, and paired it with a larger fuel cut, so bills fell. The vote was unanimous, but
+  Commissioner Peter Hubbard argued more savings were possible, and Inside Climate News reported that recovery
+  charges could rise once a tax-credit offset ends. The freeze and the settlement give households predictability
+  through 2028; what happens after depends on large-load contracts, which Georgia Power projects will save typical
+  customers $180 a year from 2029, a company projection rather than an approved rate. Winter pricing starting in
+  October lowers bills seasonally; our [budget billing guide](/posts/budget-billing-explained/) covers smoothing
+  those swings.
+
+faq:
+  - q: "Is solar worth it in Georgia?"
+    a: "For Georgia Power customers with high summer daytime use, it can be: self-used solar avoids summer energy charges of up to 15.1¢/kWh before fuel, while exports earn 7.2188¢. The 10 kW cap, a $5.97 monthly metering charge and an enrollment limit narrow the case, so get the program's current status in writing."
+  - q: "What is the average electricity rate in Georgia?"
+    a: "EIA puts Georgia's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Georgia Power's own energy charges are seasonal: 8.2¢/kWh in winter and tiered up to 15.1¢ in summer, plus fuel and riders."
+
+sources:
+  - title: "Georgia PSC, fuel and storm stipulation approval, May 28, 2026"
+    url: "https://psc.ga.gov/site/assets/files/9488/media_advisory_5_28_26_fuel_storm_stip_approval.pdf"
+  - title: "Georgia Power, Residential Service rate plan"
+    url: "https://www.georgiapower.com/residential/rate-plans/residential-service.html"
+  - title: "Georgia Power, RNR-11 tariff"
+    url: "https://www.georgiapower.com/content/dam/georgia-power/pdfs/residential-pdfs/residential-rate-plans/RNR-11.pdf"
+  - title: "Georgia Power, residential rooftop solar FAQs"
+    url: "https://www.georgiapower.com/residential/save-money-and-energy/products-programs/residential-solar-solutions/residential-rooftop-installations/faqs.html"
+  - title: "Inside Climate News, June 5, 2026"
+    url: "https://insideclimatenews.org/news/05062026/georgia-power-rates-dip-but-utility-could-profit/"

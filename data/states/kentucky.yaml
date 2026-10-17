@@ -1,0 +1,71 @@
+name: Kentucky
+slug: kentucky
+abbr: KY
+region: South
+neighbors: [indiana, ohio, tennessee, west-virginia]
+refreshed: 2026-10-18
+guides: [solar-export-credit-rates-by-utility-2026, how-electric-rate-cases-work]
+
+summary: >-
+  Kentucky remains a low-cost state for electricity, with a residential average of {rate} in {month} ({change} on the
+  year) versus {us} nationally. LG&E and Kentucky Utilities raised rates under a February 2026 order and cannot file
+  again until 2028. That order also restored compensation for rooftop solar exports, but the exact credit is still
+  unconfirmed and a rehearing motion is pending, so solar shoppers should get the tariff in hand first.
+
+solar: |-
+  In Kentucky the export credit is the single number that decides whether rooftop solar pays, and in 2026 it was
+  contested. Kentucky credits exports in dollars at a rate the PSC sets, not kWh for kWh. LG&E and KU proposed
+  about 3.8¢ per kWh; solar advocates' analysis valued customer solar at 11¢ or more. In its February 2026 order,
+  according to the Mountain Association, the PSC reinstated compensation for rooftop solar after the companies had
+  applied a much lower rate for about six weeks. We have not yet confirmed the final rate, and a motion for
+  rehearing was filed in the LG&E case in March 2026.
+
+  Retail power is inexpensive by national standards (about 13¢ per kWh all-in for typical KU and LG&E bills by our
+  math), which lengthens payback even for self-consumed solar. A system sized below daytime use, where most output
+  replaces purchases rather than being exported, is the safest design until the export rate is settled. Kentucky
+  Power, Duke Energy Kentucky, co-op and TVA-area customers have separate rules.
+
+net_metering:
+  status: "Dollar export credit set by the PSC; LG&E/KU rate restored in Feb. 2026, final figure unconfirmed"
+  text: |-
+    Kentucky credits exported solar in dollars at a PSC-set rate. In the February 16, 2026 order in Cases
+    2025-00113 and 2025-00114, the commission
+    [reinstated compensation for rooftop solar](https://mtassociation.org/energy/lge-ku-rate-case-update/) at LG&E
+    and KU, which had proposed about 3.8¢/kWh. A
+    [motion for rehearing](https://psc.ky.gov/pscecf/2025-00114/byron%40kyrc.org/03092026091010/2026-03-09-JI-motn-rehrg.pdf)
+    was filed in the LG&E case on March 9, 2026. The exact credit in cents per kWh is in the PSC order and current
+    net metering tariff, which we have not yet confirmed. Checked October 5, 2026.
+
+utilities:
+  - name: Kentucky Utilities (KU)
+    detail: "6.54% approved (11.5% requested): typical bill $133.57 to $142.30 at 1,085 kWh, about 13.1¢/kWh all-in by our math. No new rate case until 2028."
+  - name: Louisville Gas and Electric (LG&E)
+    detail: "4.73% approved (8.3% requested): typical bill $108.76 to $113.90 at 866 kWh, about 13.2¢/kWh all-in. Rehearing motion filed March 2026."
+  - name: Kentucky Power, Duke Energy Kentucky, co-ops and TVA-served areas
+    detail: "Separate rates; not covered in our research."
+
+meaning: |-
+  The LG&E/KU order shows the Kentucky PSC landing close to a negotiated settlement while trimming the details: it
+  set a 9.775% return on equity, below the 9.90% in the settlement, denied a proposed investment-return sharing
+  mechanism, required refunds of excess amounts collected while the case was pending and added rules for very large
+  loads such as data centers. The stay-out until 2028 gives the two largest utilities' customers a stable base rate
+  for now. For solar, the open question is whether rehearing changes the export credit. Until it is settled, an
+  installer's savings estimate should state which export rate it assumes. Our
+  [export credit comparison](/posts/solar-export-credit-rates-by-utility-2026/) shows how much that one number moves
+  payback.
+
+faq:
+  - q: "Is solar worth it in Kentucky?"
+    a: "It is a closer call than in most states. Retail power is relatively cheap, and the export credit at LG&E and KU, restored by the PSC in February 2026, is still subject to a rehearing motion. A system sized so most output is used at home is the lower-risk choice; get the current net metering tariff before signing."
+  - q: "What is the average electricity rate in Kentucky?"
+    a: "EIA puts Kentucky's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Typical KU and LG&E bills after the 2026 order work out to about 13.1¢ and 13.2¢ per kWh all-in."
+
+sources:
+  - title: "Kentucky PSC, Order for KU and LG&E Rate Cases, Feb. 16, 2026"
+    url: "https://psc.ky.gov/agencies/psc/press/022026/0216_r01.pdf"
+  - title: "Kentucky Lantern, Feb. 18, 2026"
+    url: "https://kentuckylantern.com/2026/02/18/lge-ku-customers-will-pay-more-though-not-as-much-as-utility-wanted/"
+  - title: "Mountain Association, LG&E-KU Rate Case Update"
+    url: "https://mtassociation.org/energy/lge-ku-rate-case-update/"
+  - title: "Joint Intervenors' motion for rehearing, Case 2025-00114, March 9, 2026"
+    url: "https://psc.ky.gov/pscecf/2025-00114/byron%40kyrc.org/03092026091010/2026-03-09-JI-motn-rehrg.pdf"

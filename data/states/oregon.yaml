@@ -1,0 +1,66 @@
+name: Oregon
+slug: oregon
+abbr: OR
+region: West
+neighbors: [california, idaho, nevada, washington]
+refreshed: 2026-10-18
+guides: [solar-payback-period-without-federal-tax-credit, battery-sizing-guide]
+
+summary: >-
+  Oregon's statewide residential average of {rate} in {month} ({change} on the year; U.S. {us}) understates how fast
+  bills have grown at the two big utilities, now more than 50% above five years ago. Increases now land each April 1,
+  since state law bars them from November through March. Net metering with kWh credits plus Energy Trust incentives
+  keeps rooftop solar viable, as long as systems are not oversized.
+
+solar: |-
+  Oregon's cloudy reputation is less of an obstacle than its sizing rule. PGE and Pacific Power offer net metering with
+  kWh credits: power you export each month offsets power you take, so summer production can carry over into the darker
+  months at full retail value. The catch comes every March, when, according to Energy Trust of Oregon, unused credits are
+  donated to low-income bill assistance. You are not paid for them.
+
+  That makes "size to annual use" the essential rule here. Six straight years of approved residential increases have
+  raised the value of every solar kWh, and Energy Trust offers solar and battery incentives for customers of both
+  utilities, which partly offsets the end of the federal homeowner credit. Customers of Idaho Power's Oregon territory,
+  consumer-owned utilities and co-ops have different programs.
+
+net_metering:
+  status: "Net metering with kWh credits; unused credits donated to low-income assistance each March"
+  text: |-
+    Per [Energy Trust of Oregon](https://www.energytrust.org/solar-storage/net-metering/), PGE and Pacific Power credit
+    exported power against power drawn each month as kWh. Every March, unused credits are donated to low-income bill
+    assistance programs; customers are not paid for them. Checked October 5, 2026.
+
+incentives:
+  - name: Energy Trust of Oregon solar and battery incentives
+    text: "Energy Trust offers incentives for solar and battery systems for PGE and Pacific Power customers. Amounts and eligibility change; check Energy Trust's current offers before signing. Source: [Energy Trust of Oregon](https://www.energytrust.org/solar-storage/net-metering/)."
+
+utilities:
+  - name: Portland General Electric (PGE)
+    detail: "+5% for residential on April 1, 2026, about +$8 a month for an average customer."
+  - name: Pacific Power
+    detail: "About +3% for most residential customers on April 1, 2026 (4% in Albany), more than +$4 a month."
+  - name: Idaho Power (Oregon), consumer-owned utilities and co-ops
+    detail: "Not covered in our research."
+
+meaning: |-
+  Oregon's FAIR Energy Act bars rate increases from November 1 to March 31, which protects winter heating bills but means
+  several filings can stack up on April 1; expect the next round around April 1, 2027. The pressure behind those increases
+  is growing: per the Oregon Capital Chronicle, residential demand rose about 10% over a decade while industrial and data
+  center demand rose about 70%, and rates are up more than twice the pace of inflation since 2020. A new state law requires
+  large technology companies to pay for the infrastructure their data centers need; we have not confirmed the PUC's ruling
+  on PGE's compliance plan. Our [battery sizing guide](/posts/battery-sizing-guide/) helps if you are pairing storage
+  with panels.
+
+faq:
+  - q: "Is solar worth it in Oregon?"
+    a: "Often, for a system sized to your annual use. PGE and Pacific Power offer net metering with kWh credits, and Energy Trust of Oregon offers incentives, but unused credits are donated each March, so oversizing gives power away."
+  - q: "What is the average electricity rate in Oregon?"
+    a: "EIA puts Oregon's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. PGE's April 2026 increase added about $8 a month for an average customer."
+
+sources:
+  - title: "Energy Trust of Oregon, Solar: Net Metering"
+    url: "https://www.energytrust.org/solar-storage/net-metering/"
+  - title: "Oregon Capital Chronicle, March 31, 2026"
+    url: "https://oregoncapitalchronicle.com/2026/03/31/pacific-power-pge-raise-residential-electricity-rates-again-for-oregon-customers/"
+  - title: "OPB, March 31, 2026"
+    url: "https://www.opb.org/article/2026/03/31/portland-general-electric-pacific-power-raise-rates/"

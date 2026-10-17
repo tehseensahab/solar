@@ -39,3 +39,12 @@ No GitHub Actions workflow is needed — Cloudflare Pages builds Hugo natively.
 ## Writers
 
 New articles are bylined **John Marshall** or **Craig Leslie** (they write for all three publications: WiFi Weekly, Solar Examiner and FirewallSync). Pick whichever of the two wrote the piece. Existing articles keep their current bylines.
+
+## State hubs (Rates by State)
+
+The 50 `*-electricity-rate-changes-2026` posts render as evergreen state hubs through `layouts/posts/state-hub.html` (front matter `layout: "state-hub"` and `states: ["<State>"]`). Their original article bodies render unchanged in the "In depth" section.
+
+- **Editorial and sourced data:** `data/states/<slug>.yaml` (summary, solar, net metering, incentives, utilities, community solar, "what it means", hub FAQ, sources, related guides). Text can use the tokens `{rate}` `{prev}` `{change}` `{us}` `{month}` `{prev_month}`, filled from `data/eia_prices.yaml`.
+- **Monthly refresh (data-only):** update `data/eia_prices.yaml` (values plus `month`, `prev_month`, `released`) from EIA Electric Power Monthly Table 5.6.A, optionally append the month to `data/eia_series.yaml` (enables the trend line), and set `refreshed:` in each state file whose sections were re-checked. `refreshed` drives the "Last updated" line, WebPage `dateModified` and the sitemap `lastmod`. Re-read any summary sentence that compares a state to others (e.g. "lowest in the country") when the month changes.
+- **News linking:** add `states: ["<State>"]` to a state-related post's front matter. The post then gets an above-the-fold link to the hub and an end-of-post box (hub plus the state's two `guides`), and appears in the hub's "Latest <State> news" list. State term pages (`/states/...`) are noindex and kept out of the sitemap.
+- **Rules:** every figure needs a cited source and data month; omit what cannot be sourced. Write summary, solar, net metering and "what it means" fresh for each state.

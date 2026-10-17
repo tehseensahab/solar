@@ -1,0 +1,64 @@
+name: Idaho
+slug: idaho
+abbr: ID
+region: West
+neighbors: [montana, oregon, utah, washington]
+refreshed: 2026-10-18
+guides: [time-of-use-rates-and-solar, solar-export-credit-rates-by-utility-2026]
+
+summary: >-
+  Cheap hydropower keeps Idaho's residential average low, {rate} in {month} ({change} from a year earlier; U.S. {us}),
+  even after two Idaho Power increases in 2026. Idaho Power raised rates on January 1 and again on June 1, 2026. Low
+  prices and a seasonal export credit that drops to about 3¢ outside summer peaks make rooftop solar a hard sell
+  unless it is sized tightly to your own use.
+
+solar: |-
+  Idaho Power's on-site generation tariff, Schedule 6, is one of the clearest examples in the country of an export
+  credit built around time and season. Exports in summer on-peak hours earn 15.6836¢ per kWh, more than the retail
+  energy charge, but summer off-peak exports earn 3.3920¢ and every non-summer export earns 2.9019¢.
+
+  Most of a rooftop array's annual output falls outside that narrow summer peak window. In the first non-summer
+  tier, a kWh you use yourself avoids 9.9332¢ while an exported kWh earns 2.9019¢, a ratio of more than three to
+  one. Add a $15.00 monthly service charge for on-site generation customers and cheap hydro-driven retail prices,
+  and the case for a large system that exports heavily is weak. A smaller system matched to daytime use, west-facing
+  panels that produce into the summer peak, or a battery that holds midday output for evening use all keep more of
+  each kWh's value. Avista, Rocky Mountain Power and co-op customers in Idaho are under different tariffs.
+
+net_metering:
+  status: "Net billing at Idaho Power with seasonal, time-varying export credits (Schedule 6, Jan. 1, 2026)"
+  text: |-
+    Idaho Power moved on-site generation customers to net billing.
+    [Schedule 6](https://docs.idahopower.com/pdfs/aboutus/ratesregulatory/tariffs/313.pdf), effective January 1,
+    2026, sets export credits of 15.6836¢/kWh in summer on-peak hours, 3.3920¢ in summer off-peak hours and
+    2.9019¢ at all hours outside summer, with a $15.00 monthly service charge and a 25 kW size limit. Standard-plan
+    energy charges run 12.1195¢ to 14.6185¢ per kWh in summer and 9.9332¢ to 11.0052¢ outside summer, by tier.
+    Checked October 5, 2026.
+
+utilities:
+  - name: Idaho Power (most of southern Idaho)
+    detail: "+$110 million (7.48%) general rate increase effective January 1, 2026; power cost and fixed cost adjustments added 3.15% on June 1, 2026 (about $3.64 a month at 900 kWh)."
+  - name: Avista, Rocky Mountain Power (Idaho), co-ops and municipal utilities
+    detail: "Separate tariffs; not covered in our research."
+
+meaning: |-
+  Idaho's bills now move twice a year in a predictable rhythm: a base-rate decision when there is a rate case, and
+  the June adjustments every year. The June Power Cost Adjustment depends heavily on water: a good hydro year lowers
+  it, a poor one raises it. The Fixed Cost Adjustment trues up for changes in average use per customer, so
+  conservation does not erode the utility's fixed-cost recovery. The 2026 general rate case approved a 9.6% return on
+  equity; an early proposal had put more weight on fixed charges, and we have not confirmed how the approved increase
+  was spread across classes. For solar buyers, Schedule 6 is the document that matters. Our
+  [time-of-use guide](/posts/time-of-use-rates-and-solar/) walks through Idaho Power's 2026 tariff in detail.
+
+faq:
+  - q: "Is solar worth it in Idaho?"
+    a: "Usually only for a system sized to your own use. Idaho Power credits non-summer exports at 2.9019¢/kWh and summer off-peak exports at 3.3920¢, against retail energy charges of roughly 10¢ to 15¢. Only summer on-peak exports (15.6836¢) beat retail, and few kWh fall in that window."
+  - q: "What is the average electricity rate in Idaho?"
+    a: "EIA puts Idaho's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
+
+sources:
+  - title: "Idaho Power, Schedule 6: Residential Service On-Site Generation (tariff)"
+    url: "https://docs.idahopower.com/pdfs/aboutus/ratesregulatory/tariffs/313.pdf"
+  - title: "Idaho Power, Annual Price Adjustments in Idaho"
+    url: "https://www.idahopower.com/accounts-service/understand-your-bill/pricing/idaho-pricing/annual-price-adjustments-in-idaho/"
+  - title: "Investing.com, Idaho Power $110 million rate increase (summary of SEC filing)"
+    url: "https://www.investing.com/news/sec-filings/idaho-power-receives-approval-for-110-million-rate-increase-effective-january-2026-93CH-4426399"

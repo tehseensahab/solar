@@ -1,0 +1,74 @@
+name: Ohio
+slug: ohio
+abbr: OH
+region: Midwest
+neighbors: [indiana, kentucky, michigan, pennsylvania]
+refreshed: 2026-10-18
+guides: [how-to-compare-electricity-supplier-offers, solar-export-credit-rates-by-utility-2026]
+
+summary: >-
+  Ohio's residential average climbed to {rate} in {month}, {change} from a year earlier, against {us} nationally,
+  after default supply prices reset on June 1. Default supply prices reset on June 1, 2026, with the biggest jumps at
+  FirstEnergy and AES Ohio driven by PJM capacity costs, and they hold until May 31, 2027. Net metering survives, but
+  exports earn only the energy part of supply, so solar in Ohio rewards self-use.
+
+solar: |-
+  Ohio's net metering rule has an unusual quirk that matters more in 2026 than before. Under a 2018 PUCO ruling,
+  exported kWh are credited for the energy portion of supply only, excluding capacity, and delivery is not credited at
+  all. This year's supply increases were driven largely by PJM capacity costs, precisely the part an exported kWh does
+  not earn. A kWh used in the house, by contrast, avoids the whole supply rate plus per-kWh delivery charges.
+
+  The result is a wide gap between self-consumption and export, so the design rule is to size for daytime use, or to
+  add storage. Customers who shop with a competitive supplier remain eligible for net metering credits from the
+  utility. Systems can be sized up to 120% of average yearly use. In its 2026 five-year review the PUCO put the rule
+  forward unchanged and did not adopt AEP Ohio's push toward net billing, though we could not confirm the final step;
+  our [Ohio net metering report](/posts/ohio-net-metering-rule-review-2026/) has the details. Co-ops and municipal
+  utilities set their own terms.
+
+net_metering:
+  status: "Net metering; exports credited for the energy portion of supply only (no capacity, no delivery)"
+  text: |-
+    Per a December 19, 2018 PUCO ruling reported by
+    [Canary Media](https://www.canarymedia.com/articles/enn/what-ohios-latest-net-metering-ruling-means-for-utility-customers),
+    utilities credit excess generation for the energy portion of supply only, excluding capacity and delivery. DSIRE
+    lists a size limit of 120% of average yearly use. A February 10, 2026
+    [Common Sense Initiative memo](https://dam.assets.ohio.gov/image/upload/governor.ohio.gov/csi/CSI_REC_PUCO_2-10-26.pdf)
+    shows the rule proposed unchanged in its five-year review. Our sources for the crediting method date from 2018–19
+    and we have not found each utility's current cents-per-kWh credit. Checked October 6, 2026.
+
+utilities:
+  - name: AEP Ohio
+    detail: "Default supply 10.12¢/kWh from June 1, 2026 to May 31, 2027 (+0.9%), per AEP Ohio."
+  - name: AES Ohio
+    detail: "Default supply 10.9¢/kWh for the same period; +$14.06 a month (7.5%) at 1,000 kWh, per AES Ohio."
+  - name: Ohio Edison, Toledo Edison, Illuminating Co. (FirstEnergy)
+    detail: "Ohio Edison residential supply 10.0253¢/kWh (Rider GEN) from June 1, 2026, up from 8.8919¢; FirstEnergy residential increases reported up to about 14%."
+  - name: Duke Energy Ohio, co-ops and municipal utilities
+    detail: "Not verified in our research."
+
+meaning: |-
+  Ohio's default supply prices come from auctions overseen by the PUCO and are passed through without markup, so the
+  June 2026 increases mostly reflect PJM's higher capacity prices for 2026/2027. The effect varied widely, from under
+  1% at AEP Ohio to double digits at FirstEnergy's utilities. With prices fixed until May 31, 2027, Ohio households'
+  next scheduled supply change is June 1, 2027. Ohio's retail choice market means many customers are on supplier
+  contracts or municipal aggregation instead; the default price is the benchmark to compare against, and our
+  [supplier comparison guide](/posts/how-to-compare-electricity-supplier-offers/) shows how. For solar owners, the
+  PUCO's net metering review is the decision to follow.
+
+faq:
+  - q: "Is solar worth it in Ohio?"
+    a: "It can be for a system sized to daytime use. Exports are credited only for the energy portion of supply, without capacity or delivery, while self-used solar avoids the full supply and per-kWh delivery charges. The 2026 capacity-driven price increases widened that gap."
+  - q: "What is the average electricity rate in Ohio?"
+    a: "EIA puts Ohio's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Supply alone ranges from about 10.0¢ to 10.9¢/kWh at the major utilities from June 2026, before delivery and riders."
+
+sources:
+  - title: "AEP Ohio Wire, SSO rate change, June 30, 2026"
+    url: "https://www.aepohiowire.com/sso-generation-rate-increase/"
+  - title: "AES Ohio, Understanding energy supply"
+    url: "https://www.aes-ohio.com/energy-supply"
+  - title: "EnergyChoiceMatters, FirstEnergy Ohio SSO, Apr. 29, 2026"
+    url: "https://www.energychoicematters.com/stories/20260429aa.html"
+  - title: "Canary Media, Ohio net metering ruling, Jan. 9, 2019"
+    url: "https://www.canarymedia.com/articles/enn/what-ohios-latest-net-metering-ruling-means-for-utility-customers"
+  - title: "Ohio Common Sense Initiative, CSI Review memo: Net Metering, Feb. 10, 2026"
+    url: "https://dam.assets.ohio.gov/image/upload/governor.ohio.gov/csi/CSI_REC_PUCO_2-10-26.pdf"

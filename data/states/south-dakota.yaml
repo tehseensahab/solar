@@ -1,0 +1,62 @@
+name: South Dakota
+slug: south-dakota
+abbr: SD
+region: Midwest
+neighbors: [minnesota, nebraska, north-dakota, iowa]
+refreshed: 2026-10-18
+guides: [solar-export-credit-rates-by-utility-2026, how-electric-rate-cases-work]
+
+summary: >-
+  South Dakota households paid {rate} on average in {month}, {change} on the year; nationally the figure was {us}.
+  Xcel Energy settled its case in May with a base-rate moratorium through 2028, while Black Hills Energy's 25%
+  residential request in the Rapid City area is still pending. South Dakota has no net metering, so rooftop solar is
+  only worth what it replaces in real time.
+
+solar: |-
+  South Dakota is one of the few states with no net metering at all. The Public Utilities Commission says plainly that
+  the state does not compensate solar generation at a net metered rate. Utilities pay avoided cost for power you send to
+  the grid, and for facilities under 100 kW, regulated utilities file those rates with the PUC.
+
+  That means only the solar you use the moment it is produced offsets the retail rate. A system sized to daytime load,
+  perhaps paired with load shifting (running a dishwasher or water heater at midday), keeps most of its value; a system
+  built to cover annual use would export much of its output at the low rate. Xcel's moratorium means its base rates are
+  unlikely to rise before 2029, so the retail value of self-use is fairly stable there. Black Hills Energy customers face
+  a different outlook: if the 25% request is approved, self-used solar becomes more valuable. The PUC advises asking your
+  utility about interconnection cost and the export price before you buy.
+
+net_metering:
+  status: "No net metering; exports paid at the utility's avoided cost"
+  text: |-
+    The [South Dakota PUC's solar FAQ](https://puc.sd.gov/Publications/solarfaq.aspx) states that South Dakota does not
+    compensate solar generation at a net metered rate. Utilities pay avoided cost for exported power; for facilities
+    under 100 kW, regulated utilities must file their rates with the PUC, which publishes them. Checked October 5, 2026.
+
+utilities:
+  - name: Xcel Energy (about 107,000 South Dakota customers)
+    detail: "Settlement approved May 8, 2026 (Docket EL25-024): $25.6 million (9.5%) versus $43.6 million requested; final rates from July 1, about +$13.48 a month at 750 kWh. Interim refund of about $43.52 on August and September bills. No base increases before January 1, 2029."
+  - name: Black Hills Energy (Rapid City area)
+    detail: "Pending request (Docket EL26-003): 25% for typical residential customers, about +$25.13 a month; eight intervenors admitted in May 2026."
+  - name: NorthWestern Energy, Otter Tail, MidAmerican, co-ops and municipal utilities
+    detail: "Not covered in our research."
+
+meaning: |-
+  The two South Dakota cases point in different directions. Xcel's settlement came in 41% below the request, with refunds
+  of interim overcollection and a moratorium that should keep its base rates flat into 2029. Black Hills Energy's request
+  is large relative to bills, and the intervenors, including a hospital and several manufacturers, signal a contested
+  case; no decision timeline has been reported. Rapid City area households should watch the docket and budget for a
+  possible increase. Our [rate case explainer](/posts/how-electric-rate-cases-work/) covers how to follow and comment on
+  a case.
+
+faq:
+  - q: "Is solar worth it in South Dakota?"
+    a: "It is a hard case for most homes. South Dakota has no net metering, so exports earn only avoided cost; only the solar you use in real time offsets the retail rate. Size a system to daytime use and ask your utility for its export rate and interconnection costs before buying."
+  - q: "What is the average electricity rate in South Dakota?"
+    a: "EIA puts South Dakota's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
+
+sources:
+  - title: "South Dakota PUC, Solar Energy FAQ"
+    url: "https://puc.sd.gov/Publications/solarfaq.aspx"
+  - title: "South Dakota PUC, Xcel settlement, May 8, 2026"
+    url: "https://puc.sd.gov/News/2026/05082026.aspx"
+  - title: "KOTA, Black Hills Energy rate case, May 2026"
+    url: "https://www.kotatv.com/2026/05/10/puc-begins-black-hills-energy-rate-case-businesses-hospitals-join-proceedings/"

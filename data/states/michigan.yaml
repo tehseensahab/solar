@@ -1,0 +1,74 @@
+name: Michigan
+slug: michigan
+abbr: MI
+region: Midwest
+neighbors: [indiana, ohio, wisconsin]
+refreshed: 2026-10-18
+guides: [how-electric-rate-cases-work, solar-export-credit-rates-by-utility-2026]
+
+summary: >-
+  Rate cases are nearly continuous in Michigan, where the residential average was {rate} in {month} ({change} from a
+  year earlier; U.S. {us}). Both DTE and Consumers Energy won electric increases in early 2026 and have new cases
+  pending, including a $474.3 million DTE request. Exports earn only the supply portion of the rate, so solar's value
+  in Michigan rises with each delivery increase but rewards self-use over exporting.
+
+solar: |-
+  Michigan's solar math is shaped by its distributed generation program, which replaced net metering for new
+  customers. It meters inflow and outflow separately: what you take from the grid is billed at the full retail rate,
+  and what you send back is credited at the power supply component only. DTE describes its Rider 18 outflow credit as
+  based on the supply part of the retail rate including Power Supply Cost Recovery, which leaves out distribution.
+
+  That design interacts directly with Michigan's rate cases. Rate cases mostly raise distribution charges, and
+  distribution is the part an exported kWh does not earn. Each approved increase therefore widens the gap between a
+  solar kWh used in the house and one exported. A system sized to daytime use, or a battery that holds midday output
+  for the evening, captures more of that growing value. Public Act 235 of 2023 allows projects up to 550 kW and up to
+  110% of the prior 12 months' use, but DTE's own page still described a 150 kW limit, so confirm the limit with your
+  utility before design.
+
+net_metering:
+  status: "Inflow/outflow billing; exports credited at the power supply component only"
+  text: |-
+    Michigan replaced net metering for new customers with distributed generation billing. DTE says its
+    [Rider 18](https://solutions.dteenergy.com/dte/en/Services/CleanVision-Service/Rooftop-Solar-and-Private-Generation/p/ROOFTOP_SOLAR)
+    outflow credit is based on the power supply component of the retail rate including PSCR, and that credits offset
+    all electric charges except securitization surcharges and carry forward. The
+    [MPSC](https://www.michigan.gov/mpsc/consumer/electricity/distributed-generation) says Public Act 235 of 2023
+    raised eligible project sizes to 550 kW and allows up to 110% of the previous 12 months' use, with updated
+    tariffs approved March 13, 2025. We have not found the current cents-per-kWh outflow credit for DTE or Consumers.
+    Checked October 5, 2026.
+
+utilities:
+  - name: DTE Electric (about 2.3 million electric customers)
+    detail: "$242.4 million approved (case U-21860), new rates March 5, 2026, about $4.23 a month for an average residential customer per DTE. Pending: $474.3 million filed April 28, 2026, 9.7% for residential if granted in full (Attorney General)."
+  - name: Consumers Energy
+    detail: "$276.6 million electric increase effective May 1, 2026; new electric case U-22070 filed June 2026. Separate gas increase of $139.2 million approved October 15, 2026, effective November 1."
+    page: "/posts/consumers-energy-gas-rate-increase-november-2026"
+  - name: Upper Peninsula Power Company
+    detail: "$17.3 million request pending (Attorney General, September 25, 2026)."
+
+meaning: |-
+  Michigan has settled into nearly continuous rate cases for its two largest utilities. The MPSC routinely cuts the
+  requests, DTE's February award was less than half its original ask, but the cumulative effect has been steady
+  increases, and both utilities filed again within months. The October 15 gas decision for Consumers Energy, about
+  58% of the request, followed the same pattern; see our [report on that decision](/posts/consumers-energy-gas-rate-increase-november-2026/).
+  The pending DTE electric case is the one to watch for 2027 bills. DTE has said it might pause future electric
+  requests if certain data center conditions are met, which is not a commitment. Public comments can be filed on the
+  MPSC e-docket; our [rate case explainer](/posts/how-electric-rate-cases-work/) explains how.
+
+faq:
+  - q: "Is solar worth it in Michigan?"
+    a: "It depends on how much of the output you use yourself. Exports earn only the power supply component of the rate, while self-used solar avoids the full retail rate, including distribution charges that keep rising through rate cases. Systems sized to daytime use, or paired with storage, get the most value."
+  - q: "What is the average electricity rate in Michigan?"
+    a: "EIA puts Michigan's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. DTE's March 2026 increase added about $4.23 a month for an average residential customer, according to DTE."
+
+sources:
+  - title: "Michigan Attorney General, DTE $474M filing, Apr. 28, 2026"
+    url: "https://www.michigan.gov/ag/news/press-releases/2026/04/28/ag-nessel-to-intervene-in-dte"
+  - title: "Michigan Attorney General, Consumers Energy $276.6M, Mar. 27, 2026"
+    url: "https://www.michigan.gov/ag/news/press-releases/2026/03/27/mpsc-approves-276m-consumers-energy-rate-hike"
+  - title: "MPSC, Distributed Generation"
+    url: "https://www.michigan.gov/mpsc/consumer/electricity/distributed-generation"
+  - title: "DTE Energy, Rooftop Solar and Private Generation (Rider 18)"
+    url: "https://solutions.dteenergy.com/dte/en/Services/CleanVision-Service/Rooftop-Solar-and-Private-Generation/p/ROOFTOP_SOLAR"
+  - title: "MPSC, Consumers natural gas rate decision, Oct. 15, 2026"
+    url: "https://www.michigan.gov/mpsc/commission/news-releases/2026/10/15/mpsc-approves-continued-safety-investments-for-consumers-natural-gas-system"

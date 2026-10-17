@@ -1,0 +1,70 @@
+name: Nevada
+slug: nevada
+abbr: NV
+region: West
+neighbors: [arizona, california, utah, idaho]
+refreshed: 2026-10-18
+guides: [residential-demand-charges-explained, battery-sizing-guide]
+
+summary: >-
+  Nevada homes paid {rate} on average in {month}, {change} on the year and well under the U.S. figure of {us}; in EIA's July 2026 data only Louisiana was lower. NV Energy filed fuel-cost decreases for October 1, and a contested daily demand
+  charge for southern Nevada homes is now expected in January 2027. New solar customers earn 75% of retail for
+  surplus, so batteries and self-use carry more weight than in the past.
+
+solar: |-
+  Nevada has abundant sun and cheap power, and its solar rules have tightened in ways that reward careful design.
+  New net metering customers receive credits worth 75% of the retail rate for surplus, locked for 20 years, according
+  to EnergySage. In northern Nevada, new customers since October 1, 2025 have had surplus measured in 15-minute
+  intervals instead of monthly netting, which means more of a system's midday output counts as export at the 75%
+  credit; KTVN reported an average cost of about $8 a month.
+
+  The bigger variable is the southern Nevada demand charge, now expected in January 2027. It is based on your highest
+  15 minutes of use each day, about $20 a month for an average customer per KTNV, with per-kWh base rates lowered to
+  offset it. Solar alone does little to reduce it, because the household peak usually comes in the evening. A battery
+  that covers evening load, or shifting heavy appliances into daylight hours, attacks both the demand charge and the
+  export discount. Lower per-kWh rates would also reduce what each solar kWh saves.
+
+net_metering:
+  status: "Net metering at 75% of retail for new customers; 15-minute netting in the north since Oct. 1, 2025"
+  text: |-
+    Per [EnergySage](https://www.energysage.com/local-data/net-metering/nv-energy/), new NV Energy customers receive
+    credits worth 75% of the retail rate for surplus, locked for 20 years. In northern Nevada, new customers since
+    October 1, 2025 are netted in 15-minute intervals rather than monthly; existing customers stay on monthly netting,
+    per [KTVN](https://www.2news.com/news/local/nv-energy-to-implement-changes-to-solar-energy-billing-and-demand-charges/article_1f692cb9-f297-4af4-9b7e-25a8fefbcbdf.html).
+    The state Bureau of Consumer Protection has argued the netting change and the demand charge violate Nevada law.
+    Checked October 5, 2026.
+
+utilities:
+  - name: NV Energy — southern Nevada
+    detail: "Filed fuel and purchased power decrease for October 1, 2026: −3.63% (about −$5.01 a month) for single-family homes; approval not confirmed. Daily residential demand charge expected January 2027."
+  - name: NV Energy — northern Nevada
+    detail: "Filed decrease of −1.82% (about −$1.86 a month) for residential customers from October 1, 2026; approval not confirmed."
+  - name: Rural co-ops and municipal utilities
+    detail: "Not covered in our research."
+
+meaning: |-
+  Nevada's October change was the rare decrease: NV Energy's quarterly fuel and purchased power filing passes lower
+  supply costs through to customers, separate from base rates. The structural fight is about rate design. The PUCN
+  approved a daily demand charge for southern Nevada residential customers in the last rate case, and its start has
+  slipped several times, now to January 2027; the Bureau of Consumer Protection argues it amounts to mandatory
+  time-varying pricing barred by state law. If it starts, a household's bill will depend partly on its single busiest
+  15 minutes each day. Our explainer on [residential demand charges](/posts/residential-demand-charges-explained/)
+  uses NV Energy's design as a worked example.
+
+faq:
+  - q: "Is solar worth it in Nevada?"
+    a: "It can be, but less simply than before. New customers earn 75% of retail for surplus, northern Nevada now nets in 15-minute intervals, and a daily demand charge is expected in southern Nevada in January 2027. Pairing solar with a battery and running heavy loads in daylight protects more of the value."
+  - q: "What is the average electricity rate in Nevada?"
+    a: "EIA puts Nevada's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
+
+sources:
+  - title: "KTNV, NV Energy asks PUCN to lower electric rates, Aug. 2026"
+    url: "https://www.ktnv.com/news/nv-energy-asks-pucn-to-lower-electric-rates-for-southern-nevada-customers"
+  - title: "This Is Reno, NV Energy proposes rate changes, Aug. 2026"
+    url: "https://thisisreno.com/2026/08/nv-energy-rate-changes/"
+  - title: "Nevada Current, Oct. 22, 2025"
+    url: "https://nevadacurrent.com/2025/10/22/nv-energy-peak-demand-charge-tweak-to-net-metering-violate-state-law-say-experts/"
+  - title: "EnergySage, NV Energy Net Metering (secondary)"
+    url: "https://www.energysage.com/local-data/net-metering/nv-energy/"
+  - title: "KTVN 2 News, NV Energy solar billing and demand charges"
+    url: "https://www.2news.com/news/local/nv-energy-to-implement-changes-to-solar-energy-billing-and-demand-charges/article_1f692cb9-f297-4af4-9b7e-25a8fefbcbdf.html"

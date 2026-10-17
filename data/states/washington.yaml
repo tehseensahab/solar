@@ -1,0 +1,72 @@
+name: Washington
+slug: washington
+abbr: WA
+region: West
+neighbors: [idaho, oregon, alaska]
+refreshed: 2026-10-18
+guides: [solar-export-credit-rates-by-utility-2026, how-to-read-your-electric-bill]
+
+summary: >-
+  Washington's homes averaged {rate} in {month}, {change} from {prev_month}, against {us} nationally, a figure that
+  blends Puget Sound Energy with many lower-cost public utilities. Puget Sound Energy's bills jumped on January 1,
+  2026, from a base-rate step plus power cost filings that the UTC put at about 12% on their own, while public
+  utilities set their own smaller increases. One-for-one net metering continues at PSE for now, but PSE has reached
+  the legal threshold, so new solar buyers should ask what replaces it.
+
+solar: |-
+  Washington's rooftop solar case is strong on rules today and uncertain about tomorrow. State law requires utilities to
+  offer one-for-one retail net metering until June 30, 2029, or until net-metered capacity reaches 4% of the utility's 1996
+  peak demand, whichever comes first. Puget Sound Energy has reached that threshold but is still offering one-for-one
+  credits under Schedule 150 while a replacement rate is developed, according to an installer's 2026 summary. No successor
+  schedule has been announced, and a statewide value-of-solar study is under way.
+
+  Rising PSE rates have increased what each credited kWh is worth. The risk for a new PSE customer is the term: get written
+  confirmation of whether your system will be placed on Schedule 150 and what happens to it when a successor rate takes
+  effect. Customers of Seattle City Light, Snohomish PUD, Tacoma Power and other public utilities should check their own
+  utility's net metering status, which can differ from PSE's.
+
+net_metering:
+  status: "One-for-one retail net metering; PSE at the 4% threshold but still offering Schedule 150"
+  text: |-
+    Per [A&R Solar's 2026 summary](https://www.a-rsolar.com/incentives-financing-policy/washington-net-metering/),
+    Washington utilities must offer one-for-one retail net metering until June 30, 2029, or until net-metered capacity
+    reaches 4% of 1996 peak demand. PSE has reached 4% but continues Schedule 150 while a successor rate is developed; a
+    statewide value-of-solar study is under way. These details come from an installer source; we have not read PSE's
+    Schedule 150. Checked October 5, 2026.
+
+utilities:
+  - name: Puget Sound Energy (PSE, more than 1.2 million electric customers)
+    detail: "UTC two-year plan: 800 kWh bill +$13.08 to $122.16 in 2025 and +$7.67 to $129.83 in 2026. Separate power cost and other filings effective January 1, 2026: net +$16.84 a month (+12.18%) at 800 kWh. Combined total not confirmed."
+  - name: Seattle City Light
+    detail: "About +$4 a month for residential customers in 2026 (installer summary)."
+  - name: Snohomish PUD
+    detail: "+2.5% residential in 2026, about $2 to $3 a month (installer summary)."
+  - name: Tacoma Power
+    detail: "About +$7.09 a month in 2026 (installer summary)."
+  - name: Avista and PacifiCorp
+    detail: "Not covered in our research."
+
+meaning: |-
+  PSE's January 2026 increase was mostly about power costs, not the base-rate case: the UTC said PSE's energy unit costs
+  rose 59% between 2025 and 2026, and its power cost filing alone, which includes Climate Commitment Act and clean energy
+  compliance, added about $28 a month at 800 kWh before credits and Colstrip cost removal brought the net to $16.84. Many
+  Washington households are served by public utilities outside the UTC's authority, which set their own, generally smaller,
+  increases for 2026. PSE's two-year plan covered 2025 and 2026, so a new general rate case is the next thing to watch. Our
+  [bill-reading guide](/posts/how-to-read-your-electric-bill/) helps separate power cost and climate program lines from base
+  charges.
+
+faq:
+  - q: "Is solar worth it in Washington?"
+    a: "Under today's one-for-one net metering it often can be, especially at PSE after the 2026 increases. But PSE has reached the 4% threshold and no successor rate has been announced, so get written confirmation of which schedule your system will be on and for how long."
+  - q: "What is the average electricity rate in Washington?"
+    a: "EIA puts Washington's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. PSE's typical 800 kWh bill was $129.83 after the 2026 base-rate step, before the separate power cost filings."
+
+sources:
+  - title: "Washington UTC, new rates for PSE, Jan. 15, 2025"
+    url: "https://www.utc.wa.gov/news/2025/state-regulators-approve-new-rates-pse"
+  - title: "Washington UTC, multiple orders impacting PSE rates, Dec. 2025"
+    url: "https://www.utc.wa.gov/news/2025/state-regulators-approve-multiple-orders-impacting-puget-sound-energy-rates"
+  - title: "A&R Solar, Washington Net Metering in 2026 (secondary)"
+    url: "https://www.a-rsolar.com/incentives-financing-policy/washington-net-metering/"
+  - title: "Northwest Electric & Solar, Washington utility rate increases 2026 (secondary)"
+    url: "https://nwsolar.com/blog/washington-utility-rate-increases-coming-in-2026/"

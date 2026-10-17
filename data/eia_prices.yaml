@@ -1,5 +1,13 @@
 # EIA Electric Power Monthly, Table 5.6.A, residential average price, cents/kWh.
 # July 2026 and July 2025, released September 24, 2026. Preliminary estimates.
+# Refresh: replace y2026/y2025 (and change/bill) with the latest Table 5.6.A release,
+# then update the four fields below. State hub pages read them for the
+# "Last updated" line, the rate section and schema dateModified.
+month: "July 2026"        # data month for y2026
+prev_month: "July 2025"   # data month for y2025
+released: 2026-09-24      # EIA release date of this table
+source: "EIA, Electric Power Monthly, Table 5.6.A"
+source_url: "https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a"
 us: {y2026: "18.31", y2025: "17.45"}
 states:
   alabama: {y2026: "16.40", y2025: "15.93", change: "+3.0%", bill: "$164.00"}

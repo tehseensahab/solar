@@ -1,0 +1,74 @@
+name: Massachusetts
+slug: massachusetts
+abbr: MA
+region: Northeast
+neighbors: [connecticut, new-hampshire, rhode-island, new-york]
+refreshed: 2026-10-18
+guides: [how-to-compare-electricity-supplier-offers, how-to-compare-solar-quotes]
+
+summary: >-
+  Massachusetts households paid an average {rate} in {month}, {change} from a year earlier and among the highest
+  prices in the continental U.S. (the U.S. average was {us}). Basic service supply rose 11% to 17% at the big
+  utilities on August 1 and holds until an expected early-2027 reset. With net metering credits that include
+  delivery and never expire, Massachusetts remains one of the best states for rooftop solar economics.
+
+solar: |-
+  Massachusetts pairs very high retail prices with one of the most generous net metering designs left in the
+  country. For a typical home system, the credit for exported power is built from four parts of the bill, basic
+  service, distribution, transmission and transition charges, so an exported kWh is worth close to what a purchased
+  one costs. The state's guide says credits never expire and roll to the next billing period, which removes the
+  year-end loss that penalizes oversizing elsewhere.
+
+  Home systems also avoid the program caps that once rationed net metering: Class I systems of 25 kW or less are
+  exempt, after the Department of Public Utilities raised the threshold from 10 kW in November 2024. Because the
+  credit includes basic service, the August 1 supply increase raised the value of every kWh a system produces. The
+  realistic constraints are roof space, shading and installed cost, so get several quotes and compare them on price
+  per watt and estimated production.
+
+net_metering:
+  status: "Net metering with credits based on supply and delivery; home systems ≤25 kW exempt from caps"
+  text: |-
+    Per the state's [net metering guide](https://www.mass.gov/info-details/net-metering-guide) (updated July 13,
+    2026), Class I systems with a nameplate rating of 25 kW or less are exempt from the net metering caps; the DPU
+    raised that threshold from 10 kW in a
+    [November 29, 2024 decision](https://www.mass.gov/news/dpu-expands-net-metering-program). For these systems the
+    credit is based on basic service, distribution, transmission and transition charges, and credits roll over to
+    the next billing period without expiring. We have not verified current SMART incentive rates. Checked
+    October 5, 2026.
+
+utilities:
+  - name: Eversource (eastern Massachusetts)
+    detail: "Basic service 17.323¢/kWh from August 1, 2026 (was 15.629¢), supply only; figures from secondary reports of utility filings."
+  - name: Eversource (western Massachusetts)
+    detail: "Basic service 15.934¢/kWh from August 1, 2026 (was 13.683¢)."
+  - name: National Grid
+    detail: "Basic service 16.669¢/kWh from August 1, 2026 before adjustment factors (was 14.751¢)."
+  - name: Unitil and municipal light plants
+    detail: "Unitil's August rate not verified; municipal light plants set their own rates."
+
+meaning: |-
+  Basic service in Massachusetts is bought twice a year and priced as a six-month fixed rate, so households on it saw
+  their change in August and should expect the next around February 1, 2027, a date we have not seen confirmed by
+  the DPU. Many households were not affected at all: citing the state Department of Energy Resources, the Boston
+  Globe reported that more than half of customers are in municipal aggregation programs and about another quarter
+  buy from competitive suppliers. If you are in one of those programs, your contract price matters more than the
+  basic service headline. Our [supplier comparison guide](/posts/how-to-compare-electricity-supplier-offers/) shows
+  how to compare them.
+
+faq:
+  - q: "Is solar worth it in Massachusetts?"
+    a: "For many homes, yes. Retail prices are high, and net metering credits for systems up to 25 kW include supply and delivery and roll over without expiring. Compare several quotes on price per watt and estimated production."
+  - q: "What is the average electricity rate in Massachusetts?"
+    a: "EIA puts the statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Supply alone is 17.323¢/kWh on Eversource's eastern Massachusetts basic service from August 1, 2026."
+
+sources:
+  - title: "Mass.gov, Net Metering Guide (updated July 13, 2026)"
+    url: "https://www.mass.gov/info-details/net-metering-guide"
+  - title: "Mass.gov, DPU Expands Net Metering Program, Nov. 29, 2024"
+    url: "https://www.mass.gov/news/dpu-expands-net-metering-program"
+  - title: "Mass.gov, Basic service information and rates"
+    url: "https://www.mass.gov/info-details/basic-service-information-and-rates"
+  - title: "The Boston Globe, July 27, 2026"
+    url: "https://www.bostonglobe.com/2026/07/27/business/national-grid-eversource-unitil-electricity-rate-increase/"
+  - title: "MA Energy Ratings, basic service rates rising Aug. 1 (secondary)"
+    url: "https://www.maenergyratings.com/blog/ma-basic-service-rates-rising-august-1/"

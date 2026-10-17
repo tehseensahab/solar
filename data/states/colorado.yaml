@@ -1,0 +1,76 @@
+name: Colorado
+slug: colorado
+abbr: CO
+region: West
+neighbors: [new-mexico, utah, wyoming, kansas]
+refreshed: 2026-10-18
+guides: [residential-demand-charges-explained, time-of-use-rates-and-solar]
+
+summary: >-
+  Coloradans paid {rate} on average in {month} ({change} year over year; U.S. average {us}), and Xcel Energy's latest
+  increase landed on August 29, 2026. The latest move came on August 29, 2026, when Xcel Energy's rates rose about $5
+  a month after the PUC approved less than half the request. Solar keeps a relatively strong case at Xcel, which still
+  credits surplus in kWh at the retail rate, but municipal utilities such as Colorado Springs have moved away from
+  that.
+
+solar: |-
+  For most Xcel Energy customers, Colorado still offers what many states have taken away: net metering with kWh
+  credits that offset later use at full value. Every solar kWh effectively saves the retail price, including the
+  August 2026 increase, which puts Colorado among the better states for the economics of a right-sized system even
+  without the federal homeowner credit.
+
+  Two caveats keep this from being automatic. First, leftover credits at year-end are paid out at Xcel's average
+  hourly incremental cost if you choose the payout option, which is far below retail; oversizing still loses value.
+  Second, the answer depends heavily on your utility. Colorado Springs Utilities replaced its net metering terms in
+  2026 with a choice between a grid access charge and a demand charge (see our
+  [coverage](/posts/colorado-springs-utilities-net-metering-changes-2026/)), and co-ops and other municipal
+  utilities set their own rules. Xcel's Solar*Rewards incentive pays per kWh when funding is open.
+
+net_metering:
+  status: "Net metering with retail kWh credits at Xcel Energy; rules differ at municipal utilities and co-ops"
+  text: |-
+    At Xcel Energy, surplus power earns kWh credits that offset later use. For credits left over, customers choose
+    between rolling them over indefinitely (no expiry, no cash-out) or a year-end payment at Xcel's average hourly
+    incremental cost for the prior year. [EnergySage](https://www.energysage.com/local-data/net-metering/xcel-energy/)
+    lists a size limit of 120% of annual use; Colorado law has allowed larger systems in recent years, so confirm
+    the current limit with Xcel.
+
+    Colorado Springs Utilities approved new solar rate options in 2026, a grid access charge or a demand charge,
+    covered in our [news report](/posts/colorado-springs-utilities-net-metering-changes-2026/). Rules checked
+    October 5, 2026.
+
+incentives:
+  - name: Xcel Energy Solar*Rewards
+    text: "A per-kWh production incentive paid by Xcel when program funding is open. Availability and rates change; check Xcel's program page before you sign. (Source: EnergySage summary of Xcel net metering, checked October 5, 2026.)"
+
+utilities:
+  - name: Xcel Energy (Public Service Company of Colorado)
+    detail: "New rates from August 29, 2026 (Proceeding 25AL-0494E): $157 million a year approved, 4.77% or about $5.00 a month for a typical residential customer, versus a $356 million request."
+  - name: Colorado Springs Utilities
+    detail: "Municipal utility; new solar customer options (grid access charge or demand charge) approved in 2026."
+    page: "/posts/colorado-springs-utilities-net-metering-changes-2026"
+  - name: Black Hills Energy, co-ops and other municipal utilities
+    detail: "Separate tariffs; not covered in our research."
+
+meaning: |-
+  The Xcel decision is a useful marker of how Colorado's commission is treating rate requests: it cut not only the
+  utility's ask but also the settlement the parties had reached, by $68 million. It paired the increase with bill
+  help, capping payments under the income-qualified PIPP at 2.5% of household income, removing the $100 monthly
+  benefit cap and adding a $20 monthly discount for customers 65 and older. For solar owners the bigger 2026 story
+  was in Colorado Springs, where the municipal utility moved new solar customers to a grid access charge or a
+  demand charge. Our explainer on [residential demand charges](/posts/residential-demand-charges-explained/) shows
+  how one short spike in use can set a month's charge.
+
+faq:
+  - q: "Is solar worth it in Colorado?"
+    a: "At Xcel Energy, often yes for a system sized to your use: surplus earns kWh credits at the retail rate. Year-end leftovers are paid far below retail, so avoid oversizing. Colorado Springs Utilities and other municipal utilities and co-ops use different rules, including demand charges, so check your utility first."
+  - q: "What is the average electricity rate in Colorado?"
+    a: "EIA puts Colorado's statewide residential average at {rate} in {month}, compared with {prev} in {prev_month}. Xcel's August 29, 2026 increase added about $5.00 a month for a typical residential customer."
+
+sources:
+  - title: "Colorado PUC, \"PUC Cuts Xcel Energy's Electric Rate Request and Expands Consumer Protections\""
+    url: "https://puc.colorado.gov/press-release/puc-cuts-xcel-energys-electric-rate-request-and-expands-consumer-protections"
+  - title: "The Colorado Sun, Aug. 20, 2026"
+    url: "https://coloradosun.com/2026/08/20/electric-bills-increase-xcel-energy-colorado/"
+  - title: "EnergySage, Xcel Energy Net Metering (secondary)"
+    url: "https://www.energysage.com/local-data/net-metering/xcel-energy/"

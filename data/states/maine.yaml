@@ -1,0 +1,74 @@
+name: Maine
+slug: maine
+abbr: ME
+region: Northeast
+neighbors: [new-hampshire, vermont, massachusetts]
+refreshed: 2026-10-18
+guides: [how-to-read-your-electric-bill, budget-billing-explained]
+
+summary: >-
+  Mainers paid an average of {rate} for residential power in {month}, {change} from {prev_month}, far above the U.S.
+  average of {us}. The 2026 standard offer supply price jumped about 20% at Central Maine Power and 23% at Versant's
+  Bangor Hydro District, and it stays fixed until December 31. With rooftop solar still earning one-for-one kWh
+  credits under net energy billing, high prices give solar one of its stronger cases in the Northeast.
+
+solar: |-
+  Maine's mix of high retail prices and kWh-for-kWh credits makes rooftop solar easier to justify than in most
+  states, even at a northern latitude. Under net energy billing, each kWh you export earns a kWh credit against later
+  use, so summer production can offset winter consumption at the full retail value, supply and delivery together.
+  The 2026 standard offer increase alone raised the value of each solar kWh by about 2.1¢ for Central Maine Power
+  customers.
+
+  Two details shape sizing. Credits do not last forever; sources differ on how leftovers are settled, with one guide
+  describing a much lower avoided-cost rate at the annual true-up, so check your utility's terms. And a monthly
+  minimum bill applies, listed at $8.00 for CMP and $9.00 for Versant. A system sized to annual use, rather than
+  above it, captures nearly all the value. Snow load, shading from trees and roof orientation matter more here than
+  in sunbelt states; ask installers for production estimates that account for them.
+
+net_metering:
+  status: "Net energy billing with one-for-one kWh credits for rooftop solar; credits time-limited"
+  text: |-
+    Maine's net energy billing still gives rooftop solar kWh credits against later use, according to
+    [NuWatt Energy's 2026 guide](https://nuwattenergy.com/en/maine/net-metering-guide-2026). Unused credits do not
+    last indefinitely, and the guide says leftovers are settled at a lower avoided-cost rate at an annual true-up;
+    we have not confirmed that detail in the utilities' tariffs. A monthly minimum bill applies ($8.00 CMP, $9.00
+    Versant, per the same guide). LD 1777 (2023) changed compensation for new community solar projects, not rooftop
+    systems. Checked October 5, 2026.
+
+community_solar: |-
+  Maine has a community solar market under its net energy billing program. LD 1777, passed in 2023, changed how new community
+  solar projects are compensated; it did not change rooftop systems, according to
+  [NuWatt Energy's 2026 guide](https://nuwattenergy.com/en/maine/net-metering-guide-2026). We have not reviewed current
+  subscription terms; before subscribing, check the discount offered, the contract length and any cancellation fee.
+
+utilities:
+  - name: Central Maine Power (CMP)
+    detail: "2026 residential standard offer 12.7210¢/kWh (2025: 10.6128¢), about $11.60 more a month at 550 kWh, supply only. Supplied by NextEra (50%), Constellation (25%) and New Brunswick Energy Marketing (25%)."
+  - name: Versant Power — Bangor Hydro District
+    detail: "2026 standard offer 12.9540¢/kWh (2025: 10.5628¢), about $13.15 more a month at 550 kWh."
+  - name: Versant Maine Public District and consumer-owned utilities
+    detail: "Separate prices; not covered in our research."
+
+meaning: |-
+  Maine's supply price is set once a year by competitive bid, so the big change for 2026 came on January 1, not
+  October 1. The PUC chair said the price reflects current market realities, and the Public Advocate pointed to higher
+  natural gas prices and wholesale-market changes that added risk for suppliers. Context helps: CMP's standard offer
+  was 6.4494¢ in 2021 and 17.6310¢ in early 2023, so 2026 sits between those extremes. The next number to watch is the
+  2027 standard offer, which had not been announced when we checked. Delivery rates are set separately and were not
+  part of this research. For spreading high winter bills, see our [budget billing guide](/posts/budget-billing-explained/).
+
+faq:
+  - q: "Is solar worth it in Maine?"
+    a: "Often, because net energy billing gives rooftop solar one-for-one kWh credits and Maine's prices are high. Size the system to annual use, since unused credits do not last indefinitely, and remember the monthly minimum bill ($8.00 at CMP and $9.00 at Versant, per a 2026 guide)."
+  - q: "What is the average electricity rate in Maine?"
+    a: "EIA puts Maine's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. The supply part alone, the 2026 standard offer, is 12.7210¢/kWh at CMP and 12.9540¢ at Versant's Bangor Hydro District."
+
+sources:
+  - title: "Maine PUC, Standard Offer Rates, Central Maine Power"
+    url: "https://www.maine.gov/mpuc/regulated-utilities/electricity/standard-offer-rates/cmp"
+  - title: "Maine PUC, Standard Offer Rates, Versant Bangor Hydro District"
+    url: "https://www1.maine.gov/mpuc/regulated-utilities/electricity/standard-offer-rates/bhd"
+  - title: "WGME, standard offer coverage"
+    url: "https://wgme.com/news/i-team/maine-electric-bills-set-to-rise-next-year-as-puc-sets-new-standard-offer-rate"
+  - title: "NuWatt Energy, Maine Net Metering 2026 (secondary)"
+    url: "https://nuwattenergy.com/en/maine/net-metering-guide-2026"
