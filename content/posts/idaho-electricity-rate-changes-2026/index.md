@@ -1,5 +1,7 @@
 ---
-title: "Idaho Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "Idaho Electricity Rates and Solar"
+detailTitle: "Idaho Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/idaho/"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Highway through dry open country with a line of power poles alongside."
@@ -17,6 +19,10 @@ takeaways:
   - "Annual adjustments on June 1, 2026 raised a typical residential bill another 3.15%, about $3.64 a month at 900 kWh."
   - "The June adjustments reset every year, so they can go down as well as up."
 faq:
+  - q: "Is solar worth it in Idaho?"
+    a: "Usually only for a system sized to your own use. Idaho Power credits non-summer exports at 2.9019¢/kWh and summer off-peak exports at 3.3920¢, against retail energy charges of roughly 10¢ to 15¢. Only summer on-peak exports (15.6836¢) beat retail, and few kWh fall in that window."
+  - q: "What is the average electricity rate in Idaho?"
+    a: "EIA puts Idaho's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
   - q: "Did Idaho electric rates change on October 1, 2026?"
     a: "We found no change on that date. Idaho Power's 2026 changes took effect January 1 and June 1."
   - q: "How much did Idaho Power rates go up in 2026?"
@@ -95,7 +101,7 @@ The January figures come from a financial news summary of Idaho Power's filing, 
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Idaho's average residential price at 13.73¢/kWh in July 2026, up 11.8% from 12.28¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $137.30 (1,000 × 13.73¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Montana](/posts/montana-electricity-rate-changes-2026/), [Oregon](/posts/oregon-electricity-rate-changes-2026/), [Utah](/posts/utah-electricity-rate-changes-2026/), [Washington](/posts/washington-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Montana](/rates/montana/), [Oregon](/rates/oregon/), [Utah](/rates/utah/), [Washington](/rates/washington/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

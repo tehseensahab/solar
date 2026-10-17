@@ -51,7 +51,7 @@ Figures are JCP&L's, from its August 7 release.
 - **Effective price per kWh:** $162.30 ÷ 767 = 21.2¢ now. $176.53 ÷ 767 = 23.0¢ if the request were approved in full.
 - **Storm costs per year:** $476 million ÷ 10 years = about $47.6 million a year, before any financing costs. JCP&L did not give a per-year figure.
 
-Note the usage basis. JCP&L's estimate uses 767 kWh. The BPU's June 2026 figures in our [New Jersey rate guide](/posts/new-jersey-electricity-rate-changes-2026/) use 650 kWh ($137.47 for JCP&L), so the two bills are not directly comparable.
+Note the usage basis. JCP&L's estimate uses 767 kWh. The BPU's June 2026 figures in our [New Jersey rate guide](/rates/new-jersey/) use 650 kWh ($137.47 for JCP&L), so the two bills are not directly comparable.
 
 ## Why the Increase Would Wait Until 2028
 
@@ -82,7 +82,7 @@ We did not find a docket number, hearing dates or a decision deadline.
 
 1. **Nothing changes now.** Under JCP&L's proposal, residential bills would not change until January 2028.
 2. **Supply is separate.** This request covers distribution and storm costs. Your supply price still resets each June through the state's auction, unless you buy from a third-party supplier.
-3. **For solar owners:** a higher distribution rate raises the value of each kWh you produce and use yourself. How it affects exported power depends on New Jersey's net metering rules, which are under review. See our [New Jersey guide](/posts/new-jersey-electricity-rate-changes-2026/).
+3. **For solar owners:** a higher distribution rate raises the value of each kWh you produce and use yourself. How it affects exported power depends on New Jersey's net metering rules, which are under review. See our [New Jersey guide](/rates/new-jersey/).
 4. **To comment,** watch your bill for a BPU notice of public hearings.
 
 ## Limitations

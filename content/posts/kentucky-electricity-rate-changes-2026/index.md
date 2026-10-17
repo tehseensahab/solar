@@ -1,5 +1,7 @@
 ---
-title: "Kentucky Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "Kentucky Electricity Rates and Solar"
+detailTitle: "Kentucky Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/kentucky/"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Line of transmission towers crossing open fields at dusk."
@@ -17,6 +19,10 @@ takeaways:
   - "A typical KU bill went from $133.57 to $142.30 at 1,085 kWh. A typical LG&E electric bill went from $108.76 to $113.90 at 866 kWh."
   - "The utilities agreed not to file another rate case until 2028, and the order raised compensation for rooftop solar."
 faq:
+  - q: "Is solar worth it in Kentucky?"
+    a: "It is a closer call than in most states. Retail power is relatively cheap, and the export credit at LG&E and KU, restored by the PSC in February 2026, is still subject to a rehearing motion. A system sized so most output is used at home is the lower-risk choice; get the current net metering tariff before signing."
+  - q: "What is the average electricity rate in Kentucky?"
+    a: "EIA puts Kentucky's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Typical KU and LG&E bills after the 2026 order work out to about 13.1¢ and 13.2¢ per kWh all-in."
   - q: "Did Kentucky electric rates change on October 1, 2026?"
     a: "We found no change on that date for LG&E or Kentucky Utilities. Their current base rates come from a February 16, 2026 Public Service Commission order."
   - q: "How much did KU and LG&E rates go up in 2026?"
@@ -86,7 +92,7 @@ We did not find the exact effective date of the new rates, the basic service cha
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Kentucky's average residential price at 13.81¢/kWh in July 2026, up 5.2% from 13.13¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $138.10 (1,000 × 13.81¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Indiana](/posts/indiana-electricity-rate-changes-2026/), [Ohio](/posts/ohio-electricity-rate-changes-2026/), [Tennessee](/posts/tennessee-electricity-rate-changes-2026/), [West Virginia](/posts/west-virginia-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Indiana](/rates/indiana/), [Ohio](/rates/ohio/), [Tennessee](/rates/tennessee/), [West Virginia](/rates/west-virginia/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

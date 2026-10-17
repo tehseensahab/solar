@@ -1,5 +1,7 @@
 ---
-title: "Oregon Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "Oregon Electricity Rates and Solar"
+detailTitle: "Oregon Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/oregon/"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Two solar panels on a flat rooftop with a house and bright autumn trees behind."
@@ -17,6 +19,10 @@ takeaways:
   - "Oregon's FAIR Energy Act prevents rate increases between November 1 and March 31, so winter filings land on April 1."
   - "It was the sixth straight year of approved residential increases. Rates are more than 50% higher than five years ago."
 faq:
+  - q: "Is solar worth it in Oregon?"
+    a: "Often, for a system sized to your annual use. PGE and Pacific Power offer net metering with kWh credits, and Energy Trust of Oregon offers incentives, but unused credits are donated each March, so oversizing gives power away."
+  - q: "What is the average electricity rate in Oregon?"
+    a: "EIA puts Oregon's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. PGE's April 2026 increase added about $8 a month for an average customer."
   - q: "Did Oregon electric rates change on October 1, 2026?"
     a: "We found no change on that date. Portland General Electric and Pacific Power raised residential rates on April 1, 2026."
   - q: "Why did Oregon rates change in April and not January?"
@@ -88,7 +94,7 @@ Figures come from the Oregon Capital Chronicle's report of the PUC decision. We 
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Oregon's average residential price at 15.97¢/kWh in July 2026, up 2.3% from 15.61¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $159.70 (1,000 × 15.97¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [California](/posts/california-electricity-rate-changes-2026/), [Idaho](/posts/idaho-electricity-rate-changes-2026/), [Nevada](/posts/nevada-electricity-rate-changes-2026/), [Washington](/posts/washington-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [California](/rates/california/), [Idaho](/rates/idaho/), [Nevada](/rates/nevada/), [Washington](/rates/washington/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

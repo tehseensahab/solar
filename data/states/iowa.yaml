@@ -54,11 +54,6 @@ meaning: |-
   not get the same terms. Our [rate case explainer](/posts/how-electric-rate-cases-work/) covers how interim rates and
   refunds work.
 
-faq:
-  - q: "Is solar worth it in Iowa?"
-    a: "Timing helps more in Iowa than elsewhere: today's retail-rate credit is locked for 20 years for systems installed before the value-of-solar method takes effect, which must happen by July 1, 2027 at the latest. Moderate retail prices mean payback still depends on usage and system cost."
-  - q: "What is the average electricity rate in Iowa?"
-    a: "EIA puts Iowa's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Rates differ between utilities; a local TV report found Alliant's residential rates were 62% above MidAmerican's in 2024."
 
 sources:
   - title: "Iowa Code 476.49, billing methods for distributed generation"

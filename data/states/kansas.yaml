@@ -52,11 +52,6 @@ meaning: |-
   files a new Kansas case, that issue is likely to return. Our [rate case explainer](/posts/how-electric-rate-cases-work/)
   covers how the KCC process works and how to comment.
 
-faq:
-  - q: "Is solar worth it in Kansas?"
-    a: "It can be at Evergy, where surplus is credited close to the retail rate. Because credits expire every March 31, size the system to your annual use so summer surplus is used over winter. Smaller utilities may offer only parallel generation at 1.5 times avoided cost, which is far less valuable."
-  - q: "What is the average electricity rate in Kansas?"
-    a: "EIA puts Kansas's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
 
 sources:
   - title: "Kansas Corporation Commission, Evergy rate case settlement, Sept. 25, 2025"

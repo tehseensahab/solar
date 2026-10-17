@@ -1,5 +1,7 @@
 ---
-title: "Oklahoma Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "Oklahoma Electricity Rates and Solar"
+detailTitle: "Oklahoma Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/oklahoma/"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Transmission towers crossing a flat field with wind turbines in the distance."
@@ -17,6 +19,10 @@ takeaways:
   - "PSO first asked for about 15%, more than $25 a month."
   - "OG&E filed a rate review on October 1, 2026 asking for $395 million, about $23.88 a month for an average residential customer. Nothing is approved."
 faq:
+  - q: "Is solar worth it in Oklahoma?"
+    a: "It can be for a system sized to your consumption. Oklahoma pays the retail energy rate only up to your own use and the avoided cost for anything above it, and retail prices are moderate, so payback depends heavily on sizing and installed cost."
+  - q: "What is the average electricity rate in Oklahoma?"
+    a: "EIA puts Oklahoma's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
   - q: "Did Oklahoma electric rates change on October 1, 2026?"
     a: "No approved rate changed that day. OG&E filed a request on October 1, 2026. PSO's interim increase has been in bills since July 1, 2026."
   - q: "Why is PSO charging an interim rate?"
@@ -85,7 +91,7 @@ PSO figures come from KGOU, KTUL, KRMG and the Tulsa Flyer. We did not open the 
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Oklahoma's average residential price at 14.35¢/kWh in July 2026, up 6.1% from 13.52¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $143.50 (1,000 × 14.35¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arkansas](/posts/arkansas-electricity-rate-changes-2026/), [Kansas](/posts/kansas-electricity-rate-changes-2026/), [New Mexico](/posts/new-mexico-electricity-rate-changes-2026/), [Texas](/posts/texas-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arkansas](/rates/arkansas/), [Kansas](/rates/kansas/), [New Mexico](/rates/new-mexico/), [Texas](/rates/texas/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

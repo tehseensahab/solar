@@ -12,7 +12,7 @@
 <article class="hub">
   <header class="post-head">
     <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a> › <a href="/rates-by-state/">Rates by State</a> › <span>{{ $d.name }}</span></nav>
-    <h1>{{ $d.name }} Electricity Rates and Solar</h1>
+    <h1>{{ .Title }}</h1>
     <p class="byline">
       {{- $by := .Params.author | default site.Params.author }}By {{ if index site.Data.writers $by }}<a rel="author" href="{{ printf "about/#%s" (anchorize $by) | absURL }}">{{ $by }}</a>{{ else }}<span rel="author">{{ $by }}</span>{{ end }}
       · Published <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
@@ -52,8 +52,8 @@
         <div><dt>Change from {{ $e.prev_month }}</dt><dd class="{{ cond $up "chg-up" "chg-down" }}">{{ cond $up "▲" "▼" }} {{ replace .change "-" "−" }}</dd></div>
         <div><dt>U.S. average, {{ $e.month }}</dt><dd>{{ $e.us.y2026 }}¢<small>/kWh</small></dd></div>
       </dl>
+      <p class="rate-caveat">This is a statewide average (all residential revenue ÷ all residential kWh sold, fixed charges included); actual bills vary by utility, rate plan, season and time-of-use pricing.{{ with $d.rate_note }} {{ partial "state/md.html" (dict "text" . "ctx" $c) }}{{ end }}</p>
       {{ partial "state/chart.html" $c }}
-      <p>These are statewide averages: EIA divides all residential revenue in {{ $d.name }} by all residential kWh sold, so fixed charges are included and every utility is blended together. Your own rate depends on your utility and plan; {{ if $d.utilities }}the <a href="#utilities">utility section</a> and {{ end }}the <a href="#rate-changes">2026 rate changes</a> below cover what individual utilities are charging and requesting. EIA's monthly figures are preliminary and can be revised.</p>
       {{ end }}
     </section>
 
@@ -128,7 +128,7 @@
 
     <section id="rate-changes" class="hub-detail" aria-labelledby="rate-changes-h">
       <p class="hub-kicker">In depth</p>
-      <h2 id="rate-changes-h">{{ .Title }}</h2>
+      <h2 id="rate-changes-h">{{ .Params.detailTitle | default "Recent rate changes" }}</h2>
       <p class="byline">Originally published <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>{{ with .Params.lastVerified }}{{ $v := time . }} · Last verified <time datetime="{{ $v.Format "2006-01-02" }}">{{ $v.Format "Jan 2, 2006" }}</time>{{ end }}</p>
       {{ with .Params.takeaways }}
       <aside class="takeaways" aria-label="Key takeaways">

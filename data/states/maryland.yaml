@@ -6,6 +6,8 @@ neighbors: [delaware, pennsylvania, virginia, west-virginia]
 refreshed: 2026-10-18
 guides: [how-to-compare-electricity-supplier-offers, how-electric-rate-cases-work]
 
+rate_note: Pepco's residential standard offer service rate (supply only) is about 14.677¢/kWh from October 2026 to May 2027, per a third-party analysis of published rates ([Honeydew Advisors](https://honeydewadvisors.com/md-pepco-rate-analysis/)); the statewide figure above is all-in.
+
 summary: >-
   Maryland's residential average reached {rate} in {month}, {change} on the year, compared with {us} nationally, and
   winter supply prices have since risen at Pepco. Pepco's default supply price rose about 11% on October 1 after a
@@ -52,11 +54,6 @@ meaning: |-
   has the details). Customers on standard offer service can compare supplier offers against the new price; our
   [supplier comparison guide](/posts/how-to-compare-electricity-supplier-offers/) explains how.
 
-faq:
-  - q: "Is solar worth it in Maryland?"
-    a: "Often yes, because Maryland still offers full retail net metering: monthly surplus earns credits worth supply and delivery. Size the system to your annual use, since leftover credits are paid each April at the commodity rate only."
-  - q: "What is the average electricity rate in Maryland?"
-    a: "EIA puts Maryland's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Pepco's supply price alone is about 14.677¢/kWh for October 2026 through May 2027, before delivery and taxes."
 
 sources:
   - title: "Maryland Office of People's Counsel, Consumer's Guide to BGE's Proposed Electric Rate Increase, Aug. 2026"

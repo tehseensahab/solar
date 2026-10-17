@@ -1,5 +1,7 @@
 ---
-title: "Ohio Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "Ohio Electricity Rates and Solar"
+detailTitle: "Ohio Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/ohio/"
 date: 2026-09-30
 lastmod: 2026-10-05
 lastVerified: 2026-09-30
@@ -25,6 +27,10 @@ takeaways:
   - "AES Ohio estimates its change at $14.06 more per month, or 7.5%, for a customer using 1,000 kWh."
   - "Ohio net metering credits exported power at the energy part of the supply rate only, and systems can be sized up to 120% of annual use."
 faq:
+  - q: "Is solar worth it in Ohio?"
+    a: "It can be for a system sized to daytime use. Exports are credited only for the energy portion of supply, without capacity or delivery, while self-used solar avoids the full supply and per-kWh delivery charges. The 2026 capacity-driven price increases widened that gap."
+  - q: "What is the average electricity rate in Ohio?"
+    a: "EIA puts Ohio's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Supply alone ranges from about 10.0¢ to 10.9¢/kWh at the major utilities from June 2026, before delivery and riders."
   - q: "Did AEP Ohio rates change on October 1, 2026?"
     a: "No verified change. AEP Ohio says its $0.1012 per kWh default supply rate took effect June 1, 2026 and stays in effect through May 31, 2027."
   - q: "How much did AES Ohio bills go up in 2026?"
@@ -96,7 +102,7 @@ Rules checked October 5, 2026. Solar tariffs change, so confirm the current term
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Ohio's average residential price at 19.45¢/kWh in July 2026, up 11.9% from 17.38¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $194.50 (1,000 × 19.45¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Indiana](/posts/indiana-electricity-rate-changes-2026/), [Kentucky](/posts/kentucky-electricity-rate-changes-2026/), [Michigan](/posts/michigan-electricity-rate-changes-2026/), [Pennsylvania](/posts/pennsylvania-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Indiana](/rates/indiana/), [Kentucky](/rates/kentucky/), [Michigan](/rates/michigan/), [Pennsylvania](/rates/pennsylvania/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

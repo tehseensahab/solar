@@ -1,5 +1,7 @@
 ---
-title: "Massachusetts Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "Massachusetts Electricity Rates and Solar"
+detailTitle: "Massachusetts Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/massachusetts/"
 seoTitle: "Eversource & National Grid Rate Changes 2026 in Massachusetts"
 date: 2026-09-30
 lastmod: 2026-10-05
@@ -26,6 +28,10 @@ takeaways:
   - "These figures cover supply only and come from secondary sources reporting on utility filings. More than half of customers are in municipal aggregation and were not affected."
   - "Home solar systems of 25 kW or less are exempt from the net metering caps, and credits never expire, per the state's net metering guide."
 faq:
+  - q: "Is solar worth it in Massachusetts?"
+    a: "For many homes, yes. Retail prices are high, and net metering credits for systems up to 25 kW include supply and delivery and roll over without expiring. Compare several quotes on price per watt and estimated production."
+  - q: "What is the average electricity rate in Massachusetts?"
+    a: "EIA puts the statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Supply alone is 17.323¢/kWh on Eversource's eastern Massachusetts basic service from August 1, 2026."
   - q: "Did Massachusetts electric rates go up on October 1, 2026?"
     a: "We did not find a residential rate change on October 1, 2026. Basic service supply prices reset every six months. The most recent reset was August 1, 2026, and the next is expected around February 1, 2027."
   - q: "How much did Eversource's basic service rate rise in August 2026?"
@@ -95,7 +101,7 @@ Rules checked October 5, 2026. Solar tariffs change, so confirm the current term
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Massachusetts's average residential price at 30.49¢/kWh in July 2026, up 1.4% from 30.07¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $304.90 (1,000 × 30.49¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Connecticut](/posts/connecticut-electricity-rate-changes-2026/), [New Hampshire](/posts/new-hampshire-electricity-rate-changes-2026/), [Rhode Island](/posts/rhode-island-electricity-rate-changes-2026/), [New York](/posts/new-york-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Connecticut](/rates/connecticut/), [New Hampshire](/rates/new-hampshire/), [Rhode Island](/rates/rhode-island/), [New York](/rates/new-york/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

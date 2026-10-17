@@ -1,5 +1,7 @@
 ---
-title: "New Mexico Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "New Mexico Electricity Rates and Solar"
+detailTitle: "New Mexico Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/new-mexico/"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Solar panels on a clay tile roof with a faint rainbow in the sky behind."
@@ -17,6 +19,10 @@ takeaways:
   - "El Paso Electric has asked for $70.4 million more in base rates in New Mexico, more than $40 a month per household, in two phases starting in 2027."
   - "Neither the El Paso Electric request nor a reported settlement for Xcel's Southwestern Public Service is a final rate yet."
 faq:
+  - q: "Is solar worth it in New Mexico?"
+    a: "Often yes. PNM offers retail-rate net metering, the state Solar Market Development Tax Credit covers 10% of cost up to $6,000 while its yearly budget lasts, and rates rose in 2025 and April 2026. Confirm tax credit funds and your utility's terms before signing."
+  - q: "What is the average electricity rate in New Mexico?"
+    a: "EIA puts New Mexico's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
   - q: "Did New Mexico electric rates change on October 1, 2026?"
     a: "We found no change on that date. PNM's most recent change was April 1, 2026."
   - q: "How much did PNM rates go up in 2026?"
@@ -91,7 +97,7 @@ PNM figures come from the PRC's customer notice, which gives a dollar amount but
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts New Mexico's average residential price at 16.09¢/kWh in July 2026, up 1.8% from 15.80¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $160.90 (1,000 × 16.09¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arizona](/posts/arizona-electricity-rate-changes-2026/), [Colorado](/posts/colorado-electricity-rate-changes-2026/), [Texas](/posts/texas-electricity-rate-changes-2026/), [Oklahoma](/posts/oklahoma-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arizona](/rates/arizona/), [Colorado](/rates/colorado/), [Texas](/rates/texas/), [Oklahoma](/rates/oklahoma/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

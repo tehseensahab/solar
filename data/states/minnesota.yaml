@@ -49,11 +49,6 @@ meaning: |-
   should watch for two credits: the interim-rate refund and the Prairie Island refund. Bill impact figures from Xcel,
   local media and the Citizens Utility Board differ, so compare your own bills before and after final rates.
 
-faq:
-  - q: "Is solar worth it in Minnesota?"
-    a: "At Xcel and other investor-owned utilities it can be, because systems under 40 kW are credited at about the average retail energy rate. Size to annual use, since year-end leftovers are paid at avoided cost. At co-ops and municipal utilities, check for net metering fees first."
-  - q: "What is the average electricity rate in Minnesota?"
-    a: "EIA puts Minnesota's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
 
 sources:
   - title: "Minnesota PUC, Xcel electric rate decision (news release)"

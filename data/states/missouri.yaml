@@ -53,11 +53,6 @@ meaning: |-
   [Columbia report](/posts/columbia-missouri-electric-rates-october-2026/)). For solar buyers, our
   [fixed-charge guide](/posts/fixed-charges-and-solar-savings/) explains why the customer charge sets a floor on savings.
 
-faq:
-  - q: "Is solar worth it in Missouri?"
-    a: "It can be for a system sized so monthly production stays at or below monthly use. Within the month solar offsets retail-rate usage, but end-of-month surplus earns only avoided cost, 3.84¢/kWh in summer and 3.39¢ in winter at Ameren Missouri. Pending rate increases would raise the value of self-used solar."
-  - q: "What is the average electricity rate in Missouri?"
-    a: "EIA puts Missouri's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Ameren's pending case would add about $13 a month for an average residential customer if approved as filed."
 
 sources:
   - title: "Ameren Missouri, Solar FAQs"

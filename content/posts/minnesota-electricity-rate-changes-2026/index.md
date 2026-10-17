@@ -1,5 +1,7 @@
 ---
-title: "Minnesota Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "Minnesota Electricity Rates and Solar"
+detailTitle: "Minnesota Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/minnesota/"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Transmission tower and power lines above a green hillside under a blue sky with thin clouds."
@@ -17,6 +19,10 @@ takeaways:
   - "Xcel expects to refund the difference between interim and final rates as a one-time credit with interest."
   - "Xcel says the average residential bill rises 2.85%, or $2.78 a month, in 2025 and 2026. Other sources give higher figures, which we list without reconciling."
 faq:
+  - q: "Is solar worth it in Minnesota?"
+    a: "At Xcel and other investor-owned utilities it can be, because systems under 40 kW are credited at about the average retail energy rate. Size to annual use, since year-end leftovers are paid at avoided cost. At co-ops and municipal utilities, check for net metering fees first."
+  - q: "What is the average electricity rate in Minnesota?"
+    a: "EIA puts Minnesota's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
   - q: "Did Minnesota electric rates change on October 1, 2026?"
     a: "We found no approved change on that date for Xcel Energy. Xcel says the commission gave final approval on rates on July 31, 2026."
   - q: "Will Xcel customers get a refund?"
@@ -104,7 +110,7 @@ The Minnesota Public Utilities Commission opened a statewide investigation into 
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Minnesota's average residential price at 17.45¢/kWh in July 2026, up 3.1% from 16.92¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $174.50 (1,000 × 17.45¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Iowa](/posts/iowa-electricity-rate-changes-2026/), [North Dakota](/posts/north-dakota-electricity-rate-changes-2026/), [South Dakota](/posts/south-dakota-electricity-rate-changes-2026/), [Wisconsin](/posts/wisconsin-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Iowa](/rates/iowa/), [North Dakota](/rates/north-dakota/), [South Dakota](/rates/south-dakota/), [Wisconsin](/rates/wisconsin/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

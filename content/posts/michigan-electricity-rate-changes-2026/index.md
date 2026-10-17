@@ -1,5 +1,7 @@
 ---
-title: "Michigan Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "Michigan Electricity Rates and Solar"
+detailTitle: "Michigan Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/michigan/"
 seoTitle: "DTE & Consumers Energy Rate Increase 2026: Michigan Guide"
 date: 2026-09-30
 lastmod: 2026-10-05
@@ -26,6 +28,10 @@ takeaways:
   - "Consumers Energy's $276.6 million increase took effect May 1, 2026. Both utilities have new requests pending, including DTE's $474.3 million filing."
   - "New rooftop solar is billed on an inflow/outflow basis. DTE credits exports at the power supply part of the rate, not the full retail rate."
 faq:
+  - q: "Is solar worth it in Michigan?"
+    a: "It depends on how much of the output you use yourself. Exports earn only the power supply component of the rate, while self-used solar avoids the full retail rate, including distribution charges that keep rising through rate cases. Systems sized to daytime use, or paired with storage, get the most value."
+  - q: "What is the average electricity rate in Michigan?"
+    a: "EIA puts Michigan's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. DTE's March 2026 increase added about $4.23 a month for an average residential customer, according to DTE."
   - q: "Did DTE or Consumers Energy rates go up on October 1, 2026?"
     a: "We did not find a rate change on that date. DTE's last approved increase began March 5, 2026, and Consumers Energy's began May 1, 2026."
   - q: "How much did the 2026 DTE increase add to a bill?"
@@ -98,7 +104,7 @@ Rules checked October 5, 2026. Solar tariffs change, so confirm the current term
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Michigan's average residential price at 23.05¢/kWh in July 2026, up 12.2% from 20.55¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $230.50 (1,000 × 23.05¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Indiana](/posts/indiana-electricity-rate-changes-2026/), [Ohio](/posts/ohio-electricity-rate-changes-2026/), [Wisconsin](/posts/wisconsin-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Indiana](/rates/indiana/), [Ohio](/rates/ohio/), [Wisconsin](/rates/wisconsin/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

@@ -48,11 +48,6 @@ meaning: |-
   reach rates in later years. Fuel is recovered separately and changes during the year; our
   [bill-reading guide](/posts/how-to-read-your-electric-bill/) shows where it appears.
 
-faq:
-  - q: "Is solar worth it in Mississippi?"
-    a: "Usually only for systems sized to your own use. Exports are credited at avoided cost plus an adder (2.5¢/kWh in the PSC's consumer guide, plus 2¢ for qualifying low-income customers), well below retail, and Mississippi's retail prices are low, which lengthens payback. Confirm the current adder, since the rule was revised in 2022."
-  - q: "What is the average electricity rate in Mississippi?"
-    a: "EIA puts Mississippi's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
 
 sources:
   - title: "Mississippi PSC, Net Metering and Solar Power in Mississippi (consumer guide)"

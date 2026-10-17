@@ -6,6 +6,8 @@ neighbors: [california, nevada, new-mexico, utah]
 refreshed: 2026-10-18
 guides: [solar-export-credit-rates-by-utility-2026, time-of-use-rates-and-solar]
 
+rate_note: APS and TEP both offer time-of-use residential plans, where the hour you use power changes what you pay; TEP lists its plans and requested changes on its [2026 rates page](https://www.tep.com/2026-rates/).
+
 summary: >-
   On paper Arizona looks calm: {rate} on average in {month}, {change} from a year earlier, against a U.S. figure of
   {us}. That calm average hides pending cases: APS and Tucson Electric Power both have double-digit increase requests
@@ -57,11 +59,6 @@ meaning: |-
   the grid access charge separately. See our [time-of-use and solar guide](/posts/time-of-use-rates-and-solar/)
   for how peak windows change the value of panels and batteries.
 
-faq:
-  - q: "Is solar worth it in Arizona?"
-    a: "Often, if the system is sized to your own use. Exports earn about 6¢/kWh at APS for 2026 interconnections, well under the retail price, so self-consumed solar is worth more than twice exported solar. Pending APS decisions on rates and the solar grid access charge could move the payback either way."
-  - q: "What is the average electricity rate in Arizona?"
-    a: "EIA puts Arizona's statewide residential average at {rate} in {month}, compared with {prev} in {prev_month}. Most APS and TEP customers are on time-of-use plans, so their effective rate depends on when they use power."
 
 sources:
   - title: "Arizona Corporation Commission, \"What's Next in the APS Rate Case?\" July 10, 2026"

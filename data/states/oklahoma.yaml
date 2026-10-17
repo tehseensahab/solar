@@ -48,11 +48,6 @@ meaning: |-
   month interim rates applied. OG&E's filing, its first since 2023, starts a new cycle with new rates targeted about
   six months out; see our [OG&E report](/posts/oge-files-oklahoma-rate-case-2026/). For the mechanics of interim rates and refunds, see our [rate case explainer](/posts/how-electric-rate-cases-work/).
 
-faq:
-  - q: "Is solar worth it in Oklahoma?"
-    a: "It can be for a system sized to your consumption. Oklahoma pays the retail energy rate only up to your own use and the avoided cost for anything above it, and retail prices are moderate, so payback depends heavily on sizing and installed cost."
-  - q: "What is the average electricity rate in Oklahoma?"
-    a: "EIA puts Oklahoma's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
 
 sources:
   - title: "Oklahoma Corporation Commission, Net Metering in Oklahoma"

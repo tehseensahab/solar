@@ -1,5 +1,7 @@
 ---
-title: "Mississippi Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "Mississippi Electricity Rates and Solar"
+detailTitle: "Mississippi Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/mississippi/"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Utility pole and power lines beside trees with sunlit clouds overhead."
@@ -17,6 +19,10 @@ takeaways:
   - "Entergy credits payments from data center customers for the offset."
   - "Entergy Mississippi serves about 459,000 customers in 45 counties. Mississippi Power and cooperatives set rates separately."
 faq:
+  - q: "Is solar worth it in Mississippi?"
+    a: "Usually only for systems sized to your own use. Exports are credited at avoided cost plus an adder (2.5¢/kWh in the PSC's consumer guide, plus 2¢ for qualifying low-income customers), well below retail, and Mississippi's retail prices are low, which lengthens payback. Confirm the current adder, since the rule was revised in 2022."
+  - q: "What is the average electricity rate in Mississippi?"
+    a: "EIA puts Mississippi's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
   - q: "Did Mississippi electric rates change on October 1, 2026?"
     a: "Entergy Mississippi said on August 27, 2026 that it had filed for a reduction of about $0.41 a month for October. When we checked on October 4, we found no report of the Public Service Commission's decision."
   - q: "Did Entergy Mississippi raise rates in 2026?"
@@ -86,7 +92,7 @@ This article relies mainly on an Entergy news release. We did not open Public Se
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Mississippi's average residential price at 14.54¢/kWh in July 2026, up 7.1% from 13.58¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $145.40 (1,000 × 14.54¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Alabama](/posts/alabama-electricity-rate-changes-2026/), [Arkansas](/posts/arkansas-electricity-rate-changes-2026/), [Louisiana](/posts/louisiana-electricity-rate-changes-2026/), [Tennessee](/posts/tennessee-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Alabama](/rates/alabama/), [Arkansas](/rates/arkansas/), [Louisiana](/rates/louisiana/), [Tennessee](/rates/tennessee/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

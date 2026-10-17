@@ -55,11 +55,6 @@ meaning: |-
   requests if certain data center conditions are met, which is not a commitment. Public comments can be filed on the
   MPSC e-docket; our [rate case explainer](/posts/how-electric-rate-cases-work/) explains how.
 
-faq:
-  - q: "Is solar worth it in Michigan?"
-    a: "It depends on how much of the output you use yourself. Exports earn only the power supply component of the rate, while self-used solar avoids the full retail rate, including distribution charges that keep rising through rate cases. Systems sized to daytime use, or paired with storage, get the most value."
-  - q: "What is the average electricity rate in Michigan?"
-    a: "EIA puts Michigan's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. DTE's March 2026 increase added about $4.23 a month for an average residential customer, according to DTE."
 
 sources:
   - title: "Michigan Attorney General, DTE $474M filing, Apr. 28, 2026"

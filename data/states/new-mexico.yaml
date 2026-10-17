@@ -53,11 +53,6 @@ meaning: |-
   [payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how to build a scenario with and
   without a pending increase.
 
-faq:
-  - q: "Is solar worth it in New Mexico?"
-    a: "Often yes. PNM offers retail-rate net metering, the state Solar Market Development Tax Credit covers 10% of cost up to $6,000 while its yearly budget lasts, and rates rose in 2025 and April 2026. Confirm tax credit funds and your utility's terms before signing."
-  - q: "What is the average electricity rate in New Mexico?"
-    a: "EIA puts New Mexico's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
 
 sources:
   - title: "New Mexico PRC, PNM rate change effective April 1, 2026"

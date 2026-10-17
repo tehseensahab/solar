@@ -1,5 +1,7 @@
 ---
-title: "Wyoming Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "Wyoming Electricity Rates and Solar"
+detailTitle: "Wyoming Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/wyoming/"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Aerial view of a residential neighborhood with solar panels on many rooftops."
@@ -17,6 +19,10 @@ takeaways:
   - "The company has asked for an 8.8% general rate increase, $70.5 million, to take effect in 2027. It says the net effect on residential customers would be 3.9%."
   - "Black Hills Energy wants a 32% increase, about $32 a month, for 2,600 customers in Upton and Newcastle. The hearing is October 7 and 8, 2026."
 faq:
+  - q: "Is solar worth it in Wyoming?"
+    a: "For a system sized to annual use, it can be. Wyoming net metering gives kWh credits that offset use through the calendar year; only year-end leftovers are sold at about 3¢/kWh. Low retail prices mean longer payback than in high-cost states."
+  - q: "What is the average electricity rate in Wyoming?"
+    a: "EIA puts Wyoming's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
   - q: "Did Wyoming electric rates change on October 1, 2026?"
     a: "We found no change on that date. Rocky Mountain Power's energy cost adjustment fell on July 1, 2026, and its general rate request is for 2027."
   - q: "How much is Rocky Mountain Power asking for in Wyoming?"
@@ -88,7 +94,7 @@ Figures come from Cowboy State Daily and KOTA. We did not open PSC dockets, and 
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Wyoming's average residential price at 14.36¢/kWh in July 2026, down 1.9% from 14.64¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $143.60 (1,000 × 14.36¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Colorado](/posts/colorado-electricity-rate-changes-2026/), [Idaho](/posts/idaho-electricity-rate-changes-2026/), [Montana](/posts/montana-electricity-rate-changes-2026/), [Utah](/posts/utah-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Colorado](/rates/colorado/), [Idaho](/rates/idaho/), [Montana](/rates/montana/), [Utah](/rates/utah/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

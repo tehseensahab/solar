@@ -1,5 +1,7 @@
 ---
-title: "North Carolina Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "North Carolina Electricity Rates and Solar"
+detailTitle: "North Carolina Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/north-carolina/"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Cream-sided house with a two-car garage and solar panels on its roof, framed by trees."
@@ -17,6 +19,10 @@ takeaways:
   - "Duke first asked for about 18% more from residential customers over two years. The settlements cut that to roughly 9.5% (Carolinas) and 9.3% (Progress)."
   - "Rooftop solar owners still on the original net metering rate are scheduled to move off it on January 1, 2027, under a 2023 commission order."
 faq:
+  - q: "Is solar worth it in North Carolina?"
+    a: "It can be, but the rules for new Duke customers are tighter: Residential Solar Choice uses time-of-use pricing, a minimum monthly bill and a per-kW charge, and the Net Metering Bridge rider closes to new applicants after December 31, 2026. Systems sized to daytime use, or paired with a battery for the evening peak, hold their value best."
+  - q: "What is the average electricity rate in North Carolina?"
+    a: "EIA puts North Carolina's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Duke Energy Carolinas' 1,000 kWh residential bill was cited at $156.81 in July 2026 settlement coverage."
   - q: "Did Duke Energy rates go up in North Carolina on October 1, 2026?"
     a: "We found no approved base rate change for that date. Duke Energy's two North Carolina rate cases were still under review by the Utilities Commission at the end of September 2026. New rates are proposed for January 1, 2027."
   - q: "How much could Duke Energy bills rise in 2027?"
@@ -137,7 +143,7 @@ We could not open Duke Energy's tariff sheets or the commission's docket files d
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts North Carolina's average residential price at 15.16¢/kWh in July 2026, up 13.4% from 13.37¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $151.60 (1,000 × 15.16¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [South Carolina](/posts/south-carolina-electricity-rate-changes-2026/), [Tennessee](/posts/tennessee-electricity-rate-changes-2026/), [Virginia](/posts/virginia-electricity-rate-changes-2026/), [Georgia](/posts/georgia-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [South Carolina](/rates/south-carolina/), [Tennessee](/rates/tennessee/), [Virginia](/rates/virginia/), [Georgia](/rates/georgia/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

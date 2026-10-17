@@ -1,5 +1,7 @@
 ---
-title: "Tennessee Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "Tennessee Electricity Rates and Solar"
+detailTitle: "Tennessee Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/tennessee/"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Transmission towers rising above a forested valley with hills in the distance."
@@ -17,6 +19,10 @@ takeaways:
   - "Most Tennessee households buy power from a local power company that resells TVA power. That company can change its own rates separately."
   - "TVA's monthly fuel cost adjustment still moves bills up and down through the year."
 faq:
+  - q: "Is solar worth it in Tennessee?"
+    a: "Only for systems sized to your own daytime use, for most homes. There is no net metering in the TVA region; TVA buys exported power at a baseline 3.766¢/kWh, while retail power is relatively cheap. Ask your local power company about interconnection rules and fees first."
+  - q: "What is the average electricity rate in Tennessee?"
+    a: "EIA puts Tennessee's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}. Your local power company's rate schedule determines your actual price."
   - q: "Did TVA raise rates on October 1, 2026?"
     a: "TVA's August 20, 2026 board announcement describes a new data center rate and the fiscal 2027 budget. It does not announce a base rate increase for homes. We found no other source reporting one."
   - q: "Who sets my electric rate in Tennessee?"
@@ -92,7 +98,7 @@ We relied on TVA's own announcement and on news reports about the data center ra
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Tennessee's average residential price at 13.71¢/kWh in July 2026, up 3.8% from 13.21¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $137.10 (1,000 × 13.71¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Alabama](/posts/alabama-electricity-rate-changes-2026/), [Georgia](/posts/georgia-electricity-rate-changes-2026/), [Kentucky](/posts/kentucky-electricity-rate-changes-2026/), [North Carolina](/posts/north-carolina-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Alabama](/rates/alabama/), [Georgia](/rates/georgia/), [Kentucky](/rates/kentucky/), [North Carolina](/rates/north-carolina/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

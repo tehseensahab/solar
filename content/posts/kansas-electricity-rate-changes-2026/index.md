@@ -1,5 +1,7 @@
 ---
-title: "Kansas Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "Kansas Electricity Rates and Solar"
+detailTitle: "Kansas Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/kansas/"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Close view of steel transmission towers and power lines against a green and yellow sky."
@@ -17,6 +19,10 @@ takeaways:
   - "It added about $8.47 a month for a residential customer using 900 kWh, starting with the October 2025 billing cycle."
   - "October 2026 is the first full year at those rates, so a year-over-year comparison should show little base rate change."
 faq:
+  - q: "Is solar worth it in Kansas?"
+    a: "It can be at Evergy, where surplus is credited close to the retail rate. Because credits expire every March 31, size the system to your annual use so summer surplus is used over winter. Smaller utilities may offer only parallel generation at 1.5 times avoided cost, which is far less valuable."
+  - q: "What is the average electricity rate in Kansas?"
+    a: "EIA puts Kansas's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
   - q: "Did Kansas electric rates change on October 1, 2026?"
     a: "We found no approved base rate change for Evergy on that date. The last one took effect with the October 2025 billing cycle."
   - q: "How much was Evergy's last Kansas increase?"
@@ -87,7 +93,7 @@ We found one rate decision and no later one. We did not check whether Evergy has
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Kansas's average residential price at 15.27¢/kWh in July 2026, up 5.6% from 14.46¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $152.70 (1,000 × 15.27¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Colorado](/posts/colorado-electricity-rate-changes-2026/), [Missouri](/posts/missouri-electricity-rate-changes-2026/), [Nebraska](/posts/nebraska-electricity-rate-changes-2026/), [Oklahoma](/posts/oklahoma-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Colorado](/rates/colorado/), [Missouri](/rates/missouri/), [Nebraska](/rates/nebraska/), [Oklahoma](/rates/oklahoma/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

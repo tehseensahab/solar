@@ -55,11 +55,6 @@ meaning: |-
   [export credit guide](/posts/solar-export-credit-rates-by-utility-2026/) explains why the gap between retail and
   avoided-cost credits matters so much.
 
-faq:
-  - q: "Is solar worth it in Alaska?"
-    a: "It can be for a system sized to summer use. Retail prices are high, but surplus power earns only avoided cost (roughly a third of retail, per the Anchorage Daily News) and winter output is very low. Check whether your utility is still taking new net-metered systems, since several Railbelt utilities have passed the 1.5% cap."
-  - q: "What is the average electricity rate in Alaska?"
-    a: "EIA's statewide average residential price was {rate} in {month}, against {prev} in {prev_month}. Rates differ widely by utility, and rural communities are not represented by that average in any meaningful way."
 
 sources:
   - title: "Golden Valley Electric Association, Rate Case"

@@ -6,6 +6,8 @@ neighbors: [alabama, florida, south-carolina, tennessee]
 refreshed: 2026-10-18
 guides: [solar-export-credit-rates-by-utility-2026, budget-billing-explained]
 
+rate_note: 'Georgia Power''s standard Residential Service plan is seasonal: its energy charge (before fuel, riders and the basic service charge) is 8.2¢/kWh from October to May and tiered from 8.8¢ to 15.1¢ in summer ([Georgia Power](https://www.georgiapower.com/residential/rate-plans/residential-service.html)); the statewide figure above is all-in.'
+
 summary: >-
   Georgia Power customers are living under a base-rate freeze, and the statewide residential average was {rate} in
   {month} ({change} on the year; U.S. {us}). Georgia Power's base rates are frozen through at least 2028, and a June
@@ -52,11 +54,6 @@ meaning: |-
   October lowers bills seasonally; our [budget billing guide](/posts/budget-billing-explained/) covers smoothing
   those swings.
 
-faq:
-  - q: "Is solar worth it in Georgia?"
-    a: "For Georgia Power customers with high summer daytime use, it can be: self-used solar avoids summer energy charges of up to 15.1¢/kWh before fuel, while exports earn 7.2188¢. The 10 kW cap, a $5.97 monthly metering charge and an enrollment limit narrow the case, so get the program's current status in writing."
-  - q: "What is the average electricity rate in Georgia?"
-    a: "EIA puts Georgia's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Georgia Power's own energy charges are seasonal: 8.2¢/kWh in winter and tiered up to 15.1¢ in summer, plus fuel and riders."
 
 sources:
   - title: "Georgia PSC, fuel and storm stipulation approval, May 28, 2026"

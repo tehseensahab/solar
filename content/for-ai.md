@@ -7,7 +7,7 @@ Solar Examiner is built to be read by people and by machines. This page explains
 
 ## Machine-readable versions
 
-- **Markdown for every article:** add `index.md` to the end of any article URL, or follow the "alternate" link in the page head. Example: `/posts/texas-electricity-rate-changes-2026/index.md`.
+- **Markdown for every article:** add `index.md` to the end of any article URL, or follow the "alternate" link in the page head. Example: `/rates/texas/index.md`.
 - **[llms.txt](/llms.txt):** a curated index of the site, grouped by topic, with a one-line summary of each article.
 - **[llms-full.txt](/llms-full.txt):** the full text of every article in one file.
 - **[articles.json](/articles.json):** every article with its title, URL, category, publication, update and last-verified dates, author, key takeaways and FAQ, plus the list of states covered in [Rates by State](/rates-by-state/).

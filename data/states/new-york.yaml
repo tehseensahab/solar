@@ -61,11 +61,6 @@ meaning: |-
   [report on that decision](/posts/new-york-revokes-sunnova-posigen-der-suppliers/) explains what to do. Upstate, the
   NYSEG and RG&E temporary rates will be trued up against final decisions, so bills could move again.
 
-faq:
-  - q: "Is solar worth it in New York?"
-    a: "Often yes. Residential systems still get Phase One net metering (with a monthly charge of $0.69 to $1.09 per kW for systems since 2022), and the state tax credit covers 25% of equipment cost up to $5,000. Check the standing of any installer or lease provider, since the PSC revoked several suppliers in October 2026."
-  - q: "What is the average electricity rate in New York?"
-    a: "EIA puts New York's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}. Rates vary widely between Con Edison, upstate utilities and Long Island."
 
 sources:
   - title: "NY DPS, PSC continues and improves existing solar payment structure"

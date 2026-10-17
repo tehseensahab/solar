@@ -1,5 +1,7 @@
 ---
-title: "Connecticut Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "Connecticut Electricity Rates and Solar"
+detailTitle: "Connecticut Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/connecticut/"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "House with solar panels on a tiled roof behind a garden with lavender and shrubs."
@@ -17,6 +19,10 @@ takeaways:
   - "The Office of Consumer Counsel says the public benefits rates run from May 1, 2026 through April 30, 2027. We found no report of a change on October 1."
   - "Standard service rates reset again on January 1, 2027."
 faq:
+  - q: "Is solar worth it in Connecticut?"
+    a: "Often, and Connecticut's RRES program offers two paths: netting at the retail rate, or a buy-all rate fixed for 20 years ($0.3289/kWh for 2026 enrollments at Eversource). Because 2026 rate cuts lowered what netting saves and the relief is temporary, compare both options before enrolling."
+  - q: "What is the average electricity rate in Connecticut?"
+    a: "EIA puts Connecticut's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Supply alone is 11.58¢/kWh at Eversource and 11.99¢ at UI on standard service through December 31, 2026."
   - q: "Did Connecticut electric rates change on October 1, 2026?"
     a: "We found no change on that date. The public benefits credit that began May 1, 2026 is scheduled through April 30, 2027, according to the Office of Consumer Counsel. Regulators kept the option to adjust it in September, and we found no report that they did."
   - q: "What are the current standard service rates?"
@@ -100,7 +106,7 @@ Rates come from the Connecticut Mirror, the governor's announcement and the Offi
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Connecticut's average residential price at 24.16¢/kWh in July 2026, down 12.5% from 27.60¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $241.60 (1,000 × 24.16¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Massachusetts](/posts/massachusetts-electricity-rate-changes-2026/), [New York](/posts/new-york-electricity-rate-changes-2026/), [Rhode Island](/posts/rhode-island-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Massachusetts](/rates/massachusetts/), [New York](/rates/new-york/), [Rhode Island](/rates/rhode-island/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

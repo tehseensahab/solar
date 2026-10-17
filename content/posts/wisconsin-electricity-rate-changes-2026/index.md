@@ -1,5 +1,7 @@
 ---
-title: "Wisconsin Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "Wisconsin Electricity Rates and Solar"
+detailTitle: "Wisconsin Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/wisconsin/"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Brick barn with a roof covered in solar panels beside a green lawn and trees."
@@ -17,6 +19,10 @@ takeaways:
   - "Alliant, Madison Gas and Electric and Xcel Energy also have approved increases for 2026 and 2027."
   - "We Energies and Wisconsin Public Service have asked for further increases in 2027 and 2028. Those are not approved."
 faq:
+  - q: "Is solar worth it in Wisconsin?"
+    a: "It depends on your utility. At We Energies, Alliant and WPS, production up to your monthly use offsets retail charges but surplus earns avoided cost, so size to monthly use. Xcel rolls credits monthly at retail. Annual rate increases at every major utility raise the value of self-used solar."
+  - q: "What is the average electricity rate in Wisconsin?"
+    a: "EIA puts Wisconsin's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
   - q: "Did Wisconsin electric rates change on October 1, 2026?"
     a: "We found no change on that date. Wisconsin's Public Service Commission typically sets rates for calendar years, with changes in January."
   - q: "How much did We Energies rates rise in 2026?"
@@ -103,7 +109,7 @@ All figures are average residential impacts from Wisconsin Public Radio, not tar
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Wisconsin's average residential price at 19.06¢/kWh in July 2026, up 4.4% from 18.25¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $190.60 (1,000 × 19.06¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Illinois](/posts/illinois-electricity-rate-changes-2026/), [Iowa](/posts/iowa-electricity-rate-changes-2026/), [Michigan](/posts/michigan-electricity-rate-changes-2026/), [Minnesota](/posts/minnesota-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Illinois](/rates/illinois/), [Iowa](/rates/iowa/), [Michigan](/rates/michigan/), [Minnesota](/rates/minnesota/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

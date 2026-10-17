@@ -1,5 +1,7 @@
 ---
-title: "Florida Electricity Rate Changes for October 2026: FPL Refund Ends and What Changed in 2026"
+title: "Florida Electricity Rates and Solar"
+detailTitle: "Florida Electricity Rate Changes for October 2026: FPL Refund Ends and What Changed in 2026"
+url: "/rates/florida/"
 date: 2026-09-30
 imageAlt: "Aerial view of waterfront houses with palm trees beside turquoise water, some roofs fitted with solar panels."
 imageCredit: "Photo by Diwei Zhu on [Unsplash](https://unsplash.com/photos/coastal-houses-with-palm-trees-beside-a-turquoise-ocean-kBydV9ID5Ws?utm_source=solarexaminer&utm_medium=referral)"
@@ -16,6 +18,10 @@ takeaways:
   - "FPL's four-year rate agreement covers 2026 through 2029 and raised the typical 2026 bill by $2.50 a month."
   - "Duke Energy Florida's roughly $6 summer reduction was set to run only through September 2026."
 faq:
+  - q: "Is solar worth it in Florida?"
+    a: "At FPL it can be, because surplus is banked as kWh credits month to month. Keep the system below your annual use: credits left in December are paid at FPL's average generation cost, and the $30 minimum base bill still applies. Other utilities, including Duke Energy Florida, Tampa Electric and municipal utilities, use their own tariffs."
+  - q: "What is the average electricity rate in Florida?"
+    a: "EIA puts Florida's statewide residential average at {rate} in {month}, compared with {prev} in {prev_month}. FPL's typical 1,000 kWh bill was $136.64 in August 2026."
   - q: "Are Florida electricity rates going up in October 2026?"
     a: "For FPL customers, the September storm refund ends, so bills return to their pre-refund level. FPL's October rate sheet shows no other residential charge changes."
   - q: "How much was the FPL storm refund?"
@@ -77,7 +83,7 @@ FPL's 2026 to 2029 agreement sets its base rate path. Fuel and other clause char
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Florida's average residential price at 15.03¢/kWh in July 2026, down 0.5% from 15.11¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $150.30 (1,000 × 15.03¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Alabama](/posts/alabama-electricity-rate-changes-2026/), [Georgia](/posts/georgia-electricity-rate-changes-2026/), [South Carolina](/posts/south-carolina-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Alabama](/rates/alabama/), [Georgia](/rates/georgia/), [South Carolina](/rates/south-carolina/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

@@ -6,6 +6,8 @@ neighbors: [alabama, georgia, south-carolina]
 refreshed: 2026-10-18
 guides: [fixed-charges-and-solar-savings, how-to-compare-solar-quotes]
 
+rate_note: Most FPL homes are on the RS-1 rate, where energy above 1,000 kWh a month costs more than the first 1,000 kWh ([FPL October 2026 rates](https://www.fpl.com/content/dam/fplgp/us/en/rates/pdf/residential-rates-oct2026.pdf)).
+
 summary: >-
   In {month} Florida's residential average was {rate}, {change} from {prev_month}, compared with {us} nationally. FPL
   is in year one of a four-year rate agreement running through 2029, and Duke Energy Florida lowered bills three times
@@ -52,11 +54,6 @@ meaning: |-
   a right-sized system matters; our [fixed-charge guide](/posts/fixed-charges-and-solar-savings/) shows how a bill
   floor changes payback.
 
-faq:
-  - q: "Is solar worth it in Florida?"
-    a: "At FPL it can be, because surplus is banked as kWh credits month to month. Keep the system below your annual use: credits left in December are paid at FPL's average generation cost, and the $30 minimum base bill still applies. Other utilities, including Duke Energy Florida, Tampa Electric and municipal utilities, use their own tariffs."
-  - q: "What is the average electricity rate in Florida?"
-    a: "EIA puts Florida's statewide residential average at {rate} in {month}, compared with {prev} in {prev_month}. FPL's typical 1,000 kWh bill was $136.64 in August 2026."
 
 sources:
   - title: "FPL, Net Metering FAQ"

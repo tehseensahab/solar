@@ -49,11 +49,6 @@ meaning: |-
   [payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how to factor expected rate increases
   into a solar estimate without overstating them.
 
-faq:
-  - q: "Is solar worth it in Nebraska?"
-    a: "It is a long-payback purchase for most homes because retail prices are low. Net metering offsets your use within the month, while monthly surplus earns a utility-set price, so size the system to monthly use and get your utility's net metering rider before you buy."
-  - q: "What is the average electricity rate in Nebraska?"
-    a: "EIA puts Nebraska's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
 
 sources:
   - title: "OPPD The Wire, 2026 Corporate Operating Plan"

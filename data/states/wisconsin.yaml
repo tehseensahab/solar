@@ -56,11 +56,6 @@ meaning: |-
   Midwest investor-owned utilities in 2025. Each utility defines an average customer differently, so compare your own bills
   in January. Our [rate case explainer](/posts/how-electric-rate-cases-work/) explains how to participate in the pending cases.
 
-faq:
-  - q: "Is solar worth it in Wisconsin?"
-    a: "It depends on your utility. At We Energies, Alliant and WPS, production up to your monthly use offsets retail charges but surplus earns avoided cost, so size to monthly use. Xcel rolls credits monthly at retail. Annual rate increases at every major utility raise the value of self-used solar."
-  - q: "What is the average electricity rate in Wisconsin?"
-    a: "EIA puts Wisconsin's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
 
 sources:
   - title: "Wisconsin Public Radio, We Energies and WPS rate approval, Nov. 2024"

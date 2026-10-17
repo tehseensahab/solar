@@ -1,5 +1,7 @@
 ---
-title: "Virginia Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "Virginia Electricity Rates and Solar"
+detailTitle: "Virginia Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/virginia/"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Solar panels mounted on the shingle roof of a house under a clear blue sky."
@@ -17,6 +19,10 @@ takeaways:
   - "Riders moved in both directions in summer 2026: a transmission rider added about $0.94 a month and a renewable energy rider update cut about $2.16."
   - "Appalachian Power has asked for an increase of about $9.10 a month at 1,000 kWh. Hearings begin October 20, 2026."
 faq:
+  - q: "Is solar worth it in Virginia?"
+    a: "Often yes, for a system sized to annual use. The SCC kept one-for-one net metering with 12-month netting at Dominion and Appalachian Power; only surplus beyond annual use is paid at under 6¢ (5.829¢ at Dominion per an installer summary, 5.66¢ at Appalachian Power)."
+  - q: "What is the average electricity rate in Virginia?"
+    a: "EIA puts Virginia's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Dominion's 1,000 kWh base-rate bill is $161.16 for 2026 under the SCC's order, before riders and fuel."
   - q: "Did Dominion Energy rates go up on October 1, 2026?"
     a: "We found no base rate change with that date. The 2026 increase came from a November 2025 State Corporation Commission order, and rider updates were approved in July and August 2026."
   - q: "How much did Dominion bills rise in 2026?"
@@ -106,7 +112,7 @@ The SCC's own news release could not be opened for this article, so the biennial
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Virginia's average residential price at 17.55¢/kWh in July 2026, up 11.2% from 15.78¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $175.50 (1,000 × 17.55¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Maryland](/posts/maryland-electricity-rate-changes-2026/), [North Carolina](/posts/north-carolina-electricity-rate-changes-2026/), [West Virginia](/posts/west-virginia-electricity-rate-changes-2026/), [Kentucky](/posts/kentucky-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Maryland](/rates/maryland/), [North Carolina](/rates/north-carolina/), [West Virginia](/rates/west-virginia/), [Kentucky](/rates/kentucky/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

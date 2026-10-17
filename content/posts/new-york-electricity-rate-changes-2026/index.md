@@ -1,5 +1,7 @@
 ---
-title: "New York Electricity Rate Changes: What Changed in 2026 and What's Next"
+title: "New York Electricity Rates and Solar"
+detailTitle: "New York Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/new-york/"
 date: 2026-09-30
 imageAlt: "Row of apartment buildings against a clear sky, with a small solar panel array on one rooftop."
 imageCredit: "Photo by Deyan Sight on [Unsplash](https://unsplash.com/photos/row-of-colorful-apartment-buildings-under-a-clear-sky-UUGBEU6hjX0?utm_source=solarexaminer&utm_medium=referral)"
@@ -16,6 +18,10 @@ takeaways:
   - "Temporary rates are subject to reconciliation, so a final decision could raise or lower what you owe."
   - "We found no official October 1, 2026 rate change for New York utilities."
 faq:
+  - q: "Is solar worth it in New York?"
+    a: "Often yes. Residential systems still get Phase One net metering (with a monthly charge of $0.69 to $1.09 per kW for systems since 2022), and the state tax credit covers 25% of equipment cost up to $5,000. Check the standing of any installer or lease provider, since the PSC revoked several suppliers in October 2026."
+  - q: "What is the average electricity rate in New York?"
+    a: "EIA puts New York's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}. Rates vary widely between Con Edison, upstate utilities and Long Island."
   - q: "Are New York electricity rates going up on October 1, 2026?"
     a: "We found no official October 1, 2026 change. NYSEG and RG&E have been on temporary rates since June 1, 2026, and a final decision in their rate cases is still pending."
   - q: "What are NYSEG and RG&E temporary rates?"
@@ -68,7 +74,7 @@ The PSC is still reviewing the NYSEG and RG&E rate cases, and news coverage expe
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts New York's average residential price at 29.90¢/kWh in July 2026, up 14.0% from 26.22¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $299.00 (1,000 × 29.90¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Connecticut](/posts/connecticut-electricity-rate-changes-2026/), [New Jersey](/posts/new-jersey-electricity-rate-changes-2026/), [Pennsylvania](/posts/pennsylvania-electricity-rate-changes-2026/), [Massachusetts](/posts/massachusetts-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Connecticut](/rates/connecticut/), [New Jersey](/rates/new-jersey/), [Pennsylvania](/rates/pennsylvania/), [Massachusetts](/rates/massachusetts/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 
