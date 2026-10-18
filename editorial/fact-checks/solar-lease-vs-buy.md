@@ -11,4 +11,4 @@ Checked October 18, 2026. Byline Craig Leslie. Independent fact-check by a separ
 - REMOVED/REWRITTEN: "buying usually costs less" and "cash lowest lifetime cost" (unsourced; EnergySage via Mercom reports prepaid leases/PPAs priced below cash); "company handles repairs" softened; "system adds to the sale" removed; loan term "10-25 years" removed; "workaround" characterization removed.
 - Not state-specific: no states term or hub link required.
 
-COVER: not added; Unsplash unreachable from this run's network. Needs a real Unsplash cover, imageAlt and imageCredit before merge.
+COVER: Unsplash photo 9CalgkSRZb8 (Vivint Solar).

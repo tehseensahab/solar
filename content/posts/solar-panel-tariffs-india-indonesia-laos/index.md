@@ -2,8 +2,8 @@
 title: "New U.S. Duties on Solar Panels From India, Indonesia and Laos: What Homeowners Should Know"
 date: 2026-10-18
 lastVerified: 2026-10-18
-imageAlt: ""
-imageCredit: ""
+imageAlt: "Rows of dark blue monocrystalline solar panels in white aluminum frames against a clear blue sky."
+imageCredit: "Photo by MICHAEL WILSON on [Unsplash](https://unsplash.com/photos/blue-solar-panels-during-daytiem-Wp7wotWlbBk?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["News"]
 description: "The U.S. International Trade Commission voted on October 14, 2026 that imported solar cells and panels from India, Indonesia and Laos injure U.S. manufacturers, clearing the way for antidumping and countervailing duties whose final rates, added together, total roughly 147% to 268%. Panels made with cells from those countries will cost importers more. Ask your installer where your panels' cells are made."
 readtime: "6 min read"

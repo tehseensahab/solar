@@ -2,8 +2,8 @@
 title: "Solar Lease vs. Buying in 2026: Cash, Loan, Lease or PPA Without the Federal Tax Credit"
 date: 2026-10-18
 lastVerified: 2026-10-18
-imageAlt: ""
-imageCredit: ""
+imageAlt: "Black solar panels on the gray shingled roof of a red brick house, above a large window."
+imageCredit: "Photo by Vivint Solar on [Unsplash](https://unsplash.com/photos/brown-brick-house-with-solar-panels-on-roof-9CalgkSRZb8?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["costs-incentives"]
 description: "Since the 30% homeowner tax credit ended for systems installed after 2025, a lease or PPA can be priced lower because the company that owns the panels may still claim a business tax credit. Buying avoids interest, escalators and the company's margin, and you keep any state or utility incentives. The only reliable way to choose is to price the same system as cash, loan, lease and PPA and compare total cost."
 readtime: "8 min read"

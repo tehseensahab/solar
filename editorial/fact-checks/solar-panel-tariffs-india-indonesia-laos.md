@@ -12,4 +12,4 @@ Checked October 18, 2026. Byline John Marshall. Independent fact-check by a sepa
 - Sums recomputed: 249.13; 167.56; 268.06; 147.46; 219.10; imports 6.009 GW / $1.544B. Combined figures labeled as our sums.
 - Not state-specific: no states term or hub link required.
 
-COVER: not added; Unsplash unreachable from this run's network. Needs a real Unsplash cover, imageAlt and imageCredit before merge.
+COVER: Unsplash photo Wp7wotWlbBk (MICHAEL WILSON).
