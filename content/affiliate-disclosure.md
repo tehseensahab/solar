@@ -3,14 +3,14 @@ title: "Affiliate disclosure"
 description: "How Solar Examiner discloses sponsored content and affiliate links."
 ---
 
-_Last updated: October 2, 2026._
+_Last updated: October 15, 2026._
 
 Solar Examiner may earn money from some of the links and content on this site. This page explains how we tell you.
 
 ## What may earn us money
 
 - **Affiliate links:** if you click a link and buy something or sign up, the company may pay us a commission.
-- **Sponsored content:** a company may pay us to publish an article or a placement about its product or service.
+- **Sponsored content:** a company may pay us to publish an article or a placement about its product or service. Links in sponsored content are marked `rel="sponsored"`. See [write for us](/write-for-us/).
 
 ## How we label it
 
