@@ -13,7 +13,7 @@ faq:
     a: "No. It is EnergySage's own marketplace quote data and contractor survey, so treat it as one industry source."
 ---
 
-EnergySage's latest marketplace report says the median U.S. home solar price rose about 3% to $2.57 per watt in the first half of 2026 compared with the second half of 2025. These figures are before incentives. The report covers six months after the 30% federal residential tax credit ended for systems purchased after 2025.
+EnergySage's latest marketplace report says the median U.S. home solar price rose about 3% to $2.57 per watt in the first half of 2026 compared with the second half of 2025. These figures are before incentives. The report covers six months after the 30% federal residential tax credit ended for systems installed after 2025.
 
 ## Key figures (EnergySage data)
 
