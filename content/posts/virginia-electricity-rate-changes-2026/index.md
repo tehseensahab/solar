@@ -67,7 +67,7 @@ Virginia utilities recover many costs through riders, each reviewed in its own c
 
 ## Appalachian Power
 
-Appalachian Power asked for $61.4 million a year and a 10.5% return on equity (PUR-2026-00044). It estimates $9.10 a month at 1,000 kWh. The hearing begins October 20, 2026. Separately, the SCC approved a coal ash closure plan on August 5 that could add $1.06 to $2.28 a month from 2027.
+Appalachian Power asked for $61.4 million a year and a 10.5% return on equity (PUR-2026-00044). It estimates $9.10 a month at 1,000 kWh. The hearing begins October 20, 2026. Other parties want far less; our [Appalachian Power rate request breakdown](/posts/appalachian-power-rate-increase-2026/) compares the positions. Separately, the SCC approved a coal ash closure plan on August 5 that could add $1.06 to $2.28 a month from 2027.
 
 ## What This Means for Homeowners With Solar
 
@@ -86,7 +86,7 @@ Virginia kept retail net metering in two State Corporation Commission decisions.
 - **Kept:** annual netting at one-for-one for use up to your own annual consumption.
 - **Changed:** net excess over the 12-month period is paid at 5.66¢ per kWh. Existing customers are not affected.
 
-**What it means:** each solar kWh still offsets a retail kWh, so the 2026 base rate increase raised its value. Production beyond your annual use earns under 6¢, so size to what you use in a year. Draft shared solar rules are also open for comment through October 9, 2026 (PUR-2026-00127).
+**What it means:** each solar kWh still offsets a retail kWh, so any approved base rate increase raises its value. Production beyond your annual use earns under 6¢, so size to what you use in a year. Draft shared solar rules are also open for comment through October 9, 2026 (PUR-2026-00127).
 
 Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
 
