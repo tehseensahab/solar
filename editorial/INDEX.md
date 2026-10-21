@@ -97,3 +97,5 @@ old-dominion-power-rate-increase-2026 | Old Dominion Power Rate Increase Request
 solar-installation-timeline | How Long Does It Take to Go Solar? NREL Data Puts the Typical Wait at About 4.5 Months | 2026-10-19 | costs-incentives | published | how long does it take to go solar | /posts/solar-installation-timeline/
 appalachian-power-rate-increase-2026 | Appalachian Power Rate Increase 2026: $9.10 Request in VA | 2026-10-20 | news | published | appalachian power rate increase 2026 | /posts/appalachian-power-rate-increase-2026/
 replace-roof-before-solar | Replace Roof Before Solar? How to Decide in 2026 | 2026-10-20 | equipment | published | replace roof before solar | /posts/replace-roof-before-solar/
+bge-rate-increase-2026 | BGE Rate Increase 2026: $8 a Month Request, Hearings Set | 2026-10-21 | news | published | bge rate increase 2026 | /posts/bge-rate-increase-2026/
+solar-panels-power-outage | Do Solar Panels Work in a Power Outage? What to Know | 2026-10-21 | equipment | published | do solar panels work in a power outage | /posts/solar-panels-power-outage/

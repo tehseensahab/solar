@@ -3,7 +3,7 @@ slug: maryland
 abbr: MD
 region: South
 neighbors: [delaware, pennsylvania, virginia, west-virginia]
-refreshed: 2026-10-18
+refreshed: 2026-10-21
 guides: [how-to-compare-electricity-supplier-offers, how-electric-rate-cases-work]
 
 rate_note: Pepco's residential standard offer service rate (supply only) is about 14.677¢/kWh from October 2026 to May 2027, per a third-party analysis of published rates ([Honeydew Advisors](https://honeydewadvisors.com/md-pepco-rate-analysis/)); the statewide figure above is all-in.
@@ -38,7 +38,8 @@ utilities:
   - name: Pepco (Maryland)
     detail: "Residential standard offer supply about 14.677¢/kWh for October 2026–May 2027, up from 13.175¢ in summer 2026 (third-party analysis of published rates). PSC denied more than half of Pepco's 2026 distribution request."
   - name: Baltimore Gas and Electric (BGE)
-    detail: "Pending Case No. 9888: $156.1 million distribution request; residential distribution rate 4.9¢ to 5.8¢/kWh and customer charge $10 to $11, about +$8.58 a month at 900 kWh, early 2027 if approved."
+    detail: "Pending Case No. 9888: $156.1 million distribution request; residential distribution rate 4.9¢ to 5.8¢/kWh and customer charge $10 to $11, about +$8.58 a month at 900 kWh (BGE: about $8 at 851 kWh). The Office of People's Counsel recommends a $43.9 million decrease instead. Public comment hearings Oct. 26, Nov. 4 and Nov. 18, 2026; written comments due Dec. 23; PSC decision expected January 2027."
+    page: "/posts/bge-rate-increase-2026"
   - name: Potomac Edison
     detail: "Pending Case No. 9904: $52.8 million distribution request filed September 4, 2026, about 5.3% on the average residential bill."
     page: "/posts/potomac-edison-maryland-rate-request-2026"
@@ -49,13 +50,22 @@ meaning: |-
   Maryland bills are being pushed from two sides at once. On supply, PJM's 2026-27 capacity auction cleared at a
   record $329.17 per megawatt-day, up 22% from the prior year, which flows into standard offer prices through the
   utilities' auctions; that is what moved Pepco's winter rate. On delivery, three utilities are in the rate-case
-  cycle: the PSC cut Pepco's 2026 request by more than half, BGE wants a 10.4% return on equity against 9.5% today,
+  cycle: the PSC cut Pepco's 2026 request by more than half, BGE wants a 10.4% return on equity against 9.5% today while the state's ratepayer advocate argues for a
+  7.3% return and a rate cut (see our [BGE rate case explainer](/posts/bge-rate-increase-2026/) for hearing dates),
   and Potomac Edison filed in September (our [Potomac Edison report](/posts/potomac-edison-maryland-rate-request-2026/)
-  has the details). Customers on standard offer service can compare supplier offers against the new price; our
+  has the details). For solar owners, delivery increases cut both ways: under full retail net metering each offset kWh
+  is worth a little more, but higher fixed customer charges, such as BGE's proposed $10-to-$11 change, cannot be
+  offset by panels. Customers on standard offer service can compare supplier offers against the new price; our
   [supplier comparison guide](/posts/how-to-compare-electricity-supplier-offers/) explains how.
 
 
 sources:
+  - title: "Maryland PSC Order No. 92503, Case No. 9888, July 6, 2026"
+    url: "https://psc.maryland.gov/wp-content/uploads/2026/07/Second_Errata-to-Order-No.-92503-9888.pdf"
+  - title: "Maryland Office of People's Counsel bulletin on BGE testimony, Sept. 24, 2026"
+    url: "https://content.govdelivery.com/accounts/MDOPC/bulletins/42c56f5"
+  - title: "Maryland PSC, BGE public comment hearings release, Oct. 2, 2026 (via EIN Presswire)"
+    url: "https://www.einpresswire.com/article/947019783/maryland-public-service-commission-to-hold-three-virtual-public-hearings-on-bge-rate-case-application"
   - title: "Maryland Office of People's Counsel, Consumer's Guide to BGE's Proposed Electric Rate Increase, Aug. 2026"
     url: "https://opc.maryland.gov/Portals/0/Files/Publications/BGE%20Consumer's%20Guide%20-%202026%20-%20FINAL%20VERSION.pdf?ver=OQulELqGzpKL7xWi5A9GKg%3D%3D"
   - title: "Maryland PSC, Pepco rate decision, 2026"
