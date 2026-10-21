@@ -74,7 +74,9 @@ Maryland's Office of People's Counsel published a consumer guide to BGE's reques
 - **Rate:** the residential distribution rate would go from 4.9¢ to 5.8¢ per kWh. The fixed customer charge would go from $10 to $11 a month.
 - **Bills:** about $8.58 a month, or $103 a year, for a customer using 900 kWh.
 - **Return on equity:** BGE asked for 10.4%. It is now 9.5%.
-- **Timing:** early 2027, if approved. Hearing dates had not been announced.
+- **Timing:** early 2027, if approved. The PSC expects to decide in January 2027.
+
+**Update, October 21, 2026:** the Office of People's Counsel has recommended a $43.9 million decrease instead, and the PSC has set public comment hearings for October 26, November 4 and November 18, with written comments due December 23. Our [full report on BGE's rate request](/posts/bge-rate-increase-2026/) has the details and how to take part.
 
 The guide says BGE's distribution rates have risen 58% since 2020.
 
