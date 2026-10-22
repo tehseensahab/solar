@@ -99,3 +99,5 @@ appalachian-power-rate-increase-2026 | Appalachian Power Rate Increase 2026: $9.
 replace-roof-before-solar | Replace Roof Before Solar? How to Decide in 2026 | 2026-10-20 | equipment | published | replace roof before solar | /posts/replace-roof-before-solar/
 bge-rate-increase-2026 | BGE Rate Increase 2026: $8 a Month Request, Hearings Set | 2026-10-21 | news | published | bge rate increase 2026 | /posts/bge-rate-increase-2026/
 solar-panels-power-outage | Do Solar Panels Work in a Power Outage? What to Know | 2026-10-21 | equipment | published | do solar panels work in a power outage | /posts/solar-panels-power-outage/
+rhode-island-net-metering-2026 | Rhode Island Net Metering 2026: Proposed Tariff Changes | 2026-10-22 | news | published | rhode island net metering 2026 | /posts/rhode-island-net-metering-2026/
+solar-panels-in-winter | Solar Panels in Winter: How Much Output Drops and Why | 2026-10-22 | equipment | published | solar panels in winter | /posts/solar-panels-in-winter/

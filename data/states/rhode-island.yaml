@@ -3,7 +3,7 @@ slug: rhode-island
 abbr: RI
 region: Northeast
 neighbors: [connecticut, massachusetts, new-york]
-refreshed: 2026-10-18
+refreshed: 2026-10-22
 guides: [how-to-compare-electricity-supplier-offers, budget-billing-explained]
 
 rate_note: Rhode Island Energy's last resort service rate (supply only) moved to a filed winter level of 17.029¢/kWh on October 1, 2026 ([Rhode Island PUC](https://ripuc.ri.gov/utility-information/electric/rhode-island-energy-last-resort-service)); the statewide figure above is all-in and blends in summer pricing.
@@ -34,7 +34,11 @@ net_metering:
     interconnected after April 15, 2023 receive about 80% of the retail rate for exported energy; older systems keep full
     retail credit. Systems may be sized up to 125% of annual use. Rhode Island Energy filed an updated net metering tariff
     on May 18, 2026 ([Docket 25-50-EL](https://ripuc.ri.gov/sites/g/files/xkgbur841/files/2026-05/25-50-EL%20-%20Net%20Metering%20Tariff%20Advice%20-%20Compliance%20%28PUC%205-18-26%29.pdf)),
-    which we have not reviewed. Checked October 5, 2026.
+    which we have not reviewed. A newer filing, Docket 26-30-EL (August 14, 2026), is pending: for systems of 25 kW or
+    less it would credit surplus above a home's own use in a billing period at a monthly wholesale rate tied to the ISO New
+    England energy price instead of the last resort supply rate, and drop the 125% cap on those excess credits. Comments are
+    due November 16 and the evidentiary hearing is November 17, 2026. See our report on the
+    [proposed Rhode Island net metering changes](/posts/rhode-island-net-metering-2026/). Checked October 22, 2026.
 
 incentives:
   - name: Renewable Energy Growth (REG) program
@@ -65,5 +69,7 @@ sources:
     url: "https://whatsupnewp.com/2026/09/puc-approves-28-million-in-winter-electric-bill-credits/"
   - title: "Uprise RI, Sept. 16, 2026"
     url: "https://upriseri.com/article/the-grid-held-your-winter-power-rate-still-climbs"
+  - title: "Rhode Island Energy, net metering tariff advice filing, Docket 26-30-EL, Aug. 14, 2026"
+    url: "https://ripuc.ri.gov/sites/g/files/xkgbur841/files/2026-08/Docket%2026-30-EL%20-%20Net%20Metering%20Tariff%20Advice%20-%2008-14-2026.pdf"
   - title: "NuWatt Energy, RI Net Metering Guide 2026 (secondary)"
     url: "https://nuwattenergy.com/en/rhode-island/net-metering-guide-2026"
