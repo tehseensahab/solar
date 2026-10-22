@@ -3,7 +3,7 @@ title: "Rhode Island Electricity Rates and Solar"
 detailTitle: "Rhode Island Electricity Rate Changes: What Changed in 2026 and What's Next"
 url: "/rates/rhode-island/"
 date: 2026-10-04
-lastVerified: 2026-10-04
+lastVerified: 2026-10-22
 imageAlt: "Worker in a blue hoodie and cap working on an electric meter mounted on a wall."
 imageCredit: "Photo by Raze Solar on [Unsplash](https://unsplash.com/photos/person-working-on-electrical-meter-_aSFmmvS62I?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -106,9 +106,11 @@ Rhode Island still has net metering, with reduced credit for exports from newer 
 
 Rhode Island Energy filed an updated net metering tariff with the Public Utilities Commission in May 2026 (Docket 25-50-EL). We did not read it, so treat the 80% figure as an installer's description and check the tariff.
 
+A newer filing, Docket 26-30-EL (August 14, 2026), is pending. For systems of 25 kW or less it would credit surplus above a home's own use in a billing period at a monthly wholesale rate tied to the ISO New England energy price, instead of the Last Resort Service supply rate, and drop the 125% cap on those excess credits. Public comments are due November 16 and the evidentiary hearing is November 17. See our report on the [proposed Rhode Island net metering changes](/posts/rhode-island-net-metering-2026/). Source: [Rhode Island Energy tariff advice filing, Docket 26-30-EL](https://ripuc.ri.gov/sites/g/files/xkgbur841/files/2026-08/Docket%2026-30-EL%20-%20Net%20Metering%20Tariff%20Advice%20-%2008-14-2026.pdf).
+
 **What it means:** under credits tied to the retail rate, the winter supply increase raises the value of winter solar. Winter production is much lower than summer, so the annual effect is smaller than the rate change suggests.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
+Rules checked October 22, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
 
 ## What to Check on Your Bill
 
