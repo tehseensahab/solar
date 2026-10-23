@@ -1,13 +1,14 @@
 # Staff writers: shown on the About page and linked from bylines.
 # url: LinkedIn or personal profile (used as schema.org sameAs). Leave empty until known.
 "John Marshall":
-  role: "Electronics Writer & Technical Researcher"
-  bio: "An electronics-focused writer and researcher dedicated to exploring consumer electronics, electrical components, and practical technology solutions. He researches technical specifications, product features, performance factors, and real-world applications to create clear, useful, and reader-focused content. At Solar Examiner, the focus is on delivering well-researched articles that help readers understand electronic devices, solar equipment, and the technologies shaping modern energy systems."
+  role: "Solar Specialist"
+  bio: "A dedicated solar energy writer and researcher focused on renewable energy technologies and residential solar solutions. Specializing in solar panels, inverters, battery storage, and solar power systems, he researches how solar technologies work, compares system features, and explains energy efficiency in practical terms. His work at Solar Examiner helps readers understand solar equipment, evaluate available options, and make informed decisions about adopting solar energy."
   details:
-    - "Expertise: Consumer electronics, electrical components, and solar equipment"
-    - "Research focus: Technical specifications, product functionality, efficiency, and technology trends"
-    - "Writing focus: Electronics guides, product research, technical comparisons, and how-to articles"
-    - "Role at Solar Examiner: Electronics Writer & Researcher"
+    - "Solar panels and photovoltaic technology"
+    - "Solar inverters and battery storage"
+    - "Residential solar systems and energy efficiency"
+    - "Solar equipment comparisons and buying guides"
+    - "Renewable energy trends and technology research"
   url: ""
 "Craig Leslie":
   role: "Electronics Writer & Technical Researcher"

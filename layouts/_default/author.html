@@ -8,7 +8,7 @@
 <section class="section wrap">
   <div class="post-body">
     {{ with $w.bio }}<p>{{ . }}</p>{{ end }}
-    {{ with $w.details }}<ul>{{ range . }}<li>{{ . }}</li>{{ end }}</ul>{{ end }}
+    {{ with $w.details }}<h2>Areas of expertise</h2><ul>{{ range . }}<li>{{ . }}</li>{{ end }}</ul>{{ end }}
     <p>How we research and check our work: <a href="{{ "methodology/" | relURL }}">methodology</a>, <a href="{{ "how-we-pick/" | relURL }}">how we pick products</a> and <a href="{{ "editorial-policy/" | relURL }}">editorial policy</a>.</p>
   </div>
   {{ $name := .Title }}
