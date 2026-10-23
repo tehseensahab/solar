@@ -3,7 +3,7 @@ title: "Ohio Electricity Rates and Solar"
 detailTitle: "Ohio Electricity Rate Changes: What Changed in 2026 and What's Next"
 url: "/rates/ohio/"
 date: 2026-09-30
-lastmod: 2026-10-05
+lastmod: 2026-10-23
 lastVerified: 2026-09-30
 draft: false
 author: "Tehseen Arbab"
@@ -52,7 +52,7 @@ faq:
 | AES Ohio | June 1, 2026 – May 31, 2027 | Not stated | $0.109/kWh (10.9¢) | +$14.06/mo (7.5%) at 1,000 kWh | Typical default-supply residential customer |
 | Ohio Edison (FirstEnergy) | June 1, 2026 – May 31, 2027 | 8.8919¢/kWh | 10.0253¢/kWh (Rider GEN) | +1.13¢ (about +13%) | Residential standard rate, supply/capacity component |
 | Toledo Edison, Illuminating Co. | June 1, 2026 | — | — | Residential reported up to about 14% | See note below |
-| Duke Energy Ohio | Not verified | — | — | — | — |
+| Duke Energy Ohio | Supply: not verified | — | — | Distribution increase requested (Case 26-0132-EL-AIR), not approved | About +$8/mo at 1,000 kWh (Duke estimate) |
 
 **What these are:** the supply portion only (called the "standard service offer" or "price to compare"). They exclude delivery, transmission and riders.
 
@@ -97,6 +97,7 @@ Rules checked October 5, 2026. Solar tariffs change, so confirm the current term
 
 - Default supply rates reset again on **June 1, 2027**, when the current terms expire. Rates for that period have not been published.
 - FirstEnergy Ohio ran its supply auction on June 9, 2026 (CRA International announcement); future auctions will set the next period.
+- **Duke Energy Ohio** has a pending request to raise electric distribution (delivery) rates, Case No. 26-0132-EL-AIR. Duke estimates about $8 a month more at 1,000 kWh; the Ohio Consumers' Counsel puts a typical bill increase at about $8.32. Local PUCO hearings are December 1 and December 10, 2026, and any approved increase would take effect in 2027, per the [OCC fact sheet](https://www.occ.ohio.gov/factsheet/duke-energy-electric-rate-increase-26-0132-el-air). Details: [Duke Energy Ohio rate increase request](/posts/duke-energy-ohio-rate-increase-2026/). (Updated October 23, 2026.)
 
 ## Compare With Nearby States
 

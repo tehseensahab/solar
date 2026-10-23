@@ -101,3 +101,5 @@ bge-rate-increase-2026 | BGE Rate Increase 2026: $8 a Month Request, Hearings Se
 solar-panels-power-outage | Do Solar Panels Work in a Power Outage? What to Know | 2026-10-21 | equipment | published | do solar panels work in a power outage | /posts/solar-panels-power-outage/
 rhode-island-net-metering-2026 | Rhode Island Net Metering 2026: Proposed Tariff Changes | 2026-10-22 | news | published | rhode island net metering 2026 | /posts/rhode-island-net-metering-2026/
 solar-panels-in-winter | Solar Panels in Winter: How Much Output Drops and Why | 2026-10-22 | equipment | published | solar panels in winter | /posts/solar-panels-in-winter/
+duke-energy-ohio-rate-increase-2026 | Duke Energy Ohio Rate Increase 2026: $8 a Month Request | 2026-10-23 | news | published | duke energy ohio rate increase 2026 | /posts/duke-energy-ohio-rate-increase-2026/
+net-metering-true-up | Net Metering True-Up: What Happens to Unused Solar Credits | 2026-10-23 | costs-incentives | published | net metering true-up | /posts/net-metering-true-up/
