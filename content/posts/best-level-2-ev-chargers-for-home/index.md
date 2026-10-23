@@ -41,6 +41,8 @@ The best Level 2 home charger is the one that matches your car's AC charging rat
 
 Sources: [ChargePoint](https://www.chargepoint.com/drivers/home/), [Tesla](https://www.tesla.com/support/charging/wall-connector), [Wallbox](https://wallbox.com/en_us/pulsar-plus-ev-charger), [Emporia](https://www.emporiaenergy.com/ev-chargers/), [Grizzl-E](https://www.grizzl-e.com/). "Not stated on page" means we did not find it on the manufacturer page we read.
 
+Estimate charge time, cost per charge and breaker size with our [EV charger calculator](/ev-charger-calculator/).
+
 ## How fast is Level 2?
 
 Power (kW) = volts × amps ÷ 1,000.

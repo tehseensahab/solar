@@ -1,0 +1,157 @@
+{{ define "main" }}
+{{- $d := site.Data.tools -}}
+{{- $us := site.Data.eia_prices.us.y2026 -}}
+{{- $isBat := eq .Params.tool "battery" -}}
+<article class="calc-page">
+  <header class="post-head calc-head">
+    <nav class="calc-steps" aria-label="Calculators"><a href="/calculators/">← All calculators</a></nav>
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}
+  </header>
+  <div class="wrap">
+  <form class="calc" id="calc" data-tool="{{ .Params.tool }}" novalidate onsubmit="return false">
+    <div class="calc-inputs">
+    {{ if $isBat }}
+      <fieldset>
+        <legend>What must keep running</legend>
+        <p class="hint">Starting values are <strong>assumed round numbers, not measurements</strong>. Replace them with the nameplate or meter reading for your equipment. "Starting" is the short surge when a motor kicks on.</p>
+        <div class="load-head" aria-hidden="true"><span></span><span>Running W</span><span>Starting W</span></div>
+        {{ range $i, $l := $d.loads }}
+        <div class="load-row">
+          <label class="load-name"><input type="checkbox" name="on{{ $i }}" {{ if $l.active }}checked{{ end }}> <span>{{ $l.name }}</span></label>
+          <div class="unit"><input type="number" inputmode="decimal" min="0" step="10" name="w{{ $i }}" value="{{ $l.w }}" aria-label="{{ $l.name }} running watts"></div>
+          <div class="unit"><input type="number" inputmode="decimal" min="0" step="10" name="s{{ $i }}" value="{{ $l.s }}" aria-label="{{ $l.name }} starting watts"></div>
+        </div>
+        {{ end }}
+      </fieldset>
+      <fieldset>
+        <legend>How long</legend>
+        <div class="field-row">
+          <div class="field">
+            <label for="hours">Hours of backup</label>
+            <div class="unit"><input id="hours" name="hours" type="number" inputmode="decimal" min="0" step="1" value="12"><span>hours</span></div>
+          </div>
+          <div class="field">
+            <label for="share">Share of the time loads run</label>
+            <div class="unit"><input id="share" name="share" type="number" inputmode="decimal" min="1" max="100" step="5" value="100"><span>%</span></div>
+          </div>
+          <p class="hint hint-wide">100% assumes every ticked load runs non-stop, which overstates cycling loads such as a refrigerator. Lower it only if you have measured data.</p>
+        </div>
+        <div class="field">
+          <label for="reserve">Capacity you will not use</label>
+          <div class="unit"><input id="reserve" name="reserve" type="number" inputmode="decimal" min="0" max="50" step="5" value="0"><span>%</span></div>
+          <p class="hint">Some owners keep part of the battery in reserve. Leave at 0 to size to the full stated capacity.</p>
+        </div>
+      </fieldset>
+      <details class="calc-adv">
+        <summary><span>Compare your own battery</span></summary>
+        <div class="field-row">
+          <div class="field">
+            <label for="ckwh">Capacity</label>
+            <div class="unit"><input id="ckwh" name="ckwh" type="number" inputmode="decimal" min="0" step="0.5" placeholder="blank = skip"><span>kWh</span></div>
+          </div>
+          <div class="field">
+            <label for="ckw">Continuous power</label>
+            <div class="unit"><input id="ckw" name="ckw" type="number" inputmode="decimal" min="0" step="0.1"><span>kW</span></div>
+          </div>
+        </div>
+      </details>
+    {{ else }}
+      <fieldset>
+        <legend>The charger</legend>
+        <div class="field-row">
+          <div class="field">
+            <label for="amps">Charger current</label>
+            <select id="amps" name="amps">
+              {{- range slice 16 24 32 40 48 }}<option value="{{ . }}"{{ if eq . 40 }} selected{{ end }}>{{ . }} A</option>{{ end }}
+            </select>
+          </div>
+          <div class="field">
+            <label for="volts">Voltage</label>
+            <div class="unit"><input id="volts" name="volts" type="number" inputmode="decimal" min="100" max="260" step="1" value="240"><span>V</span></div>
+          </div>
+          <p class="hint hint-wide">Level 2 chargers run at 208 to 240 V. 40 A and 48 A models are common; see our <a href="/posts/best-level-2-ev-chargers-for-home/">charger guide</a>.</p>
+        </div>
+        <div class="field">
+          <label for="carmax">Your car's maximum AC charge rate <span class="opt">(optional)</span></label>
+          <div class="unit"><input id="carmax" name="carmax" type="number" inputmode="decimal" min="0" step="0.1" placeholder="blank = no limit"><span>kW</span></div>
+          <p class="hint">Many cars accept less than the charger can give. Find it in your owner's manual or the maker's spec sheet.</p>
+        </div>
+      </fieldset>
+      <fieldset>
+        <legend>How much you need to add</legend>
+        <div class="field">
+          <div class="seg seg-full" role="radiogroup" aria-label="How to enter the energy">
+            <label><input type="radio" name="mode" value="miles" checked> <span>Miles driven<small>Per day</small></span></label>
+            <label><input type="radio" name="mode" value="kwh"> <span>Battery energy<small>kWh to add</small></span></label>
+          </div>
+        </div>
+        <div class="field-row" data-show="miles">
+          <div class="field">
+            <label for="miles">Miles per day</label>
+            <div class="unit"><input id="miles" name="miles" type="number" inputmode="decimal" min="0" step="5" value="40"><span>miles</span></div>
+          </div>
+          <div class="field">
+            <label for="eff">Energy per 100 miles</label>
+            <div class="unit"><input id="eff" name="eff" type="number" inputmode="decimal" min="1" step="1" value="{{ $d.ev.kwh_per_100mi }}"><span>kWh</span></div>
+          </div>
+          <p class="hint hint-wide">27 kWh per 100 miles is the example used by the U.S. Department of Energy's Alternative Fuels Data Center. Your car's figure will differ.</p>
+        </div>
+        <div class="field" data-show="kwh" hidden>
+          <label for="kwh">Energy to add to the battery</label>
+          <div class="unit"><input id="kwh" name="kwh" type="number" inputmode="decimal" min="0" step="1" value="40"><span>kWh</span></div>
+        </div>
+        <div class="field">
+          <label for="loss">Charging losses</label>
+          <div class="unit"><input id="loss" name="loss" type="number" inputmode="decimal" min="0" max="40" step="1" value="{{ $d.ev.loss_pct }}"><span>%</span></div>
+          <p class="hint">Some energy is lost as heat. {{ $d.ev.loss_pct }}% is our assumption, not a measurement.</p>
+        </div>
+      </fieldset>
+      <fieldset>
+        <legend>Your electricity</legend>
+        <div class="field-row">
+          <div class="field">
+            <label for="state">State</label>
+            <select id="state" name="state">
+              <option value="" data-rate="{{ $us }}">U.S. average</option>
+              {{- range $s := site.Data.states }}{{ with index site.Data.eia_prices.states $s.slug }}
+              <option value="{{ $s.slug }}" data-rate="{{ .y2026 }}">{{ $s.name }}</option>{{ end }}{{ end }}
+            </select>
+          </div>
+          <div class="field">
+            <label for="rate">Electric rate</label>
+            <div class="unit"><input id="rate" name="rate" type="number" inputmode="decimal" min="0" step="0.1" value="{{ $us }}"><span>¢ / kWh</span></div>
+          </div>
+          <p class="hint hint-wide">A state fills in its EIA residential average for July 2026. The per-kWh rate on your bill is better. On a time-of-use plan, use the rate for the hours you charge.</p>
+        </div>
+        <div class="field">
+          <label for="offpeak">Off-peak rate <span class="opt">(optional)</span></label>
+          <div class="unit"><input id="offpeak" name="offpeak" type="number" inputmode="decimal" min="0" step="0.1" placeholder="blank = skip"><span>¢ / kWh</span></div>
+          <p class="hint">Enter it to see what shifting charging to off-peak hours would save. See <a href="/posts/time-of-use-rates-and-solar/">time-of-use rates</a>.</p>
+        </div>
+      </fieldset>
+    {{ end }}
+    </div>
+    <div class="calc-results" id="results" aria-live="polite">
+      <div id="out"></div>
+      <div class="calc-actions">
+        <button type="button" class="link-btn" id="copy-link">Copy link to this estimate</button>
+        <button type="button" class="link-btn" id="calc-reset">Reset</button>
+      </div>
+      <p class="calc-note">An estimate from the figures entered, not a quote, a design or electrical advice. Defaults verified {{ (time $d.verified).Format "Jan 2, 2006" }}. <a href="#how-it-works">How it is calculated</a>.</p>
+    </div>
+  </form>
+  </div>
+  <div class="post-body" id="how-it-works">
+    {{ .Content }}
+    {{ with .Params.faq }}
+    <section class="faq">
+      <h2>Frequently asked questions</h2>
+      {{ range . }}<h3>{{ .q }}</h3><p>{{ .a }}</p>{{ end }}
+    </section>
+    {{ end }}
+  </div>
+</article>
+<script>window.SE_TOOL = {{ dict "batteries" $d.batteries "ev" $d.ev "usRate" (float $us) "loads" (len $d.loads) | jsonify | safeJS }};</script>
+<script src="/js/tools.js?v={{ now.Unix }}" defer></script>
+{{ end }}

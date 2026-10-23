@@ -42,6 +42,8 @@ Choose a **plug-in** charger if you want portability and 40 amps (9.6 kW) is eno
 
 Sources: [ChargePoint](https://www.chargepoint.com/drivers/home/), [Wallbox](https://wallbox.com/en_us/pulsar-plus-ev-charger), [Tesla](https://www.tesla.com/support/charging/wall-connector), [Emporia](https://www.emporiaenergy.com/ev-chargers/) (NEMA plug or hardwire, up to 48 A).
 
+Estimate charge time, cost per charge and breaker size with our [EV charger calculator](/ev-charger-calculator/).
+
 ## The math: amps, kW and breakers
 
 Power (kW) = volts × amps ÷ 1,000.

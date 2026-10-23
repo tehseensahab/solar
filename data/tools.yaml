@@ -1,0 +1,36 @@
+# Defaults for the battery sizing and EV charger tools. Every figure is editable by the reader.
+# Update the value, source and date together.
+verified: "2026-10-24"
+# Batteries: manufacturer-stated figures read Oct 24, 2026 (see /posts/best-home-batteries-for-backup-power/).
+batteries:
+  - name: "Tesla Powerwall 3"
+    kwh: 13.5
+    kw: 11.5
+    note: "13.5 kWh is nominal; Tesla's datasheet does not state usable energy"
+  - name: "FranklinWH aPower 2"
+    kwh: 15
+    kw: 10
+    note: "FranklinWH does not say whether 15 kWh is usable"
+  - name: "Enphase IQ Battery 10C"
+    kwh: 10
+    kw: 7.08
+    note: "Enphase states 10 kWh"
+  - name: "Enphase IQ Battery 5P"
+    kwh: 5
+    kw: 3.84
+    note: "Enphase states 5.0 kWh usable"
+# Assumed round numbers for illustration, NOT measurements. w = running watts, s = watts while starting.
+loads:
+  - { name: "Refrigerator", w: 150, s: 600, active: true }
+  - { name: "Lights and electronics", w: 300, s: 300, active: true }
+  - { name: "Internet, router and laptop", w: 100, s: 100, active: true }
+  - { name: "Furnace blower", w: 500, s: 1200, active: true }
+  - { name: "Well pump", w: 1000, s: 3000, active: false }
+  - { name: "Window air conditioner", w: 900, s: 2500, active: false }
+  - { name: "Microwave", w: 1100, s: 1100, active: false }
+  - { name: "Other (enter your own)", w: 0, s: 0, active: false }
+ev:
+  kwh_per_100mi: 27     # DOE AFDC example (27 kWh per 100 miles)
+  loss_pct: 10          # our assumption
+  level1_amps: 12       # our assumption: 80% of a 15 A circuit
+  breaker_sizes: [15, 20, 25, 30, 35, 40, 45, 50, 60, 70, 80, 90, 100]

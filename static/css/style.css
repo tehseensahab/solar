@@ -428,3 +428,13 @@ a:focus-visible { outline: 2px solid var(--teal); outline-offset: 2px; }
   .toc ol { columns: 1; }
   .rb-row { grid-template-columns: 7.2em 1fr 3.8em; font-size: .82rem; }
 }
+
+/* Battery sizing tool: load rows */
+.calc .load-head, .calc .load-row { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr) minmax(0, 1fr); gap: 10px; align-items: center; }
+.calc .load-head { font-size: .78rem; font-weight: 600; color: var(--ink-soft); margin: 0 0 6px; }
+.calc .load-row { margin-bottom: 10px; }
+.calc .load-name { display: flex; align-items: center; gap: 8px; margin: 0; font-weight: 600; font-size: .9rem; cursor: pointer; }
+.calc .load-name input { width: 18px; height: 18px; accent-color: var(--teal); flex: none; }
+.calc .load-row .unit { height: 40px; }
+@media (max-width: 560px) { .calc .load-head, .calc .load-row { grid-template-columns: 1fr 1fr; } .calc .load-head span:first-child { display: none; } .calc .load-name { grid-column: 1 / -1; } }
+.calc-hub-sub{margin:2.5rem 0 1rem;font-size:1.25rem}

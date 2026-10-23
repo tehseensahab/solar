@@ -29,6 +29,8 @@ faq:
 
 To size a home battery, decide which loads must run, add up their **kW** (power at one moment), then multiply the average load by the **hours** you need to get **kWh** (energy). Buy enough units to cover **both** numbers. This guide gives the method, worked examples with assumed loads, and how many Tesla, Enphase and FranklinWH units each example needs. We did not test these batteries; specs are from manufacturer documents as of October 24, 2026. See [how we pick products](/how-we-pick/).
 
+Want the arithmetic done for you? Use our [home battery size calculator](/battery-size-calculator/).
+
 ## Step 1: Decide the goal
 
 - **Essential-load backup:** refrigerator, lights, internet, some outlets, maybe a furnace blower or a well pump.

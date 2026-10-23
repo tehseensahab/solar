@@ -15,5 +15,15 @@
     {{ end }}{{ end }}
   </div>
   <p class="calc-hub-note">Start with system size. It passes your result to the payback calculator. Both give estimates from the figures you enter, not quotes. See our <a href="/methodology/">methodology</a>.</p>
+  <h2 class="calc-hub-sub">Reader tools</h2>
+  <div class="calc-hub">
+    {{ range slice "/battery-size-calculator" "/ev-charger-calculator" }}{{ with site.GetPage . }}
+    <a class="cat-card calc-hub-card" href="{{ .RelPermalink }}">
+      <h2>{{ .Title }}</h2>
+      <p>{{ .Description }}</p>
+      <span class="btn btn-primary calc-hub-go">Open tool →</span>
+    </a>
+    {{ end }}{{ end }}
+  </div>
 </section>
 {{ end }}
