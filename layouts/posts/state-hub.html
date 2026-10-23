@@ -84,6 +84,8 @@
     </section>
     {{ end }}
 
+    <p class="hint tool-links">Related tools: <a href="/electric-rates/?state={{ $d.slug }}">compare {{ $d.name }}'s rate with other states</a> · <a href="/solar-incentives/?state={{ $d.slug }}">check incentives that apply in {{ $d.name }}</a></p>
+
     {{ with $d.bill_vs_solar }}
     <section id="bill-vs-solar" aria-labelledby="bill-vs-solar-h">
       <h2 id="bill-vs-solar-h">Average monthly bill vs. a typical solar payment</h2>

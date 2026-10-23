@@ -1,0 +1,66 @@
+{{ define "main" }}
+{{- $e := site.Data.eia_prices -}}
+{{- $rates := eq .Params.lookup "rates" -}}
+<article class="calc-page">
+  <header class="post-head calc-head">
+    <nav class="calc-steps" aria-label="Related"><a href="/rates-by-state/">← Rates by state</a> · <a href="/calculators/">All calculators</a></nav>
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}
+  </header>
+  <div class="wrap">
+  <form class="calc" id="calc" data-tool="{{ .Params.lookup }}" novalidate onsubmit="return false">
+    <div class="calc-inputs">
+      <fieldset>
+        <legend>Your state</legend>
+        <div class="field">
+          <label for="state">State</label>
+          <select id="state" name="state">
+            <option value="">Choose a state</option>
+            {{- range sort site.Data.states "name" }}<option value="{{ .slug }}">{{ .name }}</option>{{ end }}
+          </select>
+        </div>
+        {{ if $rates }}
+        <div class="field">
+          <label for="kwh">Monthly electricity use</label>
+          <div class="unit"><input id="kwh" name="kwh" type="number" inputmode="decimal" min="0" step="50" value="900"><span>kWh</span></div>
+          <p class="hint">Your bill shows this. 900 kWh is a round number near EIA's 2022 national average of 899 kWh a month, not your use.</p>
+        </div>
+        {{ end }}
+      </fieldset>
+    </div>
+    <div class="calc-results" id="results" aria-live="polite">
+      <div id="out"></div>
+      {{ if $rates }}<p class="calc-note">Statewide averages from EIA ({{ $e.month }}, preliminary), not your utility's tariff. <a href="#how-it-works">How it is calculated</a>.</p>{{ end }}
+    </div>
+  </form>
+  {{ if not $rates }}
+  <div id="state-data" hidden>
+    {{- range site.Data.states }}
+    {{- $d := . }}
+    {{- $hub := site.GetPage (printf "/posts/%s-electricity-rate-changes-2026" .slug) }}
+    <section data-state="{{ .slug }}">
+      <h2>{{ .name }}: what applies</h2>
+      {{ with .net_metering }}<h3>Export credit (net metering)</h3><p class="nm-status"><span>Status:</span> {{ .status }}</p>{{ end }}
+      {{ with .incentives }}<h3>State and utility incentives we have recorded</h3><ul>{{ range . }}<li><strong>{{ .name }}</strong></li>{{ end }}</ul><p>Amounts and eligibility change. Open the {{ $d.name }} guide for the details and sources.</p>
+      {{ else }}<h3>State and utility incentives</h3><p>We have not recorded a verified state incentive for {{ .name }}. That does not mean none exists. Check your state energy office and your utility.</p>{{ end }}
+      {{ if $hub }}<p><a href="{{ $hub.RelPermalink }}#net-metering">{{ .name }} electricity rates, net metering and incentives →</a></p>{{ end }}
+      <p class="hint">Rules checked {{ (time .refreshed).Format "January 2, 2006" }}. Refreshed with the state guide.</p>
+    </section>
+    {{- end }}
+  </div>
+  {{ end }}
+  </div>
+  <div class="post-body" id="how-it-works">
+    {{ .Content }}
+    {{ with .Params.faq }}<section class="faq"><h2>Frequently asked questions</h2>{{ range . }}<h3>{{ .q }}</h3><p>{{ .a }}</p>{{ end }}</section>{{ end }}
+  </div>
+</article>
+{{- if $rates }}
+{{- $rows := slice }}
+{{- range $st := site.Data.states }}{{ with index $e.states $st.slug }}
+{{- $hub := site.GetPage (printf "/posts/%s-electricity-rate-changes-2026" $st.slug) }}
+{{- $rows = $rows | append (dict "slug" $st.slug "name" $st.name "y26" (float .y2026) "y25" (float .y2025) "change" .change "url" (cond (ne $hub nil) $hub.RelPermalink "")) }}{{ end }}{{ end }}
+<script>window.SE_LOOKUP = {{ dict "states" $rows "us" (float $e.us.y2026) "us25" (float $e.us.y2025) "month" $e.month "prev" $e.prev_month | jsonify | safeJS }};</script>
+{{- end }}
+<script src="/js/lookup.js?v={{ now.Unix }}" defer></script>
+{{ end }}

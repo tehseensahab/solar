@@ -124,6 +124,8 @@ Run the formula on a summer bill and a winter bill. The difference shows how muc
 
 Bill layouts and line names differ by utility and state, and this guide uses a few states as examples. The EIA usage figure is from 2022 and the price figures are from 2025. Demand charges, common on commercial bills, are not covered. Tariff rates cited here were verified on the dates shown in the linked articles and can change.
 
+Related tool: [look up your state's average rate and estimate a bill](/electric-rates/).
+
 ## Sources
 
 - [EIA, Electricity explained: Factors affecting electricity prices](https://www.eia.gov/energyexplained/electricity/prices-and-factors-affecting-prices.php)

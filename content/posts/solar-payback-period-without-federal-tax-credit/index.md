@@ -125,6 +125,8 @@ Panel warranties typically run 20 to 25 years according to NREL, so a payback be
 
 The example uses one national median price from a single marketplace, one assumed production figure and a national average rate. Real quotes, roofs and tariffs vary widely. The 2% rate growth is an assumption, not a forecast. We did not model batteries, loans, taxes on savings, home value or state incentives. Nothing here is a guarantee of savings or personal financial or tax advice.
 
+Related tool: [what incentives still apply in your state](/solar-incentives/).
+
 ## Sources
 
 - [IRS, FAQs on modification of sections 25C, 25D and others under Public Law 119-21 (FS-2025-05, Aug. 21, 2025)](https://www.irs.gov/newsroom/faqs-for-modification-of-sections-25c-25d-25e-30c-30d-45l-45w-and-179d-under-public-law-119-21-139-stat-72-july-4-2025-commonly-known-as-the-one-big-beautiful-bill-act-obbb)
