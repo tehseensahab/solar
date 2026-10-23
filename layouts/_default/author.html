@@ -1,0 +1,20 @@
+{{ define "main" }}
+{{ $w := index site.Data.writers .Title }}
+<div class="wrap page-head">
+  <p class="cat">Author</p>
+  <h1>{{ .Title }}</h1>
+  {{ with $w.role }}<p class="lead">{{ . }}</p>{{ end }}
+</div>
+<section class="section wrap">
+  <div class="post-body">
+    {{ with $w.bio }}<p>{{ . }}</p>{{ end }}
+    {{ with $w.details }}<ul>{{ range . }}<li>{{ . }}</li>{{ end }}</ul>{{ end }}
+    <p>How we research and check our work: <a href="{{ "methodology/" | relURL }}">methodology</a>, <a href="{{ "how-we-pick/" | relURL }}">how we pick products</a> and <a href="{{ "editorial-policy/" | relURL }}">editorial policy</a>.</p>
+  </div>
+  {{ $name := .Title }}
+  {{ $posts := where (where site.RegularPages "Section" "posts") "Params.author" $name }}
+  <h2>Articles by {{ .Title }}</h2>
+  {{ partial "card-grid.html" $posts.ByDate.Reverse }}
+</section>
+<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@type" "Person" "name" .Title "jobTitle" $w.role "description" $w.bio "url" .Permalink "worksFor" (dict "@type" "Organization" "name" site.Title "url" (absURL "")) | jsonify | safeJS }}</script>
+{{ end }}

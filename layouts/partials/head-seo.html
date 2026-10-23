@@ -51,7 +51,7 @@
 {{- $cat := false }}{{ with .GetTerms "categories" }}{{ $cat = index . 0 }}{{ end }}
 {{- $author := $publisher }}
 {{- $author = dict "@type" "Organization" "name" site.Params.author "url" (absURL "about/") }}
-{{- with .Params.author }}{{ $author = dict "@type" "Person" "name" . }}{{ with index site.Data.writers . }}{{ $author = merge $author (dict "url" (printf "about/#%s" (anchorize $.Params.author) | absURL) "jobTitle" .role) }}{{ with .url }}{{ $author = merge $author (dict "sameAs" (slice .)) }}{{ end }}{{ end }}{{ end }}
+{{- with .Params.author }}{{ $author = dict "@type" "Person" "name" . }}{{ with index site.Data.writers . }}{{ $author = merge $author (dict "url" (cond (ne (site.GetPage (printf "/authors/%s" (anchorize $.Params.author))) nil) (site.GetPage (printf "/authors/%s" (anchorize $.Params.author))).Permalink (printf "about/#%s" (anchorize $.Params.author) | absURL)) "jobTitle" .role) }}{{ with .url }}{{ $author = merge $author (dict "sameAs" (slice .)) }}{{ end }}{{ end }}{{ end }}
 {{- $isNews := false }}{{ with $cat }}{{ $isNews = eq (lower .LinkTitle) "news" }}{{ end }}
 {{- $article := dict "@type" (cond $isNews "NewsArticle" "Article") "headline" .Title "description" $desc "url" .Permalink "mainEntityOfPage" .Permalink "image" (slice $image) "datePublished" (.Date.Format $iso) "dateModified" (.Lastmod.Format $iso) "author" $author "publisher" $publisher "inLanguage" "en-US" "isAccessibleForFree" true "publishingPrinciples" (absURL "editorial-policy/") "isPartOf" (dict "@type" "WebSite" "name" site.Title "url" $home) "speakable" (dict "@type" "SpeakableSpecification" "cssSelector" (slice ".post-head .lead" ".takeaways")) }}
 {{- with .Params.tags }}{{ $article = merge $article (dict "keywords" (delimit . ", ")) }}{{ end }}

@@ -1,10 +1,20 @@
 # Staff writers: shown on the About page and linked from bylines.
 # url: LinkedIn or personal profile (used as schema.org sameAs). Leave empty until known.
 "John Marshall":
-  role: "Researcher and writer"
-  bio: "John Marshall researches and writes about electricity rates, rate cases and solar incentives for Solar Examiner. He works from utility tariffs, regulator filings and agency data, and dates every figure he reports."
+  role: "Electronics Writer & Technical Researcher"
+  bio: "An electronics-focused writer and researcher dedicated to exploring consumer electronics, electrical components, and practical technology solutions. He researches technical specifications, product features, performance factors, and real-world applications to create clear, useful, and reader-focused content. At Solar Examiner, the focus is on delivering well-researched articles that help readers understand electronic devices, solar equipment, and the technologies shaping modern energy systems."
+  details:
+    - "Expertise: Consumer electronics, electrical components, and solar equipment"
+    - "Research focus: Technical specifications, product functionality, efficiency, and technology trends"
+    - "Writing focus: Electronics guides, product research, technical comparisons, and how-to articles"
+    - "Role at Solar Examiner: Electronics Writer & Researcher"
   url: ""
 "Craig Leslie":
-  role: "Researcher and writer"
-  bio: "Craig Leslie researches and writes about residential and community solar for Solar Examiner, from equipment to costs and policy. He checks each figure against its original source before publication and notes when a number is an estimate or still changing."
+  role: "Electronics Writer & Technical Researcher"
+  bio: "An electronics-focused writer and researcher dedicated to exploring consumer electronics, electrical components, and practical technology solutions. He researches technical specifications, product features, performance factors, and real-world applications to create clear, useful, and reader-focused content. At Solar Examiner, the focus is on delivering well-researched articles that help readers understand electronic devices, solar equipment, and the technologies shaping modern energy systems."
+  details:
+    - "Expertise: Consumer electronics, electrical components, and solar equipment"
+    - "Research focus: Technical specifications, product functionality, efficiency, and technology trends"
+    - "Writing focus: Electronics guides, product research, technical comparisons, and how-to articles"
+    - "Role at Solar Examiner: Electronics Writer & Researcher"
   url: ""
