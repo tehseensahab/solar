@@ -3,7 +3,8 @@ title: "Missouri Electricity Rates and Solar"
 detailTitle: "Missouri Electricity Rate Changes: What Changed in 2026 and What's Next"
 url: "/rates/missouri/"
 date: 2026-10-04
-lastVerified: 2026-10-04
+lastmod: 2026-10-25
+lastVerified: 2026-10-25
 imageAlt: "Rows of transmission towers and power lines crossing a brown farm field."
 imageCredit: "Photo by Chris Weiher on [Unsplash](https://unsplash.com/photos/a-row-of-power-lines-in-the-middle-of-a-field-_lC8tokDnSg?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -16,7 +17,7 @@ tags: ["Missouri", "Ameren Missouri", "Evergy", "Missouri PSC"]
 takeaways:
   - "We found no approved Ameren Missouri or Evergy base rate change for October 1, 2026."
   - "Ameren Missouri has asked for a $343 million increase, about $13 a month for an average residential customer. New rates would take effect in mid-2027 if approved."
-  - "Evergy Missouri Metro has asked for about $137.9 million a year. Public hearings were held in July 2026."
+  - "Evergy Missouri Metro has asked for about $137.9 million a year, about $17.70 a month for an average home per Evergy. The PSC suspended the new rates until January 6, 2027."
   - "One city did change rates on October 1: Columbia's municipal utility raised usage fees 6%."
 faq:
   - q: "Is solar worth it in Missouri?"
@@ -24,7 +25,7 @@ faq:
   - q: "What is the average electricity rate in Missouri?"
     a: "EIA puts Missouri's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Ameren's pending case would add about $13 a month for an average residential customer if approved as filed."
   - q: "Did Missouri electric rates change on October 1, 2026?"
-    a: "Not at Ameren Missouri or Evergy, as far as we found. Columbia's city-owned utility raised electric usage fees 6% on that date."
+    a: "Base rates did not change at Ameren Missouri or Evergy, as far as we found. Evergy Missouri Metro's fuel adjustment charge did fall on October 1, about $1.63 a month at 1,000 kWh. Columbia's city-owned utility raised electric usage fees 6% on that date."
   - q: "How much is Ameren Missouri asking for?"
     a: "A net $343 million a year in electric base rates, about $13 a month for an average residential customer, in case ER-2026-0291. It is a request, not an approved rate."
   - q: "When would new Ameren Missouri rates start?"
@@ -43,7 +44,7 @@ This article covers Ameren Missouri, which serves about 1.2 million electric cus
 |---|---|---|---|
 | Last base rate increase | Ameren Missouri | Approved April 23, 2025 | $355 million approved of $446 million asked |
 | Pending rate case | Ameren Missouri | New rates expected mid-2027 | About +$13 a month (request) |
-| Pending rate case | Evergy Missouri Metro | Hearings held July 2026 | Not stated in PSC notice |
+| Pending rate case | Evergy Missouri Metro | Rates suspended until Jan. 6, 2027 | About +$17.70 a month (request, per Evergy) |
 | Usage fees | Columbia Water & Light | Oct. 1, 2026 | +6% |
 
 ## Ameren Missouri
@@ -60,7 +61,7 @@ The PSC also approved a large-load rate plan for Ameren in 2026, with protection
 
 ## Evergy Missouri Metro
 
-Evergy Missouri Metro filed on February 6, 2026 (case ER-2026-0143), asking for about $137.9 million more a year in base rates. The PSC held public hearings in Kansas City on July 14, in Marshall on July 15, and online on July 16. The PSC's notice does not give a residential bill impact, and we found no decision.
+Evergy Missouri Metro filed on February 6, 2026 (case ER-2026-0143), asking for about $137.9 million more a year in base rates. Evergy says an average residential customer would pay about $17.70 more a month if the request is approved as filed. The PSC held public hearings in July, scheduled the evidentiary hearing for September 28 through October 9, 2026, and suspended the proposed rates until January 6, 2027. We found no decision as of October 25. Separately, Evergy Missouri Metro's fuel adjustment fell on October 1, about $1.63 a month at 1,000 kWh. Our [Evergy Missouri Metro rate case explainer](/posts/evergy-missouri-metro-rate-increase-2026/) has the details.
 
 ## A Real October 1 Change: Columbia
 
@@ -89,7 +90,7 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 
 ## What Happens Next
 
-- Evergy Missouri Metro: a PSC decision, date not confirmed.
+- Evergy Missouri Metro: a PSC decision before the January 6, 2027 suspension date; Evergy expects new rates in January 2027.
 - Ameren Missouri: hearings and a decision ahead of mid-2027.
 
 ## Limitations
@@ -106,6 +107,9 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 
 - [Missouri PSC, "PSC Approves Agreement in Ameren Missouri Electric Rate Case," April 23, 2025](https://psc.mo.gov/Electric/PSC_Approves_Agreement_in_Ameren_Missouri_Electric_Rate_Case--pr-25-33)
 - [Missouri PSC, "PSC Sets Local Public Hearing Schedule for Evergy Missouri Metro Rate Case"](https://psc.mo.gov/Electric/PSC_Sets_Local_Public_Hearing_Schedule_for_Evergy_Missouri_Metro_Rate_Case_-_pr-26-70)
+- [Evergy, Missouri Metro rate request announcement, Feb. 6, 2026](https://newsroom.evergy.com/2026-02-06-Evergy-asks-Missouri-Public-Service-Commission-to-allow-recovery-of-investments-to-improve-electric-grid-reliability-and-costs-of-service-for-Missouri-Metro-customers)
+- [Missouri PSC, order suspending Evergy Missouri Metro tariffs, Feb. 19, 2026](https://efis.psc.mo.gov/Document/Display/866281)
+- [Missouri PSC, Evergy Missouri Metro fuel adjustment order, Sept. 14, 2026](https://efis.psc.mo.gov/Document/Display/890156)
 - [Missouri PSC, "PSC Approves Ameren Missouri Large Load Power Rate Plan with Customer Protections"](https://psc.mo.gov/Electric/PSC_Approves_Ameren_Missouri_Large_Load_Power_Rate_Plan_with_Customer_Protections--pr-26-40)
 - [KFVS, "Ameren customers can tell Commission how they feel about rate hike requested by utility company," July 1, 2026](https://www.kfvs12.com/2026/07/01/ameren-customers-can-tell-commission-how-they-feel-about-rate-hike-requested-by-utility-company/)
 - [Ameren Missouri, Solar FAQs](https://www.ameren.com/missouri/company/environment-and-sustainability/solar/solar-faqs)
