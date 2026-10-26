@@ -117,3 +117,4 @@ do-solar-panels-increase-home-value | Do Solar Panels Increase Home Value? What 
 entergy-arkansas-rate-increase-2026 | Entergy Arkansas Rate Increase 2026: $1.16 or 4.9%? | 2026-10-24 | news | published | entergy arkansas rate increase 2026 | /posts/entergy-arkansas-rate-increase-2026/
 selling-a-house-with-a-solar-lease | Selling a House With a Solar Lease: Transfer or Buyout | 2026-10-25 | costs-incentives | published | selling a house with a solar lease | /posts/selling-a-house-with-a-solar-lease/
 evergy-missouri-metro-rate-increase-2026 | Evergy Rate Increase 2026: Missouri Metro Asks $17.70 More | 2026-10-25 | news | published | evergy rate increase 2026 | /posts/evergy-missouri-metro-rate-increase-2026/
+community-solar-vs-rooftop-solar | Community Solar vs Rooftop Solar: Which Saves More? | 2026-10-26 | costs-incentives | published | community solar vs rooftop solar | /posts/community-solar-vs-rooftop-solar/
