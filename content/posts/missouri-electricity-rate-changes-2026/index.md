@@ -3,8 +3,8 @@ title: "Missouri Electricity Rates and Solar"
 detailTitle: "Missouri Electricity Rate Changes: What Changed in 2026 and What's Next"
 url: "/rates/missouri/"
 date: 2026-10-04
-lastmod: 2026-10-25
-lastVerified: 2026-10-25
+lastmod: 2026-10-27
+lastVerified: 2026-10-27
 imageAlt: "Rows of transmission towers and power lines crossing a brown farm field."
 imageCredit: "Photo by Chris Weiher on [Unsplash](https://unsplash.com/photos/a-row-of-power-lines-in-the-middle-of-a-field-_lC8tokDnSg?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -54,8 +54,8 @@ This article covers Ameren Missouri, which serves about 1.2 million electric cus
 **The new request.** Ameren has filed again, in case ER-2026-0291:
 
 - **Amount:** a net increase of $343 million a year in electric base rates.
-- **Bills:** about $13 a month for an average residential customer, according to KFVS.
-- **Timing:** the intervention deadline was July 15, 2026. Ameren has said new rates would take effect in mid-2027.
+- **Bills:** about $13 a month for a home using 1,011 kWh, according to Ameren; its filing puts the average residential increase at 10.2%, or $154.53 a year.
+- **Timing:** the PSC schedule has an evidentiary hearing March 15 to 26, 2027. Ameren has said new rates would take effect in mid-2027. Details in our [Ameren Missouri rate request breakdown](/posts/ameren-missouri-rate-increase-2027/).
 
 The PSC also approved a large-load rate plan for Ameren in 2026, with protections intended to keep other customers from paying for the cost of serving very large users.
 
@@ -95,7 +95,7 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 
 ## Limitations
 
-The Ameren bill impact comes from a local TV report. We did not open the PSC case files, and we did not confirm the effective date of the 2025 Ameren increase or the percentage size of either pending request.
+The Ameren figures in the pending case come from Ameren's June 26, 2026 filing and announcement; they are requests. We did not confirm the effective date of the 2025 Ameren increase.
 
 ## Compare With Nearby States
 
@@ -111,6 +111,7 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [Missouri PSC, order suspending Evergy Missouri Metro tariffs, Feb. 19, 2026](https://efis.psc.mo.gov/Document/Display/866281)
 - [Missouri PSC, Evergy Missouri Metro fuel adjustment order, Sept. 14, 2026](https://efis.psc.mo.gov/Document/Display/890156)
 - [Missouri PSC, "PSC Approves Ameren Missouri Large Load Power Rate Plan with Customer Protections"](https://psc.mo.gov/Electric/PSC_Approves_Ameren_Missouri_Large_Load_Power_Rate_Plan_with_Customer_Protections--pr-26-40)
+- [Ameren Missouri filing, case ER-2026-0291, June 26, 2026](https://efis.psc.mo.gov/Document/Display/880663)
 - [KFVS, "Ameren customers can tell Commission how they feel about rate hike requested by utility company," July 1, 2026](https://www.kfvs12.com/2026/07/01/ameren-customers-can-tell-commission-how-they-feel-about-rate-hike-requested-by-utility-company/)
 - [Ameren Missouri, Solar FAQs](https://www.ameren.com/missouri/company/environment-and-sustainability/solar/solar-faqs)
 - [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
