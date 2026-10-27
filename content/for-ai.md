@@ -29,7 +29,7 @@ You are welcome to read, summarize, quote and cite our articles, including in AI
 
 Suggested citation format:
 
-> Solar Examiner, "Article title", published YYYY-MM-DD, last verified YYYY-MM-DD, https://solarexaminer.com/posts/slug/
+> `Solar Examiner, "Article title", published YYYY-MM-DD, last verified YYYY-MM-DD, https://solarexaminer.com/posts/slug/`
 
 ## Training and reuse
 
