@@ -120,3 +120,5 @@ evergy-missouri-metro-rate-increase-2026 | Evergy Rate Increase 2026: Missouri M
 community-solar-vs-rooftop-solar | Community Solar vs Rooftop Solar: Which Saves More? | 2026-10-26 | costs-incentives | published | community solar vs rooftop solar | /posts/community-solar-vs-rooftop-solar/
 ameren-missouri-rate-increase-2027 | Ameren Missouri Rate Increase: $13 a Month Asked for 2027 | 2026-10-27 | news | published | ameren missouri rate increase | /posts/ameren-missouri-rate-increase-2027/
 why-is-my-electric-bill-so-high | Why Is My Electric Bill So High? 8 Causes to Check | 2026-10-27 | electric-rates | published | why is my electric bill so high | /posts/why-is-my-electric-bill-so-high/
+tep-rate-increase-2026 | TEP Rate Increase 2026: Judge Recommends 11.2% for Homes | 2026-10-28 | news | published | tep rate increase 2026 | /posts/tep-rate-increase-2026/
+heat-pump-water-heater-savings | Heat Pump Water Heater Savings: What You'll Really Save | 2026-10-28 | equipment | published | heat pump water heater savings | /posts/heat-pump-water-heater-savings/
