@@ -91,7 +91,7 @@ We found one rate decision and no later one. We did not check whether Evergy has
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Kansas's average residential price at 15.27¢/kWh in July 2026, up 5.6% from 14.46¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $152.70 (1,000 × 15.27¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Kansas's average residential price at 15.47¢/kWh in August 2026, up 5.6% from 14.65¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $154.70 (1,000 × 15.47¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Colorado](/rates/colorado/), [Missouri](/rates/missouri/), [Nebraska](/rates/nebraska/), [Oklahoma](/rates/oklahoma/), or the full [rates by state](/rates-by-state/) list.
 
@@ -100,4 +100,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [Kansas Corporation Commission, "KCC approves unanimous settlement agreement in Evergy rate case," Sept. 25, 2025](https://www.kcc.ks.gov/news-9-25-25)
 - [Citizens' Utility Ratepayer Board, CURB News, Evergy Kansas Central rate case update](https://www.kcc.ks.gov/images/PDFs/CURB/CURB_News_25Q2.pdf)
 - [EnergySage, Kansas Solar Incentives](https://www.energysage.com/local-data/solar-rebates-incentives/ks/)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

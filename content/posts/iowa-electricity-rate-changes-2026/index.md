@@ -96,7 +96,7 @@ Alliant information comes from its own customer outlook page. We did not find Mi
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Iowa's average residential price at 15.99¢/kWh in July 2026, up 4.4% from 15.31¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $159.90 (1,000 × 15.99¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Iowa's average residential price at 17.06¢/kWh in August 2026, up 10.2% from 15.48¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $170.60 (1,000 × 17.06¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Illinois](/rates/illinois/), [Minnesota](/rates/minnesota/), [Nebraska](/rates/nebraska/), [Wisconsin](/rates/wisconsin/), or the full [rates by state](/rates-by-state/) list.
 
@@ -108,4 +108,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [KTVO, "Businesses push for Alliant Energy to lower its proposed rate increase"](https://ktvo.com/news/local/businesses-push-for-alliant-energy-to-lower-its-proposed-rate-increase-of-about-1125)
 - [Iowa Code 476.49, Billing methods for distributed generation customers](https://www.legis.iowa.gov/docs/code/476.49.pdf)
 - [MidAmerican Energy, Customer Interconnection and Rates Information](https://www.midamericanenergy.com/customer-interconnection)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

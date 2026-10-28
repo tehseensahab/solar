@@ -114,7 +114,7 @@ The Pepco SOS figures come from a third-party analysis of published rates, suppo
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Maryland's average residential price at 21.41¢/kWh in July 2026, up 13.7% from 18.83¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $214.10 (1,000 × 21.41¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Maryland's average residential price at 21.40¢/kWh in August 2026, up 7.6% from 19.89¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $214.00 (1,000 × 21.40¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Delaware](/rates/delaware/), [Pennsylvania](/rates/pennsylvania/), [Virginia](/rates/virginia/), [West Virginia](/rates/west-virginia/), or the full [rates by state](/rates-by-state/) list.
 
@@ -125,5 +125,5 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [Honeydew Advisors, "Maryland Pepco SOS Supply Rates: Where They Stand in 2026"](https://honeydewadvisors.com/md-pepco-rate-analysis/)
 - [EnergyChoiceMatters, "Pepco-MD Residential, Small Commercial SOS Rates Increasing 11-13% In October," April 22, 2026](http://www.energychoicematters.com/stories/20260422a.html)
 - [Solar United Neighbors, "Net metering in Maryland"](https://solarunitedneighbors.org/resources/net-metering-in-maryland/)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
 - [FirstEnergy, Potomac Edison rate proposal (last modified Sept. 8, 2026)](https://www.firstenergycorp.com/newsroom/news_articles/pe-proposes-rate-adjustment.html)

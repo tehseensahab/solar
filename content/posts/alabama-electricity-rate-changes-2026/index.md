@@ -101,7 +101,7 @@ We did not open PSC orders or Alabama Power's tariff. The 2028 figures and the g
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Alabama's average residential price at 16.40¢/kWh in July 2026, up 3.0% from 15.93¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $164.00 (1,000 × 16.40¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Alabama's average residential price at 16.33¢/kWh in August 2026, up 0.4% from 16.26¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $163.30 (1,000 × 16.33¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Georgia](/rates/georgia/), [Florida](/rates/florida/), [Mississippi](/rates/mississippi/), [Tennessee](/rates/tennessee/), or the full [rates by state](/rates-by-state/) list.
 
@@ -112,4 +112,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [WBRC, "Alabama's new energy law shakes up utility oversight, offers little cost savings," April 4, 2026](https://www.wbrc.com/2026/04/04/alabamas-new-energy-law-shakes-up-utility-oversight-offers-little-cost-savings/)
 - [Alabama Power, Rate Rider RGB](https://www.alabamapower.com/content/dam/alabama-power/pdfs-docs/Rates/RGB.pdf)
 - [Canary Media, "Alabama Power can keep charging steep rooftop solar fee"](https://www.canarymedia.com/articles/solar/alabama-power-charge-rooftop-solar-fee)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

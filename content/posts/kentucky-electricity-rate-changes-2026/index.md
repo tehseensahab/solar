@@ -90,7 +90,7 @@ We did not find the exact effective date of the new rates, the basic service cha
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Kentucky's average residential price at 13.81¢/kWh in July 2026, up 5.2% from 13.13¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $138.10 (1,000 × 13.81¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Kentucky's average residential price at 13.80¢/kWh in August 2026, up 5.3% from 13.10¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $138.00 (1,000 × 13.80¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Indiana](/rates/indiana/), [Ohio](/rates/ohio/), [Tennessee](/rates/tennessee/), [West Virginia](/rates/west-virginia/), or the full [rates by state](/rates-by-state/) list.
 
@@ -100,4 +100,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [Kentucky Lantern, "LG&E/KU customers will pay more though not as much as utility wanted," Feb. 18, 2026](https://kentuckylantern.com/2026/02/18/lge-ku-customers-will-pay-more-though-not-as-much-as-utility-wanted/)
 - [Mountain Association, "LG&E-KU Rate Case Update"](https://mtassociation.org/energy/lge-ku-rate-case-update/)
 - [Joint Intervenors' motion for rehearing, Case 2025-00114, March 9, 2026](https://psc.ky.gov/pscecf/2025-00114/byron%40kyrc.org/03092026091010/2026-03-09-JI-motn-rehrg.pdf)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

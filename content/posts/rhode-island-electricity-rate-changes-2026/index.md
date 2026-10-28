@@ -126,7 +126,7 @@ The commission's page listed the winter rate as pending final approval, and the 
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Rhode Island's average residential price at 28.29¢/kWh in July 2026, up 8.1% from 26.18¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $282.90 (1,000 × 28.29¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Rhode Island's average residential price at 28.18¢/kWh in August 2026, up 6.2% from 26.53¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $281.80 (1,000 × 28.18¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Connecticut](/rates/connecticut/), [Massachusetts](/rates/massachusetts/), [New York](/rates/new-york/), or the full [rates by state](/rates-by-state/) list.
 
@@ -139,4 +139,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [WPRI, "RI regulators approve electricity rate hike, some financial relief for winter months"](https://www.wpri.com/target-12/ri-regulators-pair-electricity-rate-hike-with-some-financial-relief-for-winter-months/)
 - [NuWatt Energy, "RI Net Metering Guide 2026"](https://nuwattenergy.com/en/rhode-island/net-metering-guide-2026)
 - [Rhode Island Energy, net metering tariff compliance filing, Docket 25-50-EL, May 18, 2026](https://ripuc.ri.gov/sites/g/files/xkgbur841/files/2026-05/25-50-EL%20-%20Net%20Metering%20Tariff%20Advice%20-%20Compliance%20%28PUC%205-18-26%29.pdf)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

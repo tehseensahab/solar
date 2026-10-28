@@ -97,7 +97,7 @@ Rates come from the Valley News and New Hampshire Public Radio. The Public Utili
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts New Hampshire's average residential price at 26.60¢/kWh in July 2026, up 16.7% from 22.79¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $266.00 (1,000 × 26.60¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts New Hampshire's average residential price at 27.64¢/kWh in August 2026, up 13.1% from 24.44¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $276.40 (1,000 × 27.64¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Maine](/rates/maine/), [Massachusetts](/rates/massachusetts/), [Vermont](/rates/vermont/), or the full [rates by state](/rates-by-state/) list.
 
@@ -107,4 +107,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [New Hampshire Public Radio, "Electricity prices are about to go up in NH. Here's why," July 20, 2026](https://www.nhpr.org/nh-news/2026-07-20/electricity-prices-increases-nh-energy-utility)
 - [New Hampshire Public Utilities Commission, Electric Rates](https://www.puc.nh.gov/energy-rates/electric-rates)
 - [NuWatt Energy, "New Hampshire Net Metering 2026: NEM 2.0 Guide"](https://nuwattenergy.com/en/new-hampshire/net-metering-guide-2026)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

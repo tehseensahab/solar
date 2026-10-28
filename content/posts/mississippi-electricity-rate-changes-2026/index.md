@@ -90,7 +90,7 @@ This article relies mainly on an Entergy news release. We did not open Public Se
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Mississippi's average residential price at 14.54¢/kWh in July 2026, up 7.1% from 13.58¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $145.40 (1,000 × 14.54¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Mississippi's average residential price at 14.43¢/kWh in August 2026, up 6.0% from 13.61¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $144.30 (1,000 × 14.43¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Alabama](/rates/alabama/), [Arkansas](/rates/arkansas/), [Louisiana](/rates/louisiana/), [Tennessee](/rates/tennessee/), or the full [rates by state](/rates-by-state/) list.
 
@@ -99,4 +99,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [Entergy, "First benefits from data centers appear in Entergy Mississippi customer bills, eliminating nearly $5 monthly increase," 2026](https://www.entergy.com/news/first-benefits-from-data-centers-appear-in-entergy-mississippi-customer-bills-eliminating-nearly-5-monthly-increase)
 - [Citizen Portal, "PSC approves Entergy Mississippi ad valorem tax adjustment; typical 1,000 kWh bill falls 29¢"](https://citizenportal.ai/articles/6493574/mississippi/executive/organizations/agencies/public-service-commission/psc-approves-entergy-mississippi-ad-valorem-tax-adjustment-typical-1000-kwh-bill-falls-29)
 - [Mississippi Public Service Commission, "Net Metering and Solar Power in Mississippi" consumer guide](https://www.psc.ms.gov/sites/default/files/Documents/SolarPower_MSConsumerGuide-digital-version_0.pdf)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

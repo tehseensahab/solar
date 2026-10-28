@@ -95,7 +95,7 @@ Figures come from Talk Business & Politics and a newspaper headline. We did not 
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Arkansas's average residential price at 14.33¢/kWh in July 2026, up 8.1% from 13.26¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $143.30 (1,000 × 14.33¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Arkansas's average residential price at 14.37¢/kWh in August 2026, up 7.8% from 13.33¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $143.70 (1,000 × 14.37¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Louisiana](/rates/louisiana/), [Missouri](/rates/missouri/), [Oklahoma](/rates/oklahoma/), [Tennessee](/rates/tennessee/), or the full [rates by state](/rates-by-state/) list.
 
@@ -105,4 +105,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [Talk Business & Politics, "Entergy Arkansas requests rate hike, residential bills to rise by $1," Feb. 2026](https://talkbusiness.net/2026/02/entergy-arkansas-requests-rate-hike-residential-bills-to-rise-by-1/)
 - [Camden News, "Entergy's residential rates rising about $6 per month; Arkansas Public Service Commission OK'd 4.54% increase," Jan. 4, 2026](https://www.camdenarknews.com/news/2026/jan/04/entergys-residential-rates-rising-about-6-per/)
 - [University of Arkansas Division of Agriculture, "Net Metering Policies in Arkansas for Solar Energy"](https://www.uaex.uada.edu/environment-nature/energy/solar/net-metering.aspx)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

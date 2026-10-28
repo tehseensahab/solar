@@ -11,7 +11,7 @@ faq:
   - q: "What breaker size does an EV charger need?"
     a: "DOE's Alternative Fuels Data Center says the National Electrical Code treats EV charging as a continuous load. A common reading is a breaker at 125% of the charger's current: 40 A needs 50 A and 48 A needs 60 A. A licensed electrician confirms wire gauge, breaker and panel capacity for your home."
   - q: "How much does it cost to charge an EV at home?"
-    a: "Energy used times your electric rate. For example, 12 kWh from the wall at 18.31¢ per kWh is about $2.20. Your rate, your plan's time-of-use hours and the car's efficiency change the result."
+    a: "Energy used times your electric rate. For example, 12 kWh from the wall at 18.16¢ per kWh is about $2.18. Your rate, your plan's time-of-use hours and the car's efficiency change the result."
   - q: "Why is my car slower than the charger?"
     a: "Many cars accept less AC power than a charger can supply. Enter the car's maximum AC charge rate in kW and the tool uses the lower of the two."
 ---
@@ -27,18 +27,18 @@ Level 2 charging depends on three things: the charger's power, how much energy y
 6. **Cost per session** = energy from the wall × rate (¢ ÷ 100). **Cost per mile** = cost ÷ miles.
 7. **Breaker** = amps × 1.25, then the next standard size up.
 
-**Worked example with the defaults** (240 V, 40 A, 40 miles a day at 27 kWh per 100 miles, 10% losses, U.S. average 18.31¢):
+**Worked example with the defaults** (240 V, 40 A, 40 miles a day at 27 kWh per 100 miles, 10% losses, U.S. average 18.16¢):
 
 - Power: 240 × 40 ÷ 1,000 = 9.6 kW.
 - Energy added: 40 × 0.27 = 10.8 kWh; from the wall: 10.8 ÷ 0.90 = 12.0 kWh.
 - Time: 12.0 ÷ 9.6 = 1.25 hours, or 1 h 15 min.
-- Cost: 12.0 × 0.1831 = $2.20, or $0.055 per mile.
+- Cost: 12.0 × 0.1816 = $2.18, or $0.054 per mile.
 - Breaker: 40 × 1.25 = 50 A.
 
 ## Where the defaults come from
 
 - **27 kWh per 100 miles** is the example efficiency in DOE's [Alternative Fuels Data Center, Charging at home](https://afdc.energy.gov/fuels/electricity-charging-home). Cars vary widely.
-- **Electric rate:** the U.S. average is EIA's residential average price for July 2026 (18.31¢ per kWh, Electric Power Monthly Table 5.6.A, preliminary). Choosing a state fills in that state's July 2026 EIA average. These are statewide averages across all utilities; your bill's rate is better. See [rates by state](/rates-by-state/).
+- **Electric rate:** the U.S. average is EIA's residential average price for August 2026 (18.16¢ per kWh, Electric Power Monthly Table 5.6.A, preliminary). Choosing a state fills in that state's August 2026 EIA average. These are statewide averages across all utilities; your bill's rate is better. See [rates by state](/rates-by-state/).
 - **Breaker rule:** DOE's AFDC says the NEC treats EV charging as a continuous load. The 125% figure is the common application of that rule, not a substitute for an electrician's sizing.
 - **10% losses** is our assumption, not a measurement.
 

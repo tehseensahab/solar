@@ -92,7 +92,7 @@ We compared two months, January and May 2026. We did not review later months, so
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Louisiana's average residential price at 12.72¢/kWh in July 2026, down 3.0% from 13.12¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $127.20 (1,000 × 12.72¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Louisiana's average residential price at 12.87¢/kWh in August 2026, up 2.5% from 12.55¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $128.70 (1,000 × 12.87¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arkansas](/rates/arkansas/), [Mississippi](/rates/mississippi/), [Texas](/rates/texas/), or the full [rates by state](/rates-by-state/) list.
 
@@ -102,4 +102,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [Louisiana PSC, Residential Electric Bill Comparison, January 2026](https://lpsc.louisiana.gov/docs/utilities/Comparisons/Electric/Residential-Electric-Bill-Comparison-January-2026.pdf)
 - [Alliance for Affordable Energy, "Louisiana Public Service Commission Approves a Rate Change for Entergy Louisiana Customers," Aug. 14, 2024](https://www.all4energy.org/watchdog/lpsc-approves-ell-rate-change/)
 - [Alliance for Affordable Energy, "Confused about changes to net metering in Louisiana? Here's the deal"](https://www.all4energy.org/watchdog/confused-about-changes-to-net-metering-in-louisiana-heres-the-deal/)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

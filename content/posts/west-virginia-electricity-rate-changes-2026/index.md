@@ -99,7 +99,7 @@ Figures come from West Virginia news reports of the PSC's orders. We did not ope
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts West Virginia's average residential price at 15.78¢/kWh in July 2026, up 2.3% from 15.43¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $157.80 (1,000 × 15.78¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts West Virginia's average residential price at 16.31¢/kWh in August 2026, up 4.4% from 15.62¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $163.10 (1,000 × 16.31¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Kentucky](/rates/kentucky/), [Maryland](/rates/maryland/), [Ohio](/rates/ohio/), [Virginia](/rates/virginia/), or the full [rates by state](/rates-by-state/) list.
 
@@ -110,4 +110,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [West Virginia Public Broadcasting, "PSC Approves Settlements In Mon Power Net Metering, Fuel Cases"](https://wvpublic.org/story/energy-environment/psc-approves-settlements-in-mon-power-net-metering-fuel-cases/)
 - [West Virginians for Energy Freedom, "PSC Agrees with Public: Protect Low-Income Ratepayers, Preserve Solar," Aug. 29, 2025](https://www.energyfreedomwv.org/news/2025/8/29/psc-agrees-with-public-protect-low-income-ratepayers-preserve-solar)
 - [Mountain State Spotlight, "WV power companies propose slashing solar benefit," June 29, 2025](https://mountainstatespotlight.org/2025/06/29/power-companies-slash-solar/)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

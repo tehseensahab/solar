@@ -94,7 +94,7 @@ GVEA information comes from its own rate case page. Chugach details come from an
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Alaska's average residential price at 28.83¢/kWh in July 2026, up 5.6% from 27.30¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $288.30 (1,000 × 28.83¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Alaska's average residential price at 29.41¢/kWh in August 2026, up 5.8% from 27.79¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $294.10 (1,000 × 29.41¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Washington](/rates/washington/), [Hawaii](/rates/hawaii/), [Oregon](/rates/oregon/), or the full [rates by state](/rates-by-state/) list.
 
@@ -104,4 +104,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [Alaska Energy Transparency Project, "The Chugach Rate Case: A Wrap Up"](https://www.akenergytransparency.org/news/the-chugach-rate-casea-wrap-up)
 - [Renewable Energy Alaska Project, Net Metering](https://alaskarenewableenergy.org/ppf/net-metering/)
 - [Anchorage Daily News, "Dunleavy backs bill to require changes to net metering for Railbelt utility customers," Feb. 26, 2026](https://www.adn.com/politics/alaska-legislature/2026/02/26/dunleavy-backs-bill-to-require-net-metering-for-railbelt-utility-customers/)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

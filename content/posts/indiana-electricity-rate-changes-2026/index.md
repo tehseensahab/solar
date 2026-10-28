@@ -106,7 +106,7 @@ We did not open the IURC order. Bill figures come from AES's news release and Mi
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Indiana's average residential price at 16.73¢/kWh in July 2026, up 3.4% from 16.18¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $167.30 (1,000 × 16.73¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Indiana's average residential price at 17.02¢/kWh in August 2026, up 5.0% from 16.21¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $170.20 (1,000 × 17.02¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Illinois](/rates/illinois/), [Kentucky](/rates/kentucky/), [Michigan](/rates/michigan/), [Ohio](/rates/ohio/), or the full [rates by state](/rates-by-state/) list.
 
@@ -118,4 +118,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [AES Indiana, rate review page](https://www.aesindiana.com/rate-review)
 - [Indiana Public Media, "Here's what goes into your electricity bill and what could change," Sept. 14, 2026](https://www.ipm.org/news/2026-09-14/heres-what-goes-into-your-electricity-bill-and-what-could-change)
 - [AES Indiana, Rider 16: Excess Distributed Generation, effective July 27, 2026](https://www.aesindiana.com/sites/aesvault.com/files/2026-07/Rider-16-EDG-46258-Effective-07-27-26.pdf)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

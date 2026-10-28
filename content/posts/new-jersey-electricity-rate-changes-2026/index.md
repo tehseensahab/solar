@@ -103,7 +103,7 @@ Rules checked October 5, 2026. Solar tariffs change, so confirm the current term
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts New Jersey's average residential price at 25.19¢/kWh in July 2026, down 0.5% from 25.32¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $251.90 (1,000 × 25.19¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts New Jersey's average residential price at 24.61¢/kWh in August 2026, down 0.4% from 24.70¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $246.10 (1,000 × 24.61¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Delaware](/rates/delaware/), [New York](/rates/new-york/), [Pennsylvania](/rates/pennsylvania/), or the full [rates by state](/rates-by-state/) list.
 
@@ -114,5 +114,5 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - NJBPU order on results (Feb. 12, 2026): https://www.nj.gov/bpu/pdf/boardorders/2026/20260212/2A%20ORDER%202026%20BGS%20Auction%20Results.pdf
 - PSE&G electric tariffs page: https://nj.pseg.com/aboutpseg/regulatorypage/electrictariffs
 - NJBPU staff presentation, Jurisdictional Survey of NEM Reforms, Stakeholder Workshop 1 (Nov. 19, 2024): https://nj.gov/bpu/pdf/publicnotice/19.11.2024%20Jurisdictional%20Survey%20of%20NEM%20Reforms%20-%20Stakeholder%20Workshop%201%5b1%5d%20%20-%20%20Read-Only.pdf
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
 - FirstEnergy, JCP&L rate proposal release (Aug. 7, 2026): https://investors.firstenergycorp.com/investor-materials/news-releases/news-details/2026/JCPL-Rate-Proposal-Delays-Bill-Impact-for-Residential-Customers-Until-2028-While-Supporting-Reliability-Investments/default.aspx

@@ -58,7 +58,7 @@
     var offset = num("offset"), prod = num("prod"), panel = num("panel");
     advSum((prod > 0 ? fmt(prod) : "?") + " kWh per kW · " + (panel > 0 ? fmt(panel) : "?") + " W panels");
     var bh = el("bill-hint");
-    if (bh) bh.textContent = "We divide your yearly bill by the average residential price of " + rate.toFixed(2) + "¢/kWh (EIA, July 2026). Rougher than kWh from your bills.";
+    if (bh) bh.textContent = "We divide your yearly bill by the average residential price of " + rate.toFixed(2) + "¢/kWh (EIA, " + cfg.rateMonth + "). Rougher than kWh from your bills.";
     if (!(annual > 0)) return empty(mode() === "bill" ? "Enter your average monthly bill and the result appears here." : "Enter your yearly kWh use and the result appears here.", mode() !== "bill");
     if (!(offset > 0) || !(prod > 0) || !(panel > 0)) return empty("Check the coverage, output and panel wattage fields.");
 

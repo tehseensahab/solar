@@ -96,7 +96,7 @@ The 2026 figures come from one news report, which drew on an environmental group
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Montana's average residential price at 14.99¢/kWh in July 2026, up 5.0% from 14.27¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $149.90 (1,000 × 14.99¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Montana's average residential price at 15.57¢/kWh in August 2026, up 9.0% from 14.29¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $155.70 (1,000 × 15.57¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Idaho](/rates/idaho/), [North Dakota](/rates/north-dakota/), [South Dakota](/rates/south-dakota/), [Wyoming](/rates/wyoming/), or the full [rates by state](/rates-by-state/) list.
 
@@ -106,4 +106,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [KTVH, "Montana PSC approves NorthWestern Energy rate increases," Oct. 2023](https://www.ktvh.com/news/montana-psc-approves-northwestern-energy-rate-increases)
 - [Montana Free Press via MSU Exponent, "After 16 months, PSC approves $246 million rate increase for NorthWestern customers"](https://www.msuexponent.com/news/state/after-16-months-psc-approves-246-million-rate-increase-for-northwestern-customers/article_03fcfd97-ab57-578a-b97c-7c97e3ef1c28.html)
 - [Montana Renewable Energy Association, Net Metering](https://montanarenewables.org/renewable-energy/net-metering/)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

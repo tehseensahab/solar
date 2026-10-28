@@ -89,7 +89,7 @@ PSO figures come from KGOU, KTUL, KRMG and the Tulsa Flyer. We did not open the 
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Oklahoma's average residential price at 14.35¢/kWh in July 2026, up 6.1% from 13.52¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $143.50 (1,000 × 14.35¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Oklahoma's average residential price at 14.82¢/kWh in August 2026, up 2.8% from 14.42¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $148.20 (1,000 × 14.82¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arkansas](/rates/arkansas/), [Kansas](/rates/kansas/), [New Mexico](/rates/new-mexico/), [Texas](/rates/texas/), or the full [rates by state](/rates-by-state/) list.
 
@@ -101,4 +101,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [KRMG, "Oklahoma Corporation Commission weighs PSO rate case as customers seek answers on spikes," Sept. 9, 2026](https://krmg.com/2026/09/09/oklahoma-corporation-commission-weighs-pso-rate-case-as-customers-seek-answers-on-spikes/)
 - [KTUL, "OG&E files first rate review with Oklahoma Corporation Commission since 2023," Oct. 1, 2026](https://ktul.com/news/local/oge-files-first-rate-review-with-oklahoma-corporation-commission-since-2023-10-01-2026)
 - [Oklahoma Corporation Commission, Net Metering in Oklahoma](https://oklahoma.gov/occ/divisions/public-utility/energy/electric-utility/netmetering.html)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

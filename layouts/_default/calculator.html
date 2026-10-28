@@ -43,7 +43,7 @@
               <option value="{{ $s.slug }}" data-rate="{{ .y2026 }}">{{ $s.name }}</option>{{ end }}{{ end }}
             </select>
           </div>
-          <p class="hint hint-wide" id="bill-hint">We divide your yearly bill by the average residential price (EIA, July 2026). Rougher than kWh from your bills.</p>
+          <p class="hint hint-wide" id="bill-hint">We divide your yearly bill by the average residential price (EIA, {{ site.Data.eia_prices.month }}). Rougher than kWh from your bills.</p>
         </div>
         <div class="field">
           <label for="extra">Planned extra use <span class="opt">(optional)</span></label>
@@ -110,7 +110,7 @@
             <label for="rate">Electric rate</label>
             <div class="unit"><input id="rate" name="rate" type="number" inputmode="decimal" min="0" step="0.1" value="{{ $us }}"><span>¢ / kWh</span></div>
           </div>
-          <p class="hint hint-wide">Picking a state fills in its EIA average for July 2026. The per-kWh charges on your own bill are better: averages include fixed charges that solar usually does not reduce.</p>
+          <p class="hint hint-wide">Picking a state fills in its EIA average for {{ site.Data.eia_prices.month }}. The per-kWh charges on your own bill are better: averages include fixed charges that solar usually does not reduce.</p>
         </div>
       </fieldset>
       <fieldset>
@@ -199,6 +199,6 @@
     {{ end }}
   </div>
 </article>
-<script>window.SE_CALC = {{ dict "ppw" $d.price_per_watt "usRate" (float $us) | jsonify | safeJS }};</script>
+<script>window.SE_CALC = {{ dict "ppw" $d.price_per_watt "usRate" (float $us) "rateMonth" site.Data.eia_prices.month | jsonify | safeJS }};</script>
 <script src="/js/calculators.js?v={{ now.Unix }}" defer></script>
 {{ end }}

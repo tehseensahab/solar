@@ -107,7 +107,7 @@ All figures are average residential impacts from Wisconsin Public Radio, not tar
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Wisconsin's average residential price at 19.06¢/kWh in July 2026, up 4.4% from 18.25¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $190.60 (1,000 × 19.06¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Wisconsin's average residential price at 19.41¢/kWh in August 2026, up 5.3% from 18.44¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $194.10 (1,000 × 19.41¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Illinois](/rates/illinois/), [Iowa](/rates/iowa/), [Michigan](/rates/michigan/), [Minnesota](/rates/minnesota/), or the full [rates by state](/rates-by-state/) list.
 
@@ -117,4 +117,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [Wisconsin Public Radio, "State regulators approve rate hikes for 3 Wisconsin utilities," Nov. 2025](https://www.wpr.org/news/state-regulators-approve-rate-hikes-for-3-wisconsin-utilities)
 - [Wisconsin Public Radio, "We Energies, Wisconsin Public Service seeking rate hikes in 2027, 2028"](https://www.wpr.org/news/we-energies-wisconsin-public-service-rate-hikes-2027-2028)
 - [EnergySage, Wisconsin Solar Incentives](https://www.energysage.com/local-data/solar-rebates-incentives/wi/)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

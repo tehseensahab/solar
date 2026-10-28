@@ -122,7 +122,7 @@
             <label for="rate">Electric rate</label>
             <div class="unit"><input id="rate" name="rate" type="number" inputmode="decimal" min="0" step="0.1" value="{{ $us }}"><span>¢ / kWh</span></div>
           </div>
-          <p class="hint hint-wide">A state fills in its EIA residential average for July 2026. The per-kWh rate on your bill is better. On a time-of-use plan, use the rate for the hours you charge.</p>
+          <p class="hint hint-wide">A state fills in its EIA residential average for {{ site.Data.eia_prices.month }}. The per-kWh rate on your bill is better. On a time-of-use plan, use the rate for the hours you charge.</p>
         </div>
         <div class="field">
           <label for="offpeak">Off-peak rate <span class="opt">(optional)</span></label>

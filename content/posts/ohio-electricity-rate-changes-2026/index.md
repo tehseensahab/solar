@@ -101,7 +101,7 @@ Rules checked October 5, 2026. Solar tariffs change, so confirm the current term
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Ohio's average residential price at 19.45¢/kWh in July 2026, up 11.9% from 17.38¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $194.50 (1,000 × 19.45¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Ohio's average residential price at 19.38¢/kWh in August 2026, up 10.4% from 17.55¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $193.80 (1,000 × 19.38¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Indiana](/rates/indiana/), [Kentucky](/rates/kentucky/), [Michigan](/rates/michigan/), [Pennsylvania](/rates/pennsylvania/), or the full [rates by state](/rates-by-state/) list.
 
@@ -114,5 +114,5 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - PUCO Energy Choice Ohio: https://energychoice.ohio.gov
 - Canary Media, What Ohio's latest net metering ruling means for utility customers (Jan. 9, 2019): https://www.canarymedia.com/articles/enn/what-ohios-latest-net-metering-ruling-means-for-utility-customers
 - DSIRE, Ohio programs: https://programs.dsireusa.org/system/program/OH
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
 - Ohio Common Sense Initiative, CSI Review memo: Net Metering (Feb. 10, 2026): https://dam.assets.ohio.gov/image/upload/governor.ohio.gov/csi/CSI_REC_PUCO_2-10-26.pdf

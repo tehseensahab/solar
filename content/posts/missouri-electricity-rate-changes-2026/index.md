@@ -99,7 +99,7 @@ The Ameren figures in the pending case come from Ameren's June 26, 2026 filing a
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Missouri's average residential price at 16.09¢/kWh in July 2026, up 3.4% from 15.56¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $160.90 (1,000 × 16.09¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Missouri's average residential price at 16.02¢/kWh in August 2026, up 4.6% from 15.32¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $160.20 (1,000 × 16.02¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arkansas](/rates/arkansas/), [Illinois](/rates/illinois/), [Iowa](/rates/iowa/), [Kansas](/rates/kansas/), or the full [rates by state](/rates-by-state/) list.
 
@@ -114,4 +114,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [Ameren Missouri filing, case ER-2026-0291, June 26, 2026](https://efis.psc.mo.gov/Document/Display/880663)
 - [KFVS, "Ameren customers can tell Commission how they feel about rate hike requested by utility company," July 1, 2026](https://www.kfvs12.com/2026/07/01/ameren-customers-can-tell-commission-how-they-feel-about-rate-hike-requested-by-utility-company/)
 - [Ameren Missouri, Solar FAQs](https://www.ameren.com/missouri/company/environment-and-sustainability/solar/solar-faqs)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

@@ -108,7 +108,7 @@ The Minnesota Public Utilities Commission opened a statewide investigation into 
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Minnesota's average residential price at 17.45¢/kWh in July 2026, up 3.1% from 16.92¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $174.50 (1,000 × 17.45¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Minnesota's average residential price at 17.20¢/kWh in August 2026, up 1.8% from 16.89¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $172.00 (1,000 × 17.20¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Iowa](/rates/iowa/), [North Dakota](/rates/north-dakota/), [South Dakota](/rates/south-dakota/), [Wisconsin](/rates/wisconsin/), or the full [rates by state](/rates-by-state/) list.
 
@@ -120,5 +120,5 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [KAAL, "Minnesota Public Utilities Commission approves amended Xcel Energy rate increase"](https://www.kaaltv.com/news/minnesota-public-utilities-commission-approves-amended-xcel-energy-rate-increase/)
 - [Citizens Utility Board of Minnesota, "Xcel's Electric Rate Increase"](https://cubminnesota.org/xcels-electric-rate-increase)
 - [Solar United Neighbors, "Net metering in Minnesota"](https://solarunitedneighbors.org/resources/net-metering-in-minnesota/)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
 - [Minnesota Public Utilities Commission, Our approach to utility affordability](https://mn.gov/puc/consumers/affordability/)

@@ -104,7 +104,7 @@ We used the May 2026 rate summary and did not find October's. The rate case info
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Hawaii's average residential price at 48.00¢/kWh in July 2026, up 22.0% from 39.36¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $480.00 (1,000 × 48.00¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Hawaii's average residential price at 47.18¢/kWh in August 2026, up 22.5% from 38.53¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $471.80 (1,000 × 47.18¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [California](/rates/california/), [Alaska](/rates/alaska/), [Washington](/rates/washington/), or the full [rates by state](/rates-by-state/) list.
 
@@ -113,4 +113,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [Hawaiian Electric, Effective Rate Summaries, May 2026](https://www.hawaiianelectric.com/documents/billing_and_payment/rates/effective_rate_summary/2026/efs_2026_05.pdf)
 - [Honolulu Civil Beat, "Hawaii Residents Could Face Electric Rate Hike In 2026," May 2025](https://www.civilbeat.org/2025/05/hawaii-residents-could-face-electric-rate-hike-in-2026/)
 - [Hawaiian Electric, Smart Renewable Energy Export](https://www.hawaiianelectric.com/products-and-services/smart-renewable-energy-programs/smart-renewable-energy-export)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

@@ -83,7 +83,7 @@ Figures come from the PUC's news release. We did not find the approved return on
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Colorado's average residential price at 17.00¢/kWh in July 2026, up 6.3% from 15.99¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $170.00 (1,000 × 17.00¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Colorado's average residential price at 17.17¢/kWh in August 2026, up 5.9% from 16.21¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $171.70 (1,000 × 17.17¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [New Mexico](/rates/new-mexico/), [Utah](/rates/utah/), [Wyoming](/rates/wyoming/), [Kansas](/rates/kansas/), or the full [rates by state](/rates-by-state/) list.
 
@@ -92,4 +92,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [Colorado PUC, "PUC Cuts Xcel Energy's Electric Rate Request and Expands Consumer Protections"](https://puc.colorado.gov/press-release/puc-cuts-xcel-energys-electric-rate-request-and-expands-consumer-protections)
 - [The Colorado Sun, "Colorado residential electric bills will rise $5 per month, about half what Xcel requested," Aug. 20, 2026](https://coloradosun.com/2026/08/20/electric-bills-increase-xcel-energy-colorado/)
 - [EnergySage, "Xcel Energy Net Metering"](https://www.energysage.com/local-data/net-metering/xcel-energy/)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

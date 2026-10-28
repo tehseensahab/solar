@@ -96,7 +96,7 @@ We relied on TVA's own announcement and on news reports about the data center ra
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Tennessee's average residential price at 13.71¢/kWh in July 2026, up 3.8% from 13.21¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $137.10 (1,000 × 13.71¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Tennessee's average residential price at 13.42¢/kWh in August 2026, up 2.5% from 13.09¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $134.20 (1,000 × 13.42¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Alabama](/rates/alabama/), [Georgia](/rates/georgia/), [Kentucky](/rates/kentucky/), [North Carolina](/rates/north-carolina/), or the full [rates by state](/rates-by-state/) list.
 
@@ -106,4 +106,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [Fox 17 Nashville, "TVA proposes new data center power rate starting in October, with 10% average increase"](https://fox17.com/news/local/tva-proposes-new-data-center-power-rate-starting-in-october-with-10-average-increase-tennessee-valley-authority)
 - [Fox 13 Memphis, "TVA votes to raise rates two years in a row," 2024](https://www.fox13memphis.com/news/tva-votes-to-raise-power-rates-for-second-straight-year/article_88caa0dc-60e2-11ef-8243-431fe09e6605.html)
 - [TVA, Dispersed Power Production Guidelines, effective Dec. 1, 2025](https://energyright.com/wp-content/uploads/2025/12/December-DPP-Guidelines-for-Publish-1.pdf)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

@@ -104,7 +104,7 @@ Rates come from the Connecticut Mirror, the governor's announcement and the Offi
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Connecticut's average residential price at 24.16¢/kWh in July 2026, down 12.5% from 27.60¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $241.60 (1,000 × 24.16¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Connecticut's average residential price at 24.51¢/kWh in August 2026, down 18.8% from 30.17¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $245.10 (1,000 × 24.51¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Massachusetts](/rates/massachusetts/), [New York](/rates/new-york/), [Rhode Island](/rates/rhode-island/), or the full [rates by state](/rates-by-state/) list.
 
@@ -116,4 +116,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [Connecticut Mirror, "CT public benefits charge cut; electricity rates to fall by nearly 15%," April 22, 2026](https://ctmirror.org/2026/04/22/pura-cut-public-benefits-charge-electric-bills/)
 - [Connecticut Office of Consumer Counsel, "Understand your electric bill"](https://portal.ct.gov/occ/knowledge-base/articles/electricity/understand-your-electric-bill?language=en_US)
 - [Eversource, Connecticut Residential Solar Incentives](https://www.eversource.com/residential/save-money-energy/clean-energy-options/solar-energy/solar-incentives)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

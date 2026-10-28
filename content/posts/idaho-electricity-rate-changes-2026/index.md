@@ -99,7 +99,7 @@ The January figures come from a financial news summary of Idaho Power's filing, 
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Idaho's average residential price at 13.73¢/kWh in July 2026, up 11.8% from 12.28¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $137.30 (1,000 × 13.73¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Idaho's average residential price at 13.37¢/kWh in August 2026, up 10.7% from 12.08¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $133.70 (1,000 × 13.37¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Montana](/rates/montana/), [Oregon](/rates/oregon/), [Utah](/rates/utah/), [Washington](/rates/washington/), or the full [rates by state](/rates-by-state/) list.
 
@@ -109,4 +109,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [Investing.com, "Idaho Power receives approval for $110 million rate increase effective January 2026"](https://www.investing.com/news/sec-filings/idaho-power-receives-approval-for-110-million-rate-increase-effective-january-2026-93CH-4426399)
 - [Idaho Press, "Idaho Power proposal looks to increase residential power rates by 17%, focus on fixed charges"](https://www.idahopress.com/news/local/idaho-power-proposal-looks-to-increase-residential-power-rates-by-17-focus-on-fixed-charges/article_890b9906-7ace-4906-8dbc-e572a61f2900.html)
 - [Idaho Power, Schedule 6: Residential Service On-Site Generation](https://docs.idahopower.com/pdfs/aboutus/ratesregulatory/tariffs/313.pdf)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

@@ -141,7 +141,7 @@ We could not open Duke Energy's tariff sheets or the commission's docket files d
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts North Carolina's average residential price at 15.16¢/kWh in July 2026, up 13.4% from 13.37¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $151.60 (1,000 × 15.16¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts North Carolina's average residential price at 14.95¢/kWh in August 2026, up 2.5% from 14.59¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $149.50 (1,000 × 14.95¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [South Carolina](/rates/south-carolina/), [Tennessee](/rates/tennessee/), [Virginia](/rates/virginia/), [Georgia](/rates/georgia/), or the full [rates by state](/rates-by-state/) list.
 
@@ -160,4 +160,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [NC Local, "Duke Energy wants an 18% rate hike for NC customers," June 5, 2026](https://nclocal.org/2026/06/05/duke-energy-rate-hike/)
 - [NC Sustainable Energy Association, "Understanding Solar Net Metering Changes Impacting Duke Energy Customers"](https://www.energync.org/blog/understanding-solar-net-metering-changes-impacting-duke-energy-customers/)
 - [Southern Energy Management, "Duke Energy Net Metering 2026," updated Sept. 8, 2026](https://southern-energy.com/north-carolina-net-metering-update/)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

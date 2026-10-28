@@ -110,7 +110,7 @@ The SCC's own news release could not be opened for this article, so the biennial
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Virginia's average residential price at 17.55¢/kWh in July 2026, up 11.2% from 15.78¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $175.50 (1,000 × 17.55¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Virginia's average residential price at 17.64¢/kWh in August 2026, up 11.3% from 15.85¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $176.40 (1,000 × 17.64¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Maryland](/rates/maryland/), [North Carolina](/rates/north-carolina/), [West Virginia](/rates/west-virginia/), [Kentucky](/rates/kentucky/), or the full [rates by state](/rates-by-state/) list.
 
@@ -122,4 +122,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [Virtue Solar, "Net Metering Protected: SCC Rules on Dominion NEM 2.0 in VA," May 5, 2026](https://www.virtuesolar.com/2026/05/05/net-metering-protected-in-virginia-sccs-final-ruling-on-dominions-nem-2-0/)
 - [pv magazine USA, "Virginia corporation commission approves Dominion Energy NEM 2.0 that looks very similar to NEM 1.0," May 4, 2026](http://pv-magazine-usa.com/2026/05/04/virginia-corporation-commission-approves-dominion-energy-nem-2-0-that-looks-very-similar-to-nem-1-0/)
 - [Southern Environmental Law Center, statement on the Appalachian Power net metering decision, Aug. 29, 2025](https://www.selc.org/press-release/commission-approves-appalachian-power-company-proposal-reducing-compensation-to-rooftop-solar-customers-for-net-exports-while-retaining-essential-elements-of-net-metering/)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

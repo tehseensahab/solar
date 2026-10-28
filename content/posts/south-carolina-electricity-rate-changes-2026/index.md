@@ -120,7 +120,7 @@ Approval and current rates come from Dominion's bill insert. Settlement figures 
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts South Carolina's average residential price at 15.47¢/kWh in July 2026, up 5.2% from 14.70¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $154.70 (1,000 × 15.47¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts South Carolina's average residential price at 15.76¢/kWh in August 2026, up 4.0% from 15.16¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $157.60 (1,000 × 15.76¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Georgia](/rates/georgia/), [North Carolina](/rates/north-carolina/), [Florida](/rates/florida/), or the full [rates by state](/rates-by-state/) list.
 
@@ -133,4 +133,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [South Carolina Office of Regulatory Staff, consumer information on Dominion Energy South Carolina's request](https://ors.sc.gov/news/ors-releases-consumer-information-dominion-energy-south-carolina-inc-desc-request-rate-1)
 - [Dominion Energy South Carolina, Solar Choice rider to Residential Rate 5, effective July 2026](https://cdn-dominionenergy-prd-001.azureedge.net/-/media/content/rates-and-tariffs/pdfs/south-carolina/electric/riders/rider-to-residential-rate5-solar-choice.pdf?rev=16c5a20929264ccf8dbff93e7e2b935a&hash=6F6B5E837D842B8D3ACA82C69398629E)
 - [Dominion Energy South Carolina, residential solar programs comparison](https://www.dominionenergy.com/-/media/pdfs/save-energy/desc-solar-residential-comparison-chart.pdf)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

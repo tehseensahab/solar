@@ -3,7 +3,7 @@ slug: idaho
 abbr: ID
 region: West
 neighbors: [montana, oregon, utah, washington]
-refreshed: 2026-10-18
+refreshed: 2026-10-28
 guides: [time-of-use-rates-and-solar, solar-export-credit-rates-by-utility-2026]
 
 rate_note: Idaho Power prices energy by season and tier; under its Schedule 6 for homes with on-site generation, standard-plan energy charges (before the $15 monthly service charge) run 9.9332¢ to 11.0052¢/kWh outside summer and 12.1195¢ to 14.6185¢ in summer ([Schedule 6](https://docs.idahopower.com/pdfs/aboutus/ratesregulatory/tariffs/313.pdf)).

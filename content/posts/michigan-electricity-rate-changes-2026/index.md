@@ -102,7 +102,7 @@ Rules checked October 5, 2026. Solar tariffs change, so confirm the current term
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Michigan's average residential price at 23.05¢/kWh in July 2026, up 12.2% from 20.55¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $230.50 (1,000 × 23.05¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Michigan's average residential price at 22.99¢/kWh in August 2026, up 10.9% from 20.73¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $229.90 (1,000 × 22.99¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Indiana](/rates/indiana/), [Ohio](/rates/ohio/), [Wisconsin](/rates/wisconsin/), or the full [rates by state](/rates-by-state/) list.
 
@@ -115,5 +115,5 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - BridgeDetroit guide to pending cases (July 10, 2026): https://www.bridgedetroit.com/guide-how-michigans-process-for-setting-dte-consumers-rates-factors-into-midterms/
 - DTE Energy, Rooftop Solar and Private Generation (Rider 18): https://solutions.dteenergy.com/dte/en/Services/CleanVision-Service/Rooftop-Solar-and-Private-Generation/p/ROOFTOP_SOLAR
 - Michigan Public Service Commission, Distributed Generation: https://www.michigan.gov/mpsc/consumer/electricity/distributed-generation
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
 - MPSC, Consumers natural gas rate decision (Oct. 15, 2026): https://www.michigan.gov/mpsc/commission/news-releases/2026/10/15/mpsc-approves-continued-safety-investments-for-consumers-natural-gas-system

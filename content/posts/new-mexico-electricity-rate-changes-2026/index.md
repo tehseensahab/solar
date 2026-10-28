@@ -95,7 +95,7 @@ PNM figures come from the PRC's customer notice, which gives a dollar amount but
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts New Mexico's average residential price at 16.09¢/kWh in July 2026, up 1.8% from 15.80¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $160.90 (1,000 × 16.09¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts New Mexico's average residential price at 16.51¢/kWh in August 2026, up 3.3% from 15.98¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $165.10 (1,000 × 16.51¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arizona](/rates/arizona/), [Colorado](/rates/colorado/), [Texas](/rates/texas/), [Oklahoma](/rates/oklahoma/), or the full [rates by state](/rates-by-state/) list.
 
@@ -105,4 +105,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [KFOX, "NM PRC hears pushback on El Paso Electric rate hike that could add $40 a month," June 2026](https://kfoxtv.com/news/local/nm-prc-hears-pushback-on-el-paso-electric-rate-hike-that-could-add-40-a-month)
 - [Santa Fe New Mexican, "PNM reaches deal that could raise average monthly bill about $10"](https://www.santafenewmexican.com/news/local_news/pnm-reaches-deal-that-could-raise-average-monthly-bill-about-10/article_48f4b6a2-ac44-11ef-b775-7b3ace8329a4.html)
 - [EnergySage, New Mexico Solar Incentives](https://www.energysage.com/local-data/solar-rebates-incentives/nm/)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

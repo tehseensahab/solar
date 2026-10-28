@@ -61,7 +61,7 @@ These are modeled figures for a roof-mounted system at the best tilt and directi
 | Default | Value | Source |
 |---|---|---|
 | Yearly output per kW | 1,375 kWh | NREL Annual Technology Baseline 2024, residential PV, mean capacity factor 15.7% × 8,760 hours (our math) |
-| State electricity price | Varies | EIA Electric Power Monthly, Table 5.6.A, residential average, July 2026 (preliminary) |
+| State electricity price | Varies | EIA Electric Power Monthly, Table 5.6.A, residential average, August 2026 (preliminary) |
 | Panel wattage | 400 W | Our assumption. Use the wattage on your quote |
 | Price per watt | $2.57 | EnergySage marketplace median, first half of 2026, before incentives |
 
@@ -82,5 +82,5 @@ This is a planning estimate, not a system design. It does not model your roof's 
 
 - [NREL, Annual Technology Baseline 2024: Residential PV](https://atb.nlr.gov/electricity/2024/residential_pv)
 - [NLR (formerly NREL), PVWatts Calculator](https://pvwatts.nlr.gov/)
-- [EIA, Electric Power Monthly, Table 5.6.A](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a), July 2026 data, released September 24, 2026
+- [EIA, Electric Power Monthly, Table 5.6.A](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a), August 2026 data, released October 23, 2026
 - [EnergySage, "Six months after the solar tax credit ended, the industry found a workaround," updated Sept. 30, 2026](https://www.energysage.com/news/home-energy-market-h1-2026-highlights/)

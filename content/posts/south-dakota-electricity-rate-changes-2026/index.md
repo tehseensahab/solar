@@ -92,7 +92,7 @@ Xcel figures come from the PUC's news release. Black Hills Energy figures come f
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts South Dakota's average residential price at 15.37¢/kWh in July 2026, up 5.9% from 14.52¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $153.70 (1,000 × 15.37¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts South Dakota's average residential price at 15.15¢/kWh in August 2026, up 9.0% from 13.90¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $151.50 (1,000 × 15.15¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Minnesota](/rates/minnesota/), [Nebraska](/rates/nebraska/), [North Dakota](/rates/north-dakota/), [Iowa](/rates/iowa/), or the full [rates by state](/rates-by-state/) list.
 
@@ -101,4 +101,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [South Dakota PUC, "PUC approves settlement to increase Xcel Energy electric rates below request," May 8, 2026](https://puc.sd.gov/News/2026/05082026.aspx)
 - [KOTA, "PUC begins Black Hills Energy rate case as businesses, hospitals join proceedings," May 2026](https://www.kotatv.com/2026/05/10/puc-begins-black-hills-energy-rate-case-businesses-hospitals-join-proceedings/)
 - [South Dakota Public Utilities Commission, Solar Energy FAQ](https://puc.sd.gov/Publications/solarfaq.aspx)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

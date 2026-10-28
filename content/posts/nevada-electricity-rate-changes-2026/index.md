@@ -93,7 +93,7 @@ The October decrease is a filed proposal. We searched on October 4, 2026 and fou
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Nevada's average residential price at 12.77¢/kWh in July 2026, up 3.1% from 12.39¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $127.70 (1,000 × 12.77¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Nevada's average residential price at 12.72¢/kWh in August 2026, up 1.4% from 12.54¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $127.20 (1,000 × 12.72¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arizona](/rates/arizona/), [California](/rates/california/), [Utah](/rates/utah/), [Idaho](/rates/idaho/), or the full [rates by state](/rates-by-state/) list.
 
@@ -104,4 +104,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [Nevada Current, "NV Energy peak demand charge, tweak to net metering, violate state law, say experts," Oct. 22, 2025](https://nevadacurrent.com/2025/10/22/nv-energy-peak-demand-charge-tweak-to-net-metering-violate-state-law-say-experts/)
 - [EnergySage, "NV Energy Net Metering"](https://www.energysage.com/local-data/net-metering/nv-energy/)
 - [KTVN 2 News, "NV Energy to implement changes to solar energy billing and demand charges"](https://www.2news.com/news/local/nv-energy-to-implement-changes-to-solar-energy-billing-and-demand-charges/article_1f692cb9-f297-4af4-9b7e-25a8fefbcbdf.html)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

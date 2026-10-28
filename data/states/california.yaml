@@ -3,11 +3,11 @@ slug: california
 abbr: CA
 region: West
 neighbors: [arizona, nevada, oregon, hawaii]
-refreshed: 2026-10-18
+refreshed: 2026-10-28
 guides: [time-of-use-rates-and-solar, fixed-charges-and-solar-savings]
 
 summary: >-
-  California households paid an average {rate} in {month}, {change} on a year earlier and close to double the
+  California households paid an average {rate} in {month}, {change} on a year earlier and about 64% above the
   U.S. average of {us}. The big three utilities trimmed or held rates in 2026 after steep increases in 2024 and
   2025, while new monthly fixed charges shift part of every bill away from kWh. Solar still saves a lot at
   California prices, but under the Net Billing Tariff its value now depends on using or storing the power rather

@@ -105,7 +105,7 @@ Figures come from Utah News Dispatch. We did not open the Public Service Commiss
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Utah's average residential price at 13.12¢/kWh in July 2026, down 2.5% from 13.45¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $131.20 (1,000 × 13.12¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Utah's average residential price at 13.31¢/kWh in August 2026, down 2.3% from 13.62¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $133.10 (1,000 × 13.31¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arizona](/rates/arizona/), [Colorado](/rates/colorado/), [Idaho](/rates/idaho/), [Nevada](/rates/nevada/), or the full [rates by state](/rates-by-state/) list.
 
@@ -114,4 +114,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [Utah News Dispatch, "Rocky Mountain Power's Utah rate conflict may be settled with an additional 4.2% hike," July 6, 2026](https://utahnewsdispatch.com/2026/07/06/rocky-mountain-powers-utah-rate-conflict-may-be-settled/)
 - [Utah News Dispatch, "As Utah approves settlement with Rocky Mountain Power, advocates worry about transparency," Aug. 7, 2026](https://utahnewsdispatch.com/2026/08/07/settlement-with-rocky-mountain-power-approved-advocates-worry-about-transparency/)
 - [Rocky Mountain Power, Utah Schedule 137: Net Billing Service](https://www.rockymountainpower.net/content/dam/pcorp/documents/en/rockymountainpower/rates-regulation/utah/rates/137_Net_Billing_Service.pdf)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

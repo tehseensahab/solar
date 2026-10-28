@@ -102,7 +102,7 @@ Figures come from VTDigger and Vermont Public. We did not open the PUC order, an
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Vermont's average residential price at 23.75¢/kWh in July 2026, up 7.3% from 22.14¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $237.50 (1,000 × 23.75¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Vermont's average residential price at 23.84¢/kWh in August 2026, up 7.9% from 22.10¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $238.40 (1,000 × 23.84¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [New Hampshire](/rates/new-hampshire/), [New York](/rates/new-york/), [Massachusetts](/rates/massachusetts/), or the full [rates by state](/rates-by-state/) list.
 
@@ -112,4 +112,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [Vermont Public, "Public Utility Commission approves 5.5% rate increase for Green Mountain Power," Sept. 8, 2026](https://www.vermontpublic.org/local-news/2026-09-08/public-utility-commission-approves-green-mountain-power-rate-increase)
 - [NuWatt Energy, "Vermont Net Metering Guide 2026"](https://nuwattenergy.com/en/vermont/net-metering-guide-2026)
 - [Vermont Department of Public Service, recommendations in Case 26-0291-INV (2026 net-metering biennial update)](https://legislature.vermont.gov/Documents/2026/Workgroups/House%20Energy%20and%20Digital/Net%20Metering/W~TJ%20Poor~26-0291-INV%20-%202026.04.01%20%20-%20DPS%20Recommendations%20re%202026%20Net-Metering%20Biennial%20Update%20~4-29-2026.pdf)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

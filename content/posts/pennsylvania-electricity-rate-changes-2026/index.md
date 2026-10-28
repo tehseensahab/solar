@@ -78,7 +78,7 @@ Default service prices are scheduled to reset again December 1. PPL had a propos
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Pennsylvania's average residential price at 21.72¢/kWh in July 2026, up 11.3% from 19.51¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $217.20 (1,000 × 21.72¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Pennsylvania's average residential price at 21.77¢/kWh in August 2026, up 9.2% from 19.93¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $217.70 (1,000 × 21.77¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Delaware](/rates/delaware/), [New Jersey](/rates/new-jersey/), [New York](/rates/new-york/), [Ohio](/rates/ohio/), or the full [rates by state](/rates-by-state/) list.
 
@@ -86,4 +86,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 
 - Pennsylvania PUC, June 1 electric price changes (May 20, 2026): https://www.puc.pa.gov/press-release/2026/puc-alerts-consumers-to-june-1-electric-price-changes-and-higher-summer-energy-costs-5-20-26
 - PAPowerSwitch: https://www.papowerswitch.com/
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

@@ -104,7 +104,7 @@ Neither utility has published a single "typical bill" estimate that we could ver
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Illinois's average residential price at 19.22¢/kWh in July 2026, up 11.6% from 17.22¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $192.20 (1,000 × 19.22¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Illinois's average residential price at 19.32¢/kWh in August 2026, up 7.2% from 18.03¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $193.20 (1,000 × 19.32¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Indiana](/rates/indiana/), [Iowa](/rates/iowa/), [Missouri](/rates/missouri/), [Wisconsin](/rates/wisconsin/), or the full [rates by state](/rates-by-state/) list.
 
@@ -116,4 +116,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - Citizens Utility Board, Ameren non-summer 2025 price (Oct. 1, 2025): https://www.citizensutilityboard.org/blog/2025/10/01/cub-alerts-ameren-illinois-customers-utilitys-price-for-electricity-has-dropped-31-percent-as-of-october-1st/
 - Illinois Shines, Consumer FAQs: https://illinoisshines.com/faqs/
 - DSIRE, Illinois Net Billing: https://programs.dsireusa.org/system/program/detail/2700/net-billing
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

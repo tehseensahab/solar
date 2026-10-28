@@ -116,7 +116,7 @@ We did not obtain the fuel rate in cents per kWh, the basic service charge or th
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Georgia's average residential price at 16.27¢/kWh in July 2026, up 4.6% from 15.56¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $162.70 (1,000 × 16.27¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Georgia's average residential price at 15.90¢/kWh in August 2026, up 2.3% from 15.55¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $159.00 (1,000 × 15.90¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Alabama](/rates/alabama/), [Florida](/rates/florida/), [South Carolina](/rates/south-carolina/), [Tennessee](/rates/tennessee/), or the full [rates by state](/rates-by-state/) list.
 
@@ -132,4 +132,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [Georgia Power, RNR-11 tariff](https://www.georgiapower.com/content/dam/georgia-power/pdfs/residential-pdfs/residential-rate-plans/RNR-11.pdf)
 - [Georgia Recorder, "Commission approves Georgia Power fuel rate decrease," May 29, 2026](https://georgiarecorder.com/2026/05/29/commission-approves-georgia-power-fuel-rate-decrease/)
 - [Inside Climate News, "Georgia Power Rates Dip, But the Savings Aren't Likely to Last," June 5, 2026](https://insideclimatenews.org/news/05062026/georgia-power-rates-dip-but-utility-could-profit/)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

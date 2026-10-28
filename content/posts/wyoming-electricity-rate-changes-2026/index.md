@@ -92,7 +92,7 @@ Figures come from Cowboy State Daily and KOTA. We did not open PSC dockets, and 
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Wyoming's average residential price at 14.36¢/kWh in July 2026, down 1.9% from 14.64¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $143.60 (1,000 × 14.36¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Wyoming's average residential price at 14.43¢/kWh in August 2026, up 0.7% from 14.33¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $144.30 (1,000 × 14.43¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Colorado](/rates/colorado/), [Idaho](/rates/idaho/), [Montana](/rates/montana/), [Utah](/rates/utah/), or the full [rates by state](/rates-by-state/) list.
 
@@ -103,4 +103,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [Rocky Mountain Power, Wyoming rate proposal](https://www.rockymountainpower.net/about/rates-regulation/wyoming-rate-proposal.html)
 - [EnergySage, "Rocky Mountain Power Net Metering"](https://www.energysage.com/local-data/net-metering/rocky-mountain-power/)
 - [Rocky Mountain Power, Wyoming Schedule 37: Avoided Cost Purchases from Qualifying Facilities](https://www.rockymountainpower.net/content/dam/pcorp/documents/en/rockymountainpower/rates-regulation/wyoming/rates/037_Avoided_Cost_Purchases_from_Qualifying_Facilities.pdf)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

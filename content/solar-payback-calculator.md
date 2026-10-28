@@ -33,19 +33,19 @@ For each later year, output falls by the output-loss percentage and the electric
 
 ### Worked example
 
-The calculator opens with a 7 kW system at $2.57 per watt, 1,375 kWh per kW, and the U.S. average residential price of 18.31¢/kWh, with 0.5% yearly output loss and 2% yearly rate growth.
+The calculator opens with a 7 kW system at $2.57 per watt, 1,375 kWh per kW, and the U.S. average residential price of 18.16¢/kWh, with 0.5% yearly output loss and 2% yearly rate growth.
 
 - Net cost: 7,000 W × $2.57 = **$17,990**
 - First-year output: 7 × 1,375 = **9,625 kWh**
 
 | | Net metering (full retail) | Net billing (50% used at home, 7¢ export credit) |
 |---|---|---|
-| First-year savings | $1,762 | $1,218 |
-| Simple payback | 10.2 years | 14.8 years |
-| Payback with 2% rate growth | 9.6 years | 13.4 years |
-| Payback with 0% rate growth | 10.5 years | 15.3 years |
-| 25-year net gain, 2% rate growth | $34,925 | $18,582 |
-| 25-year net gain, 0% rate growth | $23,524 | $10,702 |
+| First-year savings | $1,748 | $1,211 |
+| Simple payback | 10.3 years | 14.9 years |
+| Payback with 2% rate growth | 9.6 years | 13.5 years |
+| Payback with 0% rate growth | 10.5 years | 15.4 years |
+| 25-year net gain, 2% rate growth | $34,491 | $18,365 |
+| 25-year net gain, 0% rate growth | $23,183 | $10,532 |
 
 These are illustrations from default inputs, not predictions for your home. The same system differs by four to five years of payback depending only on how exports are credited.
 
@@ -55,7 +55,7 @@ These are illustrations from default inputs, not predictions for your home. The 
 |---|---|---|
 | Price per watt | $2.57 | EnergySage marketplace median, first half of 2026, before incentives |
 | Yearly output per kW | 1,375 kWh | NREL Annual Technology Baseline 2024, residential PV, mean capacity factor 15.7% × 8,760 hours (our math). See the [table by sunlight level](/solar-system-size-calculator/#output-per-kw-the-number-that-matters-most) |
-| Electric rate | Varies by state | EIA Electric Power Monthly, Table 5.6.A, residential average, July 2026 (preliminary) |
+| Electric rate | Varies by state | EIA Electric Power Monthly, Table 5.6.A, residential average, August 2026 (preliminary) |
 | Federal tax credit | $0 | IRS: Section 25D credit not allowed for expenditures after December 31, 2025 |
 | Panel output loss | 0.5% a year | NREL median |
 | Rate growth | 2% a year | Our assumption, not a forecast |
@@ -80,7 +80,7 @@ Results come only from the numbers entered. Defaults are national figures from s
 ## Sources
 
 - [IRS, FAQs on modification of sections 25C, 25D and others under Public Law 119-21 (FS-2025-05, Aug. 21, 2025)](https://www.irs.gov/newsroom/faqs-for-modification-of-sections-25c-25d-25e-30c-30d-45l-45w-and-179d-under-public-law-119-21-139-stat-72-july-4-2025-commonly-known-as-the-one-big-beautiful-bill-act-obbb)
-- [EIA, Electric Power Monthly, Table 5.6.A](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a), July 2026 data, released September 24, 2026
+- [EIA, Electric Power Monthly, Table 5.6.A](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a), August 2026 data, released October 23, 2026
 - [NREL, Annual Technology Baseline 2024: Residential PV](https://atb.nlr.gov/electricity/2024/residential_pv)
 - [NREL, "STAT FAQs Part 2: Lifetime of PV Panels"](https://nrel.gov/state-local-tribal/blog/posts/stat-faqs-part2-lifetime-of-pv-panels.html)
 - [NLR (formerly NREL), PVWatts Calculator](https://pvwatts.nlr.gov/)

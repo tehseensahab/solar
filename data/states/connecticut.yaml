@@ -3,14 +3,14 @@ slug: connecticut
 abbr: CT
 region: Northeast
 neighbors: [massachusetts, new-york, rhode-island]
-refreshed: 2026-10-18
+refreshed: 2026-10-28
 guides: [how-to-compare-electricity-supplier-offers, how-to-read-your-electric-bill]
 
 rate_note: The default supply price alone (standard service, supply only, before delivery and the public benefits credit) is 11.58¢/kWh at Eversource and 11.99¢ at UI for July–December 2026 ([Connecticut Mirror](https://ctmirror.org/2026/05/15/eversource-ui-customers-summer-electricity-rates/)); the statewide figure above is all-in.
 
 summary: >-
   Connecticut's statewide residential average moved {change} between {prev_month} and {month}, to {rate}, still high
-  next to the U.S. figure of {us}; in July 2026 it was one of only a few states with a year-over-year decline. Bills
+  next to the U.S. figure of {us}; in EIA's August 2026 data it was one of seven states with a year-over-year decline, and the largest drop. Bills
   fell in May when the public benefits charge became a credit and again in July when standard service supply dropped;
   the credit is scheduled through April 30, 2027. New rooftop solar goes through the RRES program, where a 20-year
   buy-all rate offers an unusual fixed-price option.

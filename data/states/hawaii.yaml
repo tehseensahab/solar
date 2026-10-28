@@ -3,7 +3,7 @@ slug: hawaii
 abbr: HI
 region: West
 neighbors: [california, alaska, washington]
-refreshed: 2026-10-18
+refreshed: 2026-10-28
 guides: [time-of-use-rates-and-solar, battery-sizing-guide]
 
 rate_note: Hawaiian Electric's own all-in effective residential rate for Oahu was 47.75¢/kWh in May 2026 and changes monthly with fuel costs ([effective rate summary](https://www.hawaiianelectric.com/documents/billing_and_payment/rates/effective_rate_summary/2026/efs_2026_05.pdf)).

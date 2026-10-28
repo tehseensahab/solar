@@ -89,7 +89,7 @@ OPPD figures come from OPPD's own news site and NPPD figures from a TV report. W
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Nebraska's average residential price at 13.78¢/kWh in July 2026, up 7.3% from 12.84¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $137.80 (1,000 × 13.78¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Nebraska's average residential price at 13.54¢/kWh in August 2026, up 5.8% from 12.80¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $135.40 (1,000 × 13.54¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Iowa](/rates/iowa/), [Kansas](/rates/kansas/), [South Dakota](/rates/south-dakota/), [Colorado](/rates/colorado/), or the full [rates by state](/rates-by-state/) list.
 
@@ -100,4 +100,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [WOWT, "OPPD considering 5-9% annual rate increases through end of decade," Nov. 18, 2025](https://www.wowt.com/2025/11/18/oppd-proposes-5-9-annual-rate-increases-through-end-decade/)
 - [Lincoln Electric System, 2026 rate schedules](https://www.les.com/sites/default/files/Budget%20&%20Rates/2026%20Rate%20Schedules%20Final.pdf)
 - [Nebraska Public Power District, Net Metering](https://www.nppd.com/rates/net-metering?locale=en)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

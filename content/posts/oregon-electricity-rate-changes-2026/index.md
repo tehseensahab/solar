@@ -92,7 +92,7 @@ Figures come from the Oregon Capital Chronicle's report of the PUC decision. We 
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Oregon's average residential price at 15.97¢/kWh in July 2026, up 2.3% from 15.61¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $159.70 (1,000 × 15.97¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Oregon's average residential price at 15.92¢/kWh in August 2026, up 0.4% from 15.85¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $159.20 (1,000 × 15.92¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [California](/rates/california/), [Idaho](/rates/idaho/), [Nevada](/rates/nevada/), [Washington](/rates/washington/), or the full [rates by state](/rates-by-state/) list.
 
@@ -101,4 +101,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [Oregon Capital Chronicle, "Pacific Power, PGE raise residential electricity rates again for Oregon customers," March 31, 2026](https://oregoncapitalchronicle.com/2026/03/31/pacific-power-pge-raise-residential-electricity-rates-again-for-oregon-customers/)
 - [OPB, "Portland General Electric, Pacific Power residential rates to climb Wednesday," March 31, 2026](https://www.opb.org/article/2026/03/31/portland-general-electric-pacific-power-raise-rates/)
 - [Energy Trust of Oregon, Solar: Net Metering](https://www.energytrust.org/solar-storage/net-metering/)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

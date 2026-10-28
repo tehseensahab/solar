@@ -113,7 +113,7 @@ The typical bill figures use 800 kWh a month, not the 1,000 kWh used in most of 
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Washington's average residential price at 14.71¢/kWh in July 2026, up 9.4% from 13.45¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $147.10 (1,000 × 14.71¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Washington's average residential price at 14.63¢/kWh in August 2026, up 7.2% from 13.65¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $146.30 (1,000 × 14.63¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Idaho](/rates/idaho/), [Oregon](/rates/oregon/), [Alaska](/rates/alaska/), or the full [rates by state](/rates-by-state/) list.
 
@@ -124,4 +124,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [Vashon-Maury Island Beachcomber, "Puget Sound Energy electric, natural gas rates go up," Jan. 2, 2026](https://www.vashonbeachcomber.com/2026/01/02/puget-sound-energy-electric-natural-gas-rates-go-up/)
 - [Northwest Electric & Solar, "Washington Utility Rate Increases Coming in 2026"](https://nwsolar.com/blog/washington-utility-rate-increases-coming-in-2026/)
 - [A&R Solar, "Washington Net Metering in 2026: What Homeowners Should Know"](https://www.a-rsolar.com/incentives-financing-policy/washington-net-metering/)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

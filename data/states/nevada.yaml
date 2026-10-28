@@ -3,11 +3,11 @@ slug: nevada
 abbr: NV
 region: West
 neighbors: [arizona, california, utah, idaho]
-refreshed: 2026-10-18
+refreshed: 2026-10-28
 guides: [residential-demand-charges-explained, battery-sizing-guide]
 
 summary: >-
-  Nevada homes paid {rate} on average in {month}, {change} on the year and well under the U.S. figure of {us}; in EIA's July 2026 data only Louisiana was lower. NV Energy filed fuel-cost decreases for October 1, and a contested daily demand
+  Nevada homes paid {rate} on average in {month}, {change} on the year and well under the U.S. figure of {us}; in EIA's August 2026 data it was the lowest of the 50 states. NV Energy filed fuel-cost decreases for October 1, and a contested daily demand
   charge for southern Nevada homes is now expected in January 2027. New solar customers earn 75% of retail for
   surplus, so batteries and self-use carry more weight than in the past.
 

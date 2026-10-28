@@ -3,12 +3,12 @@ slug: louisiana
 abbr: LA
 region: South
 neighbors: [arkansas, mississippi, texas]
-refreshed: 2026-10-18
+refreshed: 2026-10-28
 guides: [solar-export-credit-rates-by-utility-2026, how-to-read-your-electric-bill]
 
 summary: >-
-  Louisiana's residential average was {rate} in {month} ({change} from a year earlier; U.S. {us}), and in EIA's July
-  2026 data it was the lowest of the 50 states. Bills still swing month to month with the fuel adjustment, which drove
+  Louisiana's residential average was {rate} in {month} ({change} from a year earlier; U.S. {us}), and in EIA's August
+  2026 data it was the second-lowest of the 50 states, behind only Nevada. Bills still swing month to month with the fuel adjustment, which drove
   most of Entergy Louisiana's rise between January and May 2026. Cheap power and avoided-cost export credits since
   2020 make rooftop solar a long-payback purchase unless it is sized tightly to daytime use.
 

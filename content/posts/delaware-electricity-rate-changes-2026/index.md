@@ -95,7 +95,7 @@ Rates come from a State of Delaware news release and a local news report. We did
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Delaware's average residential price at 18.48¢/kWh in July 2026, up 11.5% from 16.58¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $184.80 (1,000 × 18.48¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Delaware's average residential price at 18.70¢/kWh in August 2026, up 11.0% from 16.85¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $187.00 (1,000 × 18.70¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [Maryland](/rates/maryland/), [New Jersey](/rates/new-jersey/), [Pennsylvania](/rates/pennsylvania/), or the full [rates by state](/rates-by-state/) list.
 
@@ -105,4 +105,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [WBOC, "Delmarva Power expects higher bills for Delaware customers following new rates filing"](https://www.wboc.com/news/delmarva-power-expects-higher-bills-for-delaware-customers-following-new-rates-filing/article_d1083f96-f31a-47dd-8c7e-22e38bdafe92.html)
 - [Delaware Division of the Public Advocate, statement on Delmarva Power's SOS filing, April 9, 2026](https://publicadvocate.delaware.gov/2026/04/09/dpas-statement-on-delmarva-powers-sos-filing/)
 - [Delaware Public Media, "Net metering bill gains Delaware State Senate approval," March 17, 2026](https://www.delawarepublic.org/politics-government/2026-03-17/net-metering-bill-gains-delaware-state-senate-appproval)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

@@ -110,7 +110,7 @@ All APS and TEP figures here are requests, not approved rates. The ACC's docket 
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Arizona's average residential price at 15.38¢/kWh in July 2026, up 0.3% from 15.34¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $153.80 (1,000 × 15.38¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Arizona's average residential price at 15.05¢/kWh in August 2026, down 0.3% from 15.09¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $150.50 (1,000 × 15.05¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [California](/rates/california/), [Nevada](/rates/nevada/), [New Mexico](/rates/new-mexico/), [Utah](/rates/utah/), or the full [rates by state](/rates-by-state/) list.
 
@@ -126,4 +126,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [AZ Luminaria, "TEP rate case: What Tucson customers need to know," May 25, 2026](https://azluminaria.org/2026/05/25/tep-rate-case-what-tucson-customers-need-to-know/)
 - [ABC15, "Critics: Arizona Corporation Commission rushed vote on APS rate case," Feb. 2024](https://www.abc15.com/news/local-news/critics-arizona-corporation-commission-rushed-vote-on-aps-rate-case)
 - [SolarFY, "Arizona Net Metering & Solar Buyback Rates in 2026"](https://mysolarfy.com/arizona-net-billing-2026/)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)

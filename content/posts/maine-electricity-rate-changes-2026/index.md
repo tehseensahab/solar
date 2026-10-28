@@ -94,7 +94,7 @@ We verified supply prices on the PUC's site. We did not research 2026 delivery r
 
 ## Compare With Nearby States
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Maine's average residential price at 32.41¢/kWh in July 2026, up 15.8% from 27.98¢ in July 2025. The U.S. average was 18.31¢. At 1,000 kWh that works out to $324.10 (1,000 × 32.41¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Maine's average residential price at 32.11¢/kWh in August 2026, up 14.1% from 28.14¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $321.10 (1,000 × 32.11¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
 Rate rules stop at the state line, and often at the utility boundary. See our guides for [New Hampshire](/rates/new-hampshire/), [Vermont](/rates/vermont/), [Massachusetts](/rates/massachusetts/), or the full [rates by state](/rates-by-state/) list.
 
@@ -104,4 +104,4 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 - [Maine PUC, Standard Offer Rates for Versant Power, Bangor Hydro District](https://www1.maine.gov/mpuc/regulated-utilities/electricity/standard-offer-rates/bhd)
 - [WGME, "Maine electric bills set to rise next year as PUC sets new Standard Offer rate"](https://wgme.com/news/i-team/maine-electric-bills-set-to-rise-next-year-as-puc-sets-new-standard-offer-rate)
 - [NuWatt Energy, "Maine Net Metering 2026: NEB Guide"](https://nuwattenergy.com/en/maine/net-metering-guide-2026)
-- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (July 2026 data, released September 24, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+- [U.S. Energy Information Administration, Electric Power Monthly, Table 5.6.A (August 2026 data, released October 23, 2026)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
