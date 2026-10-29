@@ -4,6 +4,7 @@ abbr: UT
 region: West
 neighbors: [arizona, colorado, idaho, nevada]
 refreshed: 2026-10-28
+policy_checked: 2026-10-18
 guides: [solar-export-credit-rates-by-utility-2026, battery-sizing-guide]
 
 rate_note: Rocky Mountain Power's energy charges move with fuel and market costs; they fell 10.6% on July 1, 2026 even as base rates rose ([Utah News Dispatch](https://utahnewsdispatch.com/2026/07/06/rocky-mountain-powers-utah-rate-conflict-may-be-settled/)).

@@ -4,6 +4,7 @@ abbr: OH
 region: Midwest
 neighbors: [indiana, kentucky, michigan, pennsylvania]
 refreshed: 2026-10-28
+policy_checked: 2026-10-18
 guides: [how-to-compare-electricity-supplier-offers, solar-export-credit-rates-by-utility-2026]
 
 rate_note: AEP Ohio's default supply rate (supply only, before delivery and riders) is 10.12¢/kWh from June 1, 2026 to May 31, 2027 ([AEP Ohio](https://www.aepohiowire.com/sso-generation-rate-increase/)); the statewide figure above is all-in.

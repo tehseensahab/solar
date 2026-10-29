@@ -4,6 +4,7 @@ abbr: MT
 region: West
 neighbors: [idaho, north-dakota, south-dakota, wyoming]
 refreshed: 2026-10-28
+policy_checked: 2026-10-18
 guides: [how-electric-rate-cases-work, solar-payback-period-without-federal-tax-credit]
 
 summary: >-

@@ -4,6 +4,7 @@ abbr: RI
 region: Northeast
 neighbors: [connecticut, massachusetts, new-york]
 refreshed: 2026-10-28
+policy_checked: 2026-10-18
 guides: [how-to-compare-electricity-supplier-offers, budget-billing-explained]
 
 rate_note: Rhode Island Energy's last resort service rate (supply only) moved to a filed winter level of 17.029¢/kWh on October 1, 2026 ([Rhode Island PUC](https://ripuc.ri.gov/utility-information/electric/rhode-island-energy-last-resort-service)); the statewide figure above is all-in and blends in summer pricing.

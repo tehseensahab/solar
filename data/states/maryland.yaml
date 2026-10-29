@@ -4,6 +4,7 @@ abbr: MD
 region: South
 neighbors: [delaware, pennsylvania, virginia, west-virginia]
 refreshed: 2026-10-28
+policy_checked: 2026-10-18
 guides: [how-to-compare-electricity-supplier-offers, how-electric-rate-cases-work]
 
 rate_note: Pepco's residential standard offer service rate (supply only) is about 14.677¢/kWh from October 2026 to May 2027, per a third-party analysis of published rates ([Honeydew Advisors](https://honeydewadvisors.com/md-pepco-rate-analysis/)); the statewide figure above is all-in.

@@ -4,6 +4,7 @@ abbr: CA
 region: West
 neighbors: [arizona, nevada, oregon, hawaii]
 refreshed: 2026-10-28
+policy_checked: 2026-10-18
 guides: [time-of-use-rates-and-solar, fixed-charges-and-solar-savings]
 
 summary: >-

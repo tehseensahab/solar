@@ -4,6 +4,7 @@ abbr: NH
 region: Northeast
 neighbors: [maine, massachusetts, vermont]
 refreshed: 2026-10-28
+policy_checked: 2026-10-18
 guides: [how-to-compare-electricity-supplier-offers, solar-export-credit-rates-by-utility-2026]
 
 rate_note: Eversource's default energy service rate (supply only) is 14.009¢/kWh from August 1, 2026 to January 31, 2027 ([Valley News](https://vnews.com/2026/06/30/new-hampshire-electric-rates/)); the statewide figure above is all-in.

@@ -4,6 +4,7 @@ abbr: CO
 region: West
 neighbors: [new-mexico, utah, wyoming, kansas]
 refreshed: 2026-10-28
+policy_checked: 2026-10-18
 guides: [residential-demand-charges-explained, time-of-use-rates-and-solar]
 
 summary: >-

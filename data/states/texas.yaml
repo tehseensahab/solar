@@ -4,6 +4,7 @@ abbr: TX
 region: South
 neighbors: [louisiana, new-mexico, oklahoma, arkansas]
 refreshed: 2026-10-28
+policy_checked: 2026-10-18
 guides: [how-to-compare-electricity-supplier-offers, how-to-compare-solar-quotes]
 
 rate_note: In competitive areas the energy price comes from the retail plan you choose, and your utility's regulated delivery charges are added on top ([Public Utility Commission of Texas](https://www.puc.texas.gov)).

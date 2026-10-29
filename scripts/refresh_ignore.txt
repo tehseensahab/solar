@@ -1,0 +1,6 @@
+# Dated articles that deliberately keep the figures of the month they report. `refresh.py audit` skips these paths.
+content/posts/electricity-prices-by-state-july-2026/
+content/posts/eia-october-2026-electricity-price-forecast/
+content/posts/minnesota-puc-energy-affordability-investigation-2026/
+content/posts/ohio-net-metering-rule-review-2026/
+content/posts/space-heater-cost-to-run/

@@ -4,6 +4,7 @@ abbr: NV
 region: West
 neighbors: [arizona, california, utah, idaho]
 refreshed: 2026-10-28
+policy_checked: 2026-10-18
 guides: [residential-demand-charges-explained, battery-sizing-guide]
 
 summary: >-
