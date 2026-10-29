@@ -7,6 +7,10 @@ One line per source: domain or page | works / fails (how) | workaround | date ch
 - eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a (Table 5.6.A) | fails: WebFetch server error, or page shows only XLS links, no values | none found without approval; state residential table not readable unattended. Use print-version for U.S. figure only | 2026-10-26
 - eia.gov/electricity/monthly/xls/*.xlsx, eia.gov/electricity/monthly/epm_table_grapher.php (typed directly) | fails: WebFetch asks for approval | surface URL via WebSearch first; xlsx still not parseable | 2026-10-26
 - eia.gov/electricity/monthly/?src=email | works: release date, data month, links | - | 2026-10-26
+- eia.gov/electricity/monthly/update/end-use.php | works (U.S. residential price, data month, release date; Aug 2026 = 18.16c, released Oct 23) | - | 2026-10-29
+- eia.gov/energyexplained/electricity/measuring-electricity.php | works | - | 2026-10-29
+- energy.gov/energysaver/electric-resistance-heating | works | - | 2026-10-29
+- cpsc.gov news releases; CPSC Staff Assessment on Portable Electric Heaters (Feb 2023 PDF) | works | - | 2026-10-29
 - eia.gov/tools/FAQs/faq.php?id=97&t=3 | works (2022 consumption, 899 kWh/month) only after it comes back in a WebSearch; direct fetch asks for approval | search "EIA how much electricity does an American home use" first | 2026-10-27
 - eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php | fails 2026-10-28 when fetched without a fresh search result (approval) | WebSearch for it first | 2026-10-28
 - eia.gov/electricity/sales_revenue_price/html/table5_a.html | works but is 2009 data | don't use for current usage | 2026-10-28
@@ -48,6 +52,18 @@ One line per source: domain or page | works / fails (how) | workaround | date ch
 - docket.images.azcc.gov/*.pdf, edocket.azcc.gov item-detail | fails: approval required | azcc.gov/news posts (work); news (AZ Luminaria) for ROO, mark Qualified | 2026-10-28
 - azcc.gov/news/home/... | works (timeline graphics are images, unreadable) | - | 2026-10-28
 - mn.gov/puc via content.govdelivery.com MNPUBUC bulletins | works | - | 2026-10-28
+- starw1.ncuc.gov ViewFile.aspx (NCUC orders, e.g. E-100 Sub 180 NEM order) | works (long; use offset 100000 for the end) | - | 2026-10-29
+- publicstaff.nc.gov/electric/net-metering | works | - | 2026-10-29
+- duke-energy.com and p-cd.duke-energy.com tariff/rider PDFs, duke-energy.com/home/billing/rates | fails: client error or approval timeout | NCUC orders, NC Public Staff | 2026-10-29
+- duke-energy.com/home/billing/dec-nc-rate-case | works but shows the OLD 2023 case | don't use for current case | 2026-10-29
+- interchange.puc.texas.gov/Documents/*.PDF (PUCT dockets, e.g. 58819) | fails: client error on every doc tried | swepco.com notice PDFs from search; no workaround found for settlement | 2026-10-29
+- swepco.com/company/about/rates/tx; SWEPCORATECHANGEREQUEST...pdf | works | - | 2026-10-29
+- swepco.com TexasRatesChargesandFees PDFs | fails: client error / approval timeout | - | 2026-10-29
+- psc.nd.gov/webdocs/case/*.pdf | works | - | 2026-10-29
+- montana-dakota.com brochure PDFs | fails: binary, unreadable | psc.nd.gov case docs | 2026-10-29
+- nationalgrid.com/us/ma service-rates page | fails: client error | - | 2026-10-29
+- eversource.com NH news releases | works | - | 2026-10-29
+- docs.cpuc.ca.gov Published/Efile PDFs | works | - | 2026-10-29
 
 ## Industry and news (context only)
 - energysage.com/community-solar, /news/home-energy-market-h1-2026-highlights | works (H1 page needs to come from search results) | - | 2026-10-26
@@ -55,7 +71,10 @@ One line per source: domain or page | works / fails (how) | workaround | date ch
 - electricchoice.com/utilities/rate-filings, energyfactbook.com | works but stale (no Oct 2026 entries) | don't rely on for recent filings | 2026-10-26
 - woodtv.com | fails: client error | other outlet or utility release | 2026-10-26
 - azluminaria.org, about.azpm.org, advocacy.consumerreports.org | works | - | 2026-10-28
-- yahoo.com/news articles | fails: client error | original outlet | 2026-10-28
+- yahoo.com/news articles | fails: client error (uk.finance.yahoo.com worked once) | original outlet | 2026-10-29
+- energyandpolicy.org | works (advocacy; context only) | - | 2026-10-29
+- documentcloud.org documents | fails: approval timeout | - | 2026-10-29
+- kfyrtv.com, wral.com, gcn.com | works | - | 2026-10-29
 - southwestledger.news nodes | works, but display date is today's; real dates are old | check byline date | 2026-10-28
 - solarelectricsupply.com product pages (module specs) | works | prefer manufacturer datasheet | 2026-10-28
 - newstribune.com, fultonsun.com | fails: robots disallowed | stlpr.org, kbia.org copy | 2026-10-27

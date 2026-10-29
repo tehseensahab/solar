@@ -122,3 +122,5 @@ ameren-missouri-rate-increase-2027 | Ameren Missouri Rate Increase: $13 a Month 
 why-is-my-electric-bill-so-high | Why Is My Electric Bill So High? 8 Causes to Check | 2026-10-27 | electric-rates | published | why is my electric bill so high | /posts/why-is-my-electric-bill-so-high/
 tep-rate-increase-2026 | TEP Rate Increase 2026: Judge Recommends 11.2% for Homes | 2026-10-28 | news | published | tep rate increase 2026 | /posts/tep-rate-increase-2026/
 heat-pump-water-heater-savings | Heat Pump Water Heater Savings: What You'll Really Save | 2026-10-28 | equipment | published | heat pump water heater savings | /posts/heat-pump-water-heater-savings/
+duke-energy-net-metering-nc-2027 | Duke Energy Net Metering NC: What Changes Jan. 1, 2027 | 2026-10-29 | news | published | duke energy net metering nc | /posts/duke-energy-net-metering-nc-2027/
+space-heater-cost-to-run | How Much Does It Cost to Run a Space Heater? (2026) | 2026-10-29 | electric-rates | published | how much does it cost to run a space heater | /posts/space-heater-cost-to-run/
