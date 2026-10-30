@@ -13,13 +13,12 @@ One line per source: domain or page | works / fails (how) | workaround | date ch
 - cpsc.gov news releases; CPSC Staff Assessment on Portable Electric Heaters (Feb 2023 PDF) | works | - | 2026-10-29
 - eia.gov/tools/FAQs/faq.php?id=97&t=3 | works (2022 consumption, 899 kWh/month) only after it comes back in a WebSearch; direct fetch asks for approval | search "EIA how much electricity does an American home use" first | 2026-10-27
 - eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php | fails 2026-10-28 when fetched without a fresh search result (approval) | WebSearch for it first | 2026-10-28
-- eia.gov/electricity/sales_revenue_price/html/table5_a.html | works but is 2009 data | don't use for current usage | 2026-10-28
 - energystar.gov/products/heat_pump_water_heaters/benefits-savings; energystar.gov HPWH 2025 fact sheet PDF; HPWH_BuyingGuide_May2021.pdf | works | - | 2026-10-28
-- energy.gov/node/783721 | works, but it is a GeoSpring HPWH article, not Energy Saver install guidance | use ENERGY STAR buying guide | 2026-10-28
 - irs.gov/instructions/i5695 | works (25C ends after Dec. 31, 2025) | - | 2026-10-28
 - govinfo.gov FR 2024-09209 (DOE water heater rule) | works; gallon thresholds are in an image table, unreadable | cite compliance date and wording only | 2026-10-28
 - energy.gov/energysaver/articles/estimating-appliance-and-home-electronic-energy-use | fails: client error | use energy.gov/node/365749 (same article) from search results | 2026-10-27
-- atb.nrel.gov/electricity/2023/residential_pv | works only after it comes back in a WebSearch (direct fetch asks approval) | search "NREL ATB residential PV capacity factor 2023" | 2026-10-28
+- atb.nrel.gov/electricity/2023/residential_pv | works after search (capacity factors by class, kWDC) | - | 2026-10-30
+- cdn.myced.com product datasheet PDFs | fails: approval timeout | greentechrenewables.com product page (works; distributor, Qualified) | 2026-10-30
 - eta-publications.lbl.gov Distributed Solar & Storage 2026 data update PDF | works (2025 median 7.7 kW; 37% battery attach); figure-only values not readable | - | 2026-10-27
 - energy.gov/eere/solar/community-solar-basics | works | - | 2026-10-26
 - nrel.gov/state-local-tribal/community-solar | works | - | 2026-10-26
@@ -64,19 +63,23 @@ One line per source: domain or page | works / fails (how) | workaround | date ch
 - nationalgrid.com/us/ma service-rates page | fails: client error | - | 2026-10-29
 - eversource.com NH news releases | works | - | 2026-10-29
 - docs.cpuc.ca.gov Published/Efile PDFs | works | - | 2026-10-29
+- michigan.gov/ag/news/press-releases/2026/... (MI Attorney General) | works (amounts, residential %, ROE; rarely case numbers) | - | 2026-10-30
+- adms.apps.lara.state.mi.us/Mpsc/ViewNoticeDocument/* | works, but search returns notices for other cases; check case number | - | 2026-10-30
+- consumersenergy.com/residential/savings-and-clean-energy/renewable-energy/distributed-generation | works (outflow credit wording) | - | 2026-10-30
+- michigan.gov/mpsc/consumer/electricity/distributed-generation | works (550 kW, 110% rule) | - | 2026-10-30
+- U-22070 case filings (MPSC e-dockets) | not found via search | AG releases + news (Qualified) | 2026-10-30
 
 ## Industry and news (context only)
+- michiganadvance.com, ohiocapitaljournal.com | fails: client error | AG/regulator release, fox2detroit.com, fox17online.com, michiganpublic.org, wnem.com (work) | 2026-10-30
+- gcn.com | works (case numbers, timelines; news) | - | 2026-10-30
+- unsplash.com via curl | fails: 401 bot check | WebFetch the photo page for images.unsplash.com URL, then curl that | 2026-10-30
 - energysage.com/community-solar, /news/home-energy-market-h1-2026-highlights | works (H1 page needs to come from search results) | - | 2026-10-26
 - woodmac.com press releases | works (/es/ locale path came back in search) | - | 2026-10-26
-- electricchoice.com/utilities/rate-filings, energyfactbook.com | works but stale (no Oct 2026 entries) | don't rely on for recent filings | 2026-10-26
-- woodtv.com | fails: client error | other outlet or utility release | 2026-10-26
 - azluminaria.org, about.azpm.org, advocacy.consumerreports.org | works | - | 2026-10-28
 - yahoo.com/news articles | fails: client error (uk.finance.yahoo.com worked once) | original outlet | 2026-10-29
 - energyandpolicy.org | works (advocacy; context only) | - | 2026-10-29
 - documentcloud.org documents | fails: approval timeout | - | 2026-10-29
 - kfyrtv.com, wral.com, gcn.com | works | - | 2026-10-29
-- southwestledger.news nodes | works, but display date is today's; real dates are old | check byline date | 2026-10-28
-- solarelectricsupply.com product pages (module specs) | works | prefer manufacturer datasheet | 2026-10-28
 - newstribune.com, fultonsun.com | fails: robots disallowed | stlpr.org, kbia.org copy | 2026-10-27
 - stlpr.org, kfvs12.com | works | - | 2026-10-27
 - solarexaminer.com (our own site) via WebFetch | fails this run: approval timeout | retry later in run; note in report | 2026-10-27
