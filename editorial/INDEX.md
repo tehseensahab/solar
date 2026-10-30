@@ -124,3 +124,5 @@ tep-rate-increase-2026 | TEP Rate Increase 2026: Judge Recommends 11.2% for Home
 heat-pump-water-heater-savings | Heat Pump Water Heater Savings: What You'll Really Save | 2026-10-28 | equipment | published | heat pump water heater savings | /posts/heat-pump-water-heater-savings/
 duke-energy-net-metering-nc-2027 | Duke Energy Net Metering NC: What Changes Jan. 1, 2027 | 2026-10-29 | news | published | duke energy net metering nc | /posts/duke-energy-net-metering-nc-2027/
 space-heater-cost-to-run | How Much Does It Cost to Run a Space Heater? (2026) | 2026-10-29 | electric-rates | published | how much does it cost to run a space heater | /posts/space-heater-cost-to-run/
+consumers-energy-electric-rate-increase-2027 | Consumers Energy Rate Increase 2027: $13 a Month Requested | 2026-10-30 | news | published | consumers energy rate increase 2027 | /posts/consumers-energy-electric-rate-increase-2027/
+how-many-solar-panels-do-i-need | How Many Solar Panels Do I Need? A 3-Step Method | 2026-10-30 | equipment | published | how many solar panels do i need | /posts/how-many-solar-panels-do-i-need/
