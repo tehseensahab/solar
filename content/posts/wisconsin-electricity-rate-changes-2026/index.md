@@ -62,6 +62,8 @@ Both are owned by WEC Energy Group. On November 7, 2024, the PSC approved:
 - **We Energies:** 4.7% in 2027 (about $13 a month) and 4.5% in 2028 (about $8 to $9).
 - **Wisconsin Public Service:** 6.3% in 2027 (about $11 a month) and 3.5% in 2028 (about $5 to $5.50).
 
+For the We Energies request in detail, including docket 5-UR-112 and the bill math at 660 kWh, see our report on the [We Energies 2027 rate increase request](/posts/we-energies-rate-increase-2027/).
+
 Wisconsin Public Radio reported that We Energies had the third-highest residential electric rates among Midwest investor-owned utilities in 2025.
 
 ## Alliant, Madison Gas and Electric, and Xcel

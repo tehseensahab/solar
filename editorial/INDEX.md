@@ -126,3 +126,5 @@ duke-energy-net-metering-nc-2027 | Duke Energy Net Metering NC: What Changes Jan
 space-heater-cost-to-run | How Much Does It Cost to Run a Space Heater? (2026) | 2026-10-29 | electric-rates | published | how much does it cost to run a space heater | /posts/space-heater-cost-to-run/
 consumers-energy-electric-rate-increase-2027 | Consumers Energy Rate Increase 2027: $13 a Month Requested | 2026-10-30 | news | published | consumers energy rate increase 2027 | /posts/consumers-energy-electric-rate-increase-2027/
 how-many-solar-panels-do-i-need | How Many Solar Panels Do I Need? A 3-Step Method | 2026-10-30 | equipment | published | how many solar panels do i need | /posts/how-many-solar-panels-do-i-need/
+we-energies-rate-increase-2027 | We Energies Rate Increase 2027: $14.67 a Month Requested | 2026-10-31 | news | published | we energies rate increase 2027 | /posts/we-energies-rate-increase-2027/
+cost-to-charge-electric-car-at-home | Cost to Charge an Electric Car at Home in 2026 | 2026-10-31 | electric-rates | published | cost to charge electric car at home | /posts/cost-to-charge-electric-car-at-home/
