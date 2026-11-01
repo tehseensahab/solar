@@ -1,13 +1,10 @@
 ---
-title: "New Hampshire Electricity Rates and Solar"
-detailTitle: "New Hampshire Electricity Rate Changes: What Changed in 2026 and What's Next"
-url: "/rates/new-hampshire/"
+title: "New Hampshire Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Wooden utility pole and power lines against pink and purple sunset clouds."
 imageCredit: "Photo by Kilian Murphy on [Unsplash](https://unsplash.com/photos/silhouetted-utility-pole-under-a-colorful-pink-and-purple-sunset-B0R8hY-PBLg?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
-layout: "state-hub"
 states: ["New Hampshire"]
 description: "New Hampshire supply rates rose on August 1, 2026 and run through January 31, 2027. Eversource's default rate is about 14.0 cents per kWh and Liberty's about 15.8 cents. Nothing changes on October 1."
 readtime: "4 min read"
@@ -19,10 +16,6 @@ takeaways:
   - "New Hampshire Public Radio reported that bills would rise by roughly $6 to $18 a month."
   - "Part of the increase recovers past shortfalls: $38 million at Eversource, $9 million at Liberty and $3 million at Unitil."
 faq:
-  - q: "Is solar worth it in New Hampshire?"
-    a: "Often, given high regional prices and net metering 2.0, which credits exports at full supply and transmission value plus 25% of distribution (about 20¢/kWh at Eversource in one 2026 estimate), with the structure set through 2041. Self-used solar is worth even more."
-  - q: "What is the average electricity rate in New Hampshire?"
-    a: "EIA puts New Hampshire's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Supply alone is 14.009¢/kWh on Eversource default service from August 1, 2026."
   - q: "Did New Hampshire electric rates change on October 1, 2026?"
     a: "We found no change on that date. Default energy service rates changed on August 1, 2026 and are set through January 31, 2027."
   - q: "What is Eversource's default energy rate in New Hampshire?"
@@ -99,7 +92,7 @@ Rates come from the Valley News and New Hampshire Public Radio. The Public Utili
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts New Hampshire's average residential price at 27.64¢/kWh in August 2026, up 13.1% from 24.44¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $276.40 (1,000 × 27.64¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Maine](/rates/maine/), [Massachusetts](/rates/massachusetts/), [Vermont](/rates/vermont/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Maine](/posts/maine-electricity-rate-changes-2026/), [Massachusetts](/posts/massachusetts-electricity-rate-changes-2026/), [Vermont](/posts/vermont-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

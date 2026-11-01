@@ -23,7 +23,7 @@ Needs Python 3 with `pyyaml` and `openpyxl`, `curl`, and Hugo extended (producti
 5. `python3 scripts/refresh.py due`. Only states it lists need a policy recheck (step 6). If it lists none, skip step 6.
 6. Policy recheck (only the states from step 5, and only the items named there). See "Brief for research agents".
    Change text only for confirmed changes with a primary source and date, then set `policy_checked:` to today in that state.
-7. Build with `hugo --minify` (zero errors). Spot-check the three biggest movers in `public/rates/<state>/`: numbers match
+7. Build with `hugo --minify` (zero errors). Spot-check the three biggest movers in `public/posts/<state>-electricity-rate-changes-2026/`: numbers match
    the data, chart `<svg>` present, exactly one FAQPage JSON-LD.
 8. Push the branch. Merge to `main` only when asked (Cloudflare Pages builds every push to `main`).
 

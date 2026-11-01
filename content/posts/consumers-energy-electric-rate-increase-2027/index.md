@@ -31,7 +31,7 @@ faq:
 
 **Consumers Energy is asking Michigan regulators for about $456 million a year in higher electric rates, which the utility estimates would add about $13 a month for a home with a typical $155 bill.** Nothing is approved. The Michigan Attorney General has asked the Michigan Public Service Commission (MPSC) to cut the request by 53%, and the commission has until April 2027 to decide.
 
-If approved, this would be Consumers' second electric increase in about a year: the last one, $276.6 million, took effect May 1, 2026. Our guide to [how DTE and Consumers rates have changed in Michigan this year](/rates/michigan/) tracks both utilities' cases.
+If approved, this would be Consumers' second electric increase in about a year: the last one, $276.6 million, took effect May 1, 2026. Our guide to [how DTE and Consumers rates have changed in Michigan this year](/posts/michigan-electricity-rate-changes-2026/) tracks both utilities' cases.
 
 ## What Consumers Energy Is Asking For
 

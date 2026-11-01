@@ -1,13 +1,10 @@
 ---
-title: "Rhode Island Electricity Rates and Solar"
-detailTitle: "Rhode Island Electricity Rate Changes: What Changed in 2026 and What's Next"
-url: "/rates/rhode-island/"
+title: "Rhode Island Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
 lastVerified: 2026-10-22
 imageAlt: "Worker in a blue hoodie and cap working on an electric meter mounted on a wall."
 imageCredit: "Photo by Raze Solar on [Unsplash](https://unsplash.com/photos/person-working-on-electrical-meter-_aSFmmvS62I?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
-layout: "state-hub"
 states: ["Rhode Island"]
 description: "Rhode Island Energy's residential supply rate for October 2026 through March 2027 is 17.029 cents per kWh, up from 11.092 cents in summer: about $29.69 more a month at 500 kWh. Bill credits of roughly $14 a month from October, and $20.45 more from January to March, offset part of it."
 readtime: "4 min read"
@@ -19,10 +16,6 @@ takeaways:
   - "At 500 kWh a month, the supply cost is about $29.69 higher than in summer and about $11.30 higher than last winter."
   - "Two sets of bill credits soften it: about $14 a month from October under an earlier settlement, and $20.45 a month in January, February and March 2027 approved on September 24, 2026."
 faq:
-  - q: "Is solar worth it in Rhode Island?"
-    a: "Often yes. Prices are among the highest in the country, self-used solar offsets the full retail rate, and exports from newer systems earn about 80% of retail according to a 2026 installer guide. The Renewable Energy Growth program offers a fixed 15-year price as an alternative; confirm current terms in the tariff."
-  - q: "What is the average electricity rate in Rhode Island?"
-    a: "EIA puts Rhode Island's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Supply alone is 17.029¢/kWh on last resort service from October 1, 2026 (filed rate)."
   - q: "Did Rhode Island electric rates change on October 1, 2026?"
     a: "Yes. Rhode Island Energy's residential last resort service rate for October 1, 2026 through March 31, 2027 is listed at 17.029 cents per kWh, up from 11.092 cents in the summer period."
   - q: "How much more will I pay this winter?"
@@ -128,7 +121,7 @@ The commission's page listed the winter rate as pending final approval, and the 
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Rhode Island's average residential price at 28.18¢/kWh in August 2026, up 6.2% from 26.53¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $281.80 (1,000 × 28.18¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Connecticut](/rates/connecticut/), [Massachusetts](/rates/massachusetts/), [New York](/rates/new-york/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Connecticut](/posts/connecticut-electricity-rate-changes-2026/), [Massachusetts](/posts/massachusetts-electricity-rate-changes-2026/), [New York](/posts/new-york-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

@@ -1,13 +1,10 @@
 ---
-title: "Georgia Electricity Rates and Solar"
-detailTitle: "Georgia Electricity Rate Changes: What Changed in 2026 and What's Next"
-url: "/rates/georgia/"
+title: "Georgia Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-03
 lastVerified: 2026-10-03
 imageAlt: "Two-story house with solar panels on its roof and a red pickup truck parked in the driveway."
 imageCredit: "Photo by Gary Cole on [Unsplash](https://unsplash.com/photos/a-red-pick-up-truck-parked-in-front-of-a-house-2pbElAv6K4I?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
-layout: "state-hub"
 states: ["Georgia"]
 description: "Georgia Power bills fell about $4 a month on June 1, 2026 after regulators approved new fuel and storm charges. Base rates are frozen through 2028, and winter pricing began with October bills."
 readtime: "5 min read"
@@ -19,10 +16,6 @@ takeaways:
   - "Georgia Power's base rates are frozen through at least the end of 2028. Fuel and storm costs sit outside the freeze."
   - "Georgia Power credits most new rooftop solar exports at 3.2188 cents per kWh for 2026, plus a 4 cent adder."
 faq:
-  - q: "Is solar worth it in Georgia?"
-    a: "For Georgia Power customers with high summer daytime use, it can be: self-used solar avoids summer energy charges of up to 15.1¢/kWh before fuel, while exports earn 7.2188¢. The 10 kW cap, a $5.97 monthly metering charge and an enrollment limit narrow the case, so get the program's current status in writing."
-  - q: "What is the average electricity rate in Georgia?"
-    a: "EIA puts Georgia's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Georgia Power's own energy charges are seasonal: 8.2¢/kWh in winter and tiered up to 15.1¢ in summer, plus fuel and riders."
   - q: "Did Georgia Power rates go up on October 1, 2026?"
     a: "No. We found no Georgia Power rate change approved for October 1, 2026. October is when the standard residential plan switches from summer pricing (June to September) to the lower winter energy rate (October to May)."
   - q: "How much did Georgia Power bills drop in 2026?"
@@ -118,7 +111,7 @@ We did not obtain the fuel rate in cents per kWh, the basic service charge or th
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Georgia's average residential price at 15.90¢/kWh in August 2026, up 2.3% from 15.55¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $159.00 (1,000 × 15.90¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Alabama](/rates/alabama/), [Florida](/rates/florida/), [South Carolina](/rates/south-carolina/), [Tennessee](/rates/tennessee/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Alabama](/posts/alabama-electricity-rate-changes-2026/), [Florida](/posts/florida-electricity-rate-changes-2026/), [South Carolina](/posts/south-carolina-electricity-rate-changes-2026/), [Tennessee](/posts/tennessee-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

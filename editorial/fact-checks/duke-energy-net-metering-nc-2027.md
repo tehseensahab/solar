@@ -8,6 +8,6 @@ Checked October 29, 2026. Byline Craig Leslie. Independent fact-check by a separ
 - Fixes applied: lead no longer claims retail-rate netting (sources say only "monthly netting at the applicable avoided cost rate"); "well below the retail rate" (NOT VERIFIED) -> "typically lower ... check Duke's current credit rate"; table rows for Rider NM/RSC netting reworded to sourced language; "per kW of solar capacity" -> "per kW"; caps may already be full for 2026 added; "after that" -> "once the Bridge is closed or full".
 - QUALIFIED (interpretation, labeled): bill-impact advice, "contact Duke" election process, Dominion/co-op rules differ.
 - Limitations: Duke tariff PDFs (Rider NM/NMB/RSC) returned client error or approval timeouts; current dollar amounts not verified.
-- State term: North Carolina; in-body hub link /rates/north-carolina/ in paragraph 2 (anchor "our guide to Duke's North Carolina rate cases"). Hub not updated: no new order or tariff change.
+- State term: North Carolina; in-body hub link /posts/north-carolina-electricity-rate-changes-2026/ in paragraph 2 (anchor "our guide to Duke's North Carolina rate cases"). Hub not updated: no new order or tariff change.
 
 COVER: Unsplash photo 9KCRGQySNiw (VD Photography), free Unsplash License.

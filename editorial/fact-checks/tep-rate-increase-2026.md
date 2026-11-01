@@ -10,9 +10,9 @@ Checked October 28, 2026. Byline Craig Leslie. Independent fact-check by a separ
 - CR letter Oct. 6: opposes 14% residential request; reduce ROE. VERIFIED.
 - Headline "Judge Backs 11.2%" -> "Judge Recommends 11.2% for Homes" (avoid reading as approved). Description attributes to AZ Luminaria and Consumer Reports.
 - NOT VERIFIED and fixed: "budget $14 to $20" (mixed request/recommendation; replaced with 805 kWh illustration $15.86 and $19.43); "Make a Public Comment in a Docket" (generalized); fixed-charge explanation (tied to +$5 BSC proposal).
-- Solar: 2016 ACC decision / net billing, TEP export ~5-6¢ carried from /rates/arizona/ (checked Oct. 5). QUALIFIED.
+- Solar: 2016 ACC decision / net billing, TEP export ~5-6¢ carried from /posts/arizona-electricity-rate-changes-2026/ (checked Oct. 5). QUALIFIED.
 - Calcs: 186/12=15.50; 0.112x141.60=15.86; 19.43/141.60=13.72%. VERIFIED.
-- Arizona hub: TEP section, table row, What Happens Next, Limitations, Sources updated; lastmod/lastVerified Oct. 28. Not approved, so "What This Means for Homeowners With Solar" unchanged. State term Arizona; in-body /rates/arizona/ link in paragraph 2 ("guide to Arizona electric rates and solar").
+- Arizona hub: TEP section, table row, What Happens Next, Limitations, Sources updated; lastmod/lastVerified Oct. 28. Not approved, so "What This Means for Homeowners With Solar" unchanged. State term Arizona; in-body /posts/arizona-electricity-rate-changes-2026/ link in paragraph 2 ("guide to Arizona electric rates and solar").
 - Fast-changing recheck: searches Oct. 28 found no ACC vote yet.
 
 COVER: Unsplash photo ChDFJo4zWC0 (Tyler Mignault), free Unsplash License. Location is northern Arizona (Red Butte), not Tucson; alt text does not claim Tucson.

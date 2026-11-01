@@ -1,14 +1,11 @@
 ---
-title: "Missouri Electricity Rates and Solar"
-detailTitle: "Missouri Electricity Rate Changes: What Changed in 2026 and What's Next"
-url: "/rates/missouri/"
+title: "Missouri Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
 lastmod: 2026-10-27
 lastVerified: 2026-10-27
 imageAlt: "Rows of transmission towers and power lines crossing a brown farm field."
 imageCredit: "Photo by Chris Weiher on [Unsplash](https://unsplash.com/photos/a-row-of-power-lines-in-the-middle-of-a-field-_lC8tokDnSg?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
-layout: "state-hub"
 states: ["Missouri"]
 description: "Missouri's two largest electric utilities have rate requests pending, not approved. Ameren Missouri is asking for $343 million, about $13 a month for a typical home, with new rates expected in mid-2027."
 readtime: "4 min read"
@@ -20,10 +17,6 @@ takeaways:
   - "Evergy Missouri Metro has asked for about $137.9 million a year, about $17.70 a month for an average home per Evergy. The PSC suspended the new rates until January 6, 2027."
   - "One city did change rates on October 1: Columbia's municipal utility raised usage fees 6%."
 faq:
-  - q: "Is solar worth it in Missouri?"
-    a: "It can be for a system sized so monthly production stays at or below monthly use. Within the month solar offsets retail-rate usage, but end-of-month surplus earns only avoided cost, 3.84¢/kWh in summer and 3.39¢ in winter at Ameren Missouri. Pending rate increases would raise the value of self-used solar."
-  - q: "What is the average electricity rate in Missouri?"
-    a: "EIA puts Missouri's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Ameren's pending case would add about $13 a month for an average residential customer if approved as filed."
   - q: "Did Missouri electric rates change on October 1, 2026?"
     a: "Base rates did not change at Ameren Missouri or Evergy, as far as we found. Evergy Missouri Metro's fuel adjustment charge did fall on October 1, about $1.63 a month at 1,000 kWh. Columbia's city-owned utility raised electric usage fees 6% on that date."
   - q: "How much is Ameren Missouri asking for?"
@@ -101,7 +94,7 @@ The Ameren figures in the pending case come from Ameren's June 26, 2026 filing a
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Missouri's average residential price at 16.02¢/kWh in August 2026, up 4.6% from 15.32¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $160.20 (1,000 × 16.02¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arkansas](/rates/arkansas/), [Illinois](/rates/illinois/), [Iowa](/rates/iowa/), [Kansas](/rates/kansas/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arkansas](/posts/arkansas-electricity-rate-changes-2026/), [Illinois](/posts/illinois-electricity-rate-changes-2026/), [Iowa](/posts/iowa-electricity-rate-changes-2026/), [Kansas](/posts/kansas-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

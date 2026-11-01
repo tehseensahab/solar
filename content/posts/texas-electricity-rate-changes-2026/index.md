@@ -1,12 +1,9 @@
 ---
-title: "Texas Electricity Rates and Solar"
-detailTitle: "Texas Electricity Rate Changes: What Changed in 2026 and What's Next"
-url: "/rates/texas/"
+title: "Texas Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-09-30
 imageAlt: "Dark solar panels mounted on a brown tiled roof behind a green hedge."
 imageCredit: "Photo by Watt A Lot on [Unsplash](https://unsplash.com/photos/a-building-with-solar-panels-4Wl2YkDqHjU?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
-layout: "state-hub"
 states: ["Texas"]
 description: "Oncor's new delivery rates took effect June 1, 2026. Here is who sets which part of a Texas electric bill, what changed this year, and what to check as October begins."
 readtime: "5 min read"
@@ -18,10 +15,6 @@ takeaways:
   - "Oncor may also collect a temporary surcharge during 2026 for the January-to-May gap before the new rates began."
   - "We found no official October 1, 2026 rate change for Oncor or CenterPoint."
 faq:
-  - q: "Is solar worth it in Texas?"
-    a: "It depends on your retail plan. Texas has no statewide net metering, so export credit comes from your provider's buyback plan (if any) or your city utility's program. Self-used solar reliably avoids both energy and delivery charges; price the plan you will pair with solar before signing."
-  - q: "What is the average electricity rate in Texas?"
-    a: "EIA puts Texas's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. In competitive areas, your plan's energy price plus your utility's delivery charges determine your actual rate."
   - q: "Are Texas electricity rates going up on October 1, 2026?"
     a: "We found no official October 1, 2026 change for Oncor or CenterPoint. Your energy rate depends on your retail plan, so check your plan's Electricity Facts Label for the contract end date."
   - q: "Who sets my electricity rate in Texas?"
@@ -80,7 +73,7 @@ Watch for the outcome of Oncor's tracker request and for the surcharge line on y
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Texas's average residential price at 15.91¢/kWh in August 2026, up 3.3% from 15.40¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $159.10 (1,000 × 15.91¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Louisiana](/rates/louisiana/), [New Mexico](/rates/new-mexico/), [Oklahoma](/rates/oklahoma/), [Arkansas](/rates/arkansas/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Louisiana](/posts/louisiana-electricity-rate-changes-2026/), [New Mexico](/posts/new-mexico-electricity-rate-changes-2026/), [Oklahoma](/posts/oklahoma-electricity-rate-changes-2026/), [Arkansas](/posts/arkansas-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

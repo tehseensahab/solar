@@ -11,6 +11,6 @@ Checked October 27, 2026. Byline John Marshall. Independent fact-check by a sepa
 - Ameren Solar FAQs: 3.84¢ (Jun-Sep), 3.39¢ (Oct-May), 100 kW. VERIFIED. "monthly surplus" -> "excess generation". Net metering by state law: DNR PUB2238 (verified prior run), FAQ reworded to "found nothing in filing summary".
 - Calcs: 154.53/12=12.88; 154.53/0.102=1,515 (/12=126.25); 171.2/342.9=49.9% ("about half"). VERIFIED.
 - No settlement/decision: QUALIFIED; rechecked by search Oct 27 before publishing.
-- Missouri hub: Ameren bullet and Limitations updated with filing figures and link to this post; lastmod/lastVerified Oct 27. Not approved, so "What This Means for Homeowners With Solar" unchanged. States term Missouri; in-body /rates/missouri/ link in paragraph 2, new anchor text.
+- Missouri hub: Ameren bullet and Limitations updated with filing figures and link to this post; lastmod/lastVerified Oct 27. Not approved, so "What This Means for Homeowners With Solar" unchanged. States term Missouri; in-body /posts/missouri-electricity-rate-changes-2026/ link in paragraph 2, new anchor text.
 
 COVER: Unsplash photo 88Chc9OJ3sg (Alivia Alva), free Unsplash License.

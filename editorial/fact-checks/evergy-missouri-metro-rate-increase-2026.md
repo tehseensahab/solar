@@ -12,6 +12,6 @@ Checked October 25, 2026. Byline Craig Leslie. Independent fact-check by a separ
 - "Regulators often approve less" -> softened to "can approve less".
 - No settlement or decision found: QUALIFIED; rechecked by search Oct 25 before publishing. Evergy's own rate review page blocked fetches.
 - Calc: $17.70 x 12 = $212.40. VERIFIED.
-- Missouri hub updated (Evergy section, table, takeaway, Oct 1 FAQ now notes FAC decrease, What Happens Next, sources; lastmod/lastVerified Oct 25). Rate case not approved, so "What This Means for Homeowners With Solar" left unchanged. States term Missouri; in-body /rates/missouri/ link in paragraph 2 with new anchor text.
+- Missouri hub updated (Evergy section, table, takeaway, Oct 1 FAQ now notes FAC decrease, What Happens Next, sources; lastmod/lastVerified Oct 25). Rate case not approved, so "What This Means for Homeowners With Solar" left unchanged. States term Missouri; in-body /posts/missouri-electricity-rate-changes-2026/ link in paragraph 2 with new anchor text.
 
 COVER: Unsplash photo jJMrzwB-0MA (Chad Nathan).

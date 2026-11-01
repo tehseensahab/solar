@@ -31,7 +31,7 @@ faq:
 
 Rhode Island Energy wants to change how its net metering tariff credits surplus power from home-size solar systems. Under the filing, solar output above a household's own use in a billing period would earn a **wholesale electricity rate** instead of the Last Resort Service supply rate. Nothing is approved. Public comments are due by **4 p.m. on November 16, 2026**, and the Public Utilities Commission (PUC) starts its evidentiary hearing the next morning.
 
-The filing is Docket No. 26-30-EL, made August 14, 2026, and covers Rhode Island Energy's own net metering tariff. It proposed a September 13 effective date, but the PUC set a review schedule running into November and the docket shows no approval. Our [Rhode Island electricity rates and solar hub](/rates/rhode-island/) has the current supply rates the credits are tied to.
+The filing is Docket No. 26-30-EL, made August 14, 2026, and covers Rhode Island Energy's own net metering tariff. It proposed a September 13 effective date, but the PUC set a review schedule running into November and the docket shows no approval. Our [Rhode Island electricity rates and solar hub](/posts/rhode-island-electricity-rate-changes-2026/) has the current supply rates the credits are tied to.
 
 ## What Rhode Island Energy Proposes
 

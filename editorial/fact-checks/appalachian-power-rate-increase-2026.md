@@ -8,6 +8,6 @@ Checked October 20, 2026. Byline John Marshall. Independent fact-check by a sepa
 - Calcs recomputed: 5.36% -> 5.4%; $109.20/yr; $178.95; $17.48; $60M gap; $1.04 BSC change. VERIFIED.
 - Oct 19-20 search: no settlement/stipulation or outcome reported. Article says so.
 - REWRITTEN: title to "$9.10 Request" (was read as approved); takeaway "held" -> "scheduled"; Smith credited to Cardinal; "optional" seasonal design -> "alternative" (opt-in unverified); solar seasonal bullet marked as our reading; removed unsourced "final order often lands between" line.
-- State term Virginia; in-body link to /rates/virginia/ in second paragraph. Hub: added link sentence in APCo section and fixed "raised its value" -> "any approved base rate increase raises its value". Hub facts not otherwise changed; lastVerified not bumped.
+- State term Virginia; in-body link to /posts/virginia-electricity-rate-changes-2026/ in second paragraph. Hub: added link sentence in APCo section and fixed "raised its value" -> "any approved base rate increase raises its value". Hub facts not otherwise changed; lastVerified not bumped.
 
 COVER: Unsplash photo ApihI32Wg2s (Frames For Your Heart), cropped to landscape.

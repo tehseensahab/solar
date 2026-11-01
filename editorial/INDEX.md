@@ -1,6 +1,6 @@
 # Editorial index
 
-One row per post. Build-time source of truth for topic planning; update with every published post. Primary keyword for older posts is derived from the slug unless set. State hubs live at /rates/<state>/.
+One row per post. Build-time source of truth for topic planning; update with every published post. Primary keyword for older posts is derived from the slug unless set. State pages live at /posts/<state>-electricity-rate-changes-2026/ (the /rates/<state>/ move was reverted Nov 1, 2026; /rates/ URLs 301 back).
 
 slug | title | date | category | state | primary keyword | url
 --- | --- | --- | --- | --- | --- | ---
@@ -11,63 +11,63 @@ net-metering-state-guide | Net metering by state, 2026: where the math still wor
 enphase-iq8-review | Enphase IQ8M microinverter review: the grid-independent feature actually works | 2026-09-19 | equipment | published | enphase iq8 review | /posts/enphase-iq8-review/
 treasury-itc-guidance | Treasury's new ITC guidance narrows the domestic-content bonus — here's who still qualifies | 2026-09-21 | costs-incentives | published | treasury itc guidance | /posts/treasury-itc-guidance/
 test-duke-energy-rate-case | Duke Energy's proposed rate case would cut solar export credits by 22% | 2026-09-29 | electric-rates | draft | test duke energy rate case | /posts/test-duke-energy-rate-case/
-california-electricity-rate-changes-2026 | California Electricity Rates and Solar | 2026-09-30 | electric-rates | published | california electricity rates | /rates/california/
-florida-electricity-rate-changes-2026 | Florida Electricity Rates and Solar | 2026-09-30 | electric-rates | published | florida electricity rates | /rates/florida/
-illinois-electricity-rate-changes-2026 | Illinois Electricity Rates and Solar | 2026-09-30 | electric-rates | published | illinois electricity rates | /rates/illinois/
-massachusetts-electricity-rate-changes-2026 | Massachusetts Electricity Rates and Solar | 2026-09-30 | electric-rates | published | massachusetts electricity rates | /rates/massachusetts/
-michigan-electricity-rate-changes-2026 | Michigan Electricity Rates and Solar | 2026-09-30 | electric-rates | published | michigan electricity rates | /rates/michigan/
-new-jersey-electricity-rate-changes-2026 | New Jersey Electricity Rates and Solar | 2026-09-30 | electric-rates | published | new jersey electricity rates | /rates/new-jersey/
-new-york-electricity-rate-changes-2026 | New York Electricity Rates and Solar | 2026-09-30 | electric-rates | published | new york electricity rates | /rates/new-york/
-ohio-electricity-rate-changes-2026 | Ohio Electricity Rates and Solar | 2026-09-30 | electric-rates | published | ohio electricity rates | /rates/ohio/
-pennsylvania-electricity-rate-changes-2026 | Pennsylvania Electricity Rates and Solar | 2026-09-30 | electric-rates | published | pennsylvania electricity rates | /rates/pennsylvania/
+california-electricity-rate-changes-2026 | California Electricity Rates and Solar | 2026-09-30 | electric-rates | published | california electricity rates | /posts/california-electricity-rate-changes-2026/
+florida-electricity-rate-changes-2026 | Florida Electricity Rates and Solar | 2026-09-30 | electric-rates | published | florida electricity rates | /posts/florida-electricity-rate-changes-2026/
+illinois-electricity-rate-changes-2026 | Illinois Electricity Rates and Solar | 2026-09-30 | electric-rates | published | illinois electricity rates | /posts/illinois-electricity-rate-changes-2026/
+massachusetts-electricity-rate-changes-2026 | Massachusetts Electricity Rates and Solar | 2026-09-30 | electric-rates | published | massachusetts electricity rates | /posts/massachusetts-electricity-rate-changes-2026/
+michigan-electricity-rate-changes-2026 | Michigan Electricity Rates and Solar | 2026-09-30 | electric-rates | published | michigan electricity rates | /posts/michigan-electricity-rate-changes-2026/
+new-jersey-electricity-rate-changes-2026 | New Jersey Electricity Rates and Solar | 2026-09-30 | electric-rates | published | new jersey electricity rates | /posts/new-jersey-electricity-rate-changes-2026/
+new-york-electricity-rate-changes-2026 | New York Electricity Rates and Solar | 2026-09-30 | electric-rates | published | new york electricity rates | /posts/new-york-electricity-rate-changes-2026/
+ohio-electricity-rate-changes-2026 | Ohio Electricity Rates and Solar | 2026-09-30 | electric-rates | published | ohio electricity rates | /posts/ohio-electricity-rate-changes-2026/
+pennsylvania-electricity-rate-changes-2026 | Pennsylvania Electricity Rates and Solar | 2026-09-30 | electric-rates | published | pennsylvania electricity rates | /posts/pennsylvania-electricity-rate-changes-2026/
 test-heat-pump-solar-sizing-guide | Adding a heat pump? Here's how much bigger your solar system needs to be | 2026-09-30 | equipment | draft | test heat pump solar sizing guide | /posts/test-heat-pump-solar-sizing-guide/
-texas-electricity-rate-changes-2026 | Texas Electricity Rates and Solar | 2026-09-30 | electric-rates | published | texas electricity rates | /rates/texas/
+texas-electricity-rate-changes-2026 | Texas Electricity Rates and Solar | 2026-09-30 | electric-rates | published | texas electricity rates | /posts/texas-electricity-rate-changes-2026/
 columbia-missouri-electric-rates-october-2026 | Columbia, Missouri Raises Electric Usage Fees 6% Starting October 1, 2026 | 2026-10-02 | news | published | columbia missouri electric rates october 2026 | /posts/columbia-missouri-electric-rates-october-2026/
 eia-residential-price-forecast-sept-2026 | EIA: U.S. Residential Electricity Prices Forecast to Average 18.2¢/kWh in 2026 | 2026-10-02 | news | published | eia residential price forecast sept 2026 | /posts/eia-residential-price-forecast-sept-2026/
 energysage-h1-2026-solar-market-report | Home Solar Prices Edged Up 3% in the First Half of 2026, EnergySage Reports | 2026-10-02 | news | published | energysage h1 2026 solar market report | /posts/energysage-h1-2026-solar-market-report/
 oge-files-oklahoma-rate-case-2026 | OG&E Asks Oklahoma Regulators for a Base Rate Increase | 2026-10-02 | news | published | oge files oklahoma rate case 2026 | /posts/oge-files-oklahoma-rate-case-2026/
-georgia-electricity-rate-changes-2026 | Georgia Electricity Rates and Solar | 2026-10-03 | electric-rates | published | georgia electricity rates | /rates/georgia/
+georgia-electricity-rate-changes-2026 | Georgia Electricity Rates and Solar | 2026-10-03 | electric-rates | published | georgia electricity rates | /posts/georgia-electricity-rate-changes-2026/
 how-to-read-your-electric-bill | How to Read Your Electric Bill: Supply, Delivery, Fixed Charges and Riders Explained | 2026-10-03 | electric-rates | published | how to read your electric bill | /posts/how-to-read-your-electric-bill/
-alabama-electricity-rate-changes-2026 | Alabama Electricity Rates and Solar | 2026-10-04 | electric-rates | published | alabama electricity rates | /rates/alabama/
-alaska-electricity-rate-changes-2026 | Alaska Electricity Rates and Solar | 2026-10-04 | electric-rates | published | alaska electricity rates | /rates/alaska/
-arizona-electricity-rate-changes-2026 | Arizona Electricity Rates and Solar | 2026-10-04 | electric-rates | published | arizona electricity rates | /rates/arizona/
-arkansas-electricity-rate-changes-2026 | Arkansas Electricity Rates and Solar | 2026-10-04 | electric-rates | published | arkansas electricity rates | /rates/arkansas/
-colorado-electricity-rate-changes-2026 | Colorado Electricity Rates and Solar | 2026-10-04 | electric-rates | published | colorado electricity rates | /rates/colorado/
-connecticut-electricity-rate-changes-2026 | Connecticut Electricity Rates and Solar | 2026-10-04 | electric-rates | published | connecticut electricity rates | /rates/connecticut/
-delaware-electricity-rate-changes-2026 | Delaware Electricity Rates and Solar | 2026-10-04 | electric-rates | published | delaware electricity rates | /rates/delaware/
-hawaii-electricity-rate-changes-2026 | Hawaii Electricity Rates and Solar | 2026-10-04 | electric-rates | published | hawaii electricity rates | /rates/hawaii/
-idaho-electricity-rate-changes-2026 | Idaho Electricity Rates and Solar | 2026-10-04 | electric-rates | published | idaho electricity rates | /rates/idaho/
-indiana-electricity-rate-changes-2026 | Indiana Electricity Rates and Solar | 2026-10-04 | electric-rates | published | indiana electricity rates | /rates/indiana/
-iowa-electricity-rate-changes-2026 | Iowa Electricity Rates and Solar | 2026-10-04 | electric-rates | published | iowa electricity rates | /rates/iowa/
-kansas-electricity-rate-changes-2026 | Kansas Electricity Rates and Solar | 2026-10-04 | electric-rates | published | kansas electricity rates | /rates/kansas/
-kentucky-electricity-rate-changes-2026 | Kentucky Electricity Rates and Solar | 2026-10-04 | electric-rates | published | kentucky electricity rates | /rates/kentucky/
-louisiana-electricity-rate-changes-2026 | Louisiana Electricity Rates and Solar | 2026-10-04 | electric-rates | published | louisiana electricity rates | /rates/louisiana/
-maine-electricity-rate-changes-2026 | Maine Electricity Rates and Solar | 2026-10-04 | electric-rates | published | maine electricity rates | /rates/maine/
-maryland-electricity-rate-changes-2026 | Maryland Electricity Rates and Solar | 2026-10-04 | electric-rates | published | maryland electricity rates | /rates/maryland/
-minnesota-electricity-rate-changes-2026 | Minnesota Electricity Rates and Solar | 2026-10-04 | electric-rates | published | minnesota electricity rates | /rates/minnesota/
-mississippi-electricity-rate-changes-2026 | Mississippi Electricity Rates and Solar | 2026-10-04 | electric-rates | published | mississippi electricity rates | /rates/mississippi/
-missouri-electricity-rate-changes-2026 | Missouri Electricity Rates and Solar | 2026-10-04 | electric-rates | published | missouri electricity rates | /rates/missouri/
-montana-electricity-rate-changes-2026 | Montana Electricity Rates and Solar | 2026-10-04 | electric-rates | published | montana electricity rates | /rates/montana/
-nebraska-electricity-rate-changes-2026 | Nebraska Electricity Rates and Solar | 2026-10-04 | electric-rates | published | nebraska electricity rates | /rates/nebraska/
-nevada-electricity-rate-changes-2026 | Nevada Electricity Rates and Solar | 2026-10-04 | electric-rates | published | nevada electricity rates | /rates/nevada/
-new-hampshire-electricity-rate-changes-2026 | New Hampshire Electricity Rates and Solar | 2026-10-04 | electric-rates | published | new hampshire electricity rates | /rates/new-hampshire/
-new-mexico-electricity-rate-changes-2026 | New Mexico Electricity Rates and Solar | 2026-10-04 | electric-rates | published | new mexico electricity rates | /rates/new-mexico/
-north-carolina-electricity-rate-changes-2026 | North Carolina Electricity Rates and Solar | 2026-10-04 | electric-rates | published | north carolina electricity rates | /rates/north-carolina/
-north-dakota-electricity-rate-changes-2026 | North Dakota Electricity Rates and Solar | 2026-10-04 | electric-rates | published | north dakota electricity rates | /rates/north-dakota/
-oklahoma-electricity-rate-changes-2026 | Oklahoma Electricity Rates and Solar | 2026-10-04 | electric-rates | published | oklahoma electricity rates | /rates/oklahoma/
-oregon-electricity-rate-changes-2026 | Oregon Electricity Rates and Solar | 2026-10-04 | electric-rates | published | oregon electricity rates | /rates/oregon/
-rhode-island-electricity-rate-changes-2026 | Rhode Island Electricity Rates and Solar | 2026-10-04 | electric-rates | published | rhode island electricity rates | /rates/rhode-island/
+alabama-electricity-rate-changes-2026 | Alabama Electricity Rates and Solar | 2026-10-04 | electric-rates | published | alabama electricity rates | /posts/alabama-electricity-rate-changes-2026/
+alaska-electricity-rate-changes-2026 | Alaska Electricity Rates and Solar | 2026-10-04 | electric-rates | published | alaska electricity rates | /posts/alaska-electricity-rate-changes-2026/
+arizona-electricity-rate-changes-2026 | Arizona Electricity Rates and Solar | 2026-10-04 | electric-rates | published | arizona electricity rates | /posts/arizona-electricity-rate-changes-2026/
+arkansas-electricity-rate-changes-2026 | Arkansas Electricity Rates and Solar | 2026-10-04 | electric-rates | published | arkansas electricity rates | /posts/arkansas-electricity-rate-changes-2026/
+colorado-electricity-rate-changes-2026 | Colorado Electricity Rates and Solar | 2026-10-04 | electric-rates | published | colorado electricity rates | /posts/colorado-electricity-rate-changes-2026/
+connecticut-electricity-rate-changes-2026 | Connecticut Electricity Rates and Solar | 2026-10-04 | electric-rates | published | connecticut electricity rates | /posts/connecticut-electricity-rate-changes-2026/
+delaware-electricity-rate-changes-2026 | Delaware Electricity Rates and Solar | 2026-10-04 | electric-rates | published | delaware electricity rates | /posts/delaware-electricity-rate-changes-2026/
+hawaii-electricity-rate-changes-2026 | Hawaii Electricity Rates and Solar | 2026-10-04 | electric-rates | published | hawaii electricity rates | /posts/hawaii-electricity-rate-changes-2026/
+idaho-electricity-rate-changes-2026 | Idaho Electricity Rates and Solar | 2026-10-04 | electric-rates | published | idaho electricity rates | /posts/idaho-electricity-rate-changes-2026/
+indiana-electricity-rate-changes-2026 | Indiana Electricity Rates and Solar | 2026-10-04 | electric-rates | published | indiana electricity rates | /posts/indiana-electricity-rate-changes-2026/
+iowa-electricity-rate-changes-2026 | Iowa Electricity Rates and Solar | 2026-10-04 | electric-rates | published | iowa electricity rates | /posts/iowa-electricity-rate-changes-2026/
+kansas-electricity-rate-changes-2026 | Kansas Electricity Rates and Solar | 2026-10-04 | electric-rates | published | kansas electricity rates | /posts/kansas-electricity-rate-changes-2026/
+kentucky-electricity-rate-changes-2026 | Kentucky Electricity Rates and Solar | 2026-10-04 | electric-rates | published | kentucky electricity rates | /posts/kentucky-electricity-rate-changes-2026/
+louisiana-electricity-rate-changes-2026 | Louisiana Electricity Rates and Solar | 2026-10-04 | electric-rates | published | louisiana electricity rates | /posts/louisiana-electricity-rate-changes-2026/
+maine-electricity-rate-changes-2026 | Maine Electricity Rates and Solar | 2026-10-04 | electric-rates | published | maine electricity rates | /posts/maine-electricity-rate-changes-2026/
+maryland-electricity-rate-changes-2026 | Maryland Electricity Rates and Solar | 2026-10-04 | electric-rates | published | maryland electricity rates | /posts/maryland-electricity-rate-changes-2026/
+minnesota-electricity-rate-changes-2026 | Minnesota Electricity Rates and Solar | 2026-10-04 | electric-rates | published | minnesota electricity rates | /posts/minnesota-electricity-rate-changes-2026/
+mississippi-electricity-rate-changes-2026 | Mississippi Electricity Rates and Solar | 2026-10-04 | electric-rates | published | mississippi electricity rates | /posts/mississippi-electricity-rate-changes-2026/
+missouri-electricity-rate-changes-2026 | Missouri Electricity Rates and Solar | 2026-10-04 | electric-rates | published | missouri electricity rates | /posts/missouri-electricity-rate-changes-2026/
+montana-electricity-rate-changes-2026 | Montana Electricity Rates and Solar | 2026-10-04 | electric-rates | published | montana electricity rates | /posts/montana-electricity-rate-changes-2026/
+nebraska-electricity-rate-changes-2026 | Nebraska Electricity Rates and Solar | 2026-10-04 | electric-rates | published | nebraska electricity rates | /posts/nebraska-electricity-rate-changes-2026/
+nevada-electricity-rate-changes-2026 | Nevada Electricity Rates and Solar | 2026-10-04 | electric-rates | published | nevada electricity rates | /posts/nevada-electricity-rate-changes-2026/
+new-hampshire-electricity-rate-changes-2026 | New Hampshire Electricity Rates and Solar | 2026-10-04 | electric-rates | published | new hampshire electricity rates | /posts/new-hampshire-electricity-rate-changes-2026/
+new-mexico-electricity-rate-changes-2026 | New Mexico Electricity Rates and Solar | 2026-10-04 | electric-rates | published | new mexico electricity rates | /posts/new-mexico-electricity-rate-changes-2026/
+north-carolina-electricity-rate-changes-2026 | North Carolina Electricity Rates and Solar | 2026-10-04 | electric-rates | published | north carolina electricity rates | /posts/north-carolina-electricity-rate-changes-2026/
+north-dakota-electricity-rate-changes-2026 | North Dakota Electricity Rates and Solar | 2026-10-04 | electric-rates | published | north dakota electricity rates | /posts/north-dakota-electricity-rate-changes-2026/
+oklahoma-electricity-rate-changes-2026 | Oklahoma Electricity Rates and Solar | 2026-10-04 | electric-rates | published | oklahoma electricity rates | /posts/oklahoma-electricity-rate-changes-2026/
+oregon-electricity-rate-changes-2026 | Oregon Electricity Rates and Solar | 2026-10-04 | electric-rates | published | oregon electricity rates | /posts/oregon-electricity-rate-changes-2026/
+rhode-island-electricity-rate-changes-2026 | Rhode Island Electricity Rates and Solar | 2026-10-04 | electric-rates | published | rhode island electricity rates | /posts/rhode-island-electricity-rate-changes-2026/
 solar-payback-period-without-federal-tax-credit | Solar Payback Period in 2026: How to Calculate It Without the Federal Tax Credit | 2026-10-04 | costs-incentives | published | solar payback period without federal tax credit | /posts/solar-payback-period-without-federal-tax-credit/
-south-carolina-electricity-rate-changes-2026 | South Carolina Electricity Rates and Solar | 2026-10-04 | electric-rates | published | south carolina electricity rates | /rates/south-carolina/
-south-dakota-electricity-rate-changes-2026 | South Dakota Electricity Rates and Solar | 2026-10-04 | electric-rates | published | south dakota electricity rates | /rates/south-dakota/
-tennessee-electricity-rate-changes-2026 | Tennessee Electricity Rates and Solar | 2026-10-04 | electric-rates | published | tennessee electricity rates | /rates/tennessee/
-utah-electricity-rate-changes-2026 | Utah Electricity Rates and Solar | 2026-10-04 | electric-rates | published | utah electricity rates | /rates/utah/
-vermont-electricity-rate-changes-2026 | Vermont Electricity Rates and Solar | 2026-10-04 | electric-rates | published | vermont electricity rates | /rates/vermont/
-virginia-electricity-rate-changes-2026 | Virginia Electricity Rates and Solar | 2026-10-04 | electric-rates | published | virginia electricity rates | /rates/virginia/
-washington-electricity-rate-changes-2026 | Washington Electricity Rates and Solar | 2026-10-04 | electric-rates | published | washington electricity rates | /rates/washington/
-west-virginia-electricity-rate-changes-2026 | West Virginia Electricity Rates and Solar | 2026-10-04 | electric-rates | published | west virginia electricity rates | /rates/west-virginia/
-wisconsin-electricity-rate-changes-2026 | Wisconsin Electricity Rates and Solar | 2026-10-04 | electric-rates | published | wisconsin electricity rates | /rates/wisconsin/
-wyoming-electricity-rate-changes-2026 | Wyoming Electricity Rates and Solar | 2026-10-04 | electric-rates | published | wyoming electricity rates | /rates/wyoming/
+south-carolina-electricity-rate-changes-2026 | South Carolina Electricity Rates and Solar | 2026-10-04 | electric-rates | published | south carolina electricity rates | /posts/south-carolina-electricity-rate-changes-2026/
+south-dakota-electricity-rate-changes-2026 | South Dakota Electricity Rates and Solar | 2026-10-04 | electric-rates | published | south dakota electricity rates | /posts/south-dakota-electricity-rate-changes-2026/
+tennessee-electricity-rate-changes-2026 | Tennessee Electricity Rates and Solar | 2026-10-04 | electric-rates | published | tennessee electricity rates | /posts/tennessee-electricity-rate-changes-2026/
+utah-electricity-rate-changes-2026 | Utah Electricity Rates and Solar | 2026-10-04 | electric-rates | published | utah electricity rates | /posts/utah-electricity-rate-changes-2026/
+vermont-electricity-rate-changes-2026 | Vermont Electricity Rates and Solar | 2026-10-04 | electric-rates | published | vermont electricity rates | /posts/vermont-electricity-rate-changes-2026/
+virginia-electricity-rate-changes-2026 | Virginia Electricity Rates and Solar | 2026-10-04 | electric-rates | published | virginia electricity rates | /posts/virginia-electricity-rate-changes-2026/
+washington-electricity-rate-changes-2026 | Washington Electricity Rates and Solar | 2026-10-04 | electric-rates | published | washington electricity rates | /posts/washington-electricity-rate-changes-2026/
+west-virginia-electricity-rate-changes-2026 | West Virginia Electricity Rates and Solar | 2026-10-04 | electric-rates | published | west virginia electricity rates | /posts/west-virginia-electricity-rate-changes-2026/
+wisconsin-electricity-rate-changes-2026 | Wisconsin Electricity Rates and Solar | 2026-10-04 | electric-rates | published | wisconsin electricity rates | /posts/wisconsin-electricity-rate-changes-2026/
+wyoming-electricity-rate-changes-2026 | Wyoming Electricity Rates and Solar | 2026-10-04 | electric-rates | published | wyoming electricity rates | /posts/wyoming-electricity-rate-changes-2026/
 electricity-prices-by-state-july-2026 | Electricity Prices by State, July 2026: Where Residential Rates Rose Most | 2026-10-05 | news | published | electricity prices by state july 2026 | /posts/electricity-prices-by-state-july-2026/
 solar-export-credit-rates-by-utility-2026 | Solar Export Credit Rates in 2026: What 10 Utilities Pay for Power You Send to the Grid | 2026-10-05 | costs-incentives | published | solar export credit rates by utility 2026 | /posts/solar-export-credit-rates-by-utility-2026/
 how-to-compare-solar-quotes | How to Compare Solar Quotes in 2026: 8 Numbers to Check on Every Proposal | 2026-10-06 | costs-incentives | published | how to compare solar quotes | /posts/how-to-compare-solar-quotes/

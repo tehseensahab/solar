@@ -12,6 +12,6 @@ Checked November 1, 2026. Byline John Marshall. Independent fact-check by a sepa
 - Not verified/removed: "first rate increase since 2025" (removed before check); Dominion 2026 reference; "most utilities" comparison.
 - Limitations: final 2027/2028 RG per-unit charges and the final Distributed Generation Rider not opened; 2028 residential step described by Santee Cooper as "proposed" on one page and approved in its news headline.
 - Pre-publish recheck (Nov. 1): residential page still shows Oct. 30, 2026 approval and Feb. 1, 2027 effective date.
-- State term: South Carolina; in-body hub link /rates/south-carolina/ in paragraph 2 (anchor "South Carolina electricity rates and solar guide"; prior anchors were "South Carolina"). Hub: data/states/south-carolina.yaml utilities row and "What this means" paragraph updated with Santee Cooper, sources added, refreshed bumped to 2026-11-01; hub intro sentence now links the report.
+- State term: South Carolina; in-body hub link /posts/south-carolina-electricity-rate-changes-2026/ in paragraph 2 (anchor "South Carolina electricity rates and solar guide"; prior anchors were "South Carolina"). Hub: data/states/south-carolina.yaml utilities row and "What this means" paragraph updated with Santee Cooper, sources added, refreshed bumped to 2026-11-01; hub intro sentence now links the report.
 
 COVER: Unsplash photo wQ1Ua2AIqNc (Alexey Demidov), free Unsplash License.

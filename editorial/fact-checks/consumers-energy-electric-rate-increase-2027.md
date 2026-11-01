@@ -13,6 +13,6 @@ Checked October 30, 2026. Byline John Marshall. Independent fact-check by a sepa
 - Arithmetic recomputed: 13/155 = 8.4%; 47% of $456M = $214M; 276.6/436 = 63%; 63% of $456M ~ $290M; $168/month; $156/year. VERIFIED; labeled as illustrations.
 - Fixes applied: removed "MPSC usually approves less than requested" (one case only); "utility rounded it" -> news coverage rounded; removed "the part of the bill most rate cases raise"; export credit sentence narrowed to distribution charges; "technology to spot and respond faster" -> "new grid technology"; "second increase" now "If approved"; above-average-use line now "generally ... depending on rate design"; added gas and comment rows to the public Sources table.
 - Limitations: MPSC e-docket filings for U-22070 not opened; no staff position or kWh basis for the $155 bill found.
-- State term: Michigan; in-body hub link /rates/michigan/ in paragraph 2 (anchor "how DTE and Consumers rates have changed in Michigan this year"). Hub updated: pending Consumers row now shows $456M request and 9.8%; What Happens Next bullet; lastmod 2026-10-30; two AG sources added.
+- State term: Michigan; in-body hub link /posts/michigan-electricity-rate-changes-2026/ in paragraph 2 (anchor "how DTE and Consumers rates have changed in Michigan this year"). Hub updated: pending Consumers row now shows $456M request and 9.8%; What Happens Next bullet; lastmod 2026-10-30; two AG sources added.
 
 COVER: Unsplash photo 88Chc9OJ3sg (Alivia Alva), free Unsplash License.

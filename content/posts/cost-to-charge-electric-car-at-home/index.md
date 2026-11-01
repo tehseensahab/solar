@@ -78,7 +78,7 @@ Rates vary far more than car efficiency. These examples use EIA's August 2026 st
 | California | 29.75 | $104.13 |
 | Hawaii | 47.18 | $165.13 |
 
-State averages blend every utility in the state, and EIA's monthly figures are preliminary. Our state rate pages, such as [California](/rates/california/), break down what is changing at individual utilities.
+State averages blend every utility in the state, and EIA's monthly figures are preliminary. Our state rate pages, such as [California](/posts/california-electricity-rate-changes-2026/), break down what is changing at individual utilities.
 
 ## EV Charging vs. Gasoline
 

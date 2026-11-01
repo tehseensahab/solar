@@ -12,6 +12,6 @@ Checked October 21, 2026. Byline Craig Leslie. Independent fact-check by a separ
 - REWRITTEN: Nov. 18 attribution (GCN, not WMAR); multi-year plan point re-attributed to OPC; dropped "compared with BGE's request" baseline; FlexPay link to OPC objection attributed to GCN; noted rounded-rate division gives slightly more than 17%.
 - REMOVED: nothing.
 - Freshness: newest primary evidence is the PSC hearing release (Oct. 2) and OPC testimony (Sept. 22-24); in-window news coverage Oct. 10 and Oct. 17. News hook is the Oct. 22 registration deadline and Oct. 26 hearing.
-- State term: Maryland; hub link /rates/maryland/ in paragraph 2. Hub updated (BGE detail, meaning paragraph, refreshed 2026-10-21).
+- State term: Maryland; hub link /posts/maryland-electricity-rate-changes-2026/ in paragraph 2. Hub updated (BGE detail, meaning paragraph, refreshed 2026-10-21).
 
 COVER: Unsplash photo k_-KlaENC-Q (Alexander Schimmeck).

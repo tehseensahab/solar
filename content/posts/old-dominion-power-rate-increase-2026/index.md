@@ -30,7 +30,7 @@ faq:
 
 Old Dominion Power has asked Virginia regulators for a base rate increase that would raise a typical residential bill by about 23%. For a home using 1,000 kWh a month, the requested rates add $36.66, taking the bill from $156.46 to $193.12. This is a request. The State Corporation Commission (SCC) has not ruled, its staff has recommended a smaller increase, and a public hearing begins November 12, 2026.
 
-Old Dominion Power is the Virginia name of Kentucky Utilities Company. It serves about 28,000 customers in Dickenson, Lee, Russell, Scott and Wise counties. It is a different company from Dominion Energy Virginia and Appalachian Power, whose rates we track on our [Virginia electricity rates and solar page](/rates/virginia/).
+Old Dominion Power is the Virginia name of Kentucky Utilities Company. It serves about 28,000 customers in Dickenson, Lee, Russell, Scott and Wise counties. It is a different company from Dominion Energy Virginia and Appalachian Power, whose rates we track on our [Virginia electricity rates and solar page](/posts/virginia-electricity-rate-changes-2026/).
 
 ## The Request at a Glance
 

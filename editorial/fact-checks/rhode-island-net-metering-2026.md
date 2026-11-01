@@ -12,6 +12,6 @@ Checked October 22, 2026. Byline John Marshall. Independent fact-check by a sepa
 - Calculations: $11.09, $6.59, $7.18; cuts 40.6% and 35.3%. VERIFIED.
 - REMOVED: unsourced line that Pascoag, Block Island and Clear River customers are excluded. "Most home systems" softened to "typical home systems". "Earn something rather than nothing" rewritten to cite Schedule C eligibility language.
 - Freshness: newest primary evidence is the Division memo (Oct. 8) and intervenor memos (Oct. 7–8); news hook Nov. 16 comment deadline.
-- State term: Rhode Island; hub link /rates/rhode-island/ in paragraph 2. Hub net metering text updated to note the pending docket (refreshed 2026-10-22).
+- State term: Rhode Island; hub link /posts/rhode-island-electricity-rate-changes-2026/ in paragraph 2. Hub net metering text updated to note the pending docket (refreshed 2026-10-22).
 
 COVER: Unsplash photo Ja8t8nJN2I4 (Watt A Lot).

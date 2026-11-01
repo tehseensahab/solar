@@ -1,13 +1,10 @@
 ---
-title: "Arkansas Electricity Rates and Solar"
-detailTitle: "Arkansas Electricity Rate Changes: What Changed in 2026 and What's Next"
-url: "/rates/arkansas/"
+title: "Arkansas Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Three transmission towers and a single tree on a green hillside under a clear blue sky."
 imageCredit: "Photo by Spencer DeMera on [Unsplash](https://unsplash.com/photos/a-green-hillside-with-power-lines-and-a-single-tree-2dubeOplsqM?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
-layout: "state-hub"
 states: ["Arkansas"]
 description: "Entergy Arkansas bills have risen in steps during 2026, including a new rider for power plant construction that adds about $4.22 a month at 1,000 kWh from June. A further small increase is requested for January 2027."
 readtime: "4 min read"
@@ -19,10 +16,6 @@ takeaways:
   - "A separate general rate filing asks for about $1.16 a month more at 1,000 kWh from January 2027."
   - "A local report said rates also rose about $6 a month in January 2026 after regulators approved a 4.54% increase."
 faq:
-  - q: "Is solar worth it in Arkansas?"
-    a: "For new systems it depends on how much you use during daylight. Since Act 278, surplus earns avoided cost and credits no longer bank month to month, so a system sized to daytime use is worth far more per panel than one built to cancel the annual bill."
-  - q: "What is the average electricity rate in Arkansas?"
-    a: "EIA puts the statewide residential average at {rate} in {month}, against {prev} in {prev_month}. The U.S. average was {us}."
   - q: "Did Arkansas electric rates change on October 1, 2026?"
     a: "We found no change on that date for Entergy Arkansas. Its 2026 changes came in January and June."
   - q: "What is the Generating Arkansas Jobs Act rider?"
@@ -97,7 +90,7 @@ Figures come from Talk Business & Politics and a newspaper headline. We did not 
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Arkansas's average residential price at 14.37¢/kWh in August 2026, up 7.8% from 13.33¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $143.70 (1,000 × 14.37¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Louisiana](/rates/louisiana/), [Missouri](/rates/missouri/), [Oklahoma](/rates/oklahoma/), [Tennessee](/rates/tennessee/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Louisiana](/posts/louisiana-electricity-rate-changes-2026/), [Missouri](/posts/missouri-electricity-rate-changes-2026/), [Oklahoma](/posts/oklahoma-electricity-rate-changes-2026/), [Tennessee](/posts/tennessee-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 
