@@ -128,3 +128,5 @@ consumers-energy-electric-rate-increase-2027 | Consumers Energy Rate Increase 20
 how-many-solar-panels-do-i-need | How Many Solar Panels Do I Need? A 3-Step Method | 2026-10-30 | equipment | published | how many solar panels do i need | /posts/how-many-solar-panels-do-i-need/
 we-energies-rate-increase-2027 | We Energies Rate Increase 2027: $14.67 a Month Requested | 2026-10-31 | news | published | we energies rate increase 2027 | /posts/we-energies-rate-increase-2027/
 cost-to-charge-electric-car-at-home | Cost to Charge an Electric Car at Home in 2026 | 2026-10-31 | electric-rates | published | cost to charge electric car at home | /posts/cost-to-charge-electric-car-at-home/
+santee-cooper-rate-increase-2027 | Santee Cooper Rate Increase 2027: 4.7% for Homes Approved | 2026-11-01 | news | published | santee cooper rate increase 2027 | /posts/santee-cooper-rate-increase-2027/
+kw-vs-kwh | kW vs kWh: What Each Means on Your Bill and Solar Quote | 2026-11-01 | electric-rates | published | kw vs kwh | /posts/kw-vs-kwh/
