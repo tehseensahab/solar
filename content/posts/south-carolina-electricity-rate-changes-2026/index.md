@@ -35,7 +35,7 @@ faq:
 
 South Carolina did not have an October 1, 2026 rate change that we could find. The state's main 2026 change is Dominion Energy South Carolina's rate increase, which regulators approved and which took effect in July.
 
-This article covers Dominion Energy South Carolina, which serves more than 820,000 households. It does not cover Duke Energy's two South Carolina utilities, Santee Cooper or the electric cooperatives.
+This article covers Dominion Energy South Carolina, which serves more than 820,000 households. It does not cover Duke Energy's two South Carolina utilities or the electric cooperatives. For Santee Cooper's newly approved 2027 increase, see our [Santee Cooper rate report](/posts/santee-cooper-rate-increase-2027/).
 
 ## Quick Summary
 

@@ -3,7 +3,7 @@ slug: south-carolina
 abbr: SC
 region: South
 neighbors: [georgia, north-carolina, florida]
-refreshed: 2026-10-28
+refreshed: 2026-11-01
 policy_checked: 2026-10-18
 guides: [time-of-use-rates-and-solar, fixed-charges-and-solar-savings]
 
@@ -39,7 +39,9 @@ net_metering:
 utilities:
   - name: Dominion Energy South Carolina (more than 820,000 households)
     detail: "7.6% increase ($207 million a year) approved in Docket 2025-325-E, effective first July 2026 billing cycle; about +$12 a month at 1,000 kWh. Rate 8: $0.36164 a day basic facilities charge, 15.878¢/kWh for the first 800 kWh, 17.442¢ above 800 in summer and 15.253¢ in winter."
-  - name: Duke Energy Carolinas and Duke Energy Progress (South Carolina), Santee Cooper, co-ops
+  - name: Santee Cooper (state-owned)
+    detail: "Board approved new rates Oct. 30, 2026: residential base rates +4.7% on bills rendered on or after Feb. 1, 2027 (about +$6.60 a month for a typical home, per Santee Cooper), with a 4.6% residential step for Feb. 2028 that Santee Cooper still calls proposed. The demand charge moves to Balanced Demand Billing, an average of the four highest monthly peaks. See our [Santee Cooper 2027 rate report](/posts/santee-cooper-rate-increase-2027/)."
+  - name: Duke Energy Carolinas and Duke Energy Progress (South Carolina), co-ops
     detail: "Separate rates; not covered in our research."
 
 meaning: |-
@@ -50,8 +52,19 @@ meaning: |-
   1,000 kWh home pays about $4.37 less in a winter month than a summer one by our math. Fixed charges matter for solar
   owners too; see our [fixed-charge guide](/posts/fixed-charges-and-solar-savings/).
 
+  Santee Cooper customers face a different change. Its board approved a 4.7% residential base-rate increase on Oct. 30,
+  2026, about $6.60 a month for a typical home on bills from Feb. 1, 2027, according to the utility. Its residential
+  rate also carries a demand charge per kW, which from 2027 will be billed on the average of the four highest peak
+  periods in the month rather than the single highest hour. For solar owners there, the peak windows (6 to 9 a.m. in
+  winter, 3 to 6 p.m. in summer, as proposed) matter as much as total kWh. Details are in our
+  [Santee Cooper 2027 rate increase report](/posts/santee-cooper-rate-increase-2027/).
+
 
 sources:
+  - title: "Santee Cooper, residential rate changes (2026 rate study)"
+    url: "https://www.santeecooper.com/rates/rate-study/residential/"
+  - title: "Santee Cooper, 2026 rate study"
+    url: "https://www.santeecooper.com/Rates/Rate-Study/"
   - title: "Dominion Energy South Carolina, Electric Rates Change bill insert, July 2026"
     url: "https://cdn-dominionenergy-prd-001.azureedge.net/-/media/content/paying-my-bill/billing-inserts/pdfs/south-carolina/2026/07-jul/2026-07-desc-electric-rates-change.pdf?rev=a53e2b0cfef34514a2ff0e6632f7f6ab&hash=6E3FAE26B130B690CC9833EC9650F57A"
   - title: "Dominion Energy South Carolina, Solar Choice rider to Rate 5"
