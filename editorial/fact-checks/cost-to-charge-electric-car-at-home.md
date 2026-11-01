@@ -11,6 +11,6 @@ Checked October 31, 2026. Byline John Marshall. Independent fact-check by the sa
 - We Energies 2026 brochure (re-fetched): Rg1 $0.19342; Rg2 $0.10028 / $0.30084. VERIFIED.
 - Arithmetic recomputed: $45.40/$63.56/$90.80; states $45.05/$67.94/$104.13/$165.13; gas $156.95, $0.157/mi; 2.47x; break-even 44.8c; $10.90; 6.7 h / 1.3 h; $67.70 vs $35.10; 4,200 kWh/yr. VERIFIED.
 - Fixes applied: gas math line uses unrounded gallons; AFDC TOU quote completed; Level 1 and electrician lines now verbatim; removed "most owners top up daily"; "large SUV or pickup" -> "large SUV"; "sharply" -> "lower".
-- No state hub link required (national guide); internal links to /rates-by-state/, /rates/california/, calculators and charger guides.
+- No state hub link required (national guide); internal links to /rates-by-state/, /posts/california-electricity-rate-changes-2026/, calculators and charger guides.
 
 COVER: Unsplash photo Lv-vzrhjybE (go-e), free Unsplash License.

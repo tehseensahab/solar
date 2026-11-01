@@ -16,15 +16,16 @@ Needs Python 3 with `pyyaml` and `openpyxl`, `curl`, and Hugo extended (producti
    - the three calculator pages (month labels, U.S. rate, EV worked example, payback table)
    If the index page cannot be read, pass `--released YYYY-MM-DD`. If curl is blocked, WebFetch the table and stop
    if it lacks any state. Never use third-party copies.
-4. `python3 scripts/refresh.py audit`. Read every sentence it prints against the facts at the top (lowest/highest, decliners,
-   above/below U.S.) and fix state `summary` text that is no longer true. Examples from October 2026: "lowest of the 50
-   states" changed hands, "one of a few decliners" became "one of seven".
-   Stale month labels it lists are either dated articles (add the path to `scripts/refresh_ignore.txt`) or text to update.
-5. `python3 scripts/refresh.py due`. Only states it lists need a policy recheck (step 6). If it lists none, skip step 6.
-6. Policy recheck (only the states from step 5, and only the items named there). See "Brief for research agents".
-   Change text only for confirmed changes with a primary source and date, then set `policy_checked:` to today in that state.
-7. Build with `hugo --minify` (zero errors). Spot-check the three biggest movers in `public/posts/<state>-electricity-rate-changes-2026/`: numbers match
-   the data, chart `<svg>` present, exactly one FAQPage JSON-LD.
+4. `python3 scripts/refresh.py audit`. Only its stale-month-label list matters now: each listed file is either a dated
+   article (add the path to `scripts/refresh_ignore.txt`) or text to update. Ignore what it prints about state `summary`,
+   `rate_note`, `solar` or `meaning` in `data/states/`: since the Nov 1, 2026 revert those fields are not shown on the site.
+5. Skip `refresh.py due` and policy rechecks of `data/states/` (unused since the revert). Policy news for a state goes
+   into a daily article instead.
+6. PROTECTED PAGES: never change the URL, slug, title, description, layout or front matter `url`/`layout`/`aliases` of
+   any state page or other existing post, and never edit `static/_redirects`, `layouts/`, `hugo.toml` or the sitemap
+   template. The 50 state pages stay at `/posts/<state>-electricity-rate-changes-2026/`.
+7. Build with `hugo --minify` (zero errors). Spot-check the three biggest movers in `public/posts/<state>-electricity-rate-changes-2026/`:
+   the "Statewide average for context" paragraph matches the data, the title is unchanged, exactly one FAQPage JSON-LD.
 8. Push the branch. Merge to `main` only when asked (Cloudflare Pages builds every push to `main`).
 
 ## State file fields that drive rechecks
