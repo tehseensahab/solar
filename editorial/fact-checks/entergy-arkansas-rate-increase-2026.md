@@ -12,6 +12,6 @@ Checked October 24, 2026. Byline Craig Leslie. Independent fact-check by a separ
 - "First full rate case since 2015" -> attributed to SREA ("in a decade"). Irrigation ~12% attributed to AAEA. "Raised rates" -> "adjusted rates".
 - GAJA rider: "started" -> "filed to start with June 2026 bills"; approval unconfirmed (per our hub).
 - "Older TOU schedules close" NOT VERIFIED -> replaced with "notice shows no proposed rates for existing TOU schedules".
-- Not approved; no hub update needed (no material change to Arkansas picture). States term Arkansas; in-body /rates/arkansas/ link in paragraph 2, new anchor text.
+- Not approved; no hub update needed (no material change to Arkansas picture). States term Arkansas; in-body /posts/arkansas-electricity-rate-changes-2026/ link in paragraph 2, new anchor text.
 
 COVER: Unsplash photo 0MKzwPmehRE (Jon Moore).

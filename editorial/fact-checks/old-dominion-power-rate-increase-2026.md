@@ -10,6 +10,6 @@ Checked October 19, 2026. Byline John Marshall. Independent fact-check by a sepa
 - REMOVED: Wise County resolution line (weak AI-summary source that misnamed the utility).
 - REWRITTEN: 3.4c described as all-in usage-based increase in company example bills; $20 solar example conditioned on full approval; headline changed from "23% Rate Increase" (revenue is 22.4%) to bill-impact framing.
 - Not verified: whether $36.66 includes the fuel factor request (article says so explicitly).
-- State term Virginia; in-body link to /rates/virginia/ in second paragraph. Hub not updated (pending request, not an approved change).
+- State term Virginia; in-body link to /posts/virginia-electricity-rate-changes-2026/ in second paragraph. Hub not updated (pending request, not an approved change).
 
 COVER: Unsplash photo 562t5dX4hog (Ludovico Ceroseis).

@@ -31,7 +31,7 @@ faq:
 
 Ameren Missouri is asking state regulators to raise its electric base rates by about **$343 million a year**. Ameren says the average residential bill, for a home using 1,011 kWh a month, would rise by **about $13 a month** if the request is approved as filed. The Missouri Public Service Commission (PSC) has not ruled, and Ameren expects new rates in **mid-2027**, after a PSC review it puts at 11 months.
 
-The case is ER-2026-0291, filed June 26, 2026. It covers Ameren Missouri's roughly 1.1 million residential electric customers, including customers in the St. Louis area. For Evergy's pending case and the rest of the state, see our [Missouri electric rates and solar overview](/rates/missouri/).
+The case is ER-2026-0291, filed June 26, 2026. It covers Ameren Missouri's roughly 1.1 million residential electric customers, including customers in the St. Louis area. For Evergy's pending case and the rest of the state, see our [Missouri electric rates and solar overview](/posts/missouri-electricity-rate-changes-2026/).
 
 ## The Request at a Glance
 

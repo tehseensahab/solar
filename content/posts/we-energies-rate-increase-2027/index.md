@@ -31,7 +31,7 @@ faq:
 
 **We Energies is asking Wisconsin regulators to raise electric rates in 2027 and again in 2028. Its customer notice puts the 2027 increase at $14.67 a month for a home using 660 kWh, then another $8.69 in 2028.** Nothing is approved. The Public Service Commission of Wisconsin (PSC) is expected to decide late this year, with any new rates starting in January.
 
-This would follow increases the PSC estimated at $7.62 a month in 2025 and $9.73 in 2026 for an average residential customer. For every major Wisconsin utility's approved and pending changes, see our [Wisconsin electricity rates and solar guide](/rates/wisconsin/).
+This would follow increases the PSC estimated at $7.62 a month in 2025 and $9.73 in 2026 for an average residential customer. For every major Wisconsin utility's approved and pending changes, see our [Wisconsin electricity rates and solar guide](/posts/wisconsin-electricity-rate-changes-2026/).
 
 ## What We Energies Is Asking For
 
@@ -97,7 +97,7 @@ Before the decision:
 
 Each kWh of solar you use in your home avoids the per-kWh charges: $0.19593 combined under today's Rg1 rate ($0.19342 energy, $0.00199 fuel and $0.00052 environmental). A system that covers 500 kWh of your own use a month avoids about $98 of those charges at current rates (500 × $0.19593). Solar does not reduce the $0.49315 daily customer charge.
 
-If the PSC puts most of the increase into per-kWh charges, self-used solar is worth more. If more of it goes into the daily charge, solar is worth less. Credits for power you send back to the grid work differently from power you use yourself. Our [Wisconsin guide](/rates/wisconsin/) summarizes each utility's surplus credit, and our explainer on [fixed charges and solar savings](/posts/fixed-charges-and-solar-savings/) shows why the split matters.
+If the PSC puts most of the increase into per-kWh charges, self-used solar is worth more. If more of it goes into the daily charge, solar is worth less. Credits for power you send back to the grid work differently from power you use yourself. Our [Wisconsin guide](/posts/wisconsin-electricity-rate-changes-2026/) summarizes each utility's surplus credit, and our explainer on [fixed charges and solar savings](/posts/fixed-charges-and-solar-savings/) shows why the split matters.
 
 ## What Happens Next
 

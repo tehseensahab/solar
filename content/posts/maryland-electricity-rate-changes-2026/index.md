@@ -1,13 +1,10 @@
 ---
-title: "Maryland Electricity Rates and Solar"
-detailTitle: "Maryland Electricity Rate Changes: What Changed in 2026 and What's Next"
-url: "/rates/maryland/"
+title: "Maryland Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Row of electric meters mounted on a weathered white wall with conduit below."
 imageCredit: "Photo by Tim Mossholder on [Unsplash](https://unsplash.com/photos/gray-electric-meters-RDqeSz1cM5E?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
-layout: "state-hub"
 states: ["Maryland"]
 description: "Pepco's default supply price for Maryland homes rose about 11% on October 1, 2026, to roughly 14.7 cents per kWh for the winter period. BGE has a separate distribution increase pending that would not take effect before early 2027."
 readtime: "4 min read"
@@ -19,10 +16,6 @@ takeaways:
   - "BGE has asked for a $156.1 million electric distribution increase, about $8.58 a month at 900 kWh. If approved, it would take effect in early 2027."
   - "Record regional capacity prices are the main reason supply costs rose."
 faq:
-  - q: "Is solar worth it in Maryland?"
-    a: "Often yes, because Maryland still offers full retail net metering: monthly surplus earns credits worth supply and delivery. Size the system to your annual use, since leftover credits are paid each April at the commodity rate only."
-  - q: "What is the average electricity rate in Maryland?"
-    a: "EIA puts Maryland's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. Pepco's supply price alone is about 14.677¢/kWh for October 2026 through May 2027, before delivery and taxes."
   - q: "Did Maryland electric rates change on October 1, 2026?"
     a: "Yes for Pepco's default supply. Its residential standard offer service rate for October 2026 through May 2027 is about 14.677 cents per kWh, up about 11% from summer 2026, according to an analysis of the published rates."
   - q: "Does the Pepco supply increase affect everyone?"
@@ -116,7 +109,7 @@ The Pepco SOS figures come from a third-party analysis of published rates, suppo
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Maryland's average residential price at 21.40¢/kWh in August 2026, up 7.6% from 19.89¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $214.00 (1,000 × 21.40¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Delaware](/rates/delaware/), [Pennsylvania](/rates/pennsylvania/), [Virginia](/rates/virginia/), [West Virginia](/rates/west-virginia/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Delaware](/posts/delaware-electricity-rate-changes-2026/), [Pennsylvania](/posts/pennsylvania-electricity-rate-changes-2026/), [Virginia](/posts/virginia-electricity-rate-changes-2026/), [West Virginia](/posts/west-virginia-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

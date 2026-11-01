@@ -31,7 +31,7 @@ faq:
 
 A judge at the Arizona Corporation Commission (ACC) has recommended a **Tucson Electric Power (TEP) rate increase that would raise average residential bills about 11.2%**, according to [AZ Luminaria](https://azluminaria.org/2026/10/22/tep-rate-case-judge-backs-11-bill-increase-yearly-updates/) and [Consumer Reports](https://advocacy.consumerreports.org/press_release/arizona-corporation-commission-judge-sides-with-corporate-profits-over-affordability-in-tep-rate-case/). Consumer Reports puts it at an average of about **$186 next year** for residential customers, roughly $15.50 a month. It is a recommendation, not an approved rate. The commission may vote at an open meeting tentatively set for **Nov. 17, 2026**, and new rates could start as soon as Dec. 1.
 
-The case is docket E-01933A-25-0103, filed June 17, 2025, and covers TEP's more than 452,000 customers in the Tucson area. For APS's pending case and how rooftop solar is credited statewide, see our [guide to Arizona electric rates and solar](/rates/arizona/).
+The case is docket E-01933A-25-0103, filed June 17, 2025, and covers TEP's more than 452,000 customers in the Tucson area. For APS's pending case and how rooftop solar is credited statewide, see our [guide to Arizona electric rates and solar](/posts/arizona-electricity-rate-changes-2026/).
 
 ## The Case at a Glance
 

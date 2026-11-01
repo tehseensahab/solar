@@ -1,13 +1,10 @@
 ---
-title: "Wisconsin Electricity Rates and Solar"
-detailTitle: "Wisconsin Electricity Rate Changes: What Changed in 2026 and What's Next"
-url: "/rates/wisconsin/"
+title: "Wisconsin Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Brick barn with a roof covered in solar panels beside a green lawn and trees."
 imageCredit: "Photo by Sergej ***** on [Unsplash](https://unsplash.com/photos/barns-with-solar-panels-in-a-grassy-field-pvY0LKn3GDI?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
-layout: "state-hub"
 states: ["Wisconsin"]
 description: "Wisconsin utilities set rates by calendar year, so nothing changed on October 1, 2026. We Energies bills rose about $9.73 a month in 2026, and the company is asking for more in 2027 and 2028."
 readtime: "4 min read"
@@ -19,10 +16,6 @@ takeaways:
   - "Alliant, Madison Gas and Electric and Xcel Energy also have approved increases for 2026 and 2027."
   - "We Energies and Wisconsin Public Service have asked for further increases in 2027 and 2028. Those are not approved."
 faq:
-  - q: "Is solar worth it in Wisconsin?"
-    a: "It depends on your utility. At We Energies, Alliant and WPS, production up to your monthly use offsets retail charges but surplus earns avoided cost, so size to monthly use. Xcel rolls credits monthly at retail. Annual rate increases at every major utility raise the value of self-used solar."
-  - q: "What is the average electricity rate in Wisconsin?"
-    a: "EIA puts Wisconsin's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
   - q: "Did Wisconsin electric rates change on October 1, 2026?"
     a: "We found no change on that date. Wisconsin's Public Service Commission typically sets rates for calendar years, with changes in January."
   - q: "How much did We Energies rates rise in 2026?"
@@ -111,7 +104,7 @@ All figures are average residential impacts from Wisconsin Public Radio, not tar
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Wisconsin's average residential price at 19.41¢/kWh in August 2026, up 5.3% from 18.44¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $194.10 (1,000 × 19.41¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Illinois](/rates/illinois/), [Iowa](/rates/iowa/), [Michigan](/rates/michigan/), [Minnesota](/rates/minnesota/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Illinois](/posts/illinois-electricity-rate-changes-2026/), [Iowa](/posts/iowa-electricity-rate-changes-2026/), [Michigan](/posts/michigan-electricity-rate-changes-2026/), [Minnesota](/posts/minnesota-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

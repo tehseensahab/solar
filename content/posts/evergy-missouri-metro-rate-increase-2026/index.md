@@ -31,7 +31,7 @@ faq:
 
 Evergy Missouri Metro is asking Missouri regulators to raise its base rates by about **$137.9 million a year**. Evergy says that would add about **$17.70 a month** for an average residential customer if approved as filed. It is a request, not an approved rate: the Missouri Public Service Commission (PSC) has not ruled, and Evergy expects new rates in January 2027.
 
-The case is ER-2026-0143, filed February 6, 2026. It covers only Evergy Missouri Metro, which serves parts of the Kansas City area plus Marshall, Salisbury and Carrollton. For Ameren Missouri's pending case and the statewide picture, see [where Missouri electric rates stand in 2026](/rates/missouri/).
+The case is ER-2026-0143, filed February 6, 2026. It covers only Evergy Missouri Metro, which serves parts of the Kansas City area plus Marshall, Salisbury and Carrollton. For Ameren Missouri's pending case and the statewide picture, see [where Missouri electric rates stand in 2026](/posts/missouri-electricity-rate-changes-2026/).
 
 ## The Request at a Glance
 

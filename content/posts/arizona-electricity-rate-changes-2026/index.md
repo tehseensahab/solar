@@ -1,14 +1,11 @@
 ---
-title: "Arizona Electricity Rates and Solar"
-detailTitle: "Arizona Electricity Rate Changes: What Changed in 2026 and What's Next"
-url: "/rates/arizona/"
+title: "Arizona Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
 lastmod: 2026-10-28
 lastVerified: 2026-10-28
 imageAlt: "Suburban homes at dusk with solar panels on a tile roof."
 imageCredit: "Photo by Vivint Solar on [Unsplash](https://unsplash.com/photos/a-house-with-a-solar-panel-on-the-roof-_ciUqT1HEuY?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
-layout: "state-hub"
 states: ["Arizona"]
 description: "Arizona's two largest regulated utilities have rate increases pending, not approved. APS is asking for about 14% overall, roughly $20 a month for residential customers, with a vote expected around December 2026. TEP asked for 13%."
 readtime: "4 min read"
@@ -20,10 +17,6 @@ takeaways:
   - "Tucson Electric Power's case is also undecided. TEP's own rate page says it expects approval of new rates in late 2026, and estimates $12.92 a month for a median customer using 638 kWh."
   - "APS has also proposed raising the monthly grid access charge paid by rooftop solar customers."
 faq:
-  - q: "Is solar worth it in Arizona?"
-    a: "Often, if the system is sized to your own use. Exports earn about 6¢/kWh at APS for 2026 interconnections, well under the retail price, so self-consumed solar is worth more than twice exported solar. Pending APS decisions on rates and the solar grid access charge could move the payback either way."
-  - q: "What is the average electricity rate in Arizona?"
-    a: "EIA puts Arizona's statewide residential average at {rate} in {month}, compared with {prev} in {prev_month}. Most APS and TEP customers are on time-of-use plans, so their effective rate depends on when they use power."
   - q: "Did APS rates go up on October 1, 2026?"
     a: "We found no approved change on that date. APS's hearing ran from May 18 to July 7, 2026. The Arizona Corporation Commission says a judge's recommendation is expected by late November and the deadline for a commission vote is December 31, 2026."
   - q: "How much is APS asking for?"
@@ -112,7 +105,7 @@ All APS and TEP figures here are requests, not approved rates. The ACC's docket 
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Arizona's average residential price at 15.05¢/kWh in August 2026, down 0.3% from 15.09¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $150.50 (1,000 × 15.05¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [California](/rates/california/), [Nevada](/rates/nevada/), [New Mexico](/rates/new-mexico/), [Utah](/rates/utah/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [California](/posts/california-electricity-rate-changes-2026/), [Nevada](/posts/nevada-electricity-rate-changes-2026/), [New Mexico](/posts/new-mexico-electricity-rate-changes-2026/), [Utah](/posts/utah-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

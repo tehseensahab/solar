@@ -31,7 +31,7 @@ faq:
 
 Entergy Arkansas says its pending rate case would raise a typical household bill by about **$1.16 a month** at 1,000 kWh, less than 1%. A clean energy business group in the case projects **4.9%**. Neither figure is approved: the Arkansas Public Service Commission (APSC) holds its final public comment hearing on **October 27, 2026**, and an evidentiary hearing on **November 4 and 5**, and any change would start with January 2027 bills.
 
-The filing is Docket No. 26-001-U, which the Southern Renewable Energy Association describes as Entergy Arkansas's first full rate case in a decade. It covers base rates for Entergy Arkansas's approximately 735,000 customers. It does not cover the Generating Arkansas Jobs Act rider, fuel costs, SWEPCO or the cooperatives; our [overview of Arkansas electric rates and the state's solar rules](/rates/arkansas/) covers those 2026 changes.
+The filing is Docket No. 26-001-U, which the Southern Renewable Energy Association describes as Entergy Arkansas's first full rate case in a decade. It covers base rates for Entergy Arkansas's approximately 735,000 customers. It does not cover the Generating Arkansas Jobs Act rider, fuel costs, SWEPCO or the cooperatives; our [overview of Arkansas electric rates and the state's solar rules](/posts/arkansas-electricity-rate-changes-2026/) covers those 2026 changes.
 
 ## The Request at a Glance
 

@@ -1,13 +1,10 @@
 ---
-title: "North Dakota Electricity Rates and Solar"
-detailTitle: "North Dakota Electricity Rate Changes: What Changed in 2026 and What's Next"
-url: "/rates/north-dakota/"
+title: "North Dakota Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Rooftop solar panels in a residential neighborhood with a rainbow over hills behind."
 imageCredit: "Photo by Lara John on [Unsplash](https://unsplash.com/photos/rainbow-over-a-suburban-neighborhood-with-solar-panels-VNIjztzKF_U?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
-layout: "state-hub"
 states: ["North Dakota"]
 description: "North Dakota regulators approved a 12.92% residential increase for Xcel Energy in February 2026, about $11.94 a month. Montana-Dakota Utilities began charging a 12.3% interim increase, about $12.90 a month, around September 1."
 readtime: "4 min read"
@@ -19,10 +16,6 @@ takeaways:
   - "Its full request is 14.5%, or $34.5 million a year. Hearings are not expected until 2027."
   - "Xcel Energy's increase was approved on February 5, 2026: 12.92% for residential customers, about $11.94 a month in total."
 faq:
-  - q: "Is solar worth it in North Dakota?"
-    a: "For most homes it is a long-payback purchase. Power is cheap, and investor-owned utilities buy monthly surplus at avoided cost with no retail banking. Size any system to summer daytime use, and if you are a co-op or city utility customer, ask your utility for its own terms."
-  - q: "What is the average electricity rate in North Dakota?"
-    a: "EIA puts North Dakota's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
   - q: "Did North Dakota electric rates change on October 1, 2026?"
     a: "We found no change on that date. Montana-Dakota Utilities' interim increase took effect about a month earlier, and Xcel Energy's rates were set in February 2026."
   - q: "Why was the MDU interim increase approved without a hearing?"
@@ -96,7 +89,7 @@ Figures come from the North Dakota Monitor. We did not open PSC orders. We did n
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts North Dakota's average residential price at 13.31¢/kWh in August 2026, up 2.6% from 12.97¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $133.10 (1,000 × 13.31¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Minnesota](/rates/minnesota/), [Montana](/rates/montana/), [South Dakota](/rates/south-dakota/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Minnesota](/posts/minnesota-electricity-rate-changes-2026/), [Montana](/posts/montana-electricity-rate-changes-2026/), [South Dakota](/posts/south-dakota-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

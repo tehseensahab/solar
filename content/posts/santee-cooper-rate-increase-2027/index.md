@@ -31,7 +31,7 @@ faq:
 
 **Santee Cooper's board has approved higher electric rates: residential base rates rise 4.7% in 2027, about $6.60 a month for a typical home, according to the utility.** The new rates apply to bills rendered on or after Feb. 1, 2027. A second step is scheduled for 2028, and the way the monthly demand charge is calculated is changing too.
 
-The vote, on Oct. 30, 2026, sets rates for Santee Cooper's retail customer classes. For the rest of the state's rate picture and how other South Carolina utilities credit solar, see our [South Carolina electricity rates and solar guide](/rates/south-carolina/).
+The vote, on Oct. 30, 2026, sets rates for Santee Cooper's retail customer classes. For the rest of the state's rate picture and how other South Carolina utilities credit solar, see our [South Carolina electricity rates and solar guide](/posts/south-carolina-electricity-rate-changes-2026/).
 
 ## What Santee Cooper Approved
 

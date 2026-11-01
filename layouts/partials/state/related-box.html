@@ -1,7 +1,7 @@
 {{- /* End-of-post box: state hub + up to 2 evergreen guides (data/states/<slug>.yaml `guides`, else defaults). Input: page. */ -}}
 {{- $c := partial "state/ctx.html" . -}}
 {{- $self := . -}}
-{{- with $c.hub }}
+{{- with $c.hub }}{{ if ne .Permalink $self.Permalink }}
 {{- $guides := $c.d.guides | default (slice "solar-payback-period-without-federal-tax-credit" "how-to-read-your-electric-bill") }}
 <aside class="state-box" aria-labelledby="state-box-h">
   <h2 id="state-box-h">More on {{ $c.d.name }} electricity</h2>
@@ -12,4 +12,4 @@
     <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}{{ end }}{{ end }}{{ end }}
   </ul>
 </aside>
-{{- end -}}
+{{- end }}{{- end -}}

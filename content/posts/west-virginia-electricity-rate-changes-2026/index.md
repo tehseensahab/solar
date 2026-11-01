@@ -1,13 +1,10 @@
 ---
-title: "West Virginia Electricity Rates and Solar"
-detailTitle: "West Virginia Electricity Rate Changes: What Changed in 2026 and What's Next"
-url: "/rates/west-virginia/"
+title: "West Virginia Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Utility poles silhouetted against a bright orange sunset with dark clouds."
 imageCredit: "Photo by Josh Roberts on [Unsplash](https://unsplash.com/photos/dramatic-sunset-with-silhouetted-power-lines-and-clouds-TzRrFKsoL-c?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
-layout: "state-hub"
 states: ["West Virginia"]
 description: "West Virginia regulators approved two electric increases in mid-2026: Appalachian Power base rates rose $4.84 per 1,000 kWh on June 1, and Mon Power bills rose $3.65 a month on August 1, with a second step in June 2027."
 readtime: "4 min read"
@@ -19,10 +16,6 @@ takeaways:
   - "Mon Power and Potomac Edison bills rose $3.65 a month on August 1, 2026 and will rise $4.01 more on June 1, 2027."
   - "The Mon Power companies first asked for a single $17.89 increase and agreed not to file again before April 1, 2028."
 faq:
-  - q: "Is solar worth it in West Virginia?"
-    a: "For many homes it can be. Export credits for new customers were cut but remain fairly high: about 12.4¢/kWh at Appalachian Power and Wheeling Power and about 9¢ at Mon Power and Potomac Edison. Self-used solar avoids the full retail rate, which rose at both utility groups in 2026."
-  - q: "What is the average electricity rate in West Virginia?"
-    a: "EIA puts West Virginia's statewide residential average at {rate} in {month}, against {prev} in {prev_month} and a U.S. average of {us}."
   - q: "Did West Virginia electric rates change on October 1, 2026?"
     a: "We found no change on that date. Appalachian Power's increase took effect June 1, 2026 and Mon Power's first step on August 1, 2026."
   - q: "How much did Appalachian Power rates go up?"
@@ -101,7 +94,7 @@ Figures come from West Virginia news reports of the PSC's orders. We did not ope
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts West Virginia's average residential price at 16.31¢/kWh in August 2026, up 4.4% from 15.62¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $163.10 (1,000 × 16.31¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Kentucky](/rates/kentucky/), [Maryland](/rates/maryland/), [Ohio](/rates/ohio/), [Virginia](/rates/virginia/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Kentucky](/posts/kentucky-electricity-rate-changes-2026/), [Maryland](/posts/maryland-electricity-rate-changes-2026/), [Ohio](/posts/ohio-electricity-rate-changes-2026/), [Virginia](/posts/virginia-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

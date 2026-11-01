@@ -1,13 +1,10 @@
 ---
-title: "Alaska Electricity Rates and Solar"
-detailTitle: "Alaska Electricity Rate Changes: What Changed in 2026 and What's Next"
-url: "/rates/alaska/"
+title: "Alaska Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "Residential street with parked cars and a transmission tower rising behind the houses."
 imageCredit: "Photo by Arlind Photography on [Unsplash](https://unsplash.com/photos/residential-street-with-parked-cars-houses-and-power-lines-zhRbFT87Gxo?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
-layout: "state-hub"
 states: ["Alaska"]
 description: "Alaska has no statewide grid and no single rate change date. Golden Valley Electric has charged a 7.4% interim, refundable increase since January 15, 2026, with its rate case under review through February 2027."
 readtime: "4 min read"
@@ -19,10 +16,6 @@ takeaways:
   - "Its rate case is under review by the Regulatory Commission of Alaska through February 2027."
   - "Chugach Electric's current permanent rates date from February 1, 2025. Fuel and purchased power costs are adjusted separately at Alaska utilities."
 faq:
-  - q: "Is solar worth it in Alaska?"
-    a: "It can be for a system sized to summer use. Retail prices are high, but surplus power earns only avoided cost (roughly a third of retail, per the Anchorage Daily News) and winter output is very low. Check whether your utility is still taking new net-metered systems, since several Railbelt utilities have passed the 1.5% cap."
-  - q: "What is the average electricity rate in Alaska?"
-    a: "EIA's statewide average residential price was {rate} in {month}, against {prev} in {prev_month}. Rates differ widely by utility, and rural communities are not represented by that average in any meaningful way."
   - q: "Did Alaska electric rates change on October 1, 2026?"
     a: "We found no base rate change on that date. Fuel-related charges at Alaska utilities are adjusted on their own schedules."
   - q: "What is GVEA's interim rate increase?"
@@ -96,7 +89,7 @@ GVEA information comes from its own rate case page. Chugach details come from an
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Alaska's average residential price at 29.41¢/kWh in August 2026, up 5.8% from 27.79¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $294.10 (1,000 × 29.41¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Washington](/rates/washington/), [Hawaii](/rates/hawaii/), [Oregon](/rates/oregon/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Washington](/posts/washington-electricity-rate-changes-2026/), [Hawaii](/posts/hawaii-electricity-rate-changes-2026/), [Oregon](/posts/oregon-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

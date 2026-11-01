@@ -1,13 +1,10 @@
 ---
-title: "Colorado Electricity Rates and Solar"
-detailTitle: "Colorado Electricity Rate Changes: What Changed in 2026 and What's Next"
-url: "/rates/colorado/"
+title: "Colorado Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
 lastVerified: 2026-10-04
 imageAlt: "House with a metal roof and rooftop solar panels surrounded by dense green trees."
 imageCredit: "Photo by Jordi Villanova on [Unsplash](https://unsplash.com/photos/a-house-with-a-solar-panel-on-the-roof-2eeam_HMvIk?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
-layout: "state-hub"
 states: ["Colorado"]
 description: "Xcel Energy's Colorado electric rates rose on August 29, 2026. Regulators approved $157 million of a $356 million request, about $5.00 a month, or 4.77%, for residential customers."
 readtime: "4 min read"
@@ -19,10 +16,6 @@ takeaways:
   - "The residential increase is 4.77%, about $5.00 a month, against the $9.94 Xcel first proposed."
   - "The order adds a $20 monthly discount for customers 65 and older and expands bill help for low-income households."
 faq:
-  - q: "Is solar worth it in Colorado?"
-    a: "At Xcel Energy, often yes for a system sized to your use: surplus earns kWh credits at the retail rate. Year-end leftovers are paid far below retail, so avoid oversizing. Colorado Springs Utilities and other municipal utilities and co-ops use different rules, including demand charges, so check your utility first."
-  - q: "What is the average electricity rate in Colorado?"
-    a: "EIA puts Colorado's statewide residential average at {rate} in {month}, compared with {prev} in {prev_month}. Xcel's August 29, 2026 increase added about $5.00 a month for a typical residential customer."
   - q: "Did Colorado electric rates change on October 1, 2026?"
     a: "We found no change on that date for Xcel Energy. Its new base rates took effect on August 29, 2026."
   - q: "How much did Xcel Energy bills go up?"
@@ -85,7 +78,7 @@ Figures come from the PUC's news release. We did not find the approved return on
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Colorado's average residential price at 17.17¢/kWh in August 2026, up 5.9% from 16.21¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $171.70 (1,000 × 17.17¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [New Mexico](/rates/new-mexico/), [Utah](/rates/utah/), [Wyoming](/rates/wyoming/), [Kansas](/rates/kansas/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [New Mexico](/posts/new-mexico-electricity-rate-changes-2026/), [Utah](/posts/utah-electricity-rate-changes-2026/), [Wyoming](/posts/wyoming-electricity-rate-changes-2026/), [Kansas](/posts/kansas-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 

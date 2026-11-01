@@ -31,7 +31,7 @@ faq:
 
 **Duke Energy solar customers in North Carolina who are still on the original net metering rider will be moved to the Net Metering Bridge rider after December 31, 2026, according to the state's Public Staff.** The Bridge rate nets your use and exports each month and credits any monthly surplus at Duke's avoided-cost rate, not the retail rate, and it adds a minimum bill. The biggest surprise for many owners is the clock: Bridge time is counted from when you first applied to connect your system, not from 2027.
 
-This covers Duke Energy Carolinas (DEC) and Duke Energy Progress (DEP). The same customers face proposed base rate increases on January 1, 2027, which we track in [our guide to Duke's North Carolina rate cases](/rates/north-carolina/). Higher retail rates raise the value of solar you use yourself, while exported power earns less under the newer riders.
+This covers Duke Energy Carolinas (DEC) and Duke Energy Progress (DEP). The same customers face proposed base rate increases on January 1, 2027, which we track in [our guide to Duke's North Carolina rate cases](/posts/north-carolina-electricity-rate-changes-2026/). Higher retail rates raise the value of solar you use yourself, while exported power earns less under the newer riders.
 
 ## What the 2023 Order Set Up
 

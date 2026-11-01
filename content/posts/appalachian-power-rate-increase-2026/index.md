@@ -30,7 +30,7 @@ faq:
 
 Appalachian Power has asked Virginia regulators for a base rate increase that would add about **$9.10 a month** for a household using 1,000 kWh, roughly 5.4% on today's bill. Nothing is approved. The State Corporation Commission (SCC) opened its evidentiary hearing on October 20, 2026, must rule by January 15, and no change can take effect before March 2027.
 
-The request is Case PUR-2026-00044, the company's 2026 biennial review. Appalachian Power serves much of Southwest and Central Virginia; Dominion Energy Virginia customers are not affected by this case. For where both utilities stand on rates and net metering, see our [Virginia electric rate tracker](/rates/virginia/).
+The request is Case PUR-2026-00044, the company's 2026 biennial review. Appalachian Power serves much of Southwest and Central Virginia; Dominion Energy Virginia customers are not affected by this case. For where both utilities stand on rates and net metering, see our [Virginia electric rate tracker](/posts/virginia-electricity-rate-changes-2026/).
 
 ## The Request at a Glance
 

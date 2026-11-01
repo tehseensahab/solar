@@ -31,7 +31,7 @@ faq:
 
 Baltimore Gas and Electric (BGE) wants Maryland regulators to approve an electric rate increase that it says would add about **$8 a month** for a household using 851 kWh, roughly 4% of the total bill. Nothing is approved. The Public Service Commission (PSC) suspended the new rates while it reviews them, expects to decide in January 2027, and holds its first public comment hearing on **October 26, 2026**.
 
-The request is Case No. 9888 and covers BGE's electric distribution (delivery) charges only, not the supply price or gas service. Pepco, Potomac Edison and other Maryland utilities are not part of it. Our [Maryland electricity rates and solar guide](/rates/maryland/) tracks where each of them stands.
+The request is Case No. 9888 and covers BGE's electric distribution (delivery) charges only, not the supply price or gas service. Pepco, Potomac Edison and other Maryland utilities are not part of it. Our [Maryland electricity rates and solar guide](/posts/maryland-electricity-rate-changes-2026/) tracks where each of them stands.
 
 ## The Request at a Glance
 

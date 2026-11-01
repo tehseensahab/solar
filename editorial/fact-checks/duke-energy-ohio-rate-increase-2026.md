@@ -14,6 +14,6 @@ Checked October 23, 2026. Byline John Marshall. Independent fact-check by a sepa
 - REMOVED: nothing else.
 - Not found: total revenue requested; staff revenue recommendation; PUCO hearing release text (page unreadable).
 - Freshness: newest evidence FOX19 Oct. 21, 2026; OCC fact sheet checked Oct. 23.
-- State term: Ohio; hub link /rates/ohio/ in paragraph 2. Hub updated (Duke row, What Happens Next, lastmod 2026-10-23).
+- State term: Ohio; hub link /posts/ohio-electricity-rate-changes-2026/ in paragraph 2. Hub updated (Duke row, What Happens Next, lastmod 2026-10-23).
 
 COVER: Unsplash photo vc7e5M6HXzA (taner ardalı).

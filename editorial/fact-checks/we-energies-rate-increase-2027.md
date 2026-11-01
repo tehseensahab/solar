@@ -11,6 +11,6 @@ Checked October 31, 2026. Byline Craig Leslie. Independent fact-check by a separ
 - Fixes applied: removed FCA double-count ($158.78/$176/$167.47/$23.36 corrected); rewrote $14.67 vs $13.35 explanation per notice footnote; 2028 excludes fuel noted in table and body; "one-time adjustment" line replaced; prior increases labeled PSC estimates for an average residential customer; data-center wording trimmed.
 - Limitations: PSC e-docket for 5-UR-112 not opened; staff position not found; vote timing from CUB. CUB's own electric figures ($168.7M/4.6%) differ from the notice; article uses the notice.
 - Pre-publish recheck (Oct. 31): no PSC decision found in search.
-- State term: Wisconsin; in-body hub link /rates/wisconsin/ in paragraph 2 (anchor "Wisconsin electricity rates and solar guide"). Hub: added one link sentence in the We Energies section; no figures changed, no date bump.
+- State term: Wisconsin; in-body hub link /posts/wisconsin-electricity-rate-changes-2026/ in paragraph 2 (anchor "Wisconsin electricity rates and solar guide"). Hub: added one link sentence in the We Energies section; no figures changed, no date bump.
 
 COVER: Unsplash photo -IGnQ7aIok4 (Olga Deeva), free Unsplash License.

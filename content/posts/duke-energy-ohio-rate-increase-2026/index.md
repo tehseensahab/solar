@@ -31,7 +31,7 @@ faq:
 
 Duke Energy Ohio has asked state regulators to raise the delivery part of its electric rates, an increase the company says would add about **$8 a month** for a household using 1,000 kWh, about 4.5% of the total bill. Nothing is approved. The Public Utilities Commission of Ohio (PUCO) has set three public hearings for **December 1 and December 10, 2026**, and the state's residential consumer advocate has intervened to challenge it.
 
-The application is Case No. 26-0132-EL-AIR. It covers Duke's electric distribution charges in southwest Ohio, the Cincinnati area, and not the supply price, other Ohio utilities, or Duke's separate natural gas case. Our [Ohio electric rates and solar page](/rates/ohio/) covers default supply prices for AEP Ohio, AES Ohio and the FirstEnergy utilities.
+The application is Case No. 26-0132-EL-AIR. It covers Duke's electric distribution charges in southwest Ohio, the Cincinnati area, and not the supply price, other Ohio utilities, or Duke's separate natural gas case. Our [Ohio electric rates and solar page](/posts/ohio-electricity-rate-changes-2026/) covers default supply prices for AEP Ohio, AES Ohio and the FirstEnergy utilities.
 
 ## The Request at a Glance
 
@@ -105,7 +105,7 @@ OCC also lists a separate Duke natural gas distribution case (Case No. 26-0635-G
 | 38% increase in distribution charges | [OCC fact sheet (caption)](https://occ.ohio.gov/factsheet/duke-energy-ohio-rate-increase-26-132-el-air); [WKRC/Local 12, June 1, 2026](https://local12.com/news/consumer-alerts/duke-energy-rate-increase-ohio-residents-cincinnati-transmission-distribution-ohio-consumers-counsel-bills-fixing-costs-puco) | Qualified (OCC's basis not stated) |
 | Duke: about $8/month, 4.5%, at 1,000 kWh; 3% non-residential; investments since 2021 | [FOX19, June 1, 2026](https://www.fox19.com/2026/06/01/duke-energy-requests-8-monthly-electric-rate-increase-ohio/); [WKRC/Local 12](https://local12.com/news/consumer-alerts/duke-energy-rate-increase-ohio-residents-cincinnati-transmission-distribution-ohio-consumers-counsel-bills-fixing-costs-puco) | Qualified (news reports of Duke statements) |
 | OCC "nearly $18 per month" on distribution; Duke's rider response | [WKRC/Local 12](https://local12.com/news/consumer-alerts/duke-energy-rate-increase-ohio-residents-cincinnati-transmission-distribution-ohio-consumers-counsel-bills-fixing-costs-puco) | Qualified (news) |
-| Ohio net metering nets imports and exports per billing period; net excess credited at supply energy component only | [AEP Ohio net energy metering tariff](https://www.aepohio.com/lib/docs/business/builders/NetEnergyMeteringService2023-01-18.pdf); [our Ohio rates hub](/rates/ohio/) | Verified (AEP Ohio tariff, which follows the state rule) |
+| Ohio net metering nets imports and exports per billing period; net excess credited at supply energy component only | [AEP Ohio net energy metering tariff](https://www.aepohio.com/lib/docs/business/builders/NetEnergyMeteringService2023-01-18.pdf); [our Ohio rates hub](/posts/ohio-electricity-rate-changes-2026/) | Verified (AEP Ohio tariff, which follows the state rule) |
 | PUCO staff report filed | [EnergyChoiceMatters, Sept. 21, 2026](https://www.energychoicematters.com/stories/20260921b.html) | Qualified (trade press) |
 | Oct. 21 community meeting; Duke quotes; FOX19's "filed in June" | [FOX19, Oct. 21, 2026](https://www.fox19.com/2026/10/22/cincinnati-residents-push-back-duke-energy-rate-increase/) | Qualified (news) |
 

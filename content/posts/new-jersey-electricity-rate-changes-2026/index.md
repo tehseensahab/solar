@@ -1,7 +1,5 @@
 ---
-title: "New Jersey Electricity Rates and Solar"
-detailTitle: "New Jersey Electricity Rate Changes: What Changed in 2026 and What's Next"
-url: "/rates/new-jersey/"
+title: "New Jersey Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-09-30
 lastmod: 2026-10-05
 lastVerified: 2026-09-30
@@ -17,7 +15,6 @@ internal_links_suggested: ["how to read your electric bill", "net metering expla
 imageAlt: "Aerial view of a dense suburban neighborhood with a long straight road and a school complex."
 imageCredit: "Photo by Chris Grant on [Unsplash](https://unsplash.com/photos/aerial-view-of-a-suburban-neighborhood-with-a-long-road-G4cr0yxLqKY?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
-layout: "state-hub"
 states: ["New Jersey"]
 tags: ["New Jersey", "PSE&G", "JCP&L", "Atlantic City Electric", "BGS auction"]
 readtime: "6 min read"
@@ -27,10 +24,6 @@ takeaways:
   - "Atlantic City Electric recalculates a supply reconciliation charge each June 1 and October 1. We could not find the October 2026 amount."
   - "New Jersey net metering has passed the 5.8% level that lets the Board of Public Utilities revisit it. A review is open under Docket No. QO24090723."
 faq:
-  - q: "Is solar worth it in New Jersey?"
-    a: "Under today's retail-rate net metering and high prices, often yes. But the state crossed the 5.8% threshold that lets the BPU replace net metering, and a review is open, so ask installers what crediting rule and term their savings estimate assumes."
-  - q: "What is the average electricity rate in New Jersey?"
-    a: "EIA puts New Jersey's statewide residential average at {rate} in {month}, against {prev} in {prev_month}. The BPU's June 2026 figures put the average 650 kWh bill between about $137 (JCP&L) and $202 (ACE)."
   - q: "Did New Jersey electric rates change on October 1, 2026?"
     a: "We did not find a statewide change. The annual Basic Generation Service reset took effect June 1, 2026. Atlantic City Electric adjusts a supply reconciliation charge on October 1, but we could not find the 2026 amount."
   - q: "How much did PSE&G bills change in June 2026?"
@@ -105,7 +98,7 @@ Rules checked October 5, 2026. Solar tariffs change, so confirm the current term
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts New Jersey's average residential price at 24.61¢/kWh in August 2026, down 0.4% from 24.70¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $246.10 (1,000 × 24.61¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Delaware](/rates/delaware/), [New York](/rates/new-york/), [Pennsylvania](/rates/pennsylvania/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Delaware](/posts/delaware-electricity-rate-changes-2026/), [New York](/posts/new-york-electricity-rate-changes-2026/), [Pennsylvania](/posts/pennsylvania-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
 
 ## Sources
 
