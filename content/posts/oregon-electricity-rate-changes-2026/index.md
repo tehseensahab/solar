@@ -1,7 +1,7 @@
 ---
 title: "Oregon Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
-lastVerified: 2026-10-04
+lastVerified: 2026-11-02
 imageAlt: "Two solar panels on a flat rooftop with a house and bright autumn trees behind."
 imageCredit: "Photo by Yuma Solar on [Unsplash](https://unsplash.com/photos/two-solar-panels-on-a-rooftop-with-autumn-foliage-1WDIkQumWtA?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -56,6 +56,8 @@ A PUC spokesperson told the Oregon Capital Chronicle the utilities cited fuel co
 ## Why the Calendar Matters
 
 The FAIR Energy Act prevents rate increases between November 1 and March 31. That protects winter heating bills, and it means several filings can stack up on April 1. Expect the next round of changes around April 1, 2027.
+
+**Update, Nov. 2, 2026:** Pacific Power says it reached a settlement in its 2027 general rate case (docket UE 470) that would raise residential base rates 9% on April 5, 2027, offset by power cost decreases to a net of about 0.3% versus April 2026. The commission has not yet approved it. Details in our [Pacific Power 2027 rate settlement report](/posts/pacific-power-rate-increase-2027/).
 
 Oregon also has a new law requiring large technology companies to pay for the infrastructure their data centers need. The PUC was due to rule on PGE's compliance plan in spring 2026. We did not confirm the outcome.
 
