@@ -130,3 +130,5 @@ we-energies-rate-increase-2027 | We Energies Rate Increase 2027: $14.67 a Month 
 cost-to-charge-electric-car-at-home | Cost to Charge an Electric Car at Home in 2026 | 2026-10-31 | electric-rates | published | cost to charge electric car at home | /posts/cost-to-charge-electric-car-at-home/
 santee-cooper-rate-increase-2027 | Santee Cooper Rate Increase 2027: 4.7% for Homes Approved | 2026-11-01 | news | published | santee cooper rate increase 2027 | /posts/santee-cooper-rate-increase-2027/
 kw-vs-kwh | kW vs kWh: What Each Means on Your Bill and Solar Quote | 2026-11-01 | electric-rates | published | kw vs kwh | /posts/kw-vs-kwh/
+pacific-power-rate-increase-2027 | Pacific Power Rate Increase 2027: Settlement Would Net 0.3% | 2026-11-02 | news | published | pacific power rate increase 2027 | /posts/pacific-power-rate-increase-2027/
+heat-pump-vs-gas-furnace-cost | Heat Pump vs Gas Furnace Cost: The Running-Cost Math | 2026-11-02 | electric-rates | published | heat pump vs gas furnace cost | /posts/heat-pump-vs-gas-furnace-cost/
