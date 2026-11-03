@@ -2,10 +2,14 @@
 
 One line per source: domain or page | works / fails (how) | workaround | date checked. Read before research; never fetch a source marked fails. Keep under ~80 lines.
 
+
 ## Federal
 - eia.gov/electricity/monthly/update/end-use.php | works only after it comes back in a WebSearch (direct fetch timed out on approval 2026-10-31; the eia.gov/... no-www copy from search worked) | search "EIA Electricity Monthly Update end-use residential average retail price" | 2026-10-31
-- eia.gov/tools/FAQs/faq.php?id=97&t=3 | works (2022 consumption, 899 kWh/month) only after it comes back in a WebSearch; direct fetch asks for approval | search "EIA how much electricity does an American home use" first | 2026-10-27
-- eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php | fails 2026-10-28 when fetched without a fresh search result (approval) | WebSearch for it first | 2026-10-28
+- eia.gov/tools/FAQs/faq.php?id=97&t=3 | works (2022 consumption, 899 kWh/month; page last updated Jan. 2024) after WebSearch | search "EIA how much electricity does an American home use" first | 2026-11-03
+- eia.gov/electricity/sales_revenue_price/pdf/table_5a.pdf (2024 avg monthly kWh and bill by state) | works via WebFetch from search; curl to eia.gov blocked by proxy (403) | - | 2026-11-03
+- eia.gov/electricity/monthly/update/print-version.php | works (latest month U.S. sector prices, sales, CDDs; Aug 2026 data) | - | 2026-11-03
+- eia.gov RECS 2020 CE8.5.M monthly electricity PDF | works from search | - | 2026-11-03
+- eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php | works with the ?os=os copy from search (end-use shares 2020); bare URL without search: approval | WebSearch for it first | 2026-11-03
 - irs.gov/instructions/i5695 | works (25C ends after Dec. 31, 2025) | - | 2026-10-28
 - atb.nrel.gov/electricity/2023/residential_pv | works after search (capacity factors by class, kWDC) | - | 2026-10-30
 - eta-publications.lbl.gov Distributed Solar & Storage 2026 data update PDF | works (2025 median 7.7 kW; 37% battery attach); figure-only values not readable | - | 2026-10-27
@@ -38,7 +42,6 @@ One line per source: domain or page | works / fails (how) | workaround | date ch
 - efis.psc.mo.gov/Document/Display/880663 (Ameren ER-2026-0291 filing) | works (schedules 1, 3, 5) | - | 2026-10-27
 - ameren.mediaroom.com releases; ameren.com/missouri solar-faqs | works | - | 2026-10-27
 - prnewswire.com release URLs taken from another page | fails: approval required | use the company mediaroom copy from search | 2026-10-27
-
 - docs.tep.com TEP-2026-Rates-Public-Notice.pdf; tep.com/news release | works | - | 2026-10-28
 - tep.com/rate-changes/ | fails: approval timeout | TEP news release + public notice | 2026-10-28
 - docket.images.azcc.gov/*.pdf, edocket.azcc.gov item-detail | fails: approval required | azcc.gov/news posts (work); news (AZ Luminaria) for ROO, mark Qualified | 2026-10-28
@@ -55,15 +58,18 @@ One line per source: domain or page | works / fails (how) | workaround | date ch
 - consumersenergy.com/residential/savings-and-clean-energy/renewable-energy/distributed-generation | works (outflow credit wording) | - | 2026-10-30
 - michigan.gov/mpsc/consumer/electricity/distributed-generation | works (550 kW, 110% rule) | - | 2026-10-30
 - U-22070 case filings (MPSC e-dockets) | not found via search | AG releases + news (Qualified) | 2026-10-30
-
 - santeecooper.com/rates/rate-study/residential/ and /Rates/Rate-Study/ ; RatesDocuments2026 PDFs (May 1 presentation, ORS letter, fact sheet) from search | works | - | 2026-11-01
 - santeecooper.com Revised-Proposed-Rates-2027/2028 PDFs and newsroom.santeecooper.com 2027-2028 release (links taken from the rate study page) | fails: approval timeout; not returned by WebSearch | rate study + residential pages; ORS letter | 2026-11-01
-- eia.gov/electricity/monthly/epm_table_grapher.php?+t=epmt_5_3 (Table 5.3, U.S. price by sector, from search) | works (U.S. residential monthly price) | - | 2026-11-01
+- eia.gov/electricity/monthly/epm_table_grapher.php?+t=epmt_5_3 (Table 5.3, from search) | works, but WebFetch may serve a stale cached vintage (returned June data on 2026-11-03) | check release date in result; use print-version.php | 2026-11-03
 - flashalert.net/id/PacificPower (Pacific Power's own release feed) | works (full release text incl. tables) | - | 2026-11-02
 - pacificpower.net Oregon rate-proposal and oregon-regulatory-filings pages; newsroom releases | works | - | 2026-11-02
 - pacificpower.net docket-ue-470-advice-26-011 subpage (link from filings page) | fails: approval timeout | edocs.puc.state.or.us PDFs from search; FlashAlert release | 2026-11-02
 - edocs.puc.state.or.us/efdocs/*.pdf (OPUC dockets, from search) | works; UE 470 settlement doc not found via search | - | 2026-11-02
 - oregon.gov/puc/news-events/Documents/PR-*.pdf | works | - | 2026-11-02
+- portlandgeneral.com/2027-general-rate-case | works (3.9% residential, $8.33 at 780 kWh, July 2027, hearing Nov. 10; no docket number) | - | 2026-11-03
+- occ.ohio.gov/factsheet/firstenergy-rate-increase-26-0347-el-air | works; "Hearing dates have not yet been scheduled" | - | 2026-11-03
+- blackhillsenergy.com 2026-colorado-electric-regulatory-rate-review | works ($10.90, 8.8%, March 2027; no proceeding number) | gcn.com for 26AL-0232E | 2026-11-03
+- ors.sc.gov news pages | works, but no dates on page ("Published Date Month Only"); many hits are 2025 cases | - | 2026-11-03
 
 ## Industry and news (context only)
 - wpr.org news pages | works (check article date; several search hits are 2023-2025) | - | 2026-10-31
@@ -79,5 +85,6 @@ One line per source: domain or page | works / fails (how) | workaround | date ch
 - digital-release.koin.com | works, but search returned a 2024 article; check date | - | 2026-11-02
 - elkhornmediagroup.com | works (reprints utility tables) | - | 2026-11-02
 - hugo binary | pip wheels start at 0.147.8 (no 0.123.7); go install blocked (proxy.golang.org connect_rejected); GitHub releases blocked | rely on Cloudflare Pages build + live WebFetch check | 2026-11-02
-- unsplash: curl of unsplash.com 401 | WebFetch photo page for images.unsplash.com URL, then curl that (works) | 2026-11-02
-
+- unsplash: curl of unsplash.com 401 | WebFetch photo page for images.unsplash.com URL, then curl that (works); photo pages linked from a fetched search page (not from WebSearch) can time out on approval: use the search page's listing (license, image URL) | 2026-11-03
+- unsplash /s/photos/<term> search pages from WebSearch | works (lists free vs Unsplash+ with image URLs) | - | 2026-11-03
+- hugo via pip | install blocked by auto-mode classifier 2026-11-03 | rely on Cloudflare build + live WebFetch check | 2026-11-03
