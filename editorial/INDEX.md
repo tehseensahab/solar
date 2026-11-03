@@ -132,3 +132,5 @@ santee-cooper-rate-increase-2027 | Santee Cooper Rate Increase 2027: 4.7% for Ho
 kw-vs-kwh | kW vs kWh: What Each Means on Your Bill and Solar Quote | 2026-11-01 | electric-rates | published | kw vs kwh | /posts/kw-vs-kwh/
 pacific-power-rate-increase-2027 | Pacific Power Rate Increase 2027: Settlement Would Net 0.3% | 2026-11-02 | news | published | pacific power rate increase 2027 | /posts/pacific-power-rate-increase-2027/
 heat-pump-vs-gas-furnace-cost | Heat Pump vs Gas Furnace Cost: The Running-Cost Math | 2026-11-02 | electric-rates | published | heat pump vs gas furnace cost | /posts/heat-pump-vs-gas-furnace-cost/
+electricity-prices-by-state-august-2026 | Electricity Prices by State, August 2026: Hawaii Up 22.5% | 2026-11-03 | news | published | electricity prices by state august 2026 | /posts/electricity-prices-by-state-august-2026/
+how-much-electricity-does-a-house-use | How Much Electricity Does a House Use? 863 kWh a Month | 2026-11-03 | electric-rates | published | how much electricity does a house use | /posts/how-much-electricity-does-a-house-use/
