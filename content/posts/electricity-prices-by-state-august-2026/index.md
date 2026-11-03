@@ -1,6 +1,6 @@
 ---
 title: "Electricity Prices by State, August 2026: Hawaii Up 22.5%"
-date: 2026-11-03T05:30:00Z
+date: 2026-11-03T05:00:00Z
 lastVerified: 2026-11-03
 imageAlt: "A white outdoor air conditioner condenser unit on a raised stand in front of a teal roll-up shutter, with palm-leaf shadows across the wall."
 imageCredit: "Photo by [yanagi](https://unsplash.com/@87gi?utm_source=solarexaminer&utm_medium=referral) on [Unsplash](https://unsplash.com/photos/a-air-conditioner-sitting-outside-of-a-building-_7huNth8Y2s?utm_source=solarexaminer&utm_medium=referral)"
