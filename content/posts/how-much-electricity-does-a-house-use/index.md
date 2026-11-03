@@ -1,6 +1,6 @@
 ---
 title: "How Much Electricity Does a House Use? 863 kWh a Month"
-date: 2026-11-03T05:35:00Z
+date: 2026-11-03T05:05:00Z
 lastVerified: 2026-11-03
 imageAlt: "Aerial view of a dense neighborhood of two-story houses with dark tile roofs, pastel walls, wall-mounted air conditioners and palm trees."
 imageCredit: "Photo by [Breno Assis](https://unsplash.com/@brenoassis?utm_source=solarexaminer&utm_medium=referral) on [Unsplash](https://unsplash.com/photos/aerial-view-of-suburban-neighborhood-houses-r3WAWU5Fi5Q?utm_source=solarexaminer&utm_medium=referral)"
