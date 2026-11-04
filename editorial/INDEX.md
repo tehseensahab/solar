@@ -134,3 +134,5 @@ pacific-power-rate-increase-2027 | Pacific Power Rate Increase 2027: Settlement 
 heat-pump-vs-gas-furnace-cost | Heat Pump vs Gas Furnace Cost: The Running-Cost Math | 2026-11-02 | electric-rates | published | heat pump vs gas furnace cost | /posts/heat-pump-vs-gas-furnace-cost/
 electricity-prices-by-state-august-2026 | Electricity Prices by State, August 2026: Hawaii Up 22.5% | 2026-11-03 | news | published | electricity prices by state august 2026 | /posts/electricity-prices-by-state-august-2026/
 how-much-electricity-does-a-house-use | How Much Electricity Does a House Use? 863 kWh a Month | 2026-11-03 | electric-rates | published | how much electricity does a house use | /posts/how-much-electricity-does-a-house-use/
+pge-rate-increase-2027 | PGE Rate Increase 2027: 3.9% Requested, Hearing Nov. 10 | 2026-11-04 | news | published | pge rate increase 2027 | /posts/pge-rate-increase-2027/
+how-long-do-solar-panels-last | How Long Do Solar Panels Last? What NREL and DOE Data Show | 2026-11-04 | equipment | published | how long do solar panels last | /posts/how-long-do-solar-panels-last/
