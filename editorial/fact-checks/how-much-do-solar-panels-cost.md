@@ -1,0 +1,11 @@
+# Fact-check: how-much-do-solar-panels-cost
+
+Checked November 5, 2026. Byline Craig Leslie. Independent fact-check by a separate agent (same agent as minnesota-power-rate-increase-2027). Counts: 21 verified, 17 qualified, 1 not verified (removed).
+- EnergySage H1 2026 (re-fetched; "Updated Oct 7, 2026"): median $2.57/W, up about 3%; "Costs are calculated before incentives"; solar-only $2.62/W; battery $1,130/kWh (scope undefined); share of installers quoting TPO ~14% to ~41%. VERIFIED (industry data); method not defined, so "median of quotes" wording removed.
+- LBNL U.S. Distributed Solar and Storage 2026 Data Update (Aug. 2026): 7.7 kW median 2025; host-owned residential prices fell $0.5/W YoY (real); loan-financed "considerably higher priced" than cash; top-100 installer medians $2.4-$6.3/W, ~60% below $4, almost 25% below $3, ~10% above $5; state variation, CA low-cost; cash PV+storage $2.1/W higher. VERIFIED. National median levels are chart-only.
+- Mercom (re-fetched): $3.60/W host-owned (inflation-adjusted; standalone PV), cash $3/W, loan $4.50/W; 13.5 kWh median storage. QUALIFIED (secondary reading of LBNL charts), disclosed.
+- IRS OBBB FAQ: 25D "will not be allowed for any expenditures made after December 31, 2025"; made "when the original installation of the item is completed". VERIFIED.
+- Arithmetic: 7,700 x 2.57 = 19,789; x 3.00 = 23,100; x 3.60 = 27,720; x 4.50 = 34,650; 13.5 x 1,130 = 15,255; 24,000/8,000 = 3.00. VERIFIED.
+- Fixes applied: range framed as "two national medians"; description figures aligned with body ($19,800-$27,700); $3.60 labeled solar-only, inflation-adjusted, host-owned (excludes leases/PPAs); "30%" removed (rate not in logged sources); "installed after 2025" changed to installation completed after Dec. 31, 2025; "(DC)" removed (NOT VERIFIED); LBNL sample described as California-dominated; causal claim about installers and leases softened; battery price scope caveat; 13.5 kWh sourced to Mercom (Qualified); unsourced incentive and installer statements rewritten as guidance.
+
+COVER: Unsplash photo 0b3KYOuSNho by Sergio Martins (@smartins20), "Free to use under the Unsplash License". Solar panels on a grey corrugated metal roof; photo location Nelspruit, South Africa (alt text does not claim a U.S. location). images.unsplash.com photo-1780445392628.

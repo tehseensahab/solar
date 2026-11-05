@@ -4,6 +4,8 @@ One line per source: domain or page | works / fails (how) | workaround | date ch
 
 
 ## Federal
+- irs.gov/newsroom/faqs-for-modification-of-sections-25c-25d-...-obbb | works (25D termination, "made when original installation is completed") | - | 2026-11-05
+- eta-publications.lbl.gov 2026-08 distributed_solar_storage-2026_data_update_final.pdf | works; national median $/W levels chart-only | Mercom for chart values (Qualified) | 2026-11-05
 - eia.gov/electricity/monthly/update/end-use.php | works only after it comes back in a WebSearch (direct fetch timed out on approval 2026-10-31; the eia.gov/... no-www copy from search worked) | search "EIA Electricity Monthly Update end-use residential average retail price" | 2026-10-31
 - eia.gov/tools/FAQs/faq.php?id=97&t=3 | works (2022 consumption, 899 kWh/month; page last updated Jan. 2024) after WebSearch | search "EIA how much electricity does an American home use" first | 2026-11-03
 - eia.gov/electricity/sales_revenue_price/pdf/table_5a.pdf (2024 avg monthly kWh and bill by state) | works via WebFetch from search; curl to eia.gov blocked by proxy (403) | - | 2026-11-03
@@ -14,7 +16,6 @@ One line per source: domain or page | works / fails (how) | workaround | date ch
 - energy.gov/node/4830605 (PV fleet 0.75%/yr story); energy.gov/eere/solar/articles/replacing-your-roof... | works after WebSearch returns them (direct: approval timeout) | search the headline first | 2026-11-04
 - irs.gov/instructions/i5695 | works (25C ends after Dec. 31, 2025) | - | 2026-10-28
 - atb.nrel.gov/electricity/2023/residential_pv | works after search (capacity factors by class, kWDC) | - | 2026-10-30
-- eta-publications.lbl.gov Distributed Solar & Storage 2026 data update PDF | works (2025 median 7.7 kW; 37% battery attach); figure-only values not readable | - | 2026-10-27
 - eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a (state Table 5.6.A) | fails: server error / XLS links only | Table 5.3 for U.S. figures; data/eia_prices.yaml for states | 2026-10-26
 - eia.gov/dnav/ng/hist/n3010us3a.htm (U.S. residential natural gas price, annual) | works from search | - | 2026-11-02
 - www1.eere.energy.gov 2023_CAC_Standards_FAQ PDF | works only after it comes back in a WebSearch (direct fetch: approval timeout) | search "2023 CAC standards FAQ HSPF2" | 2026-11-02
@@ -22,6 +23,9 @@ One line per source: domain or page | works / fails (how) | workaround | date ch
 - energy.gov/energysaver/articles/estimating-appliance-and-home-electronic-energy-use | fails: client error | energy.gov/node/365749 | 2026-10-27
 
 ## State regulators and utilities
+- minnesotapower.blob.core.windows.net .../PressReleases/2026/PressRelease*.pdf (Minnesota Power releases; links from mnpower.com/Company/PressReleases) | works (rate request Nov. 2, 2026; bill credits Oct. 9; no docket numbers) | - | 2026-11-05
+- mnpower.com home page; mnpower.com/CustomerService/NewElectricRates | fails: approval timeout / 404 | mnpower.com/Company/PressReleases (works, from search) | 2026-11-05
+- efiling.web.commerce.state.mn.us document downloads (MN eDockets) | fails: client error | company release; news for docket | 2026-11-05
 - we-energies.com/olb/26/*.pdf (customer notices: 2026-05-we-rr.pdf requested rates; 2026-01-we-electric-rates.pdf tariff) | works (text PDFs) | - | 2026-10-31
 - cubwi.org (Citizens Utility Board of WI) case pages | works (calendar, figures; advocacy, Qualified) | - | 2026-10-31
 - occ.ohio.gov/factsheet (Ohio Consumers' Counsel, e.g. 26-0347-EL-AIR) | works (per-utility $/month at 1,000 kWh) | - | 2026-10-31
@@ -65,6 +69,12 @@ One line per source: domain or page | works / fails (how) | workaround | date ch
 - blackhillsenergy.com 2026-colorado-electric-regulatory-rate-review | works ($10.90, 8.8%, March 2027; no proceeding number) | gcn.com for 26AL-0232E | 2026-11-03
 
 ## Industry and news (context only)
+- southwestledger.news | fails: robots disallowed | tulsaflyer.org, krmg.com, fox23.com | 2026-11-05
+- fox21online.com, northernnewsnow.com, businessnorth.com, dailyenergyinsider.com | works (MN news; check figures against company release) | - | 2026-11-05
+- mercomindia.com | works (reads LBNL chart values; Qualified) | - | 2026-11-05
+- pv-magazine.com 2026 article URLs | fails: 302 to http | pv-tech.org or EnergySage original | 2026-11-05
+- energysage.com/news/home-energy-market-h1-2026-highlights/ | works after search | - | 2026-11-05
+- unsplash "two men working on roof" RGkNFjRPyO0 and snow field -IGnQ7aIok4 | already used on site; always grep photo IDs before download | - | 2026-11-05
 - tulsaflyer.org | works (OCC PSO meeting coverage Nov. 3, 2026) | - | 2026-11-04
 - kpic.com | works | - | 2026-11-04
 - solarunitedneighbors.org guides | works after WebSearch (direct: approval timeout) | search the headline | 2026-11-04

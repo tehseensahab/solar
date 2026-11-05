@@ -1,7 +1,7 @@
 ---
 title: "Minnesota Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
-lastVerified: 2026-10-04
+lastVerified: 2026-11-05
 imageAlt: "Transmission tower and power lines above a green hillside under a blue sky with thin clouds."
 imageCredit: "Photo by Thomas Despeyroux on [Unsplash](https://unsplash.com/photos/electrical-tower-on-grass-field-Dh5pUa2PwrY?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -29,6 +29,8 @@ faq:
 Minnesota's largest utility did not change rates on October 1, 2026. Xcel Energy's two-year electric rate case was decided earlier in 2026, and the main remaining event for customers is a refund of interim rates.
 
 This article covers Xcel Energy (Northern States Power). It does not cover Minnesota Power, Otter Tail Power, cooperatives or municipal utilities.
+
+**Update, Nov. 5, 2026:** Minnesota Power filed a rate request on Nov. 2, 2026, asking for $134 million net of riders (17.8%), which it says would add about $24 a month to the average residential bill if fully approved, plus a requested 15% interim increase from January 2027, according to its [news release](https://minnesotapower.blob.core.windows.net/content/Content/Documents/Company/PressReleases/2026/PressRelease11022026.pdf). See [our report on the Minnesota Power request](/posts/minnesota-power-rate-increase-2027/).
 
 ## Quick Summary
 
