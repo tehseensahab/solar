@@ -136,3 +136,5 @@ electricity-prices-by-state-august-2026 | Electricity Prices by State, August 20
 how-much-electricity-does-a-house-use | How Much Electricity Does a House Use? 863 kWh a Month | 2026-11-03 | electric-rates | published | how much electricity does a house use | /posts/how-much-electricity-does-a-house-use/
 pge-rate-increase-2027 | PGE Rate Increase 2027: 3.9% Requested, Hearing Nov. 10 | 2026-11-04 | news | published | pge rate increase 2027 | /posts/pge-rate-increase-2027/
 how-long-do-solar-panels-last | How Long Do Solar Panels Last? What NREL and DOE Data Show | 2026-11-04 | equipment | published | how long do solar panels last | /posts/how-long-do-solar-panels-last/
+minnesota-power-rate-increase-2027 | Minnesota Power Rate Increase 2027: $24 a Month Requested | 2026-11-05 | news | published | minnesota power rate increase | /posts/minnesota-power-rate-increase-2027/
+how-much-do-solar-panels-cost | How Much Do Solar Panels Cost in 2026? What the Data Shows | 2026-11-05 | costs-incentives | published | how much do solar panels cost | /posts/how-much-do-solar-panels-cost/
