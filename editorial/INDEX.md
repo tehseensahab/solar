@@ -138,3 +138,5 @@ pge-rate-increase-2027 | PGE Rate Increase 2027: 3.9% Requested, Hearing Nov. 10
 how-long-do-solar-panels-last | How Long Do Solar Panels Last? What NREL and DOE Data Show | 2026-11-04 | equipment | published | how long do solar panels last | /posts/how-long-do-solar-panels-last/
 minnesota-power-rate-increase-2027 | Minnesota Power Rate Increase 2027: $24 a Month Requested | 2026-11-05 | news | published | minnesota power rate increase | /posts/minnesota-power-rate-increase-2027/
 how-much-do-solar-panels-cost | How Much Do Solar Panels Cost in 2026? What the Data Shows | 2026-11-05 | costs-incentives | published | how much do solar panels cost | /posts/how-much-do-solar-panels-cost/
+black-hills-energy-rate-increase-2026 | Black Hills Energy Rate Increase: SD Approves $16.34 a Month | 2026-11-06 | news | published | black hills energy rate increase | /posts/black-hills-energy-rate-increase-2026/
+solar-battery-cost | Solar Battery Cost 2026: What Home Batteries Really Cost | 2026-11-06 | costs-incentives | published | solar battery cost | /posts/solar-battery-cost/

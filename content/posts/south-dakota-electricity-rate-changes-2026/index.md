@@ -1,7 +1,7 @@
 ---
 title: "South Dakota Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
-lastVerified: 2026-10-04
+lastVerified: 2026-11-06
 imageAlt: "Rows of solar panels installed on a large corrugated metal roof, seen from above."
 imageCredit: "Photo by Rafael Moreno on [Unsplash](https://unsplash.com/photos/solar-panels-are-installed-on-a-rooftop-73JOOymZQTQ?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -58,6 +58,8 @@ Xcel put interim rates in place on January 1, 2026, based on its full request. S
 ## Black Hills Energy: Pending
 
 Black Hills Energy, which serves the Rapid City area, has asked for a 25% increase for typical residential customers, about $25.13 a month (Docket EL26-003). In May 2026 the PUC admitted eight intervenors, including a hospital and several manufacturers. No decision has been reported.
+
+**Update, Nov. 6, 2026:** On Nov. 4 the PUC approved a settlement raising Black Hills' revenue by $27.354 million a year, about $16.34 a month for a typical home using 650 kWh, effective Dec. 1, 2026, with refunds of the higher interim rates charged since Aug. 18 ([PUC release](https://puc.sd.gov/News/2026/11052026.aspx)). A separate Lange II power plant surcharge is still pending; read [what the Black Hills decision and the plant surcharge mean for December bills](/posts/black-hills-energy-rate-increase-2026/).
 
 ## What This Means for Homeowners With Solar
 
