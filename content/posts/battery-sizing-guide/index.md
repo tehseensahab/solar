@@ -23,3 +23,9 @@ A refrigerator (150W average), router (15W), and five LED lights (50W total) run
 ## When to size bigger
 
 If you have a well pump, medical equipment, or live somewhere with multi-day outages, size to that specific load rather than the general critical-load estimate above.
+
+## Related
+
+- [kW vs kWh: what each means on your bill and solar quote](/posts/kw-vs-kwh/), for the watt versus watt-hour math used above.
+- [How many solar panels do I need?](/posts/how-many-solar-panels-do-i-need/), for sizing the panels that charge the battery.
+- [Solar payback period without the federal tax credit](/posts/solar-payback-period-without-federal-tax-credit/), before you add a battery to a quote.
