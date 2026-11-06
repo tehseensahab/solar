@@ -1,11 +1,11 @@
 ---
-title: "Treasury's new ITC guidance narrows the domestic-content bonus — here's who still qualifies"
+title: "Federal solar tax credit after 2025: what ended and what to check before you sign"
 date: 2026-09-21
 lastVerified: 2026-11-06
 imageAlt: "Corinthian columns and carved cornice of a neoclassical building against a blue sky."
 imageCredit: "Photo by Juliana Uribbe on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-building-with-columns-and-a-sky-background-znrLocTa1x4?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["costs-incentives"]
-description: "Updated Treasury rules tighten the steel-and-iron threshold for the 10% bonus credit, effective for projects placed in service next year."
+description: "The 30% Residential Clean Energy Credit (Section 25D) is not allowed for installations completed after Dec. 31, 2025, per the IRS. Here is what that means for quotes."
 readtime: "6 min read"
 author: "Priya Nathan"
 weight: 1

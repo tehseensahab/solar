@@ -1,11 +1,11 @@
 ---
-title: "Community solar subscriptions grew 14% this year — but cancellations are rising too"
+title: "Community solar in 2026: what the DOE data shows and what to ask before subscribing"
 date: 2026-09-11
 lastVerified: 2026-11-06
 imageAlt: "Aerial view of rows of solar panels across a grassy field."
 imageCredit: "Photo by Daniel Miksha on [Unsplash](https://unsplash.com/photos/rows-of-solar-panels-in-a-grassy-field-from-above-n2Q4QtRNeUg?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["costs-incentives"]
-description: "New subscriber growth is real, but so is a churn problem tied to unclear savings guarantees."
+description: "DOE data shows community solar in 44 states and localities and about 7.87 GW in operation. Here is what it does and doesn't tell you, plus questions to ask before you subscribe."
 readtime: "6 min read"
 author: "Priya Nathan"
 weight: 4
