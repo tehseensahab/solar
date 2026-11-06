@@ -15,6 +15,8 @@ faq:
 
 The U.S. Energy Information Administration's September outlook projects the average U.S. residential electricity price at 18.2 cents per kilowatt-hour (kWh) in 2026. That compares with 17.3 cents in 2025 and 16.5 cents in 2024. EIA projects 18.6 cents for 2027.
 
+**Update, November 6, 2026:** EIA published a newer outlook on October 6, 2026. It keeps the 2026 forecast at 18.2¢/kWh and raises the 2027 forecast to 18.7¢. See our [EIA October 2026 outlook](/posts/eia-october-2026-electricity-price-forecast/) for the current figures. The numbers below are from the September 9 release.
+
 ## The numbers
 
 | Year | Avg. residential price (¢/kWh) |
