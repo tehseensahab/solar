@@ -140,3 +140,5 @@ minnesota-power-rate-increase-2027 | Minnesota Power Rate Increase 2027: $24 a M
 how-much-do-solar-panels-cost | How Much Do Solar Panels Cost in 2026? What the Data Shows | 2026-11-05 | costs-incentives | published | how much do solar panels cost | /posts/how-much-do-solar-panels-cost/
 black-hills-energy-rate-increase-2026 | Black Hills Energy Rate Increase: SD Approves $16.34 a Month | 2026-11-06 | news | published | black hills energy rate increase | /posts/black-hills-energy-rate-increase-2026/
 solar-battery-cost | Solar Battery Cost 2026: What Home Batteries Really Cost | 2026-11-06 | costs-incentives | published | solar battery cost | /posts/solar-battery-cost/
+puget-sound-energy-rate-increase-2027 | Puget Sound Energy Rate Increase 2027: $28 a Month Requested | 2026-11-07 | news | published | puget sound energy rate increase 2027 | /posts/puget-sound-energy-rate-increase-2027/
+wps-rate-increase-2027 | WPS Rate Increase 2027: About $1 a Month, WPS Estimates | 2026-11-07 | news | published | wps rate increase 2027 | /posts/wps-rate-increase-2027/

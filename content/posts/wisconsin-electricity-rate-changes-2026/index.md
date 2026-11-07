@@ -1,7 +1,7 @@
 ---
 title: "Wisconsin Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
-lastVerified: 2026-10-04
+lastVerified: 2026-11-07
 imageAlt: "Brick barn with a roof covered in solar panels beside a green lawn and trees."
 imageCredit: "Photo by Sergej ***** on [Unsplash](https://unsplash.com/photos/barns-with-solar-panels-in-a-grassy-field-pvY0LKn3GDI?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -95,6 +95,8 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 ## What Happens Next
 
 The PSC typically decides rate cases late in the year for rates starting in January. Decisions on the We Energies and Wisconsin Public Service requests would be expected before January 2027. We did not confirm a date.
+
+**Update, Nov. 7, 2026:** The PSC approved both rate cases on Nov. 5, 2026, according to WEC Energy Group's [SEC filing](https://www.sec.gov/Archives/edgar/data/0000783325/000078332526000109/wec-20261105.htm). Company estimates reported by [WPR](https://www.wpr.org/energy/regulators-rate-hikes-we-energies-wisconsin-public-service) put electric increases at 3.9% (2027) and 3.5% (2028) for We Energies and 0.3% and 2.9% for Wisconsin Public Service; the written order with final rates is pending. Details: [WPS rate increase 2027](/posts/wps-rate-increase-2027/).
 
 ## Limitations
 

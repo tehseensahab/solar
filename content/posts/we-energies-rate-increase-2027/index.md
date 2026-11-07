@@ -1,7 +1,7 @@
 ---
 title: "We Energies Rate Increase 2027: $14.67 a Month Requested"
 date: 2026-10-31T05:00:00Z
-lastVerified: 2026-10-31
+lastVerified: 2026-11-07
 imageAlt: "Steel lattice and concrete power line towers carrying high-voltage lines through a snow-covered field lined with evergreen trees under a gray winter sky."
 imageCredit: "Photo by Olga Deeva on [Unsplash](https://unsplash.com/photos/a-snow-covered-field-with-power-lines-and-trees--IGnQ7aIok4?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["news"]
@@ -102,6 +102,8 @@ If the PSC puts most of the increase into per-kWh charges, self-used solar is wo
 ## What Happens Next
 
 According to CUB's case calendar, public hearings were held in September and legal briefs were due by early October. The PSC is likely to vote at an open meeting in November and issue a written order in December. We Energies said in April it expected a decision "later this year," with new rates in January 2027. We will update this article when the PSC votes.
+
+**Update, Nov. 7, 2026:** The PSC approved rate changes for We Energies on Nov. 5, 2026, according to WEC Energy Group's [SEC filing](https://www.sec.gov/Archives/edgar/data/0000783325/000078332526000109/wec-20261105.htm), with a 9.5% return on equity. WEC's preliminary estimates, as reported by [WPR](https://www.wpr.org/energy/regulators-rate-hikes-we-energies-wisconsin-public-service), are electric increases of 3.9% in 2027 and 3.5% in 2028, about $7 to $8 a month and then $6 to $7 for a typical residential customer, below the request above. The PSC's written order with final rates is expected in the coming weeks. Our [WPS rate increase article](/posts/wps-rate-increase-2027/) covers the companion decision.
 
 ## Sources and verification
 

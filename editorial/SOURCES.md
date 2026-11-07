@@ -16,7 +16,6 @@ One line per source: domain or page | works / fails (how) | workaround | date ch
 - energy.gov/node/4830605 (PV fleet 0.75%/yr story); energy.gov/eere/solar/articles/replacing-your-roof... | works after WebSearch returns them (direct: approval timeout) | search the headline first | 2026-11-04
 - irs.gov/instructions/i5695 | works (25C ends after Dec. 31, 2025) | - | 2026-10-28
 - eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a (state Table 5.6.A) | fails: server error / XLS links only | Table 5.3 for U.S. figures; data/eia_prices.yaml for states | 2026-10-26
-- www1.eere.energy.gov 2023_CAC_Standards_FAQ PDF | works only after it comes back in a WebSearch (direct fetch: approval timeout) | search "2023 CAC standards FAQ HSPF2" | 2026-11-02
 - energy.gov/energysaver/air-source-heat-pumps | fails: approval timeout | energy.gov/energysaver/heat-and-cool/heat-pump-systems/air-source-heat-pumps (works) | 2026-11-02
 - energy.gov/energysaver/articles/estimating-appliance-and-home-electronic-energy-use | fails: client error | energy.gov/node/365749 | 2026-10-27
 
@@ -26,12 +25,14 @@ One line per source: domain or page | works / fails (how) | workaround | date ch
 - efiling.web.commerce.state.mn.us document downloads (MN eDockets) | fails: client error | company release; news for docket | 2026-11-05
 - we-energies.com/olb/26/*.pdf (customer notices: 2026-05-we-rr.pdf requested rates; 2026-01-we-electric-rates.pdf tariff) | works (text PDFs) | - | 2026-10-31
 - occ.ohio.gov/factsheet (Ohio Consumers' Counsel, e.g. 26-0347-EL-AIR) | works (per-utility $/month at 1,000 kWh) | - | 2026-10-31
-- utc.wa.gov/casedocket/2026/260005 (PSE rate case summary) | works | - | 2026-10-26
-- utc.wa.gov/casedocket/.../orders and /docsets subtabs | fails: approval required | WebSearch docket number; pse.com rate case page | 2026-10-26
-- pse.com/en/pages/rates/pending-utc-filings/2026-general-rate-case | works (residential % and $/month at 800 kWh) | - | 2026-10-26
+- utc.wa.gov/casedocket/2026/260005 (PSE rate case summary) | works (status only, no $) | - | 2026-11-07
+- apiproxy.utc.wa.gov/cases/GetDocument?docID=...&docketNumber=260005 (UTC filed testimony PDFs) | works when returned by WebSearch "UE-260005 <exhibit>" | - | 2026-11-07
+- utc.wa.gov/casedocket/.../orders and /docsets subtabs | fails: approval required | WebSearch docket number + exhibit name | 2026-10-26
+- pse.com .../8752_PublicCommentHearingNoticeOnGRC_0526_Web.pdf (PSE GRC notice: %, $M, 800 kWh bills 2027-29, basic charge) | works | - | 2026-11-07
+- pse.com/en/pages/rates/pending-utc-filings | works; its 2026-general-rate-case subpage and general-rate-case-statement fail (provenance / 404) | use the hearing notice PDF | 2026-11-07
+- pse.com elec_sch_150.pdf (net metering) | works | - | 2026-11-07
 - evergy.com rate review page | fails: blocked | PSC press releases and EFIS | 2026-10-25
 - efis.psc.mo.gov/Document/Display/880663 (Ameren ER-2026-0291 filing) | works (schedules 1, 3, 5) | - | 2026-10-27
-- prnewswire.com release URLs taken from another page | fails: approval required | use the company mediaroom copy from search | 2026-10-27
 - docs.tep.com TEP-2026-Rates-Public-Notice.pdf; tep.com/news release | works | - | 2026-10-28
 - tep.com/rate-changes/ | fails: approval timeout | TEP news release + public notice | 2026-10-28
 - docket.images.azcc.gov/*.pdf, edocket.azcc.gov item-detail | fails: approval required | azcc.gov/news posts (work); news (AZ Luminaria) for ROO, mark Qualified | 2026-10-28
@@ -61,10 +62,14 @@ One line per source: domain or page | works / fails (how) | workaround | date ch
 - puc.sd.gov docket pages (Dockets/Electric/2026/<docket>.aspx), News/2026 releases, agendas | works | - | 2026-11-06
 - puc.sd.gov docket PDFs (commission/dockets/electric/...) | works only if the exact URL came back in a WebSearch or fetched page text; URLs read off a docket page by WebFetch sometimes rejected (provenance) | WebSearch "<docket> <document name>" first, or ask the docket page fetch for "exact full href URLs" | 2026-11-06
 - puc.sd.gov/commission/publication/solarfaq.pdf | works after search (no net metering; avoided cost) | - | 2026-11-06
-- Oklahoma PSO rate order (Nov. 5, 2026) | no official order/release found; imaging.occ.ok.gov/AP/Orders PDFs appear in search | KGOU, tulsaflyer.org (news, Qualified); nondoc.com fails (client error) | 2026-11-06
+- Oklahoma PSO rate order (Nov. 5, 2026) | still no order/release or residential $ on 2026-11-07; NewsOn6 says PSO will release figures "next week" | KGOU, kosu.org, newson6.com, tulsaflyer.org (news); nondoc.com fails | 2026-11-07
+- sec.gov WEC 8-K (wec-20261105.htm) | works; Exhibit 99.1 slide URLs from Stock Titan fail (provenance) | stocktitan.net 8-K copies (work; label third-party copy) | 2026-11-07
+- news.wisconsinpublicservice.com releases | works | - | 2026-11-07
+- psc.wi.gov decision documents / press release for 2027-28 cases | not found via search | WEC 8-K + WPR/NBC 26/WFRV (Qualified) | 2026-11-07
+- apps.apsc.arkansas.gov (docket search and PDFs), arkansasonline.com, nwaonline.com, arktimes.com, eldoradonews.com | fails: robots disallowed | entergyarkansas.com/ratecase2026, arkansasadvancedenergy.com | 2026-11-07
 
 ## Industry and news (context only)
-- news that works (context only; check dates): wpde.com, krmg.com, ktvz.com (after search), kpic.com, gcn.com, kfyrtv.com, wral.com, stlpr.org, kfvs12.com, tulsaflyer.org, fox21online.com, northernnewsnow.com, wpr.org, whyy.org | works | - | 2026-11-06
+- news that works (context only; check dates): wpr.org, nbc26.com, fox11online.com, wisconsinwatch.org, wisn.com, yahoo.com syndications, mynorthwest.com, fox13seattle.com (.amp), wpde.com, krmg.com, ktvz.com (after search), kpic.com, gcn.com, kfyrtv.com, wral.com, stlpr.org, kfvs12.com, tulsaflyer.org, fox21online.com, northernnewsnow.com, wpr.org, whyy.org | works | - | 2026-11-06
 - other regulator/company pages that work: psc.mo.gov releases, efis.psc.mo.gov calendars, ameren.mediaroom.com, puc.colorado.gov, puc.pa.gov PDFs, oregon.gov/puc PR PDFs (search first), portlandgeneral.com news, cubwi.org (advocate), energysage.com/news H1 2026, eia.gov/dnav gas prices, atb.nrel.gov 2023 PV | works | - | 2026-11-06
 - southdakotasearchlight.com, keloland.com, kbhbradio.com | fails: client error | rapidcitypost.com (PUC News reprints), sdpb.org, kotatv.com (work) | 2026-11-06
 - energysage.com/energy-storage/how-much-do-batteries-cost | works (updated Jul 13, 2026; $15,647 has no stated data period) | - | 2026-11-06
@@ -73,10 +78,11 @@ One line per source: domain or page | works / fails (how) | workaround | date ch
 - southwestledger.news | fails: robots disallowed | tulsaflyer.org, krmg.com, fox23.com | 2026-11-05
 - mercomindia.com | works (reads LBNL chart values; Qualified) | - | 2026-11-05
 - pv-magazine.com 2026 article URLs | fails: 302 to http | pv-tech.org or EnergySage original | 2026-11-05
-- unsplash: most residential-solar and home-battery photos on /s/photos/solar-panels-on-roof, /solar-powered, /battery-storage, /home-battery are already used on site (checked 2026-11-06); always grep photo IDs and images.unsplash.com IDs before download | - | 2026-11-06
 - solarunitedneighbors.org guides | works after WebSearch (direct: approval timeout) | search the headline | 2026-11-04
 - manufacturer datasheets via third-party copies (energymatters.com.au Enphase IQ8 US; vicoexport.com Qcells) | works (text PDFs); disclose third-party copy | - | 2026-11-04
 - michiganadvance.com, ohiocapitaljournal.com | fails: client error | AG/regulator release, fox2detroit.com, fox17online.com, michiganpublic.org, wnem.com (work) | 2026-10-30
 - scdailygazette.com | fails: client error | wpde.com, wbtw.com (check dates; many 2024 hits) | 2026-11-01
-- unsplash | unsplash.com/s/photos/<term> pages from WebSearch work (list free vs Unsplash+ with images.unsplash.com URLs); photo pages from search work; curl unsplash.com 401 -> curl images.unsplash.com URL; check photo ID against content/posts before use | - | 2026-11-04
-- hugo binary | not installable here (pip wheels start at 0.147.8; go/GitHub blocked; pip install blocked by classifier) | rely on Cloudflare build + live WebFetch check; validate front matter with python yaml | 2026-11-04
+- unsplash | /s/photos/<term> pages and photo pages from WebSearch work (free vs Unsplash+ listed); curl images.unsplash.com works (unsplash.com 401); most rooftop-solar/battery photos already used; power-grid page has unused free shots (2026-11-07); grep photo ID and image ID before use | - | 2026-11-07
+- hugo binary | works: curl github.com/gohugoio/hugo/releases/download/v0.123.7/hugo_extended_0.123.7_linux-amd64.tar.gz, extract to /tmp (full build ~70 s) | - | 2026-11-07
+- wtmj.com, wearegreenbay.com | fails: client error | wpr.org, nbc26.com, yahoo copy of WFRV | 2026-11-07
+- cascadiadaily.com ?p= links | 302 to http URL, then provenance refusal | mynorthwest.com, fox13seattle.com | 2026-11-07
