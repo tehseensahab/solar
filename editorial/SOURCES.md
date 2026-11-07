@@ -79,4 +79,5 @@ One line per source: domain or page | works / fails (how) | workaround | date ch
 - michiganadvance.com, ohiocapitaljournal.com | fails: client error | AG/regulator release, fox2detroit.com, fox17online.com, michiganpublic.org, wnem.com (work) | 2026-10-30
 - scdailygazette.com | fails: client error | wpde.com, wbtw.com (check dates; many 2024 hits) | 2026-11-01
 - unsplash | unsplash.com/s/photos/<term> pages from WebSearch work (list free vs Unsplash+ with images.unsplash.com URLs); photo pages from search work; curl unsplash.com 401 -> curl images.unsplash.com URL; check photo ID against content/posts before use | - | 2026-11-04
-- hugo binary | not installable here (pip wheels start at 0.147.8; go/GitHub blocked; pip install blocked by classifier) | rely on Cloudflare build + live WebFetch check; validate front matter with python yaml | 2026-11-04
+- hugo binary | works: curl github.com/gohugoio/hugo/releases/download/v0.123.7/hugo_extended_0.123.7_linux-amd64.tar.gz, extract to /tmp (full build ~55 s); pip 'hugo' gives 0.169 | - | 2026-11-06
+- solarexaminer.com live check | WebFetch refused (provenance) for our own URLs on 2026-11-06, even homepage; curl blocked (000/403) | check Cloudflare Pages check run on the PR via GitHub MCP; ask owner to confirm | 2026-11-06
