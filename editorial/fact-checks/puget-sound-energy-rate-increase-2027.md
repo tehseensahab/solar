@@ -1,0 +1,15 @@
+# Fact-check: puget-sound-energy-rate-increase-2027
+
+Checked November 7, 2026. Byline John Marshall. Independent fact-check by a separate agent (5 re-fetches across both of today's articles: PSE hearing notice, PSE Schedule 150, WPS April release, NBC 26, WEC 8-K); findings applied. Counts: 30 verified, 8 qualified, 2 not verified (both rewritten).
+- PSE public comment hearing notice (re-fetched): filed Feb. 27, 2026, "three-year rate plan"; dockets UE-260005 / UG-260006; electric 15.2% ($625M), 3.7% ($179M), 8.7% ($432M); "Total bill at 800 kWh per month $159.46 $187.77 $194.35 $210.04" (columns: at filing; proposed Feb. 2027; Feb. 2028; Feb. 2029); basic charge $7.49 -> $12.50 -> $15.00 -> $20.00; gas 64 therms $105.37 -> $119.00 -> $122.78 -> $127.33; gas basic $14.00 -> $18.12; "$3.2 billion"; 80% by 2030-2033; "may take up to 11 months"; "higher or lower than PSE's request"; hearings Sept. 29 (Lacey) and Oct. 7 (virtual); comment channels. VERIFIED.
+- UTC docket page UE-260005: open, formal, consolidated parent. VERIFIED. (Docket summary says "4 Year Multi-year Rate Plan"; notice says three-year; article uses the notice.)
+- PSE pending filings page: "If approved by the UTC, new rates would be effective in early 2027." VERIFIED.
+- PSE rebuttal Exh. MLV-13T (Sept. 15, 2026): Staff witness Misare "recommends excluding the full $290 million for the Cable Remediation program from rate recovery"; Public Counsel witness Holloway recommends reducing the MYRP ($455.2M, PSE says error). VERIFIED as described by PSE; first names removed (not in source).
+- PSE Schedule 150 (re-fetched): basic charge still billed; kWh credits carry forward; March 31 credits "granted to the Company, without compensation"; 100 kW AC; effective Feb. 29, 2024; availability "until December 31, 2025, or when a replacement Net Metering schedule is in place ..., whichever is later." VERIFIED.
+- FOX 13 (Sept. 30): decision expected in January. QUALIFIED (news). MyNorthwest (Oct. 8): 16.75% residential 2027; comments "until Nov. 12". QUALIFIED (news; UTC date not confirmed).
+- Arithmetic recomputed: +$28.31 (17.8%), +$6.58 (3.5%), +$15.69 (8.1%), +$50.58 (31.7%); basic-charge share $12.51 (about a quarter), $5.01 of 2027; non-fixed averages 19.0/21.9/22.4/23.8 cents; solar examples $95 / $110; dual-fuel $41.94. VERIFIED.
+- Fixes applied: FAQ net-metering line rewritten to "notice does not mention changes to Schedule 150"; hearings described as scheduled; takeaway labels 21.9 cents as an average of non-fixed charges; unsourced "tiered and riders" clause removed; 17.8% vs 15.2% different measures explained; staff/PC positions labeled as described by PSE.
+- Pre-publish recheck (Nov. 7): search found no UTC decision or settlement.
+- State term: Washington; in-body hub link /posts/washington-electricity-rate-changes-2026/ in paragraph 2 (anchor "Washington electric rates and solar overview"). Hub: dated body note added under "What Happens Next"; lastVerified 2026-11-07.
+
+COVER: Unsplash photo y1k79lB0oIU (Energie-portal.sk), free Unsplash License.

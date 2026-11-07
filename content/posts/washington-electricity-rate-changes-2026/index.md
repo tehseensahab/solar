@@ -1,7 +1,7 @@
 ---
 title: "Washington Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
-lastVerified: 2026-10-04
+lastVerified: 2026-11-07
 imageAlt: "Rooftop solar panels in the foreground with wooded hills and blue sky behind."
 imageCredit: "Photo by Aron Schmitz on [Unsplash](https://unsplash.com/photos/solar-panels-on-roof-over-hillside-Fm30OtHVonE?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -99,6 +99,8 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 ## What Happens Next
 
 PSE's approved two-year plan covered 2025 and 2026. We did not find the status of its next general rate case.
+
+**Update, Nov. 7, 2026:** PSE filed a three-year rate plan on Feb. 27, 2026 (dockets UE-260005 and UG-260006). Its [customer notice](https://www.pse.com/-/media/Project/PSE/Portal/Rate-documents/News-and-Filings/8752_PublicCommentHearingNoticeOnGRC_0526_Web.pdf) puts the 800 kWh bill at $187.77 under proposed February 2027 rates, up $28.31 from $159.46 at filing. It is pending before the UTC. Details: [Puget Sound Energy rate increase 2027](/posts/puget-sound-energy-rate-increase-2027/).
 
 ## Limitations
 
