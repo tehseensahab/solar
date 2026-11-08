@@ -142,3 +142,5 @@ black-hills-energy-rate-increase-2026 | Black Hills Energy Rate Increase: SD App
 solar-battery-cost | Solar Battery Cost 2026: What Home Batteries Really Cost | 2026-11-06 | costs-incentives | published | solar battery cost | /posts/solar-battery-cost/
 puget-sound-energy-rate-increase-2027 | Puget Sound Energy Rate Increase 2027: $28 a Month Requested | 2026-11-07 | news | published | puget sound energy rate increase 2027 | /posts/puget-sound-energy-rate-increase-2027/
 wps-rate-increase-2027 | WPS Rate Increase 2027: About $1 a Month, WPS Estimates | 2026-11-07 | news | published | wps rate increase 2027 | /posts/wps-rate-increase-2027/
+pacific-power-california-rate-increase-2027 | Pacific Power California Rate Increase: 57% Asked for 2027 | 2026-11-08 | news | published | pacific power rate increase california | /posts/pacific-power-california-rate-increase-2027/
+christmas-lights-cost-to-run | How Much Does It Cost to Run Christmas Lights? (2026) | 2026-11-08 | electric-rates | published | cost to run christmas lights | /posts/christmas-lights-cost-to-run/
