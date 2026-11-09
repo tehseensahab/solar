@@ -2,7 +2,6 @@
 
 One line per source: domain or page | works / fails (how) | workaround | date checked. Read before research; never fetch a source marked fails. Keep under ~80 lines.
 
-
 ## Federal
 - irs.gov/newsroom/faqs-for-modification-of-sections-25c-25d-...-obbb | works (25D termination, "made when original installation is completed") | - | 2026-11-05
 - eta-publications.lbl.gov 2026-08 distributed_solar_storage-2026_data_update_final.pdf | works; national median $/W levels chart-only | Mercom for chart values (Qualified) | 2026-11-05
@@ -40,8 +39,10 @@ One line per source: domain or page | works / fails (how) | workaround | date ch
 - interchange.puc.texas.gov/Documents/*.PDF (PUCT dockets, e.g. 58819) | fails: client error on every doc tried | swepco.com notice PDFs from search; no workaround found for settlement | 2026-10-29
 - swepco.com/company/about/rates/tx; SWEPCORATECHANGEREQUEST...pdf | works | - | 2026-10-29
 - docs.cpuc.ca.gov Published/Efile PDFs | works | - | 2026-10-29
-- michigan.gov/ag/news/press-releases/2026/... (MI Attorney General) | works (amounts, residential %, ROE; rarely case numbers) | - | 2026-10-30
-- U-22070 case filings (MPSC e-dockets) | not found via search | AG releases + news (Qualified) | 2026-10-30
+- michigan.gov/ag/news/press-releases/2026/... (MI Attorney General) | works (amounts, residential %; rarely case numbers; Feb. 19 2026 DTE decision release substitutes for michiganadvance.com) | - | 2026-11-09
+- mi-psc.my.site.com/sfc/servlet.shepherd/version/download/... (MPSC e-docket files, e.g. U-22046 DTE application, rate case summary) | works when the URL comes back in WebSearch (search "U-22046 DTE Elec Application"); application Attachment 2 = class %, Attachment 3 = bills by kWh | - | 2026-11-09
+- spglobal.com/market-intelligence research articles (e.g. MPSC staff testimony summaries) | works; article text sits past offset 100000 | mark Qualified (trade press) | 2026-11-09
+- cubofmichigan.org/blog | works (testimony summaries, PFD dates; advocate) | - | 2026-11-09
 - santeecooper.com/rates/rate-study/residential/ and /Rates/Rate-Study/ ; RatesDocuments2026 PDFs (May 1 presentation, ORS letter, fact sheet) from search | works | - | 2026-11-01
 - eia.gov/electricity/monthly/epm_table_grapher.php?+t=epmt_5_3 (Table 5.3, from search) | works, but WebFetch may serve a stale cached vintage (returned June data on 2026-11-03) | check release date in result; use print-version.php | 2026-11-03
 - flashalert.net/id/PacificPower (Pacific Power's own release feed) | works (full release text incl. tables) | - | 2026-11-02
@@ -57,14 +58,13 @@ One line per source: domain or page | works / fails (how) | workaround | date ch
 
 - puc.sd.gov docket pages (Dockets/Electric/2026/<docket>.aspx), News/2026 releases, agendas | works | - | 2026-11-06
 - puc.sd.gov docket PDFs (commission/dockets/electric/...) | works only if the exact URL came back in a WebSearch or fetched page text; URLs read off a docket page by WebFetch sometimes rejected (provenance) | WebSearch "<docket> <document name>" first, or ask the docket page fetch for "exact full href URLs" | 2026-11-06
-- Oklahoma PSO rate order (Nov. 5, 2026) | still no order/release or residential $ on 2026-11-08 (NewsOn6 Nov. 6: officials "still calculating") | KGOU, kosu.org, newson6.com, tulsaflyer.org (news); nondoc.com fails; kfor/kecofm hits were 2023-24 | 2026-11-08
+- Oklahoma PSO rate order (Nov. 5, 2026) | still no order/release or residential $ on 2026-11-09 (NewsOn6 Nov. 6: officials "still calculating") | KGOU, kosu.org, newson6.com, tulsaflyer.org (news); nondoc.com fails; kfor/kecofm hits were 2023-24 | 2026-11-08
 - sec.gov WEC 8-K (wec-20261105.htm) | works; Exhibit 99.1 slide URLs from Stock Titan fail (provenance) | stocktitan.net 8-K copies (work; label third-party copy) | 2026-11-07
 - news.wisconsinpublicservice.com releases | works | - | 2026-11-07
 - psc.wi.gov decision documents / press release for 2027-28 cases | not found via search | WEC 8-K + WPR/NBC 26/WFRV (Qualified) | 2026-11-07
 - apps.apsc.arkansas.gov (docket search and PDFs), arkansasonline.com, nwaonline.com, arktimes.com, eldoradonews.com | fails: robots disallowed | entergyarkansas.com/ratecase2026, arkansasadvancedenergy.com | 2026-11-07
 
-- pacificpower.net/about/rates-regulation/california-rate-changes.html | works (CA GRC Nov. 2026: 57%, 14% offset, Jan. 1, 2027; no $ or docket) | - | 2026-11-08
-- pacificpower.net .../rates-regulation/california/filings/docket-*/ PDFs (from search) | works (e.g. A.26-02 Slater/McKinney application) | - | 2026-11-08
+- pacificpower.net california-rate-changes.html and .../california/filings/docket-*/ PDFs (from search) | works (CA GRC: 57%, 14% offset, Jan. 1, 2027; no $ or docket) | - | 2026-11-08
 - CPUC copy of PacifiCorp Nov. 6, 2026 GRC application/testimony | not found via search on 2026-11-08 | 247wallst.com (detailed), tradingview.com Seeking Alpha copy (Qualified); benzinga.com fails (client error) | 2026-11-08
 
 ## Industry and news (context only)
@@ -80,5 +80,8 @@ One line per source: domain or page | works / fails (how) | workaround | date ch
 - michiganadvance.com, ohiocapitaljournal.com, scdailygazette.com, wtmj.com, wearegreenbay.com | fails: client error | AG/regulator release, fox2detroit.com, fox17online.com, michiganpublic.org, wnem.com (work) | 2026-10-30
 - unsplash | /s/photos/<term> pages and photo pages from WebSearch work (free vs Unsplash+ listed); curl images.unsplash.com works (unsplash.com 401); most rooftop-solar/battery photos already used; power-grid page has unused free shots (2026-11-07); grep photo ID and image ID before use | - | 2026-11-07
 - hugo binary | works: curl github.com/gohugoio/hugo/releases/download/v0.123.7/hugo_extended_0.123.7_linux-amd64.tar.gz, extract to /tmp (full build ~70 s) | - | 2026-11-07
-- holiday-light product listings: bulbamerica.com, christmascentral.com, 1000bulbs.com, supplystop.com | works (watts, amps, sets end to end); homedepot.com fails (client error); acehardware.com and sharperimage.com inflatables list no watts | - | 2026-11-08
-- energystar.gov/products/decorative_light_strings | works (92% less energy, 10x life; spec Jan. 2011) | - | 2026-11-08
+- holiday lights: bulbamerica.com, christmascentral.com, 1000bulbs.com, supplystop.com, energystar.gov/products/decorative_light_strings | works (watts, amps); homedepot.com fails (client error) | - | 2026-11-08
+- energy.gov/energysaver/electric-resistance-heating | works from search (100% efficient, heat pumps cut use 50%, zoning >20%, thermostat advice) | - | 2026-11-09
+- cadet.glendimplexamericas.com 2021_USHeatCatalogue.pdf | works (F Series watts/lengths, 240/208 V); no sizing rule | homelectrical.com sizing guide (retailer, Qualified) | 2026-11-09
+- eia.gov/todayinenergy/detail.php?id=66324 (42% electric main heat, 2024) | works | - | 2026-11-09
+- Duke Energy NC rate order (DEC/DEP 2026 cases) | no NCUC order found via search on 2026-11-09 | keep checking starw1.ncuc.gov via search | 2026-11-09

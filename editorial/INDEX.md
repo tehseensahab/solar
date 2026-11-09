@@ -144,3 +144,5 @@ puget-sound-energy-rate-increase-2027 | Puget Sound Energy Rate Increase 2027: $
 wps-rate-increase-2027 | WPS Rate Increase 2027: About $1 a Month, WPS Estimates | 2026-11-07 | news | published | wps rate increase 2027 | /posts/wps-rate-increase-2027/
 pacific-power-california-rate-increase-2027 | Pacific Power California Rate Increase: 57% Asked for 2027 | 2026-11-08 | news | published | pacific power rate increase california | /posts/pacific-power-california-rate-increase-2027/
 christmas-lights-cost-to-run | How Much Does It Cost to Run Christmas Lights? (2026) | 2026-11-08 | electric-rates | published | cost to run christmas lights | /posts/christmas-lights-cost-to-run/
+dte-rate-increase-2027 | DTE Rate Increase 2027: $22 a Month at 1,000 kWh Asked | 2026-11-09 | news | published | dte rate increase 2027 | /posts/dte-rate-increase-2027/
+baseboard-heater-cost-to-run | Baseboard Heater Cost to Run: Per Hour, Room and Month | 2026-11-09 | electric-rates | published | baseboard heater cost to run | /posts/baseboard-heater-cost-to-run/

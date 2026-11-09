@@ -1,0 +1,15 @@
+# Fact-check: dte-rate-increase-2027
+
+Checked November 9, 2026. Byline Craig Leslie. One independent fact-check agent for both of today's articles (4 fetches shared); findings applied. Counts: 17 verified, 6 qualified, 4 not verified (corrected or removed).
+- DTE Electric application, MPSC case U-22046 (mi-psc.my.site.com ...068cs00001xvw01AAA; re-fetched by checker and editor): "approximately $474.3 million"; dated April 28, 2026; 10.25% ROE; test year March 1, 2027 - Feb. 29, 2028; "effective as early as March 1, 2027"; Attachment 2: Total Residential 9.7%, D1.11 Time of Use 9.5%; Attachment 3, D1.11 summer, "Assumes ~15% of usage is on peak": 500 kWh $111.05 -> $122.11 (+$11.06, 9.96%), 1,000 kWh $212.10 -> $234.23 (+$22.13, 10.43%), 1,500 kWh $313.15 -> $346.34 (+$33.19, 10.60%); notice: "may be increased by up to $11.06 per month". VERIFIED.
+- S&P Global Market Intelligence (Sept. 15, 2026): staff "recommending a $239.1 million rate increase"; "maintaining DTE-E's existing authorized return on equity (ROE) at 9.90%"; "Staff's Aug. 26 testimony". QUALIFIED (trade press; staff testimony not read directly).
+- Michigan AG Aug. 28, 2026: "no more than $134.5 million"; "71%"; "DTE's requested 10% residential rate hike to 2%". VERIFIED (party position). AG April 28, 2026: $474.3M; "just two months after ... $242.4 million". VERIFIED. AG Feb. 19, 2026: $242,406,000 approved of about $574 million requested. VERIFIED.
+- CUB of Michigan (Nov. 6, 2026): 9.17% ROE proposal, about $122M/yr savings vs 10.25%, labor offset over $21M; PFD "scheduled for Dec. 21" (year not stated). QUALIFIED (advocate).
+- Axios (Apr. 30): "10-month review". QUALIFIED (news). CBS News Detroit (Apr. 24): Harris pause pledge and condition; Belle River and Trenton Channel; data-center costs excluded. QUALIFIED (news report of company statements).
+- DTE Rider 18 export credit based on the power supply component: from Michigan guide (checked Oct. 5, 2026). VERIFIED (earlier check).
+- Arithmetic: 239.1/474.3 = 50.4%; 134.5/474.3 = 28.4%. VERIFIED.
+- Fixes applied: "Rate D1.11 9.7%" corrected to residential class 9.7% / D1.11 9.5% (NOT VERIFIED as drafted); removed false "filing gives no other usage levels" and added 1,000/1,500 kWh figures; removed "second electric rate case of 2026" (NOT VERIFIED); Feb. 2026 source switched from Michigan Advance (not re-fetched; headline $242.2M) to AG release; title changed from "Up to $11 a Month" to the 1,000 kWh figure; decision timing reworded as inference; solar section notes generation projects may raise the power supply component; added Rider 18 source row.
+- Pre-publish recheck (Nov. 9): no MPSC order or PFD found; CUB Nov. 6 post is the latest development.
+- State term: Michigan; in-body hub link /posts/michigan-electricity-rate-changes-2026/ in paragraph 2 (anchor "guide to Michigan electric rate changes in 2026"). Hub: dated body note under "What Happens Next"; lastVerified 2026-11-09.
+
+COVER: Unsplash photo KWP1tnB2LvU (GV Chana, Detroit skyline), free Unsplash License.
