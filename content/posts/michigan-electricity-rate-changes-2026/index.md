@@ -3,7 +3,7 @@ title: "Michigan Electricity Rate Changes: What Changed in 2026 and What's Next"
 seoTitle: "DTE & Consumers Energy Rate Increase 2026: Michigan Guide"
 date: 2026-09-30
 lastmod: 2026-10-30
-lastVerified: 2026-09-30
+lastVerified: 2026-11-09
 draft: false
 author: "Tehseen Arbab"
 slug: "michigan-electricity-rate-changes-2026"
@@ -89,6 +89,7 @@ Rules checked October 5, 2026. Solar tariffs change, so confirm the current term
 - **Consumers Energy gas (approved):** the MPSC approved a $139.2 million natural gas increase on October 15, 2026 (Case U-21981), effective November 1: +$3.92 a month (4.33%) for a typical customer using 75 ccf. See [our article](/posts/consumers-energy-gas-rate-increase-november-2026/).
 
 - The MPSC will decide DTE's $474.3M request; the Michigan Public Service Commission review typically takes many months. A decision date has not been announced in the sources we found.
+- **Update, Nov. 9, 2026:** In DTE's pending case (U-22046), MPSC staff recommended about $239.1 million in Aug. 26 testimony, according to S&P Global, and the Attorney General has asked for no more than $134.5 million. DTE's filing estimates a $22.13 monthly increase on a 1,000 kWh summer bill if the full request were approved. See [our DTE 2027 rate request article](/posts/dte-rate-increase-2027/).
 - Consumers Energy's U-22070 electric case: Consumers asked for about $456 million a year on June 2, 2026, and the Attorney General has asked the MPSC to cut it by 53%. News reports put the decision deadline in April 2027. See [our Consumers Energy rate case article](/posts/consumers-energy-electric-rate-increase-2027/).
 - DTE has said it may pause future electric rate requests after this filing if certain data center conditions are met, per the Attorney General; that is not a commitment.
 - Public comments can be filed through the MPSC e-docket.
