@@ -1,6 +1,7 @@
 ---
 title: "North Dakota Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
+lastmod: 2026-10-28
 lastVerified: 2026-10-04
 imageAlt: "Rooftop solar panels in a residential neighborhood with a rainbow over hills behind."
 imageCredit: "Photo by Lara John on [Unsplash](https://unsplash.com/photos/rainbow-over-a-suburban-neighborhood-with-solar-panels-VNIjztzKF_U?utm_source=solarexaminer&utm_medium=referral)"

@@ -1,6 +1,7 @@
 ---
 title: "Indiana Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
+lastmod: 2026-10-28
 lastVerified: 2026-10-04
 imageAlt: "Steel transmission tower and power lines above a plowed field under a cloudy sky."
 imageCredit: "Photo by Daniel Barnes on [Unsplash](https://unsplash.com/photos/gray-metal-electric-towers-under-blue-sky-during-daytime-khQIi4vjLIg?utm_source=solarexaminer&utm_medium=referral)"

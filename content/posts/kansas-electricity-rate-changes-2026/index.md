@@ -1,6 +1,7 @@
 ---
 title: "Kansas Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
+lastmod: 2026-10-28
 lastVerified: 2026-10-04
 imageAlt: "Close view of steel transmission towers and power lines against a green and yellow sky."
 imageCredit: "Photo by Fré Sonneveld on [Unsplash](https://unsplash.com/photos/black-transmission-towers-under-green-sky-q6n8nIrDQHE?utm_source=solarexaminer&utm_medium=referral)"

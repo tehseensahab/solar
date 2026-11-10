@@ -1,6 +1,7 @@
 ---
 title: "Delaware Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
+lastmod: 2026-10-28
 lastVerified: 2026-10-04
 imageAlt: "Row of modern townhouses with garages and dark solar panels on a larger roof behind."
 imageCredit: "Photo by Troy Mortier on [Unsplash](https://unsplash.com/photos/modern-townhouses-with-garages-and-solar-panels-WIQtUv49q18?utm_source=solarexaminer&utm_medium=referral)"

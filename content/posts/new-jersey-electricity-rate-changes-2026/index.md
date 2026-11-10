@@ -1,7 +1,7 @@
 ---
 title: "New Jersey Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-09-30
-lastmod: 2026-10-05
+lastmod: 2026-10-28
 lastVerified: 2026-09-30
 draft: false
 author: "Tehseen Arbab"

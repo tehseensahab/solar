@@ -1,6 +1,7 @@
 ---
 title: "Texas Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-09-30
+lastmod: 2026-10-28
 imageAlt: "Dark solar panels mounted on a brown tiled roof behind a green hedge."
 imageCredit: "Photo by Watt A Lot on [Unsplash](https://unsplash.com/photos/a-building-with-solar-panels-4Wl2YkDqHjU?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]

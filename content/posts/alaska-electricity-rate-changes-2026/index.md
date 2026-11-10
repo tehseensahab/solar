@@ -1,6 +1,7 @@
 ---
 title: "Alaska Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
+lastmod: 2026-10-28
 lastVerified: 2026-10-04
 imageAlt: "Residential street with parked cars and a transmission tower rising behind the houses."
 imageCredit: "Photo by Arlind Photography on [Unsplash](https://unsplash.com/photos/residential-street-with-parked-cars-houses-and-power-lines-zhRbFT87Gxo?utm_source=solarexaminer&utm_medium=referral)"

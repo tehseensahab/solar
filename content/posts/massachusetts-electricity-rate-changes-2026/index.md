@@ -2,7 +2,7 @@
 title: "Massachusetts Electricity Rate Changes: What Changed in 2026 and What's Next"
 seoTitle: "Eversource & National Grid Rate Changes 2026 in Massachusetts"
 date: 2026-09-30
-lastmod: 2026-10-05
+lastmod: 2026-10-28
 lastVerified: 2026-09-30
 draft: false
 author: "Tehseen Arbab"

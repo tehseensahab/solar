@@ -1,6 +1,7 @@
 ---
 title: "Washington Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
+lastmod: 2026-11-07
 lastVerified: 2026-11-07
 imageAlt: "Rooftop solar panels in the foreground with wooded hills and blue sky behind."
 imageCredit: "Photo by Aron Schmitz on [Unsplash](https://unsplash.com/photos/solar-panels-on-roof-over-hillside-Fm30OtHVonE?utm_source=solarexaminer&utm_medium=referral)"

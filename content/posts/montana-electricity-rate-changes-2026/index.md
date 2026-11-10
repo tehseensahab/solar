@@ -1,6 +1,7 @@
 ---
 title: "Montana Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
+lastmod: 2026-10-28
 lastVerified: 2026-10-04
 imageAlt: "Power poles and lines silhouetted against a pink and violet dusk sky."
 imageCredit: "Photo by Damian Luginbühl on [Unsplash](https://unsplash.com/photos/power-lines-silhouetted-against-a-colorful-sunset-sky-Ye0VjceVNzE?utm_source=solarexaminer&utm_medium=referral)"

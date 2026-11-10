@@ -1,6 +1,7 @@
 ---
 title: "Georgia Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-03
+lastmod: 2026-10-28
 lastVerified: 2026-10-03
 imageAlt: "Two-story house with solar panels on its roof and a red pickup truck parked in the driveway."
 imageCredit: "Photo by Gary Cole on [Unsplash](https://unsplash.com/photos/a-red-pick-up-truck-parked-in-front-of-a-house-2pbElAv6K4I?utm_source=solarexaminer&utm_medium=referral)"

@@ -1,6 +1,7 @@
 ---
 title: "Oklahoma Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
+lastmod: 2026-10-28
 lastVerified: 2026-10-04
 imageAlt: "Transmission towers crossing a flat field with wind turbines in the distance."
 imageCredit: "Photo by American Public Power Association on [Unsplash](https://unsplash.com/photos/transmission-towers-and-wind-turbines-on-the-field-znytbxrOv_4?utm_source=solarexaminer&utm_medium=referral)"

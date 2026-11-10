@@ -10,7 +10,6 @@ community-solar-subscription-report | Community solar subscriptions grew 14% thi
 net-metering-state-guide | Net metering by state, 2026: where the math still works | 2026-09-16 | electric-rates | published | net metering state guide | /posts/net-metering-state-guide/
 enphase-iq8-review | Enphase IQ8M microinverter review: the grid-independent feature actually works | 2026-09-19 | equipment | published | enphase iq8 review | /posts/enphase-iq8-review/
 treasury-itc-guidance | Treasury's new ITC guidance narrows the domestic-content bonus — here's who still qualifies | 2026-09-21 | costs-incentives | published | treasury itc guidance | /posts/treasury-itc-guidance/
-test-duke-energy-rate-case | Duke Energy's proposed rate case would cut solar export credits by 22% | 2026-09-29 | electric-rates | draft | test duke energy rate case | /posts/test-duke-energy-rate-case/
 california-electricity-rate-changes-2026 | California Electricity Rates and Solar | 2026-09-30 | electric-rates | published | california electricity rates | /posts/california-electricity-rate-changes-2026/
 florida-electricity-rate-changes-2026 | Florida Electricity Rates and Solar | 2026-09-30 | electric-rates | published | florida electricity rates | /posts/florida-electricity-rate-changes-2026/
 illinois-electricity-rate-changes-2026 | Illinois Electricity Rates and Solar | 2026-09-30 | electric-rates | published | illinois electricity rates | /posts/illinois-electricity-rate-changes-2026/
@@ -20,7 +19,6 @@ new-jersey-electricity-rate-changes-2026 | New Jersey Electricity Rates and Sola
 new-york-electricity-rate-changes-2026 | New York Electricity Rates and Solar | 2026-09-30 | electric-rates | published | new york electricity rates | /posts/new-york-electricity-rate-changes-2026/
 ohio-electricity-rate-changes-2026 | Ohio Electricity Rates and Solar | 2026-09-30 | electric-rates | published | ohio electricity rates | /posts/ohio-electricity-rate-changes-2026/
 pennsylvania-electricity-rate-changes-2026 | Pennsylvania Electricity Rates and Solar | 2026-09-30 | electric-rates | published | pennsylvania electricity rates | /posts/pennsylvania-electricity-rate-changes-2026/
-test-heat-pump-solar-sizing-guide | Adding a heat pump? Here's how much bigger your solar system needs to be | 2026-09-30 | equipment | draft | test heat pump solar sizing guide | /posts/test-heat-pump-solar-sizing-guide/
 texas-electricity-rate-changes-2026 | Texas Electricity Rates and Solar | 2026-09-30 | electric-rates | published | texas electricity rates | /posts/texas-electricity-rate-changes-2026/
 columbia-missouri-electric-rates-october-2026 | Columbia, Missouri Raises Electric Usage Fees 6% Starting October 1, 2026 | 2026-10-02 | news | published | columbia missouri electric rates october 2026 | /posts/columbia-missouri-electric-rates-october-2026/
 eia-residential-price-forecast-sept-2026 | EIA: U.S. Residential Electricity Prices Forecast to Average 18.2¢/kWh in 2026 | 2026-10-02 | news | published | eia residential price forecast sept 2026 | /posts/eia-residential-price-forecast-sept-2026/

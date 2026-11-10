@@ -1,6 +1,7 @@
 ---
 title: "Pennsylvania Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-09-30
+lastmod: 2026-11-10
 lastVerified: 2026-11-10
 imageAlt: "Row of brick houses with solar panels covering the dark roofs."
 imageCredit: "Photo by Uitbundig on [Unsplash](https://unsplash.com/photos/a-house-with-a-lot-of-solar-panels-on-the-roof-yxiP843xyrI?utm_source=solarexaminer&utm_medium=referral)"

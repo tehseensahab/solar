@@ -1,6 +1,7 @@
 ---
 title: "Rhode Island Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
+lastmod: 2026-10-28
 lastVerified: 2026-10-22
 imageAlt: "Worker in a blue hoodie and cap working on an electric meter mounted on a wall."
 imageCredit: "Photo by Raze Solar on [Unsplash](https://unsplash.com/photos/person-working-on-electrical-meter-_aSFmmvS62I?utm_source=solarexaminer&utm_medium=referral)"

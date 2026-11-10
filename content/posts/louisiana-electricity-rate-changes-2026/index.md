@@ -1,6 +1,7 @@
 ---
 title: "Louisiana Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
+lastmod: 2026-10-28
 lastVerified: 2026-10-04
 imageAlt: "Wall of round analog electric meters mounted in rows on a gray metal panel."
 imageCredit: "Photo by Alexander Schimmeck on [Unsplash](https://unsplash.com/photos/white-and-black-electric-meter-k_-KlaENC-Q?utm_source=solarexaminer&utm_medium=referral)"

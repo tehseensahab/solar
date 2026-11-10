@@ -1,6 +1,7 @@
 ---
 title: "New Hampshire Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
+lastmod: 2026-10-28
 lastVerified: 2026-10-04
 imageAlt: "Wooden utility pole and power lines against pink and purple sunset clouds."
 imageCredit: "Photo by Kilian Murphy on [Unsplash](https://unsplash.com/photos/silhouetted-utility-pole-under-a-colorful-pink-and-purple-sunset-B0R8hY-PBLg?utm_source=solarexaminer&utm_medium=referral)"

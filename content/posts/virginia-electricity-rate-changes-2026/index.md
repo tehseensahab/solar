@@ -1,6 +1,7 @@
 ---
 title: "Virginia Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
+lastmod: 2026-10-28
 lastVerified: 2026-10-04
 imageAlt: "Solar panels mounted on the shingle roof of a house under a clear blue sky."
 imageCredit: "Photo by Michael Roberts on [Unsplash](https://unsplash.com/photos/a-solar-panel-on-the-roof-of-a-house-U0ys6tX7UMU?utm_source=solarexaminer&utm_medium=referral)"
