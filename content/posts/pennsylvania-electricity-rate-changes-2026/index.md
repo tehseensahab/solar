@@ -1,6 +1,7 @@
 ---
 title: "Pennsylvania Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-09-30
+lastVerified: 2026-11-10
 imageAlt: "Row of brick houses with solar panels covering the dark roofs."
 imageCredit: "Photo by Uitbundig on [Unsplash](https://unsplash.com/photos/a-house-with-a-lot-of-solar-panels-on-the-roof-yxiP843xyrI?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -66,8 +67,10 @@ A higher Price to Compare raises the value of each kWh your panels offset if you
 
 Default service prices are scheduled to reset again December 1. PPL had a proposed base rate settlement pending in the spring; we could not confirm its final status or effective date. Compare current offers at PAPowerSwitch.com, the PUC's shopping site.
 
+**Update, Nov. 10, 2026:** PPL has posted a residential Price to Compare of 14.428 cents per kWh for Dec. 1, 2026 to May 31, 2027, up 10.3% from 13.079 cents, according to its [rates page](https://pplelectric.com/shopping). The PUC approved PPL's base rate settlement in June, with new distribution rates from July 1, 2026. Details and bill math are in our [PPL Dec. 1 price increase article](/posts/ppl-rate-increase-december-2026/).
+
 **Published:** September 30, 2026
-**Last verified:** September 29, 2026
+**Last verified:** November 10, 2026 (PPL update); September 29, 2026 (other utilities)
 
 ## Compare With Nearby States
 
