@@ -146,3 +146,5 @@ pacific-power-california-rate-increase-2027 | Pacific Power California Rate Incr
 christmas-lights-cost-to-run | How Much Does It Cost to Run Christmas Lights? (2026) | 2026-11-08 | electric-rates | published | cost to run christmas lights | /posts/christmas-lights-cost-to-run/
 dte-rate-increase-2027 | DTE Rate Increase 2027: $22 a Month at 1,000 kWh Asked | 2026-11-09 | news | published | dte rate increase 2027 | /posts/dte-rate-increase-2027/
 baseboard-heater-cost-to-run | Baseboard Heater Cost to Run: Per Hour, Room and Month | 2026-11-09 | electric-rates | published | baseboard heater cost to run | /posts/baseboard-heater-cost-to-run/
+ppl-rate-increase-december-2026 | PPL Rate Increase Dec. 1, 2026: Price to Compare Up 10% | 2026-11-10 | news | published | ppl rate increase december 2026 | /posts/ppl-rate-increase-december-2026/
+electric-water-heater-cost-to-run | Electric Water Heater Cost to Run: Per Hour, Month, Year | 2026-11-10 | electric-rates | published | electric water heater cost to run | /posts/electric-water-heater-cost-to-run/
