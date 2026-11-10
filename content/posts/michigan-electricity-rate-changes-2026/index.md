@@ -2,7 +2,7 @@
 title: "Michigan Electricity Rate Changes: What Changed in 2026 and What's Next"
 seoTitle: "DTE & Consumers Energy Rate Increase 2026: Michigan Guide"
 date: 2026-09-30
-lastmod: 2026-10-30
+lastmod: 2026-11-09
 lastVerified: 2026-11-09
 draft: false
 author: "Tehseen Arbab"

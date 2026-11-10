@@ -1,6 +1,7 @@
 ---
 title: "Connecticut Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
+lastmod: 2026-10-28
 lastVerified: 2026-10-04
 imageAlt: "House with solar panels on a tiled roof behind a garden with lavender and shrubs."
 imageCredit: "Photo by Watt A Lot on [Unsplash](https://unsplash.com/photos/a-house-with-solar-panels-gqpuuF3a2tY?utm_source=solarexaminer&utm_medium=referral)"

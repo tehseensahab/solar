@@ -1,6 +1,7 @@
 ---
 title: "Maryland Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
+lastmod: 2026-10-28
 lastVerified: 2026-10-04
 imageAlt: "Row of electric meters mounted on a weathered white wall with conduit below."
 imageCredit: "Photo by Tim Mossholder on [Unsplash](https://unsplash.com/photos/gray-electric-meters-RDqeSz1cM5E?utm_source=solarexaminer&utm_medium=referral)"

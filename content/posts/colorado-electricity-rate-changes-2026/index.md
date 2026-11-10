@@ -1,6 +1,7 @@
 ---
 title: "Colorado Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
+lastmod: 2026-10-28
 lastVerified: 2026-10-04
 imageAlt: "House with a metal roof and rooftop solar panels surrounded by dense green trees."
 imageCredit: "Photo by Jordi Villanova on [Unsplash](https://unsplash.com/photos/a-house-with-a-solar-panel-on-the-roof-2eeam_HMvIk?utm_source=solarexaminer&utm_medium=referral)"

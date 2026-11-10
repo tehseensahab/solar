@@ -1,6 +1,7 @@
 ---
 title: "Minnesota Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
+lastmod: 2026-11-05
 lastVerified: 2026-11-05
 imageAlt: "Transmission tower and power lines above a green hillside under a blue sky with thin clouds."
 imageCredit: "Photo by Thomas Despeyroux on [Unsplash](https://unsplash.com/photos/electrical-tower-on-grass-field-Dh5pUa2PwrY?utm_source=solarexaminer&utm_medium=referral)"

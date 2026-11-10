@@ -1,6 +1,7 @@
 ---
 title: "North Carolina Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
+lastmod: 2026-10-28
 lastVerified: 2026-10-04
 imageAlt: "Cream-sided house with a two-car garage and solar panels on its roof, framed by trees."
 imageCredit: "Photo by Maverick Frame on [Unsplash](https://unsplash.com/photos/a-house-with-solar-panels-a-garage-and-green-landscaping-_Y4Uu2ORpe4?utm_source=solarexaminer&utm_medium=referral)"

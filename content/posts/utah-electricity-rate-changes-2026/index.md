@@ -1,6 +1,7 @@
 ---
 title: "Utah Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
+lastmod: 2026-10-28
 lastVerified: 2026-10-04
 imageAlt: "Transmission towers silhouetted at sunset with hills on the horizon."
 imageCredit: "Photo by DM David on [Unsplash](https://unsplash.com/photos/power-lines-and-towers-silhouetted-against-a-colorful-sunset-4BGLvNFvfYM?utm_source=solarexaminer&utm_medium=referral)"

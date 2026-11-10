@@ -1,6 +1,7 @@
 ---
 title: "South Dakota Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
+lastmod: 2026-11-06
 lastVerified: 2026-11-06
 imageAlt: "Rows of solar panels installed on a large corrugated metal roof, seen from above."
 imageCredit: "Photo by Rafael Moreno on [Unsplash](https://unsplash.com/photos/solar-panels-are-installed-on-a-rooftop-73JOOymZQTQ?utm_source=solarexaminer&utm_medium=referral)"

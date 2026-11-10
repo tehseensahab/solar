@@ -1,6 +1,7 @@
 ---
 title: "Hawaii Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
+lastmod: 2026-10-28
 lastVerified: 2026-10-04
 imageAlt: "Small white house with rooftop solar panels surrounded by tropical trees and garden plots."
 imageCredit: "Photo by VD Photography on [Unsplash](https://unsplash.com/photos/an-aerial-view-of-a-house-with-a-solar-panel-on-the-roof-tC4tHCeoO44?utm_source=solarexaminer&utm_medium=referral)"

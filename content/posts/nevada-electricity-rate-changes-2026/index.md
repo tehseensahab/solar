@@ -1,6 +1,7 @@
 ---
 title: "Nevada Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
+lastmod: 2026-10-28
 lastVerified: 2026-10-04
 imageAlt: "Transmission tower silhouetted against a purple and orange dusk sky."
 imageCredit: "Photo by Munkhtuvshin .T on [Unsplash](https://unsplash.com/photos/silhouette-of-a-power-line-tower-at-sunset-TV6mIqQ61jc?utm_source=solarexaminer&utm_medium=referral)"

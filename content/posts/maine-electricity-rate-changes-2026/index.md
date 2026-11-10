@@ -1,6 +1,7 @@
 ---
 title: "Maine Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
+lastmod: 2026-10-28
 lastVerified: 2026-10-04
 imageAlt: "Utility pole, transformer and power lines silhouetted against a deep red sky."
 imageCredit: "Photo by Chauanna Lima on [Unsplash](https://unsplash.com/photos/utility-pole-against-red-sky-3uHuJ1XYaWA?utm_source=solarexaminer&utm_medium=referral)"

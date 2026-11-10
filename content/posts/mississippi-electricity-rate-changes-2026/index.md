@@ -1,6 +1,7 @@
 ---
 title: "Mississippi Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
+lastmod: 2026-10-28
 lastVerified: 2026-10-04
 imageAlt: "Utility pole and power lines beside trees with sunlit clouds overhead."
 imageCredit: "Photo by Albert Zhuang on [Unsplash](https://unsplash.com/photos/utility-pole-and-trees-at-golden-hour-lmn6m1NkDpo?utm_source=solarexaminer&utm_medium=referral)"

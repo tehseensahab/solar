@@ -17,6 +17,25 @@
   {{ partial "card-grid.html" $latest }}
 </section>
 
+{{- $e := site.Data.eia_prices }}
+{{- $all := slice }}{{ range site.Data.states }}{{ $all = $all | append . }}{{ end }}
+<section class="section wrap" aria-labelledby="home-states-h">
+  <div class="section-head"><h2 id="home-states-h">Electricity rate changes by state</h2><a href="/rates-by-state/">Compare all 50 states →</a></div>
+  <p>Each state guide covers the latest utility rate changes, the EIA statewide average residential price{{ with $e.month }} for {{ . }}{{ end }}, net metering and incentives.</p>
+  {{- range $region := slice "Northeast" "Midwest" "South" "West" }}
+  <h3 class="region-h">{{ $region }}</h3>
+  <ul class="state-grid">
+    {{- range sort (where $all "region" $region) "name" }}
+    {{- $page := site.GetPage (printf "/posts/%s-electricity-rate-changes-2026" .slug) }}
+    {{- $p := index $e.states .slug }}
+    {{- if $page }}
+    <li><a class="state state-live" href="{{ $page.RelPermalink }}"><span class="state-name">{{ .name }}</span>{{ with $p }}<span class="state-rate">{{ .y2026 }}¢<small>/kWh</small></span>{{ end }}</a></li>
+    {{- end }}
+    {{- end }}
+  </ul>
+  {{- end }}
+</section>
+
 <section class="section wrap">
   <div class="section-head"><h2>Browse by topic</h2><a href="/categories/">All topics →</a></div>
   {{ partial "category-grid.html" . }}

@@ -1,7 +1,7 @@
 ---
 title: "Missouri Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
-lastmod: 2026-10-27
+lastmod: 2026-10-28
 lastVerified: 2026-10-27
 imageAlt: "Rows of transmission towers and power lines crossing a brown farm field."
 imageCredit: "Photo by Chris Weiher on [Unsplash](https://unsplash.com/photos/a-row-of-power-lines-in-the-middle-of-a-field-_lC8tokDnSg?utm_source=solarexaminer&utm_medium=referral)"

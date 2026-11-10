@@ -1,6 +1,7 @@
 ---
 title: "South Carolina Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
+lastmod: 2026-11-01
 lastVerified: 2026-10-04
 imageAlt: "Two-story house with dark solar panels on its roof and more panels set on the front lawn."
 imageCredit: "Photo by Zendure Power Station on [Unsplash](https://unsplash.com/photos/a-house-with-solar-panels-on-the-roof-lspvbK-OIkU?utm_source=solarexaminer&utm_medium=referral)"

@@ -1,6 +1,7 @@
 ---
 title: "New Mexico Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
+lastmod: 2026-10-28
 lastVerified: 2026-10-04
 imageAlt: "Solar panels on a clay tile roof with a faint rainbow in the sky behind."
 imageCredit: "Photo by Joshua Bowers on [Unsplash](https://unsplash.com/photos/a-solar-panel-on-a-roof-with-a-rainbow-in-the-background-0SyvPKyZc-M?utm_source=solarexaminer&utm_medium=referral)"

@@ -1,6 +1,7 @@
 ---
 title: "Vermont Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
+lastmod: 2026-10-28
 lastVerified: 2026-10-04
 imageAlt: "Large building with a steep roof covered in solar panels under an overcast sky."
 imageCredit: "Photo by Markus Winkler on [Unsplash](https://unsplash.com/photos/a-house-with-solar-panels-on-the-roof-VX0ZEZSwqnY?utm_source=solarexaminer&utm_medium=referral)"

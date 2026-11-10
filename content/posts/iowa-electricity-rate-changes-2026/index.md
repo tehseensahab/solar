@@ -1,6 +1,7 @@
 ---
 title: "Iowa Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
+lastmod: 2026-10-28
 lastVerified: 2026-10-04
 imageAlt: "Line of transmission towers crossing a harvested field under a pale blue sky."
 imageCredit: "Photo by James Wainscoat on [Unsplash](https://unsplash.com/photos/brown-and-black-electric-towers-under-white-sky-during-daytime-ACc9WvDRJA8?utm_source=solarexaminer&utm_medium=referral)"

@@ -1,6 +1,7 @@
 ---
 title: "Oregon Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
+lastmod: 2026-11-04
 lastVerified: 2026-11-04
 imageAlt: "Two solar panels on a flat rooftop with a house and bright autumn trees behind."
 imageCredit: "Photo by Yuma Solar on [Unsplash](https://unsplash.com/photos/two-solar-panels-on-a-rooftop-with-autumn-foliage-1WDIkQumWtA?utm_source=solarexaminer&utm_medium=referral)"

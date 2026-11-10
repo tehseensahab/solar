@@ -2,6 +2,7 @@
 title: "EIA: U.S. Residential Electricity Prices Forecast to Average 18.2¢/kWh in 2026"
 description: "EIA's September outlook projects the average U.S. residential price rising from 17.3¢ to 18.2¢ per kWh this year and to 18.6¢ in 2027. It is a national average, not your rate."
 date: 2026-10-02
+lastmod: 2026-11-06
 lastVerified: 2026-10-02
 imageAlt: "Silhouetted transmission towers and power lines stretching toward a setting sun."
 imageCredit: "Photo by Andrey Metelev on [Unsplash](https://unsplash.com/photos/silhouette-of-electric-post-during-sunset-qpAOxji4dAo?utm_source=solarexaminer&utm_medium=referral)"
