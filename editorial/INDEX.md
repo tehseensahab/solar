@@ -146,3 +146,5 @@ dte-rate-increase-2027 | DTE Rate Increase 2027: $22 a Month at 1,000 kWh Asked 
 baseboard-heater-cost-to-run | Baseboard Heater Cost to Run: Per Hour, Room and Month | 2026-11-09 | electric-rates | published | baseboard heater cost to run | /posts/baseboard-heater-cost-to-run/
 ppl-rate-increase-december-2026 | PPL Rate Increase Dec. 1, 2026: Price to Compare Up 10% | 2026-11-10 | news | published | ppl rate increase december 2026 | /posts/ppl-rate-increase-december-2026/
 electric-water-heater-cost-to-run | Electric Water Heater Cost to Run: Per Hour, Month, Year | 2026-11-10 | electric-rates | published | electric water heater cost to run | /posts/electric-water-heater-cost-to-run/
+dryer-cost-to-run | Dryer Cost to Run: Per Load, Month and Year (2026) | 2026-11-11 | electric-rates | published | dryer cost to run | /posts/dryer-cost-to-run/
+refrigerator-cost-to-run | Refrigerator Cost to Run: Per Day, Month and Year | 2026-11-11 | electric-rates | published | refrigerator cost to run | /posts/refrigerator-cost-to-run/
