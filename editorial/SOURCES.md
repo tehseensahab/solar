@@ -12,10 +12,15 @@ One line per source: domain or page | works / fails (how) | workaround | date ch
 - irs.gov/instructions/i5695 | works (25C ends after Dec. 31, 2025) | - | 2026-10-28
 - eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a (state Table 5.6.A) | fails: server error / XLS links only | Table 5.3 for U.S. figures; data/eia_prices.yaml for states | 2026-10-26
 
+- eia.gov RECS 2020 c&e CE5.3a / CE5.3b PDFs (kWh per household by end use: dryers, washers, refrigerators, freezers, TVs, pool/hot tub; by region and household size) | works from search | - | 2026-11-11
+- eia.gov/outlooks/steo/ (landing), steo_full.pdf, tables/pdf/SF02.pdf | fails: WebFetch served stale Oct/Sept 2026 vintages on 2026-11-11, a day after the Nov. 10 release | report/elec_coal_renew.php?sfnsn=mo (from search) returned the Nov. 10 edition; always check the edition date in the result | 2026-11-11
+- eia.gov/electricity/epm/pdf/technotes.pdf | works (retail revenue includes taxes the utility pays; customer sales taxes not addressed) | say "may not include sales taxes" | 2026-11-11
+- govinfo.gov Federal Register HTML (DOE test procedures, e.g. 2019-15208 dryers: 283 cycles/yr) | works from search; long, use offset | - | 2026-11-11
+- energystar.gov/productfinder detail pages | fails: render empty (JS) | category pages (energystar.gov/products/refrigerators, /appliances/clothes_dryers) and manufacturer EnergyGuide PDFs | 2026-11-11
+- energy.gov/energysaver/appliances-and-electronics/laundry | fails: client error | energy.gov/node/365797 (same page, from search) works; energy.gov/node/4821093 (refrigerators) works | 2026-11-11
+- manufacturer spec/EnergyGuide PDFs (frigidaire.bynder.com, midea.com content/dam, amana.com, whirlpool.com) | works from search (Qualified, one model) | - | 2026-11-11
+
 ## State regulators and utilities
-- minnesotapower.blob.core.windows.net .../PressReleases/2026/PressRelease*.pdf (Minnesota Power releases; links from mnpower.com/Company/PressReleases) | works (rate request Nov. 2, 2026; bill credits Oct. 9; no docket numbers) | - | 2026-11-05
-- mnpower.com home page; mnpower.com/CustomerService/NewElectricRates | fails: approval timeout / 404 | mnpower.com/Company/PressReleases (works, from search) | 2026-11-05
-- efiling.web.commerce.state.mn.us document downloads (MN eDockets) | fails: client error | company release; news for docket | 2026-11-05
 - we-energies.com/olb/26/*.pdf (customer notices: 2026-05-we-rr.pdf requested rates; 2026-01-we-electric-rates.pdf tariff) | works (text PDFs) | - | 2026-10-31
 - utc.wa.gov/casedocket/2026/260005 (PSE rate case summary) | works (status only, no $) | - | 2026-11-07
 - apiproxy.utc.wa.gov/cases/GetDocument?docID=...&docketNumber=260005 (UTC filed testimony PDFs) | works when returned by WebSearch "UE-260005 <exhibit>" | - | 2026-11-07
@@ -24,8 +29,6 @@ One line per source: domain or page | works / fails (how) | workaround | date ch
 - pse.com/en/pages/rates/pending-utc-filings | works; its 2026-general-rate-case subpage and general-rate-case-statement fail (provenance / 404) | use the hearing notice PDF | 2026-11-07
 - evergy.com rate review page | fails: blocked | PSC press releases and EFIS | 2026-10-25
 - efis.psc.mo.gov/Document/Display/880663 (Ameren ER-2026-0291 filing) | works (schedules 1, 3, 5) | - | 2026-10-27
-- docs.tep.com TEP-2026-Rates-Public-Notice.pdf; tep.com/news release | works | - | 2026-10-28
-- tep.com/rate-changes/ | fails: approval timeout | TEP news release + public notice | 2026-10-28
 - docket.images.azcc.gov/*.pdf, edocket.azcc.gov item-detail | fails: approval required | azcc.gov/news posts (work); news (AZ Luminaria) for ROO, mark Qualified | 2026-10-28
 - azcc.gov/news/home/... | works (timeline graphics are images, unreadable) | - | 2026-10-28
 - starw1.ncuc.gov ViewFile.aspx (NCUC orders, e.g. E-100 Sub 180 NEM order) | works (long; use offset 100000 for the end) | - | 2026-10-29
@@ -35,23 +38,12 @@ One line per source: domain or page | works / fails (how) | workaround | date ch
 - docs.cpuc.ca.gov Published/Efile PDFs | works | - | 2026-10-29
 - michigan.gov/ag/news/press-releases/2026/... (MI Attorney General) | works (amounts, residential %; rarely case numbers; Feb. 19 2026 DTE decision release substitutes for michiganadvance.com) | - | 2026-11-09
 - mi-psc.my.site.com/sfc/servlet.shepherd/version/download/... (MPSC e-docket files, e.g. U-22046 DTE application, rate case summary) | works when the URL comes back in WebSearch (search "U-22046 DTE Elec Application"); application Attachment 2 = class %, Attachment 3 = bills by kWh | - | 2026-11-09
-- spglobal.com/market-intelligence research articles (e.g. MPSC staff testimony summaries) | works; article text sits past offset 100000 | mark Qualified (trade press) | 2026-11-09
-- cubofmichigan.org/blog | works (testimony summaries, PFD dates; advocate) | - | 2026-11-09
-- eia.gov/electricity/monthly/epm_table_grapher.php?+t=epmt_5_3 (Table 5.3, from search) | works, but WebFetch may serve a stale cached vintage (returned June data on 2026-11-03) | check release date in result; use print-version.php | 2026-11-03
-- flashalert.net/id/PacificPower (Pacific Power's own release feed) | works (full release text incl. tables) | - | 2026-11-02
-- pacificpower.net Oregon rate-proposal and oregon-regulatory-filings pages; newsroom releases | works | - | 2026-11-02
-- pacificpower.net docket-ue-470-advice-26-011 subpage (link from filings page) | fails: approval timeout | edocs.puc.state.or.us PDFs from search; FlashAlert release | 2026-11-02
-- edocs.puc.state.or.us/efdocs/*.pdf (OPUC dockets, from search) | works; UE 470 settlement doc not found via search | - | 2026-11-02
 - oregon.gov/puc/news-events/Documents/PR-202606.pdf | works when from search; re-fetch by a subagent from a draft link timed out on approval | WebSearch first | 2026-11-04
-- oregoncub.org blog (Oregon CUB) | works (docket numbers, $ amounts, ROE; advocate) | - | 2026-11-04
-- portlandgeneral.com/2027-general-rate-case | works (3.9% residential, $8.33 at 780 kWh, July 2027, hearing Nov. 10; no docket number) | - | 2026-11-03
-- occ.ohio.gov/factsheet/firstenergy-rate-increase-26-0347-el-air | works; "Hearing dates have not yet been scheduled" | - | 2026-11-03
 
 - puc.sd.gov docket pages (Dockets/Electric/2026/<docket>.aspx), News/2026 releases, agendas | works | - | 2026-11-06
 - puc.sd.gov docket PDFs (commission/dockets/electric/...) | works only if the exact URL came back in a WebSearch or fetched page text; URLs read off a docket page by WebFetch sometimes rejected (provenance) | WebSearch "<docket> <document name>" first, or ask the docket page fetch for "exact full href URLs" | 2026-11-06
-- Oklahoma PSO rate order (Nov. 5, 2026) | still no order/release or residential $ on 2026-11-10 (okcfox: "exact bill impacts ... to be determined") | KGOU, kosu.org, newson6.com, tulsaflyer.org, okcfox.com (news); nondoc.com fails | 2026-11-10
+- Oklahoma PSO rate order (Nov. 5, 2026; 3.55% per OCC statement quoted by kjrh.com) | still no OCC order/release or PSO $ figure on 2026-11-11; psoklahoma.com/ratereview.aspx works but shows only the 2024 case; govdelivery OKOCC bulletins from search are old (2019) | KGOU, kosu.org, newson6.com, kjrh.com, tulsaflyer.org, krmg.com (news, Qualified); nondoc.com fails | 2026-11-11
 - sec.gov WEC 8-K (wec-20261105.htm) | works; Exhibit 99.1 slide URLs from Stock Titan fail (provenance) | stocktitan.net 8-K copies (work; label third-party copy) | 2026-11-07
-- news.wisconsinpublicservice.com releases | works | - | 2026-11-07
 - apps.apsc.arkansas.gov (docket search and PDFs), arkansasonline.com, nwaonline.com, arktimes.com, eldoradonews.com | fails: robots disallowed | entergyarkansas.com/ratecase2026, arkansasadvancedenergy.com | 2026-11-07
 
 - pacificpower.net california-rate-changes.html and .../california/filings/docket-*/ PDFs (from search) | works (CA GRC: 57%, 14% offset, Jan. 1, 2027; no $ or docket) | - | 2026-11-08
@@ -61,25 +53,24 @@ One line per source: domain or page | works / fails (how) | workaround | date ch
 - puc.pa.gov/docket/<M-...> pages | works (lists filings + pcdocs PDF links); PECO Dec. 1, 2026 GSA docket not found via search | energychoicematters.com (trade press, Qualified) | 2026-11-10
 - peco.com ElectricPricetoCompare.aspx | fails: renders empty | PUC release (late Nov.), peco.com tariff PDFs from search, energychoicematters.com | 2026-11-10
 - electricityrates.com, electricrates.org, myutilitysearch.com (PTC "news") | works but unsourced; PECO summer figure conflicted with PUC | do not use; go to utility page or PUC | 2026-11-10
-- lehighvalleynews.com | 302 redirect to lehighvalleypublicmedia.org; many Dec. 1 hits are 2024-25 | check dates | 2026-11-10
+
+- santeecooper.com/ratestudy and /rates/rate-study/residential/ (from search) | works (2027-28 approved %, $6.60/mo; no rate schedule values; already covered 2026-11-01) | newsroom and Final-Rates PDFs fail provenance unless URL came back in a search | 2026-11-11
+- portal.ct.gov/ag and portal.ct.gov/occ press releases (Eversource CL&P 2026 rate case: $727M, 18% residential; $451M/11% without storm costs) | works | - | 2026-11-11
+- portal.ct.gov/PURA/Industries/Rates and /pura/press-releases/2026 | works but stale: no CL&P 2026 case or docket number listed | AG/OCC releases; docket number still needed before writing | 2026-11-11
+- PECO 2027 base rate case | withdrawn (nbcphiladelphia.com, after talks with Gov. Shapiro); docket R-2026-3060859 page from search | do not write a PECO 2027 rate-case story | 2026-11-11
+- newsfromthestates.com | fails: client error | original outlet or official source | 2026-11-11
+
+- condensed 2026-11-11 (still valid): TEP: docs.tep.com notice PDF + tep.com news work, tep.com/rate-changes fails; Oregon: edocs.puc.state.or.us PDFs (from search), oregoncub.org, flashalert.net/id/PacificPower, portlandgeneral.com/2027-general-rate-case work, pacificpower.net UE 470 subpage fails; Minnesota Power: minnesotapower.blob...PressRelease PDFs work, mnpower.com home and MN eDockets fail; Michigan: cubofmichigan.org and spglobal.com (offset 100000, Qualified) work | - | 2026-11-11
 
 ## Industry and news (context only)
 - news that works (context only; check dates): wpr.org, nbc26.com, fox11online.com, wisconsinwatch.org, wisn.com, yahoo.com syndications, mynorthwest.com, fox13seattle.com (.amp), wpde.com, krmg.com, ktvz.com (after search), kpic.com, gcn.com, kfyrtv.com, wral.com, stlpr.org, kfvs12.com, tulsaflyer.org, fox21online.com, northernnewsnow.com, wpr.org, whyy.org | works | - | 2026-11-06
 - other regulator/company pages that work: psc.mo.gov releases, efis.psc.mo.gov calendars, ameren.mediaroom.com, puc.colorado.gov, puc.pa.gov PDFs, oregon.gov/puc PR PDFs (search first), portlandgeneral.com news, cubwi.org (advocate), energysage.com/news H1 2026, eia.gov/dnav gas prices, atb.nrel.gov 2023 PV | works | - | 2026-11-06
 - southdakotasearchlight.com, keloland.com, kbhbradio.com | fails: client error | rapidcitypost.com (PUC News reprints), sdpb.org, kotatv.com (work) | 2026-11-06
-- southwestledger.news | fails: robots disallowed | tulsaflyer.org, krmg.com, fox23.com | 2026-11-05
-- mercomindia.com | works (reads LBNL chart values; Qualified) | - | 2026-11-05
-- pv-magazine.com 2026 article URLs | fails: 302 to http | pv-tech.org or EnergySage original | 2026-11-05
-- manufacturer datasheets via third-party copies (energymatters.com.au Enphase IQ8 US; vicoexport.com Qcells) | works (text PDFs); disclose third-party copy | - | 2026-11-04
 - michiganadvance.com, ohiocapitaljournal.com, scdailygazette.com, wtmj.com, wearegreenbay.com | fails: client error | AG/regulator release, fox2detroit.com, fox17online.com, michiganpublic.org, wnem.com (work) | 2026-10-30
-- unsplash | /s/photos/<term> pages and photo pages from WebSearch work (free vs Unsplash+ listed); curl images.unsplash.com works (unsplash.com 401); most rooftop-solar/battery photos already used; power-grid page has unused free shots (2026-11-07); grep photo ID and image ID before use | water-heater photos on Unsplash are nearly all Unsplash+ (use faucet/shower shots); used 2026-11-10: _kiB0a02E5U, IxfhMTROke8 | 2026-11-10
+- unsplash | /s/photos/<term> pages and photo pages from WebSearch work (free vs Unsplash+ listed); curl images.unsplash.com works (unsplash.com 401); most rooftop-solar/battery photos already used; power-grid page has unused free shots (2026-11-07); grep photo ID and image ID before use | water-heater photos on Unsplash are nearly all Unsplash+ (use faucet/shower shots); used 2026-11-10: _kiB0a02E5U, IxfhMTROke8; 2026-11-11: DB45fWkHRDc (laundry), VaGdhK-kI1c (fridge); /s/photos/laundry and /s/photos/kitchen-appliance have few free appliance shots; always view the image (k7WP9oPThOI is a water purifier) | 2026-11-11
 - solarexaminer.com live check (WebFetch) | fails: PROVENANCE_REQUIRED for homepage and post URLs on 2026-11-10 (also 2026-11-06); curl blocked by proxy | confirm the Cloudflare Pages check run on the PR via GitHub MCP; report live status as unconfirmed | 2026-11-10
 - hugo binary | works: curl github.com/gohugoio/hugo/releases/download/v0.123.7/hugo_extended_0.123.7_linux-amd64.tar.gz, extract to /tmp (full build ~70 s) | - | 2026-11-07
-- energy.gov/energysaver/electric-resistance-heating | works from search (100% efficient, heat pumps cut use 50%, zoning >20%, thermostat advice) | - | 2026-11-09
-- eia.gov/todayinenergy/detail.php?id=66324 (42% electric main heat, 2024) | works | - | 2026-11-09
-- Duke Energy NC rate order (DEC/DEP 2026 cases) | no NCUC order found via search on 2026-11-10 | keep checking starw1.ncuc.gov via search | 2026-11-10
 
 - eia.gov RECS 2020 c&e PDFs (e.g. CE8.8.M water heating kWh by month) | works from search; 2024 RECS consumption data due spring 2027 | - | 2026-11-10
 - energy.gov/node/3520390 (lower water heating temperature) | works (120°F, $36-$61 standby, 4%-22%); energysaver estimating-costs page has no formula | - | 2026-11-10
 - energystar.gov HPWH benefits-savings page | works (kWh/$ by household size, 14.6¢); ES_Electric_WH_Factsheet_2020 chart values unreadable | - | 2026-11-10
-- aosmithatlowes.com product pages | works (element watts, UEF, est. $/yr with stated assumptions; manufacturer, Qualified) | - | 2026-11-10
