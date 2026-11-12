@@ -148,3 +148,5 @@ ppl-rate-increase-december-2026 | PPL Rate Increase Dec. 1, 2026: Price to Compa
 electric-water-heater-cost-to-run | Electric Water Heater Cost to Run: Per Hour, Month, Year | 2026-11-10 | electric-rates | published | electric water heater cost to run | /posts/electric-water-heater-cost-to-run/
 dryer-cost-to-run | Dryer Cost to Run: Per Load, Month and Year (2026) | 2026-11-11 | electric-rates | published | dryer cost to run | /posts/dryer-cost-to-run/
 refrigerator-cost-to-run | Refrigerator Cost to Run: Per Day, Month and Year | 2026-11-11 | electric-rates | published | refrigerator cost to run | /posts/refrigerator-cost-to-run/
+eversource-rate-increase-2027 | Eversource Rate Increase 2027: 18% Asked in Connecticut | 2026-11-12 | news | published | eversource rate increase 2027 | /posts/eversource-rate-increase-2027/
+electric-oven-cost-to-run | Electric Oven Cost to Run: Per Hour, Month and Year | 2026-11-12 | electric-rates | published | electric oven cost to run | /posts/electric-oven-cost-to-run/

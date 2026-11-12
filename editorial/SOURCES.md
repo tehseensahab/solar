@@ -12,7 +12,7 @@ One line per source: domain or page | works / fails (how) | workaround | date ch
 - irs.gov/instructions/i5695 | works (25C ends after Dec. 31, 2025) | - | 2026-10-28
 - eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a (state Table 5.6.A) | fails: server error / XLS links only | Table 5.3 for U.S. figures; data/eia_prices.yaml for states | 2026-10-26
 
-- eia.gov RECS 2020 c&e CE5.3a / CE5.3b PDFs (kWh per household by end use: dryers, washers, refrigerators, freezers, TVs, pool/hot tub; by region and household size) | works from search | - | 2026-11-11
+- eia.gov RECS 2020 c&e CE5.3a / CE5.3b PDFs (kWh per household by end use: dryers, washers, refrigerators, freezers, TVs, cooking 290, microwaves 107; by region, household size, housing type) | works from search; RECS 2024 consumption data due spring 2027 | - | 2026-11-12
 - eia.gov/outlooks/steo/ (landing), steo_full.pdf, tables/pdf/SF02.pdf | fails: WebFetch served stale Oct/Sept 2026 vintages on 2026-11-11, a day after the Nov. 10 release | report/elec_coal_renew.php?sfnsn=mo (from search) returned the Nov. 10 edition; always check the edition date in the result | 2026-11-11
 - eia.gov/electricity/epm/pdf/technotes.pdf | works (retail revenue includes taxes the utility pays; customer sales taxes not addressed) | say "may not include sales taxes" | 2026-11-11
 - govinfo.gov Federal Register HTML (DOE test procedures, e.g. 2019-15208 dryers: 283 cycles/yr) | works from search; long, use offset | - | 2026-11-11
@@ -42,7 +42,7 @@ One line per source: domain or page | works / fails (how) | workaround | date ch
 
 - puc.sd.gov docket pages (Dockets/Electric/2026/<docket>.aspx), News/2026 releases, agendas | works | - | 2026-11-06
 - puc.sd.gov docket PDFs (commission/dockets/electric/...) | works only if the exact URL came back in a WebSearch or fetched page text; URLs read off a docket page by WebFetch sometimes rejected (provenance) | WebSearch "<docket> <document name>" first, or ask the docket page fetch for "exact full href URLs" | 2026-11-06
-- Oklahoma PSO rate order (Nov. 5, 2026; 3.55% per OCC statement quoted by kjrh.com) | still no OCC order/release or PSO $ figure on 2026-11-11; psoklahoma.com/ratereview.aspx works but shows only the 2024 case; govdelivery OKOCC bulletins from search are old (2019) | KGOU, kosu.org, newson6.com, kjrh.com, tulsaflyer.org, krmg.com (news, Qualified); nondoc.com fails | 2026-11-11
+- Oklahoma PSO rate order (Nov. 5, 2026; 3.55% per OCC statement quoted by kjrh.com) | still no OCC order/release or PSO $ figure on 2026-11-12 (okcfox/krmg: bill impacts "to be determined"); psoklahoma.com/ratereview.aspx works but shows only the 2024 case; govdelivery OKOCC bulletins from search are old (2019) | KGOU, kosu.org, newson6.com, kjrh.com, tulsaflyer.org, krmg.com (news, Qualified); nondoc.com fails | 2026-11-12
 - sec.gov WEC 8-K (wec-20261105.htm) | works; Exhibit 99.1 slide URLs from Stock Titan fail (provenance) | stocktitan.net 8-K copies (work; label third-party copy) | 2026-11-07
 - apps.apsc.arkansas.gov (docket search and PDFs), arkansasonline.com, nwaonline.com, arktimes.com, eldoradonews.com | fails: robots disallowed | entergyarkansas.com/ratecase2026, arkansasadvancedenergy.com | 2026-11-07
 
@@ -56,11 +56,16 @@ One line per source: domain or page | works / fails (how) | workaround | date ch
 
 - santeecooper.com/ratestudy and /rates/rate-study/residential/ (from search) | works (2027-28 approved %, $6.60/mo; no rate schedule values; already covered 2026-11-01) | newsroom and Final-Rates PDFs fail provenance unless URL came back in a search | 2026-11-11
 - portal.ct.gov/ag and portal.ct.gov/occ press releases (Eversource CL&P 2026 rate case: $727M, 18% residential; $451M/11% without storm costs) | works | - | 2026-11-11
-- portal.ct.gov/PURA/Industries/Rates and /pura/press-releases/2026 | works but stale: no CL&P 2026 case or docket number listed | AG/OCC releases; docket number still needed before writing | 2026-11-11
+- Eversource CT rate case (PURA Docket 26-05-10; published 2026-11-12): dpuc.state.ct.us docket listing and testimony PDFs fail (provenance even when linked from votesolar.org); eversource.com ct-electric-rate-review fails (client error); wtnh.com fails; ctnewsjunkie PDFs robots-blocked | acadiacenter.org, aarp.org/states/connecticut, votesolar.org (.htm URL works, trailing-slash URL fails), ctpublic.org, portal.ct.gov/ag and /occ releases work | 2026-11-12
 - PECO 2027 base rate case | withdrawn (nbcphiladelphia.com, after talks with Gov. Shapiro); docket R-2026-3060859 page from search | do not write a PECO 2027 rate-case story | 2026-11-11
 - newsfromthestates.com | fails: client error | original outlet or official source | 2026-11-11
 
 - condensed 2026-11-11 (still valid): TEP: docs.tep.com notice PDF + tep.com news work, tep.com/rate-changes fails; Oregon: edocs.puc.state.or.us PDFs (from search), oregoncub.org, flashalert.net/id/PacificPower, portlandgeneral.com/2027-general-rate-case work, pacificpower.net UE 470 subpage fails; Minnesota Power: minnesotapower.blob...PressRelease PDFs work, mnpower.com home and MN eDockets fail; Michigan: cubofmichigan.org and spglobal.com (offset 100000, Qualified) work | - | 2026-11-11
+
+- energystar.gov/products/electric_cooking_products and /about/2021_residential_induction_cooking_tops | works (induction 85%, 5-10% vs resistance) | - | 2026-11-12
+- energy.gov/es/energysaver/kitchen-appliances | fails: client error | energystar.gov cooking pages, energy.maryland.gov cooking tips (works) | 2026-11-12
+- govinfo.gov FR 2024-02008 (cooking products standards) | works but kWh/yr values are in image tables; no oven test procedure | use EIA RECS CE5.3b | 2026-11-12
+- ors.sc.gov DEC consumer info page and wpr.org 3-utility story | stale (2025 cases) despite ranking for 2026 searches | check dates before use | 2026-11-12
 
 ## Industry and news (context only)
 - news that works (context only; check dates): wpr.org, nbc26.com, fox11online.com, wisconsinwatch.org, wisn.com, yahoo.com syndications, mynorthwest.com, fox13seattle.com (.amp), wpde.com, krmg.com, ktvz.com (after search), kpic.com, gcn.com, kfyrtv.com, wral.com, stlpr.org, kfvs12.com, tulsaflyer.org, fox21online.com, northernnewsnow.com, wpr.org, whyy.org | works | - | 2026-11-06
