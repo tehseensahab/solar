@@ -2,7 +2,7 @@
 title: "Connecticut Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-11-12
 imageAlt: "House with solar panels on a tiled roof behind a garden with lavender and shrubs."
 imageCredit: "Photo by Watt A Lot on [Unsplash](https://unsplash.com/photos/a-house-with-solar-panels-gqpuuF3a2tY?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -70,6 +70,8 @@ The state attributed most of it to long-term contracts with the Millstone and Se
 We searched for a September 2026 adjustment and found no report of one. On that basis, the credit should still be on October bills. Check the public benefits line to confirm.
 
 Eversource has said the decrease is temporary and that customers may face higher charges once the payback period ends in 2027.
+
+**Update, Nov. 12, 2026:** Eversource's pending distribution rate case (PURA Docket No. 26-05-10) asks for $727 million a year, which the Attorney General says would raise average residential rates about 18%; nothing is approved, and a decision is expected around June 28, 2027. See our [Eversource rate increase 2027 explainer](/posts/eversource-rate-increase-2027/) for bill estimates and public hearing dates.
 
 ## What This Means for Homeowners With Solar
 
