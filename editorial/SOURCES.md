@@ -12,13 +12,13 @@ One line per source: domain or page | works / fails (how) | workaround | date ch
 - irs.gov/instructions/i5695 | works (25C ends after Dec. 31, 2025) | - | 2026-10-28
 - eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a (state Table 5.6.A) | fails: server error / XLS links only | Table 5.3 for U.S. figures; data/eia_prices.yaml for states | 2026-10-26
 
-- eia.gov RECS 2020 c&e CE5.3a / CE5.3b PDFs (kWh per household by end use: dryers, washers, refrigerators, freezers, TVs, cooking 290, microwaves 107; by region, household size, housing type) | works from search; RECS 2024 consumption data due spring 2027 | - | 2026-11-12
+- eia.gov RECS 2020 c&e CE5.3a / CE5.3b / CE8.8.M PDFs (kWh per household by end use: dryers, washers, refrigerators, freezers, TVs, cooking 290, microwaves 107, water heating by month; by region, household size, housing type) | works from search; RECS 2024 consumption data due spring 2027 | - | 2026-11-12
 - eia.gov/outlooks/steo/ (landing), steo_full.pdf, tables/pdf/SF02.pdf | fails: WebFetch served stale Oct/Sept 2026 vintages on 2026-11-11, a day after the Nov. 10 release | report/elec_coal_renew.php?sfnsn=mo (from search) returned the Nov. 10 edition; always check the edition date in the result | 2026-11-11
 - eia.gov/electricity/epm/pdf/technotes.pdf | works (retail revenue includes taxes the utility pays; customer sales taxes not addressed) | say "may not include sales taxes" | 2026-11-11
 - govinfo.gov Federal Register HTML (DOE test procedures, e.g. 2019-15208 dryers: 283 cycles/yr) | works from search; long, use offset | - | 2026-11-11
 - energystar.gov/productfinder detail pages | fails: render empty (JS) | category pages (energystar.gov/products/refrigerators, /appliances/clothes_dryers) and manufacturer EnergyGuide PDFs | 2026-11-11
 - energy.gov/energysaver/appliances-and-electronics/laundry | fails: client error | energy.gov/node/365797 (same page, from search) works; energy.gov/node/4821093 (refrigerators) works | 2026-11-11
-- manufacturer spec/EnergyGuide PDFs (frigidaire.bynder.com, midea.com content/dam, amana.com, whirlpool.com) | works from search (Qualified, one model) | - | 2026-11-11
+- manufacturer spec/EnergyGuide PDFs (frigidaire.bynder.com, midea.com, amana.com, whirlpool.com) and energy.gov/node/3520390 (water heater 120°F), energystar.gov HPWH savings page | works from search (Qualified, one model) | - | 2026-11-11
 
 ## State regulators and utilities
 - we-energies.com/olb/26/*.pdf (customer notices: 2026-05-we-rr.pdf requested rates; 2026-01-we-electric-rates.pdf tariff) | works (text PDFs) | - | 2026-10-31
@@ -42,7 +42,7 @@ One line per source: domain or page | works / fails (how) | workaround | date ch
 
 - puc.sd.gov docket pages (Dockets/Electric/2026/<docket>.aspx), News/2026 releases, agendas | works | - | 2026-11-06
 - puc.sd.gov docket PDFs (commission/dockets/electric/...) | works only if the exact URL came back in a WebSearch or fetched page text; URLs read off a docket page by WebFetch sometimes rejected (provenance) | WebSearch "<docket> <document name>" first, or ask the docket page fetch for "exact full href URLs" | 2026-11-06
-- Oklahoma PSO rate order (Nov. 5, 2026; 3.55% per OCC statement quoted by kjrh.com) | still no OCC order/release or PSO $ figure on 2026-11-12 (okcfox/krmg: bill impacts "to be determined"); psoklahoma.com/ratereview.aspx works but shows only the 2024 case; govdelivery OKOCC bulletins from search are old (2019) | KGOU, kosu.org, newson6.com, kjrh.com, tulsaflyer.org, krmg.com (news, Qualified); nondoc.com fails | 2026-11-12
+- Oklahoma PSO rate order (Nov. 5, 2026; 3.55% per OCC statement quoted by kjrh.com) | still no OCC order/release or PSO $ figure on 2026-11-13 (newson6 Nov. 6: PSO to release figures 'next week'; psoklahoma.com community/caring view?id=9266 is a 2023 release) (okcfox/krmg: bill impacts "to be determined"); psoklahoma.com/ratereview.aspx works but shows only the 2024 case; govdelivery OKOCC bulletins from search are old (2019) | KGOU, kosu.org, newson6.com, kjrh.com, tulsaflyer.org, krmg.com (news, Qualified); nondoc.com fails | 2026-11-12
 - sec.gov WEC 8-K (wec-20261105.htm) | works; Exhibit 99.1 slide URLs from Stock Titan fail (provenance) | stocktitan.net 8-K copies (work; label third-party copy) | 2026-11-07
 - apps.apsc.arkansas.gov (docket search and PDFs), arkansasonline.com, nwaonline.com, arktimes.com, eldoradonews.com | fails: robots disallowed | entergyarkansas.com/ratecase2026, arkansasadvancedenergy.com | 2026-11-07
 
@@ -62,10 +62,17 @@ One line per source: domain or page | works / fails (how) | workaround | date ch
 
 - condensed 2026-11-11 (still valid): TEP: docs.tep.com notice PDF + tep.com news work, tep.com/rate-changes fails; Oregon: edocs.puc.state.or.us PDFs (from search), oregoncub.org, flashalert.net/id/PacificPower, portlandgeneral.com/2027-general-rate-case work, pacificpower.net UE 470 subpage fails; Minnesota Power: minnesotapower.blob...PressRelease PDFs work, mnpower.com home and MN eDockets fail; Michigan: cubofmichigan.org and spglobal.com (offset 100000, Qualified) work | - | 2026-11-11
 
-- energystar.gov/products/electric_cooking_products and /about/2021_residential_induction_cooking_tops | works (induction 85%, 5-10% vs resistance) | - | 2026-11-12
-- energy.gov/es/energysaver/kitchen-appliances | fails: client error | energystar.gov cooking pages, energy.maryland.gov cooking tips (works) | 2026-11-12
-- govinfo.gov FR 2024-02008 (cooking products standards) | works but kWh/yr values are in image tables; no oven test procedure | use EIA RECS CE5.3b | 2026-11-12
+- energystar.gov/products/electric_cooking_products and /about/2021_residential_induction_cooking_tops | works (induction 85%, 5-10% vs resistance); energy.gov/es/energysaver/kitchen-appliances fails (use energy.gov/node/1265441); govinfo FR 2024-02008 kWh values are images | - | 2026-11-13
 - ors.sc.gov DEC consumer info page and wpr.org 3-utility story | stale (2025 cases) despite ranking for 2026 searches | check dates before use | 2026-11-12
+
+- puco.ohio.gov home page and news/<slug> releases (e.g. firstenergy-rate-case-hearings-scheduled-2026) | works, but release pages are ~400k chars of encoded data; readable release text is near offset 300000; tool paraphrases, ask for "exact sentences" | - | 2026-11-13
+- occ.ohio.gov/factsheet/<utility>-rate-increase-<case> (Ohio Consumers' Counsel) | works (bill impacts by utility, hearing dates; undated) | - | 2026-11-13
+- firstenergycorp.com/newsroom/news_articles/... | works (bill impacts, distribution-only; no case number or filing date) | barchart.com copy renders empty | 2026-11-13
+- wkyc.com, ohiocapitaljournal.com, axios.com/local | fails: client error (signalcleveland.org FirstEnergy explainer is the 2024 case) | PUCO/OCC releases; katu.com for PGE | 2026-11-13
+- energy.gov/sites/default/files/2023-04/mwo-ecs-fr.pdf (DOE microwave standby rule) | works but compliance date is a placeholder | govinfo.gov FR-2023-06-20 2023-12958 (compliance June 22, 2026) | 2026-11-13
+- energy.gov/node/1265441 (Energy Saver kitchen tips) | works (no title returned) | - | 2026-11-13
+- abt.com product pages (input watts for microwaves), instantpot.com product pages (air fryer watts), canadianappliance.ca GE quick specs | works (Qualified, one model); Samsung ajmadison spec sheet lists amps only | - | 2026-11-13
+- unsplash used 2026-11-13: xVptEZzgVfo (GE voltmeter), tUFogT8Mn8U (kitchen with OTR microwave); 0MKzwPmehRE meter already used twice | - | - | 2026-11-13
 
 ## Industry and news (context only)
 - news that works (context only; check dates): wpr.org, nbc26.com, fox11online.com, wisconsinwatch.org, wisn.com, yahoo.com syndications, mynorthwest.com, fox13seattle.com (.amp), wpde.com, krmg.com, ktvz.com (after search), kpic.com, gcn.com, kfyrtv.com, wral.com, stlpr.org, kfvs12.com, tulsaflyer.org, fox21online.com, northernnewsnow.com, wpr.org, whyy.org | works | - | 2026-11-06
@@ -74,8 +81,5 @@ One line per source: domain or page | works / fails (how) | workaround | date ch
 - michiganadvance.com, ohiocapitaljournal.com, scdailygazette.com, wtmj.com, wearegreenbay.com | fails: client error | AG/regulator release, fox2detroit.com, fox17online.com, michiganpublic.org, wnem.com (work) | 2026-10-30
 - unsplash | /s/photos/<term> pages and photo pages from WebSearch work (free vs Unsplash+ listed); curl images.unsplash.com works (unsplash.com 401); most rooftop-solar/battery photos already used; power-grid page has unused free shots (2026-11-07); grep photo ID and image ID before use | water-heater photos on Unsplash are nearly all Unsplash+ (use faucet/shower shots); used 2026-11-10: _kiB0a02E5U, IxfhMTROke8; 2026-11-11: DB45fWkHRDc (laundry), VaGdhK-kI1c (fridge); /s/photos/laundry and /s/photos/kitchen-appliance have few free appliance shots; always view the image (k7WP9oPThOI is a water purifier) | 2026-11-11
 - solarexaminer.com live check (WebFetch) | fails: PROVENANCE_REQUIRED for homepage and post URLs on 2026-11-10 (also 2026-11-06); curl blocked by proxy | confirm the Cloudflare Pages check run on the PR via GitHub MCP; report live status as unconfirmed | 2026-11-10
-- hugo binary | works: curl github.com/gohugoio/hugo/releases/download/v0.123.7/hugo_extended_0.123.7_linux-amd64.tar.gz, extract to /tmp (full build ~70 s) | - | 2026-11-07
+- hugo binary | works: curl github.com/gohugoio/hugo/releases/download/v0.123.7/hugo_extended_0.123.7_linux-amd64.tar.gz, extract to /tmp (full build ~70 s; if card-grid partial times out, rerun with env HUGO_TIMEOUT=300s, never edit hugo.toml) | - | 2026-11-13
 
-- eia.gov RECS 2020 c&e PDFs (e.g. CE8.8.M water heating kWh by month) | works from search; 2024 RECS consumption data due spring 2027 | - | 2026-11-10
-- energy.gov/node/3520390 (lower water heating temperature) | works (120°F, $36-$61 standby, 4%-22%); energysaver estimating-costs page has no formula | - | 2026-11-10
-- energystar.gov HPWH benefits-savings page | works (kWh/$ by household size, 14.6¢); ES_Electric_WH_Factsheet_2020 chart values unreadable | - | 2026-11-10
