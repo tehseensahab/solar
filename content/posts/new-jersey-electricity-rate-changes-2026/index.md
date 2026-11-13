@@ -1,7 +1,7 @@
 ---
 title: "New Jersey Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-09-30
-lastmod: 2026-10-28
+lastmod: 2026-11-13
 lastVerified: 2026-09-30
 draft: false
 author: "Tehseen Arbab"
@@ -47,6 +47,19 @@ faq:
 | Rockland Electric (RECO) | June 1, 2026 | $170.10/mo | $168.93/mo | −$1.17 (−0.7%) | Same basis |
 
 These figures come from the New Jersey Board of Public Utilities (BPU). They are **average total monthly bills for a 650 kWh customer, before credits or offsets**, not per-kWh rates. We did not find an official per-kWh residential supply rate for each utility on a BPU or utility page, so we are not printing one.
+
+## PSE&G, JCP&L, ACE and Rockland Electric: 2026 Rate Changes by Utility
+
+Searches for a "PSE&G rate increase 2026" or a "JCP&L rate increase 2026" have different answers. PSE&G's June 1 supply change was a decrease. JCP&L's was a small increase, and JCP&L has a larger request pending that would not start until 2028.
+
+| Utility | What changed on June 1, 2026 (650 kWh bill, per the BPU) | What is pending |
+|---|---|---|
+| PSE&G | Down $3.23 (1.8%) to $180.23 | Reconciliation charges update quarterly, per its tariff page. A time-of-use rate (RS TOU-3P) is proposed; approval not confirmed |
+| JCP&L | Up $2.23 (1.6%) to $137.47 | Base rate request filed August 7, 2026: +$14.23 a month (about 8.8%) at 767 kWh from January 2028. Not approved. See [JCP&L's rate request](/posts/jcpl-rate-increase-request-2026/) |
+| Atlantic City Electric | Up $0.22 (0.11%) to $201.76 | Supply reconciliation charge resets June 1 and October 1. October 2026 amount not found |
+| Rockland Electric | Down $1.17 (0.7%) to $168.93 | Nothing found |
+
+The June 1 figures are average total bills before credits or offsets. This table does not add up the smaller rider adjustments the BPU approves during the year. The next statewide supply reset is June 1, 2027.
 
 ## What Is Changing on October 1, 2026?
 

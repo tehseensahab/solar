@@ -1,6 +1,7 @@
 ---
 title: "How Electric Rate Cases Work: From Utility Request to Your Bill"
 date: 2026-10-12
+lastmod: 2026-11-13
 lastVerified: 2026-10-12
 imageAlt: "Printed forms and a pen spread across a dark wooden table."
 imageCredit: "Photo by 2H Media on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-papers-and-a-pen-spScdgWY-_c?utm_source=solarexaminer&utm_medium=referral)"
@@ -28,6 +29,12 @@ faq:
 Most U.S. homes buy power from a utility that has no competition for the wires to their house. In exchange, a state commission regulates its prices. The utility cannot simply raise rates; it has to file a rate case and prove its costs.
 
 Rate cases decide most of what you pay for electricity delivery. Here is how they work.
+
+## What Is a Utility Rate Case?
+
+A utility rate case is the formal proceeding in which a regulated utility asks its state commission for permission to change its rates. The commission reviews the utility's costs and investments, hears from its own staff, consumer advocates and other parties, and issues an order that sets how much revenue the utility may collect and how that is charged to each customer class. The amount approved is usually lower than the amount requested, and the process usually takes many months.
+
+A rate case is not the only way a bill changes. Fuel adjustments, riders and supply prices move on their own schedules, covered [further down](#what-is-not-usually-in-a-rate-case).
 
 ## The Short Version
 
@@ -100,6 +107,22 @@ Commission staff and intervenors challenge costs, the rate base and the requeste
 | Mon Power and Potomac Edison, West Virginia, 2026 | 13% bill increase | 4.25% over two years |
 
 Requests are rising. PowerLines counts $23.1 billion in electric and gas requests through the third quarter of 2026. See [our summary of that report](/posts/utility-rate-increase-requests-q3-2026/).
+
+### Rate cases we are tracking
+
+These are requests, not approved rates, unless marked. Each article gives the docket, the dates and the bill math.
+
+| Utility and state | Status in our coverage | Article |
+|---|---|---|
+| DTE Electric, Michigan | Requested | [DTE's 2027 rate request](/posts/dte-rate-increase-2027/) |
+| Consumers Energy, Michigan | Requested | [Consumers Energy's 2027 electric rate case](/posts/consumers-energy-electric-rate-increase-2027/) |
+| FirstEnergy utilities, Ohio | Requested | [FirstEnergy Ohio's 2027 request](/posts/firstenergy-ohio-rate-increase-2027/) |
+| Eversource, Connecticut | Requested | [Eversource's 2027 request in Connecticut](/posts/eversource-rate-increase-2027/) |
+| Puget Sound Energy, Washington | Requested | [Puget Sound Energy's 2027 request](/posts/puget-sound-energy-rate-increase-2027/) |
+| JCP&L, New Jersey | Requested | [JCP&L's base rate request](/posts/jcpl-rate-increase-request-2026/) |
+| Black Hills Energy, South Dakota | Approved | [Black Hills Energy's approved increase](/posts/black-hills-energy-rate-increase-2026/) |
+
+Table last updated November 13, 2026.
 
 ## Interim Rates and Settlements
 
