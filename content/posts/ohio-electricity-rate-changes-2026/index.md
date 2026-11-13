@@ -2,7 +2,7 @@
 title: "Ohio Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-09-30
 lastmod: 2026-10-28
-lastVerified: 2026-09-30
+lastVerified: 2026-11-13
 draft: false
 author: "Tehseen Arbab"
 slug: "ohio-electricity-rate-changes-2026"
@@ -91,6 +91,7 @@ Rules checked October 5, 2026. Solar tariffs change, so confirm the current term
 - Default supply rates reset again on **June 1, 2027**, when the current terms expire. Rates for that period have not been published.
 - FirstEnergy Ohio ran its supply auction on June 9, 2026 (CRA International announcement); future auctions will set the next period.
 - **Duke Energy Ohio** has a pending request to raise electric distribution (delivery) rates, Case No. 26-0132-EL-AIR. Duke estimates about $8 a month more at 1,000 kWh; the Ohio Consumers' Counsel puts a typical bill increase at about $8.32. Local PUCO hearings are December 1 and December 10, 2026, and any approved increase would take effect in 2027, per the [OCC fact sheet](https://www.occ.ohio.gov/factsheet/duke-energy-electric-rate-increase-26-0132-el-air). Details: [Duke Energy Ohio rate increase request](/posts/duke-energy-ohio-rate-increase-2026/). (Updated October 23, 2026.)
+- **FirstEnergy (Ohio Edison, The Illuminating Company, Toledo Edison)** filed a three-year distribution rate plan on May 22, 2026, Case No. 26-347-EL-AIR. FirstEnergy estimates $4.26 (Ohio Edison), $5.15 (CEI) and $5.30 (Toledo Edison) more a month each year at about 1,000 kWh; PUCO staff's report is due by Nov. 30 and public hearings are Dec. 2, 9 and 17, 2026, per the [PUCO notice](https://puco.ohio.gov/wps/portal/gov/puco/news/firstenergy-rate-case-hearings-scheduled-2026). Nothing is approved. Details: [FirstEnergy Ohio rate increase request](/posts/firstenergy-ohio-rate-increase-2027/). (Updated November 13, 2026.)
 
 ## Compare With Nearby States
 
