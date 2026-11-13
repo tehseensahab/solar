@@ -5,6 +5,7 @@ description: "Enter your yearly electricity use and get an estimated system size
 layout: "calculator"
 calculator: "size"
 lastVerified: 2026-10-11
+lastmod: 2026-11-13
 faq:
   - q: "How do I calculate what size solar system I need?"
     a: "Divide the kWh you want solar to cover each year by the kWh one kW of panels produces at your location. For example, 10,000 kWh divided by 1,375 kWh per kW is about 7.3 kW. Then divide by the panel wattage and round up to whole panels."
@@ -35,6 +36,24 @@ A home uses 10,000 kWh a year and wants to cover all of it, with the default out
 - 7,270 W ÷ 400 W = 18.2, rounded up to **19 panels**
 - 19 × 400 W = **7.6 kW**, producing about 7.6 × 1,375 = **10,450 kWh** in year one
 - Rough price: 7,600 W × $2.57 = **$19,532** before incentives
+
+## How many kW of solar does a house need?
+
+The average U.S. home needs about a 7.5 kW solar system, or 19 panels of 400 watts, to cover all of its electricity use. That is 10,356 kWh a year (EIA's 2024 average of 863 kWh a month × 12) ÷ 1,375 kWh per kW = 7.53 kW. Your own number depends on your kWh and your location.
+
+| Yearly use | System size (kW) at 1,375 kWh per kW | 400 W panels | Installed size |
+|---|---|---|---|
+| 6,000 kWh | 4.36 kW | 11 | 4.4 kW |
+| 8,000 kWh | 5.82 kW | 15 | 6.0 kW |
+| 10,000 kWh | 7.27 kW | 19 | 7.6 kW |
+| 12,000 kWh | 8.73 kW | 22 | 8.8 kW |
+| 15,000 kWh | 10.91 kW | 28 | 11.2 kW |
+
+This table is our arithmetic with the default output above. In a sunny area a home needs fewer kW for the same kWh, and in a cloudy one more. See the next section, or work through the steps in [how many solar panels you need](/posts/how-many-solar-panels-do-i-need/). To check your yearly kWh against typical homes, see [how much electricity a house uses](/posts/how-much-electricity-does-a-house-use/).
+
+### How many kWh does a 10 kW solar system produce?
+
+About 13,750 kWh a year at the U.S. mean (10 kW × 1,375 kWh per kW). Across NREL's ten resource classes the range is about 11,130 kWh (10 × 1,113) to 17,170 kWh (10 × 1,717).
 
 ## Output per kW: the number that matters most
 
@@ -83,4 +102,5 @@ This is a planning estimate, not a system design. It does not model your roof's 
 - [NREL, Annual Technology Baseline 2024: Residential PV](https://atb.nlr.gov/electricity/2024/residential_pv)
 - [NLR (formerly NREL), PVWatts Calculator](https://pvwatts.nlr.gov/)
 - [EIA, Electric Power Monthly, Table 5.6.A](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a), August 2026 data, released October 23, 2026
+- [EIA, Electric Sales, Revenue, and Average Price, Table 5a (2024)](https://www.eia.gov/electricity/sales_revenue_price/pdf/table_5a.pdf): 863 kWh a month average residential use
 - [EnergySage, "Six months after the solar tax credit ended, the industry found a workaround," updated Sept. 30, 2026](https://www.energysage.com/news/home-energy-market-h1-2026-highlights/)

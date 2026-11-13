@@ -1,7 +1,7 @@
 ---
 title: "California Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-09-30
-lastmod: 2026-10-28
+lastmod: 2026-11-13
 imageAlt: "Aerial view of a suburban neighborhood with solar panels on many rooftops along curving streets."
 imageCredit: "Photo by Shanjir H | Photo4life AU on [Unsplash](https://unsplash.com/photos/aerial-view-of-a-suburban-neighborhood-with-houses-and-streets-MXR6DAo8NCo?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -26,19 +26,35 @@ faq:
 
 California's three big investor-owned utilities had not announced a residential rate change for October 1, 2026 as of September 29, 2026. That is different from October 2025, when Southern California Edison raised its average residential rate from 31.2 to 35.3 cents per kWh. This article covers what is in effect now and what could still change.
 
+**Update, Nov. 13, 2026:** SCE did change rates on October 1, 2026. Its rate advisory now shows the average residential rate moving from 34.4 to 34.5 cents per kWh, and a typical 500 kWh bill rising $2.79 a month, from $185.85 to $188.64 (1.5%). Details are in the October 1 section below. We have not re-checked PG&E or SDG&E since September 29.
+
 ## Quick Summary
 
 These are the most recent verified changes for each utility, not October 1 changes. All figures are average residential rates or utility-estimated bills, not your personal rate.
 
 | Utility | Effective Date | Previous Rate | New Rate | Change | Customer Impact |
 |---|---|---|---|---|---|
-| Southern California Edison | June 1, 2026 | 34.5 ¢/kWh | 34.4 ¢/kWh | -0.1% | Typical 500 kWh bill: $187.56 to $187.40 |
+| Southern California Edison | October 1, 2026 | 34.4 ¢/kWh | 34.5 ¢/kWh | +0.1 ¢/kWh | Typical 500 kWh bill: $185.85 to $188.64, +1.5% (SCE estimate, TOU-D-4-9PM plan) |
+| Southern California Edison (earlier) | June 1, 2026 | 34.5 ¢/kWh | 34.4 ¢/kWh | -0.1% | Typical 500 kWh bill: $187.56 to $187.40 |
 | PG&E (bundled customers) | March 1, 2026 | February 2026 rates | Not stated in source | -1.8% | Typical 500 kWh bill down about $5.14 per month |
 | SDG&E (bundled customers) | January 1, 2026 | Not stated in source | Not stated in source | About +4.7 ¢/kWh | Average bundled residential rate increase |
 
 ## What Is Changing on October 1, 2026?
 
-Nothing has been officially posted. SCE's rate advisory page still listed June 1, 2026 as its current change when checked on September 29. California utilities file consolidated rate changes with the California Public Utilities Commission (CPUC) several times a year, so a filing could still appear.
+### SCE rate increase, October 1, 2026
+
+SCE raised its average residential rate from 34.4 to 34.5 cents per kWh on October 1, 2026 (33.2 to 33.3 cents counting the California Climate Credit), according to its rate advisory, checked November 13, 2026.
+
+| Customer | Bill before | Change | Bill from Oct. 1 | Percent |
+|---|---|---|---|---|
+| Residential, 500 kWh, TOU-D-4-9PM plan | $185.85 | +$2.79 | $188.64 | +1.5% |
+| CARE (income-qualified) residential | $111.06 | +$0.19 | $111.25 | +0.2% |
+
+These are SCE's estimates before the Climate Credit. SCE says the total it collects went down, but the rate design from Phase 2 of its 2025 General Rate Case shifts a modestly larger share of costs to residential customers. The change also adds Woolsey Fire restoration and claims costs and removes costs that have been fully recovered. Your own change depends on your plan and usage.
+
+### PG&E and SDG&E
+
+When we checked on September 29, 2026, neither had posted an October 1 residential change. SCE's rate advisory page also still listed June 1, 2026 as its current change on that date; the October notice came later. California utilities file consolidated rate changes with the California Public Utilities Commission (CPUC) several times a year, so a filing could still appear.
 
 ## How Much Could Your Electric Bill Change?
 
@@ -64,7 +80,7 @@ Because no October 1 change is confirmed, there is no new solar effect to report
 PG&E's 2027-2030 General Rate Case is pending, and PG&E does not expect customer rates related to it to change until January 2027 at the earliest. Watch your utility's rate advisory page around October 1 for any consolidated filing.
 
 **Published:** September 30, 2026
-**Last verified:** September 29, 2026
+**Last verified:** November 13, 2026 (SCE October 1 change); September 29, 2026 (PG&E, SDG&E)
 
 ## Compare With Nearby States
 
@@ -74,7 +90,7 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 
 ## Sources
 
-- SCE Rate Advisory: https://www.sce.com/save-money/rates-financing/sce-rate-advisory
+- SCE Rate Advisory, October 1, 2026 (checked November 13, 2026): https://www.sce.com/save-money/rates-financing/sce-rate-advisory
 - SCE Rate Advisory, October 1, 2025: https://www.sce.com/save-money/rates-financing/sce-rate-advisory/20251001
 - SCE Rate Advisory, January 1, 2026: https://www.sce.com/save-money/rates-financing/sce-rate-advisory/20260101
 - PG&E press release, March 2, 2026: https://investor.pgecorp.com/news-events/press-releases/press-release-details/2026/PGE-Lowers-Electric-Prices-in-March-Fifth-Electric-Rate-Drop-Since-Early-2024/default.aspx

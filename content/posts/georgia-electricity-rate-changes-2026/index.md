@@ -1,7 +1,7 @@
 ---
 title: "Georgia Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-03
-lastmod: 2026-10-28
+lastmod: 2026-11-13
 lastVerified: 2026-10-03
 imageAlt: "Two-story house with solar panels on its roof and a red pickup truck parked in the driveway."
 imageCredit: "Photo by Gary Cole on [Unsplash](https://unsplash.com/photos/a-red-pick-up-truck-parked-in-front-of-a-house-2pbElAv6K4I?utm_source=solarexaminer&utm_medium=referral)"
@@ -41,6 +41,21 @@ This article covers Georgia Power, which serves about 2.8 million customers. It 
 | Solar export credit (RNR, instantaneous netting) | Calendar year 2026 | 3.2188 ¢/kWh plus 4 ¢/kWh adder | Applies to exported kWh only |
 
 Bill impacts are utility and regulator estimates for a 1,000 kWh month, not your personal bill.
+
+## Is There a Georgia Power Rate Increase in 2026?
+
+No. Georgia Power's base rates did not go up in 2026 and are frozen through at least the end of 2028. The one rate change regulators approved in 2026 lowered bills: new fuel and storm charges took effect June 1, 2026 and cut a typical 1,000 kWh bill by about $4 a month.
+
+Georgia Power rates in 2026 still differ by season on the standard Residential Service plan:
+
+| Georgia Power rates 2026 | Energy charge |
+|---|---|
+| Summer rates (June to September), first 650 kWh | 8.8 ¢/kWh |
+| Summer rates, 650 to 1,000 kWh | 14.6 ¢/kWh |
+| Summer rates, over 1,000 kWh | 15.1 ¢/kWh |
+| Winter rates (October to May), all kWh | 8.2 ¢/kWh |
+
+These are energy charges only, from Georgia Power's rate plan page. They leave out the basic service charge, fuel, other riders, fees and taxes. A bill that looks higher in summer reflects the seasonal tiers and heavier air-conditioning use, not a new rate increase. The sections below give the dockets, dates and math.
 
 ## What Changed on June 1, 2026
 
