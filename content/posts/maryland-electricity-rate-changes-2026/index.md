@@ -1,8 +1,8 @@
 ---
 title: "Maryland Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
-lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastmod: 2026-11-14
+lastVerified: 2026-11-14
 imageAlt: "Row of electric meters mounted on a weathered white wall with conduit below."
 imageCredit: "Photo by Tim Mossholder on [Unsplash](https://unsplash.com/photos/gray-electric-meters-RDqeSz1cM5E?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -85,6 +85,8 @@ In 2026 the Maryland Public Service Commission said it denied more than half of 
 ## What This Means for Homeowners With Solar
 
 Maryland offers net metering at the full retail rate.
+
+**Update, Nov. 14, 2026:** Under Chapter 353 of 2026 (HB 1532), this program closes to new customers on July 1, 2027, or earlier if statewide capacity reaches 3,000 MW, and a successor with smaller incentives starts that day. Customers already under a net metering contract or tariff on July 1, 2027 remain eligible. See our [guide to the Maryland net metering cutoff](/posts/maryland-net-metering-changes-2027/).
 
 - **Credits:** monthly surplus is credited at the full retail rate, according to Solar United Neighbors.
 - **Size limit:** up to 200% of your annual electricity use.
