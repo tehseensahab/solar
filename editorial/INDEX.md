@@ -152,3 +152,5 @@ eversource-rate-increase-2027 | Eversource Rate Increase 2027: 18% Asked in Conn
 electric-oven-cost-to-run | Electric Oven Cost to Run: Per Hour, Month and Year | 2026-11-12 | electric-rates | published | electric oven cost to run | /posts/electric-oven-cost-to-run/
 firstenergy-ohio-rate-increase-2027 | FirstEnergy Ohio Rate Increase 2027: Up to $15.90/Mo Asked | 2026-11-13 | news | published | firstenergy ohio rate increase 2027 | /posts/firstenergy-ohio-rate-increase-2027/
 microwave-cost-to-run | Microwave Cost to Run: Per Minute, Month and Year | 2026-11-13 | electric-rates | published | microwave cost to run | /posts/microwave-cost-to-run/
+maryland-net-metering-changes-2027 | Maryland Net Metering Changes 2027: The July 1 Cutoff | 2026-11-14 | news | published | maryland net metering changes 2027 | /posts/maryland-net-metering-changes-2027/
+dishwasher-cost-to-run | Dishwasher Cost to Run: Per Load, Month and Year | 2026-11-14 | electric-rates | published | dishwasher cost to run | /posts/dishwasher-cost-to-run/
