@@ -154,3 +154,5 @@ firstenergy-ohio-rate-increase-2027 | FirstEnergy Ohio Rate Increase 2027: Up to
 microwave-cost-to-run | Microwave Cost to Run: Per Minute, Month and Year | 2026-11-13 | electric-rates | published | microwave cost to run | /posts/microwave-cost-to-run/
 maryland-net-metering-changes-2027 | Maryland Net Metering Changes 2027: The July 1 Cutoff | 2026-11-14 | news | published | maryland net metering changes 2027 | /posts/maryland-net-metering-changes-2027/
 dishwasher-cost-to-run | Dishwasher Cost to Run: Per Load, Month and Year | 2026-11-14 | electric-rates | published | dishwasher cost to run | /posts/dishwasher-cost-to-run/
+washing-machine-cost-to-run | Washing Machine Cost to Run: Per Load, Month and Year | 2026-11-15 | electric-rates | published | washing machine cost to run | /posts/washing-machine-cost-to-run/
+solar-loans-2026 | Solar Loans in 2026: Dealer Fees and the Prepayment Trap | 2026-11-15 | costs-incentives | published | solar loans 2026 | /posts/solar-loans-2026/
