@@ -1,7 +1,7 @@
 ---
 title: "How Electric Rate Cases Work: From Utility Request to Your Bill"
 date: 2026-10-12
-lastmod: 2026-11-13
+lastmod: 2026-11-16
 lastVerified: 2026-10-12
 imageAlt: "Printed forms and a pen spread across a dark wooden table."
 imageCredit: "Photo by 2H Media on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-papers-and-a-pen-spScdgWY-_c?utm_source=solarexaminer&utm_medium=referral)"
@@ -127,6 +127,7 @@ Table last updated November 13, 2026.
 ## Interim Rates and Settlements
 
 - **Interim rates:** some states let a utility start charging part or all of a request before the final order, subject to refund. Public Service Company of Oklahoma's interim rates took effect October 23, 2024, months before the January 2025 order made them permanent.
+- **Provisional rider rates:** some charges change outside a full rate case. In New Jersey, the BPU approved PSE&G infrastructure and electric vehicle program charges effective October 1, 2026 "on a provisional basis, subject to refund and review for prudence in the Company's next base rate case" (update, November 16, 2026; see our [PSE&G 2026 rate changes](/posts/pseg-rate-increase-2026/)).
 - **Settlements:** most cases end in an agreement among some or all parties. A settlement usually trades a lower revenue figure for other terms, such as a promise not to file again for a set period. In West Virginia, Mon Power and Potomac Edison agreed not to file an overall rate case before April 1, 2028.
 
 ## How to Take Part

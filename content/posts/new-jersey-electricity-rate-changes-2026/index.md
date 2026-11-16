@@ -1,7 +1,7 @@
 ---
 title: "New Jersey Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-09-30
-lastmod: 2026-11-13
+lastmod: 2026-11-16
 lastVerified: 2026-09-30
 draft: false
 author: "Tehseen Arbab"
@@ -62,6 +62,8 @@ Searches for a "PSE&G rate increase 2026" or a "JCP&L rate increase 2026" have d
 The June 1 figures are average total bills before credits or offsets. This table does not add up the smaller rider adjustments the BPU approves during the year. The next statewide supply reset is June 1, 2027.
 
 ## What Is Changing on October 1, 2026?
+
+**Update, November 16, 2026:** BPU orders from its September 24, 2026 agenda set several small PSE&G changes effective October 1: Infrastructure Advancement Program rates (+$0.30 a month) and electric vehicle program rates (+$0.23), both provisional and subject to refund, and lower statewide Universal Service Fund and Lifeline charges (about −$0.60 at 650 kWh). Details and dockets are in our [PSE&G 2026 rate change breakdown](/posts/pseg-rate-increase-2026/).
 
 Nothing that we could verify from a primary source changes the average New Jersey bill on October 1. Two things to know:
 

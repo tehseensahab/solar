@@ -156,3 +156,5 @@ maryland-net-metering-changes-2027 | Maryland Net Metering Changes 2027: The Jul
 dishwasher-cost-to-run | Dishwasher Cost to Run: Per Load, Month and Year | 2026-11-14 | electric-rates | published | dishwasher cost to run | /posts/dishwasher-cost-to-run/
 washing-machine-cost-to-run | Washing Machine Cost to Run: Per Load, Month and Year | 2026-11-15 | electric-rates | published | washing machine cost to run | /posts/washing-machine-cost-to-run/
 solar-loans-2026 | Solar Loans in 2026: Dealer Fees and the Prepayment Trap | 2026-11-15 | costs-incentives | published | solar loans 2026 | /posts/solar-loans-2026/
+pseg-rate-increase-2026 | PSE&G Rate Increase 2026: What Changed on Your Bill | 2026-11-16 | news | published | pse&g rate increase 2026 | /posts/pseg-rate-increase-2026/
+freezer-cost-to-run | Freezer Cost to Run: Per Day, Month and Year | 2026-11-16 | electric-rates | published | freezer cost to run | /posts/freezer-cost-to-run/
