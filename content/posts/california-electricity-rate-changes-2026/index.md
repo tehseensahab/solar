@@ -1,7 +1,7 @@
 ---
 title: "California Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-09-30
-lastmod: 2026-11-13
+lastmod: 2026-11-17
 imageAlt: "Aerial view of a suburban neighborhood with solar panels on many rooftops along curving streets."
 imageCredit: "Photo by Shanjir H | Photo4life AU on [Unsplash](https://unsplash.com/photos/aerial-view-of-a-suburban-neighborhood-with-houses-and-streets-MXR6DAo8NCo?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -51,6 +51,8 @@ SCE raised its average residential rate from 34.4 to 34.5 cents per kWh on Octob
 | CARE (income-qualified) residential | $111.06 | +$0.19 | $111.25 | +0.2% |
 
 These are SCE's estimates before the Climate Credit. SCE says the total it collects went down, but the rate design from Phase 2 of its 2025 General Rate Case shifts a modestly larger share of costs to residential customers. The change also adds Woolsey Fire restoration and claims costs and removes costs that have been fully recovered. Your own change depends on your plan and usage.
+
+**Update, Nov. 17, 2026:** SCE's 2027 fuel and power-purchase forecast (CPUC application A.26-05-006) is pending. SCE's May customer notice estimated about +$2.20 a month at 500 kWh, and its October 15 update raised the 2027 request to $4.510 billion; the CPUC scoping memo schedules a final decision for December 17, 2026. Our [SCE rate increase 2026 timeline](/posts/sce-rate-increase-2026/) has all three 2026 changes and the 2027 outlook.
 
 ### PG&E and SDG&E
 
