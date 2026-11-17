@@ -158,3 +158,5 @@ washing-machine-cost-to-run | Washing Machine Cost to Run: Per Load, Month and Y
 solar-loans-2026 | Solar Loans in 2026: Dealer Fees and the Prepayment Trap | 2026-11-15 | costs-incentives | published | solar loans 2026 | /posts/solar-loans-2026/
 pseg-rate-increase-2026 | PSE&G Rate Increase 2026: What Changed on Your Bill | 2026-11-16 | news | published | pse&g rate increase 2026 | /posts/pseg-rate-increase-2026/
 freezer-cost-to-run | Freezer Cost to Run: Per Day, Month and Year | 2026-11-16 | electric-rates | published | freezer cost to run | /posts/freezer-cost-to-run/
+sce-rate-increase-2026 | SCE Rate Increase 2026: Oct. 1 Change and 2027 Outlook | 2026-11-17 | news | published | sce rate increase 2026 | /posts/sce-rate-increase-2026/
+hot-tub-cost-to-run | Hot Tub Cost to Run: Per Month and Year | 2026-11-17 | electric-rates | published | hot tub cost to run | /posts/hot-tub-cost-to-run/

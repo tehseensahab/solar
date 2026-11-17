@@ -31,7 +31,7 @@ faq:
 
 **Pacific Power has asked California regulators for a 57% increase in customer rates starting Jan. 1, 2027.** The company says a 14% decrease in rates on the same date will partly offset it. The California Public Utilities Commission (CPUC) has not ruled, and the company says the review "could take several months."
 
-Pacific Power is the trade name of PacifiCorp, which serves far northern California. This article covers its California customers only. For the statewide picture at PG&E, Southern California Edison and SDG&E, see our [California electric rates and solar page](/posts/california-electricity-rate-changes-2026/). For the separate Oregon case, see [Pacific Power's 2027 Oregon settlement](/posts/pacific-power-rate-increase-2027/).
+Pacific Power is the trade name of PacifiCorp, which serves far northern California. This article covers its California customers only. For the statewide picture at PG&E, Southern California Edison and SDG&E, see our [California electric rates and solar page](/posts/california-electricity-rate-changes-2026/). For the separate Oregon case, see [Pacific Power's 2027 Oregon settlement](/posts/pacific-power-rate-increase-2027/). For Southern California Edison customers, our [SCE 2026 rate changes and 2027 outlook](/posts/sce-rate-increase-2026/) covers that utility (added Nov. 17, 2026).
 
 ## What Pacific Power Asked For
 
