@@ -1,7 +1,8 @@
 ---
 title: "Net Metering True-Up: What Happens to Unused Solar Credits"
 date: 2026-10-23T04:00:00Z
-lastVerified: 2026-10-23
+lastVerified: 2026-11-18
+lastmod: 2026-11-18
 imageAlt: "Two rows of black solar panels on a terracotta tiled roof of a brick house, seen from above on a sunny day."
 imageCredit: "Photo by Sergio Martins on [Unsplash](https://unsplash.com/photos/solar-panels-installed-on-a-tiled-residential-roof-VAegToqdX3A?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["costs-incentives"]
@@ -56,6 +57,8 @@ The key point: solar that offsets your own use saves the retail rate, and a bank
 | City of Homestead (Florida municipal utility) | Credits can offset use for no more than 12 months; unused credits are paid in the last billing cycle of the year at the utility's average wholesale avoided cost or average generation cost | Homestead tariff filed with the Florida PSC, Sept. 2025 |
 
 Rules as published on the dates we checked (October 23, 2026). Rhode Island Energy's pending Docket No. 26-30-EL would change how surplus from home systems is valued; see our [Rhode Island net metering coverage](/posts/rhode-island-net-metering-2026/).
+
+**Update (Nov. 18, 2026):** In Illinois, state law (220 ILCS 5/16-107.5) says credits for customers on the pre-2025 net metering rules expire at the end of the customer's annualized period, while Ameren Illinois and the Citizens Utility Board say credits for systems connected since January 1, 2025 carry over and do not expire. See our [Illinois net metering changes guide](/posts/illinois-net-metering-changes/).
 
 ### An example of what leftover credits are worth
 
