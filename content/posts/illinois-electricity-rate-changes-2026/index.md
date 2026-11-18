@@ -2,8 +2,8 @@
 title: "Illinois Electricity Rate Changes: What Changed in 2026 and What's Next"
 seoTitle: "ComEd and Ameren Illinois Rates, October 2026: New Supply Prices"
 date: 2026-09-30
-lastmod: 2026-10-28
-lastVerified: 2026-09-30
+lastmod: 2026-11-18
+lastVerified: 2026-11-18
 draft: false
 author: "Tehseen Arbab"
 slug: "illinois-electricity-rate-changes-2026"
@@ -75,6 +75,7 @@ Neither utility has published a single "typical bill" estimate that we could ver
 ## What This Means for Homeowners With Solar
 
 - **Net metering rules depend on when your system was connected.** Per Illinois Shines and DSIRE, systems interconnected before January 1, 2025 that did not take the one-time distributed generation rebate keep full retail net metering. Systems connected on or after January 1, 2025 are on a net billing structure, where exports are credited using supply-related components (energy, capacity and transmission) rather than the full retail rate.
+- **Update (Nov. 18, 2026):** Per 220 ILCS 5/16-107.5(n), customers who start net metering on or after January 1, 2025 are credited on per-kWh supply values (energy, capacity, transmission and the purchased energy adjustment) and remain responsible for "the gross amount of delivery services charges." At ComEd's October 2026 price to compare of 10.103 cents, 300 exported kWh are worth about $30. Our [Illinois net metering changes explainer](/posts/illinois-net-metering-changes/) has the before-and-after table and a worked example.
 - **Lower supply prices matter more to new-rule systems than you might expect.** Because exports are credited on supply components, a lower default supply price does not by itself mean a bigger export credit, and the credit is not simply equal to the price to compare. Check your utility's tariff or your bill for how your credits are calculated.
 - **Self-consumption:** under supply-only crediting, using your own solar power in the house avoids the full retail rate, including delivery, while exporting earns only the supply value. That gap is the main reason batteries are discussed for newer systems.
 - **Rebates:** ComEd and Ameren offer a distributed generation (smart inverter) rebate and a storage rebate, per Illinois Shines. Confirm current amounts and requirements with your utility before buying.
