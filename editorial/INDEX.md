@@ -162,3 +162,5 @@ sce-rate-increase-2026 | SCE Rate Increase 2026: Oct. 1 Change and 2027 Outlook 
 hot-tub-cost-to-run | Hot Tub Cost to Run: Per Month and Year | 2026-11-17 | electric-rates | published | hot tub cost to run | /posts/hot-tub-cost-to-run/
 illinois-net-metering-changes | Illinois Net Metering Changes: Supply-Only Credits Explained | 2026-11-18 | costs-incentives | published | illinois net metering changes | /posts/illinois-net-metering-changes/
 pool-pump-cost-to-run | Pool Pump Cost to Run: Per Month and Year | 2026-11-18 | electric-rates | published | pool pump cost to run | /posts/pool-pump-cost-to-run/
+fpl-rates-2026 | FPL Rates 2026: Cost per kWh and Time-of-Use Hours | 2026-11-19 | electric-rates | published | fpl residential electricity rate 2026 cents per kwh | /posts/fpl-rates-2026/
+comed-time-of-day-rates | ComEd Delivery Time-of-Day Rate: Who Saves in 2026 | 2026-11-19 | electric-rates | published | comed delivery time of day rate | /posts/comed-time-of-day-rates/

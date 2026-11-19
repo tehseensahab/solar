@@ -1,7 +1,8 @@
 ---
 title: "Illinois Net Metering Changes: Supply-Only Credits Explained"
 date: 2026-11-18T04:30:00Z
-lastVerified: 2026-11-18
+lastVerified: 2026-11-19
+lastmod: 2026-11-19
 description: "Illinois net metering changes: solar connected since Jan. 1, 2025 earns supply-only credits, about 10.1¢ per kWh at ComEd now, not the full retail rate."
 categories: ["costs-incentives"]
 states: ["Illinois"]
@@ -126,6 +127,7 @@ For new systems already on supply-only crediting, the generation rebate should n
 - **You are on hourly supply pricing** (including ComEd storage-rebate customers on Rate BESH): your credits are calculated differently, and this example does not model them.
 - **You buy supply from a third party:** your credit follows your supplier's contract price, not the utility's price to compare.
 - **Commercial or large systems:** different rate classes and rules apply.
+- **You are on ComEd's Delivery Time-of-Day rate** (update, November 19, 2026): delivery is billed at different prices by hour, so the flat delivery rate in this example does not apply. The Citizens Utility Board does not recommend combining legacy net metering, Delivery Time-of-Day and a fixed supply rate. See our [ComEd delivery time-of-day guide](/posts/comed-time-of-day-rates/).
 
 ## Sources and verification
 

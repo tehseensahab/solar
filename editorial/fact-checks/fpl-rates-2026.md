@@ -1,0 +1,15 @@
+# Fact-check: fpl-rates-2026
+
+Checked November 19, 2026. Byline John Marshall. Plan lead for Thu Nov 19 (content-plan/2026-W47.md). One independent fact-check agent for both of today's articles (with comed-time-of-day-rates); 3 re-fetches + 1 search. Counts: 28 verified, 11 qualified (wording fixed), 0 not verified, 0 removed.
+
+- FPL residential rate sheet "Effective October 2026": RS-1 base $10.52; energy 7.865/8.865c; fuel 2.893/3.893c; conservation 0.148; capacity 0.052; environmental 0.345; storm protection 0.995; transition credit -0.040; $30 minimum base bill sentence; RTR-1 adders 14.410/-6.157 energy, 0.226/-0.098 fuel, in addition to RS-1. VERIFIED. No November 2026 sheet found in search on Nov. 19; article says "latest we found posted".
+- FPL tariff Section 8, Sheet 8.203 (18th revised, eff. Jan. 1, 2026): on-peak Nov-Mar weekdays 6-10 a.m. and 6-10 p.m. ET excl. Thanksgiving, Christmas, New Year's; Apr-Oct weekdays noon-9 p.m. ET excl. Memorial Day, Independence Day, Labor Day; off-peak all other hours; Sheet 8.204 term "not less than one year"; Minimum $30.00. VERIFIED.
+- fpl.com/rates/time-of-use.html: seasons, weekend exclusion, "about 26 cents" / "around 9 cents", annual commitment, ~3 months, new meter, no extra cost, not with On Call/Budget Billing/EVolution. VERIFIED. Who-benefits examples (78 degrees, >1,000 kWh) QUALIFIED (summary of page examples; wording softened).
+- NW Florida Sept 2026 sheet: Transition Rider +0.421c; storm refund -0.797c. VERIFIED. No Oct/Nov NW sheet found; article says so.
+- NextEra/FPL release Nov. 20, 2025: $134.14 -> $136.64 (2026); NW $143.60 -> $141.36; PSC approved that day. VERIFIED.
+- FPL newsroom Oct. 30, 2026: $141.87 from Jan. 2027 proposed; $143.05 earlier projection; $3.48/month Isaias surcharge Jan-Dec 2027; fuel lower; "subject to PSC review and approval". VERIFIED (re-fetched). Status: PROPOSED. Search Nov. 19 found no PSC decision (NBC6 Oct. 30, WEAR Nov. 2 "awaiting a final decision").
+- Math recomputed: 12.258c, 14.258c, $133.10, $204.39, 13.6c avg, +14.636/-6.255c, 26.894/6.003c and 28.894/8.003c, break-even 29.94%, 1,500 kWh at 20/27/40% = -$31.15/-$9.22/+$31.52, 45/168 and 40/168 hours, 248 kWh minimum (assumption labeled), +$5.23 (3.8%), NW 12.719c. VERIFIED.
+- Qualified, fixed: FAQ "pre-cool/dryers" -> FPL's 78-degree/timers wording; minimum-bill audience marked "in our reading"; tax examples cut to "taxes and local fees"; Sept refund sentence narrowed; A/C peak-share claim marked our estimate; ">1,000 kWh" attributed to FPL's examples; "2026-2029" dropped from the Oct. 30 attribution; solar points 1-3 hedged on net metering and output timing.
+- State term Florida; in-body link to /posts/florida-electricity-rate-changes-2026/ (anchor "Florida electric rate tracker"). Body notes added to the Florida state page (lastmod/lastVerified Nov. 19) and /posts/best-home-batteries-time-of-use-rates/ (lastmod Nov. 19).
+
+COVER: Unsplash photo 4T4AcGJvARQ (FilterGrade, suburban street with tile-roof houses and palms), free Unsplash License.
