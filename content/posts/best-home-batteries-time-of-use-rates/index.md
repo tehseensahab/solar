@@ -2,6 +2,7 @@
 title: "Best Home Batteries for Solar Owners on Time-of-Use Rates"
 date: 2026-10-24T00:30:00+05:00
 lastVerified: 2026-10-24
+lastmod: 2026-11-19
 imageAlt: "Solar panels on a pitched roof under a clear sky."
 imageCredit: "Photo by Soren H on [Unsplash](https://unsplash.com/photos/solar-panels-on-a-roof-omfN1pW-n2Y?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["equipment"]
@@ -34,6 +35,8 @@ Before you buy for the spread alone, read the math below. In our worked example 
 ## What a TOU battery earns
 
 Our [time-of-use guide](/posts/time-of-use-rates-and-solar/) uses Idaho Power's 2026 optional TOU rate for on-site generation customers: a summer on-peak kWh costs 29.9185¢ and an off-peak kWh costs 7.4797¢. It also uses a midday export value of 3.4¢ per kWh for illustration. We rely on that guide for the tariff figures and did not re-pull the tariff today.
+
+**Update, November 19, 2026:** For a Florida example, FPL's RTR-1 time-of-use rider adds 14.636¢ per on-peak kWh and credits 6.255¢ per off-peak kWh on top of its standard rate (October 2026 rate sheet), and its winter peaks run 6 to 10 a.m. and 6 to 10 p.m. ET on weekdays. See our [FPL rates and time-of-use hours guide](/posts/fpl-rates-2026/).
 
 Formula (our math): value per stored kWh = (round-trip efficiency × on-peak price) − (price of the energy you stored).
 
