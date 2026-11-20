@@ -1,7 +1,8 @@
 ---
 title: "FPL Rates 2026: Cost per kWh and Time-of-Use Hours"
 date: 2026-11-19T05:00:00Z
-lastVerified: 2026-11-19
+lastmod: 2026-11-20
+lastVerified: 2026-11-20
 description: "FPL residential electricity rate in 2026: about 12.3 cents per kWh for the first 1,000 kWh and 14.3 cents above, plus $10.52 a month, before taxes and fees."
 categories: ["electric-rates"]
 states: ["Florida"]
@@ -155,7 +156,7 @@ Three parts of the rate design matter for solar:
 2. **The $30 minimum.** Depending on how exports are credited, a system sized to wipe out nearly all your usage can still leave you with the minimum bill.
 3. **Time-of-use timing.** FPL's winter peak windows (6 to 10 a.m. and 6 to 10 p.m. ET) fall mostly outside the hours when panels produce, and the summer peak runs until 9 p.m. ET, into the evening, when panel output is low. Solar alone does not cover the expensive evening hours. A battery that shifts midday solar into the evening is the usual way to work around that; see [how time-of-use rates change the value of solar](/posts/time-of-use-rates-and-solar/) and [batteries for time-of-use rates](/posts/best-home-batteries-time-of-use-rates/).
 
-We did not review FPL's net metering rules for this article. Ask FPL how exports are credited before you size a system or join RTR-1 with solar.
+We did not review FPL's net metering rules for this article. Ask FPL how exports are credited before you size a system or join RTR-1 with solar. **Update, Nov. 20, 2026:** we have since covered them in [FPL net metering: how solar credits work](/posts/fpl-net-metering/). Under [FPL's tariff](https://www.fpl.com/rates/pdf/electric-tariff-section10.pdf), excess kWh offset use in later months for up to 12 months, and credits left at year-end are paid at a COG-1 avoided-cost rate.
 
 ## Sources and verification
 

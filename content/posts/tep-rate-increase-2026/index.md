@@ -1,7 +1,8 @@
 ---
 title: "TEP Rate Increase 2026: Judge Recommends 11.2% for Homes"
 date: 2026-10-28T05:00:00Z
-lastVerified: 2026-10-28
+lastmod: 2026-11-20
+lastVerified: 2026-11-20
 imageAlt: "High-voltage transmission towers and power lines crossing a dry, grassy Arizona plain under a blue sky, with a flat-topped butte on the horizon."
 imageCredit: "Photo by Tyler Mignault on [Unsplash](https://unsplash.com/photos/a-large-field-with-power-lines-and-a-mountain-in-the-distance-ChDFJo4zWC0?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["news"]
@@ -72,6 +73,8 @@ The Attorney General's office had argued that "TEP can achieve the same reliabil
 **Our estimate.** If 11.2% is applied to the $141.60 current bill in TEP's notice for 805 kWh, the increase would be about **$15.86 a month** (0.112 × $141.60). That is our illustration, not a figure from the order. Your result depends on your usage, rate plan and current bill.
 
 ## What Happens Next
+
+**Update, Nov. 20, 2026:** The ACC approved TEP's rate increase on Nov. 17, 2026, in a 4-1 vote, news outlets including [Copper Courier](https://coppercourier.com/news/politics/tep-rate-hike-tucson/) report. TEP says residential customers with average usage on its Basic plan will see bills rise "by about 9.4 percent, or approximately $13 per month, bringing the average monthly bill to about $150," with new rates taking effect Dec. 1. TEP also says that beginning in 2028, bills may rise or fall through the annual rate adjustment mechanism (ARAM), with each adjustment subject to ACC review ([TEP release, SEC Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/0000100122/000010012226000028/a2026ex991teprateorderpres.htm)). The timeline below is kept as originally published.
 
 - **Tentatively Nov. 17, 2026:** the ACC's five commissioners discuss the recommendation at an open meeting and may vote. They can adopt it, amend it or reject it.
 - **As soon as Dec. 1, 2026:** new rates could take effect if approved, AZ Luminaria reports.

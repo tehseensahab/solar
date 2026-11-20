@@ -1,8 +1,8 @@
 ---
 title: "Florida Electricity Rate Changes for October 2026: FPL Refund Ends and What Changed in 2026"
 date: 2026-09-30
-lastmod: 2026-11-19
-lastVerified: 2026-11-19
+lastmod: 2026-11-20
+lastVerified: 2026-11-20
 imageAlt: "Aerial view of waterfront houses with palm trees beside turquoise water, some roofs fitted with solar panels."
 imageCredit: "Photo by Diwei Zhu on [Unsplash](https://unsplash.com/photos/coastal-houses-with-palm-trees-beside-a-turquoise-ocean-kBydV9ID5Ws?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -58,7 +58,7 @@ The Florida Public Service Commission approved a four-year FPL rate agreement on
 
 ## What This Means for Homeowners With Solar
 
-FPL's tariff sheet notes a $30 minimum base bill for residential customers. Solar can reduce your energy and fuel charges, but not below that floor. The usage tiers matter too: because kWh above 1,000 cost more, solar production offsets your most expensive kWh first. We did not review Florida's net metering rules for this article, so confirm export credits with your utility before sizing a system.
+FPL's tariff sheet notes a $30 minimum base bill for residential customers. Solar can reduce your energy and fuel charges, but not below that floor. The usage tiers matter too: because kWh above 1,000 cost more, solar production offsets your most expensive kWh first. We did not review Florida's net metering rules for this article, so confirm export credits with your utility before sizing a system. **Update, Nov. 20, 2026:** for FPL customers, our [guide to FPL net metering credits](/posts/fpl-net-metering/) explains the 12-month kWh carry-forward and year-end payout from [FPL's tariff](https://www.fpl.com/rates/pdf/electric-tariff-section10.pdf).
 
 ## What Homeowners Should Check on Their Electric Bill
 

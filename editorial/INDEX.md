@@ -164,3 +164,5 @@ illinois-net-metering-changes | Illinois Net Metering Changes: Supply-Only Credi
 pool-pump-cost-to-run | Pool Pump Cost to Run: Per Month and Year | 2026-11-18 | electric-rates | published | pool pump cost to run | /posts/pool-pump-cost-to-run/
 fpl-rates-2026 | FPL Rates 2026: Cost per kWh and Time-of-Use Hours | 2026-11-19 | electric-rates | published | fpl residential electricity rate 2026 cents per kwh | /posts/fpl-rates-2026/
 comed-time-of-day-rates | ComEd Delivery Time-of-Day Rate: Who Saves in 2026 | 2026-11-19 | electric-rates | published | comed delivery time of day rate | /posts/comed-time-of-day-rates/
+oncor-rate-increase-2026 | Oncor Rate Increase 2026: Delivery Charges Up About 20% | 2026-11-20 | news | published | oncor rate increase 2026 | /posts/oncor-rate-increase-2026/
+fpl-net-metering | FPL Net Metering 2026: How Solar Credits Work in Florida | 2026-11-20 | costs-incentives | published | fpl net metering | /posts/fpl-net-metering/
