@@ -1,7 +1,7 @@
 ---
 title: "Texas Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-09-30
-lastmod: 2026-10-28
+lastmod: 2026-11-20
 imageAlt: "Dark solar panels mounted on a brown tiled roof behind a green hedge."
 imageCredit: "Photo by Watt A Lot on [Unsplash](https://unsplash.com/photos/a-building-with-solar-panels-4Wl2YkDqHjU?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -22,6 +22,7 @@ faq:
     a: "In competitive areas, your retail electricity provider sets the energy rate, while your local utility charges a delivery fee regulated by the Public Utility Commission of Texas."
   - q: "How much did Oncor's rate case add to a bill?"
     a: "Oncor estimated about 3%, or $4.64 per month, for a customer using 1,000 kWh a month on a retail plan priced at 15 cents per kWh. New rates began June 1, 2026."
+lastVerified: 2026-11-20
 ---
 
 No October 1, 2026 rate change had been announced for Oncor or CenterPoint as of September 29, 2026. The biggest recent change in North Texas was Oncor's new delivery rates, which began June 1, 2026. This article explains what changed and what could still affect your bill.
@@ -43,6 +44,8 @@ If you live in a competitive area, two companies affect your bill. Your retail e
 The PUC approved a settlement in Oncor's rate case on April 17, 2026. Oncor says the new rates took effect June 1, 2026, and estimates the increase at about 3% of the total bill. Oncor may also surcharge the difference between the new and old rates for January 1 through the June start date. Oncor says it will recover that through a separate filing during 2026.
 
 Oncor also filed its first "tracker" request on April 22, 2026, asking for an interim rate update tied to about $4.4 billion of 2025 grid investment. Oncor expected a final order and updated rates in the second half of 2026. We could not confirm a decision or an effective date.
+
+**Update, Nov. 20, 2026:** Oncor's tariff shows higher transmission and distribution recovery charges for bills rendered on and after Oct. 4, 2026, plus a temporary surcharge of 0.3633 cents per kWh from Aug. 1 through December 2026. By our math, Oncor's delivery charges at 1,000 kWh are now $72.73 a month, up from $60.41 before June 1. Trade press reports the Oct. 4 rates are temporary pending a PUC final order. Details in our [Oncor rate increase 2026 breakdown](/posts/oncor-rate-increase-2026/), sourced to [Oncor's tariff](https://www.oncor.com/content/dam/oncorwww/documents/about-us/regulatory/tariff-and-rate-schedules/Tariff%20for%20Retail%20Delivery%20Service.pdf).
 
 ## How Much Could Your Electric Bill Change?
 

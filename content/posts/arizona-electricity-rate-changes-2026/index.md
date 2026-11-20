@@ -1,8 +1,8 @@
 ---
 title: "Arizona Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
-lastmod: 2026-10-28
-lastVerified: 2026-10-28
+lastmod: 2026-11-20
+lastVerified: 2026-11-20
 imageAlt: "Suburban homes at dusk with solar panels on a tile roof."
 imageCredit: "Photo by Vivint Solar on [Unsplash](https://unsplash.com/photos/a-house-with-a-solar-panel-on-the-roof-_ciUqT1HEuY?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -50,6 +50,8 @@ This article covers APS, which serves about 1.5 million customers, and TEP, whic
 **Timeline, per the Arizona Corporation Commission:** the hearing began May 18, 2026 and concluded July 7 after 31 days. The administrative law judge's Recommended Opinion and Order is expected by late November 2026. The deadline for the commission to vote on it is December 31, 2026. New rates are expected in early 2027.
 
 ## TEP: Still Pending
+
+**Update, Nov. 20, 2026:** The ACC approved TEP's rate increase on Nov. 17, 2026 (4-1, per news reports). TEP says average residential bills on its Basic plan rise about 9.4%, or about $13 a month, from Dec. 1 ([TEP release](https://www.sec.gov/Archives/edgar/data/0000100122/000010012226000028/a2026ex991teprateorderpres.htm)). See our [TEP rate case coverage](/posts/tep-rate-increase-2026/). The section below reflects the case before the vote.
 
 TEP asked for new rates from September 2026, but the case has not been decided. TEP's rate page, checked on October 4, 2026, says the company "anticipates that the review will conclude with approval of new rates in late 2026." The docket is E-01933A-25-0103.
 
