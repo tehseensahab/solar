@@ -1,7 +1,8 @@
 ---
 title: "PSE&G Rate Increase 2026: What Changed on Your Bill"
 date: 2026-11-16T05:00:00Z
-lastVerified: 2026-11-16
+lastmod: 2026-11-21
+lastVerified: 2026-11-21
 imageAlt: "A row of steel H-frame transmission line structures crossing a golden field, with dark green trees behind and a clear blue sky."
 imageCredit: "Photo by [Lewis Meyers](https://unsplash.com/@coollew?utm_source=solarexaminer&utm_medium=referral) on [Unsplash](https://unsplash.com/photos/a-row-of-poles-in-a-field-with-trees-in-the-background-cHbL8haaBYI?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["News"]
@@ -101,6 +102,8 @@ What that means for this year's changes:
 - **Leftover credits are valued differently.** If your system overproduces for the year, the excess is valued at a market price that excludes delivery and system charges, not at the retail rate. Sizing a system to your annual use avoids that.
 
 Our [net metering state guide](/posts/net-metering-state-guide/) explains how New Jersey's rules compare with other states'.
+
+**Update, Nov. 21, 2026:** the Board of Public Utilities' review of net metering for new customers (Docket No. QO24090723) was still open with no successor adopted as of Nov. 21; in May 2026 the BPU said there were "no new developments respecting net metering." See [what New Jersey's net metering review could mean for new solar customers](/posts/new-jersey-net-metering-2026/).
 
 ## Who This Applies To
 

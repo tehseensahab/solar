@@ -166,3 +166,5 @@ fpl-rates-2026 | FPL Rates 2026: Cost per kWh and Time-of-Use Hours | 2026-11-19
 comed-time-of-day-rates | ComEd Delivery Time-of-Day Rate: Who Saves in 2026 | 2026-11-19 | electric-rates | published | comed delivery time of day rate | /posts/comed-time-of-day-rates/
 oncor-rate-increase-2026 | Oncor Rate Increase 2026: Delivery Charges Up About 20% | 2026-11-20 | news | published | oncor rate increase 2026 | /posts/oncor-rate-increase-2026/
 fpl-net-metering | FPL Net Metering 2026: How Solar Credits Work in Florida | 2026-11-20 | costs-incentives | published | fpl net metering | /posts/fpl-net-metering/
+new-jersey-net-metering-2026 | New Jersey Net Metering 2026: Rules Now and the BPU Review | 2026-11-21 | costs-incentives | published | new jersey net metering policy 2026 | /posts/new-jersey-net-metering-2026/
+tv-cost-to-run | TV Cost to Run: Per Hour, Month and Year | 2026-11-21 | electric-rates | published | how much does it cost to run a tv | /posts/tv-cost-to-run/
