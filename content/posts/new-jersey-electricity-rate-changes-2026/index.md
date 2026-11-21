@@ -1,8 +1,8 @@
 ---
 title: "New Jersey Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-09-30
-lastmod: 2026-11-16
-lastVerified: 2026-09-30
+lastmod: 2026-11-21
+lastVerified: 2026-11-21
 draft: false
 author: "Tehseen Arbab"
 slug: "new-jersey-electricity-rate-changes-2026"
@@ -91,6 +91,7 @@ New Jersey still credits home solar under net metering, but the state has passed
 - **Current structure:** a Board of Public Utilities (BPU) staff presentation describes credits at the retail volumetric rate, with an annual reconciliation of unused credits.
 - **Threshold passed:** the same presentation says net-metered generation "exceeded 5.8% of total kWh sales" in energy year 2024, the level in state law that allows the BPU to consider a different approach.
 - **Review open:** the BPU opened Docket No. QO24090723, "Net Metering for Class I Renewable Energy Systems," and held its first stakeholder workshop on November 19, 2024. We did not find a final decision, or a rule on how existing systems would be treated.
+- **Update, Nov. 21, 2026:** in a May 21, 2026 order the BPU said "there are no new developments respecting net metering," and we found no successor policy as of Nov. 21. The same order cut the residential solar incentive (SREC-II) from $85 to $77 per MWh for registrations from July 27, 2026. Details, the full review timeline and questions for your installer are in our [New Jersey net metering 2026 explainer](/posts/new-jersey-net-metering-2026/).
 
 **What it means:** under retail-rate crediting, the small June supply changes barely moved the value of an exported kWh. The bigger question for anyone signing a contract now is what a successor policy pays. Ask your installer what credit rule the proposal assumes and for how long. PSE&G has also proposed a time-of-use rate (RS TOU-3P) in its supply filings; we did not confirm whether it has been approved.
 
