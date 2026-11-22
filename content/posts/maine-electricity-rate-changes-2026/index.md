@@ -1,8 +1,8 @@
 ---
 title: "Maine Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
-lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastmod: 2026-11-22
+lastVerified: 2026-11-22
 imageAlt: "Utility pole, transformer and power lines silhouetted against a deep red sky."
 imageCredit: "Photo by Chauanna Lima on [Unsplash](https://unsplash.com/photos/utility-pole-against-red-sky-3uHuJ1XYaWA?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -85,6 +85,8 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 ## Limitations
 
 We verified supply prices on the PUC's site. We did not research 2026 delivery rate changes or the 2027 standard offer, which had not been announced when we checked.
+
+**Update, Nov. 22, 2026:** The PUC set the 2027 standard offer on Nov. 17, 2026. News reports citing the PUC put Central Maine Power's residential price at 13.63 cents per kWh from Jan. 1, 2027, up from 12.72 cents, or about $4.99 a month more at about 550 kWh ([Portland Press Herald](https://www.pressherald.com/2026/11/17/maine-electric-bills-to-increase-in-january/)). CMP's delivery charge fell on July 1, 2026. Our [CMP rates per kWh breakdown](/posts/cmp-rates-per-kwh/) shows the full 2026 and 2027 price.
 
 ## Compare With Nearby States
 

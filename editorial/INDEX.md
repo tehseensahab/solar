@@ -168,3 +168,5 @@ oncor-rate-increase-2026 | Oncor Rate Increase 2026: Delivery Charges Up About 2
 fpl-net-metering | FPL Net Metering 2026: How Solar Credits Work in Florida | 2026-11-20 | costs-incentives | published | fpl net metering | /posts/fpl-net-metering/
 new-jersey-net-metering-2026 | New Jersey Net Metering 2026: Rules Now and the BPU Review | 2026-11-21 | costs-incentives | published | new jersey net metering policy 2026 | /posts/new-jersey-net-metering-2026/
 tv-cost-to-run | TV Cost to Run: Per Hour, Month and Year | 2026-11-21 | electric-rates | published | how much does it cost to run a tv | /posts/tv-cost-to-run/
+cmp-rates-per-kwh | CMP Rates per kWh: 2026 Price and the January 2027 Rise | 2026-11-22 | news | published | cmp rates per kwh | /posts/cmp-rates-per-kwh/
+energyguide-label-explained | EnergyGuide Label Explained: How to Read the Yellow Tag | 2026-11-22 | electric-rates | published | energyguide label | /posts/energyguide-label-explained/
