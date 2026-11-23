@@ -170,3 +170,5 @@ new-jersey-net-metering-2026 | New Jersey Net Metering 2026: Rules Now and the B
 tv-cost-to-run | TV Cost to Run: Per Hour, Month and Year | 2026-11-21 | electric-rates | published | how much does it cost to run a tv | /posts/tv-cost-to-run/
 cmp-rates-per-kwh | CMP Rates per kWh: 2026 Price and the January 2027 Rise | 2026-11-22 | news | published | cmp rates per kwh | /posts/cmp-rates-per-kwh/
 energyguide-label-explained | EnergyGuide Label Explained: How to Read the Yellow Tag | 2026-11-22 | electric-rates | published | energyguide label | /posts/energyguide-label-explained/
+duke-energy-rate-increase-2027 | Duke Energy Rate Increase 2027: NC Rates Approved for Jan. 1 | 2026-11-23 | news | published | duke energy rate increase 2027 | /posts/duke-energy-rate-increase-2027/
+duke-energy-florida-net-metering | Duke Energy Florida Net Metering: How Solar Credits Work | 2026-11-23 | costs-incentives | published | duke energy florida net metering | /posts/duke-energy-florida-net-metering/

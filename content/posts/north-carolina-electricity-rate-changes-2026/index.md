@@ -1,8 +1,8 @@
 ---
 title: "North Carolina Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-10-04
-lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastmod: 2026-11-23
+lastVerified: 2026-11-23
 imageAlt: "Cream-sided house with a two-car garage and solar panels on its roof, framed by trees."
 imageCredit: "Photo by Maverick Frame on [Unsplash](https://unsplash.com/photos/a-house-with-solar-panels-a-garage-and-green-landscaping-_Y4Uu2ORpe4?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -101,6 +101,7 @@ The percentages need care, because different numbers describe different things.
 
 ## What Happens Next
 
+- **Update, November 23, 2026:** the commission approved both settlements in written orders dated November 16, 2026, and Duke says it expects new rates on January 1, 2027, according to Duke's [SEC filing](https://www.sec.gov/Archives/edgar/data/0001326160/000110465926128747/tm2629986d1_8k.htm). Duke now projects +$9.62 (DEP) and +$6.53 (DEC) a month at 1,000 kWh in 2027. See our [report on the approved Duke Energy rate increase for 2027](/posts/duke-energy-rate-increase-2027/).
 - **The decision:** the commission can approve, modify or reject each settlement. Expert hearings ran in July and August 2026. As of September 30, 2026, published reports still described the rate cases as under review. We found no final order.
 - **January 1, 2027:** the proposed effective date for new rates.
 - **One utility instead of two:** Duke has proposed combining DEC and DEP, with a target date of January 1, 2027. This needs state and federal approval. We did not confirm its current status.
