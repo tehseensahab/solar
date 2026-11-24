@@ -1,8 +1,8 @@
 ---
 title: "Florida Electricity Rate Changes for October 2026: FPL Refund Ends and What Changed in 2026"
 date: 2026-09-30
-lastmod: 2026-11-20
-lastVerified: 2026-11-20
+lastmod: 2026-11-24
+lastVerified: 2026-11-24
 imageAlt: "Aerial view of waterfront houses with palm trees beside turquoise water, some roofs fitted with solar panels."
 imageCredit: "Photo by Diwei Zhu on [Unsplash](https://unsplash.com/photos/coastal-houses-with-palm-trees-beside-a-turquoise-ocean-kBydV9ID5Ws?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -72,6 +72,8 @@ FPL's tariff sheet notes a $30 minimum base bill for residential customers. Sola
 FPL's 2026 to 2029 agreement sets its base rate path. Fuel and other clause charges are reviewed each year by the Public Service Commission, so check your January 2027 rate sheet when FPL posts it.
 
 **Update, November 19, 2026:** On October 30, 2026, FPL said it had filed proposals with the Public Service Commission for a typical 1,000 kWh bill of $141.87 from January 2027, including a proposed $3.48 a month Hurricane Isaias surcharge for 2027. These need PSC approval. Our [FPL rates 2026 guide](/posts/fpl-rates-2026/) builds today's cents-per-kWh figure line by line and lists the time-of-use hours ([FPL release](https://newsroom.fpl.com/FPL-projects-2027-residential-bills-will-be-lower-than-previously-expected-and-remain-well-below-national-average)).
+
+**Update, November 24, 2026:** Duke Energy Florida said on Nov. 3, 2026 that the Public Service Commission approved its request to lower 2027 rates: about $0.95 less on a 1,000 kWh residential bill from December 2026 to January 2027, with its usual March-to-November reduction of about $10 returning in March. The PSC's written order was not posted as of Nov. 24. Details are in our [Duke Energy Florida 2027 rates explainer](/posts/duke-energy-florida-rates-2027/) ([Duke release](https://www.morningstar.com/news/pr-newswire/20261103cl87882/duke-energy-florida-customers-to-see-lower-rates-in-2027)).
 
 **Published:** September 30, 2026
 **Last verified:** September 29, 2026

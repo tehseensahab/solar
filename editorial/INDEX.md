@@ -172,3 +172,4 @@ cmp-rates-per-kwh | CMP Rates per kWh: 2026 Price and the January 2027 Rise | 20
 energyguide-label-explained | EnergyGuide Label Explained: How to Read the Yellow Tag | 2026-11-22 | electric-rates | published | energyguide label | /posts/energyguide-label-explained/
 duke-energy-rate-increase-2027 | Duke Energy Rate Increase 2027: NC Rates Approved for Jan. 1 | 2026-11-23 | news | published | duke energy rate increase 2027 | /posts/duke-energy-rate-increase-2027/
 duke-energy-florida-net-metering | Duke Energy Florida Net Metering: How Solar Credits Work | 2026-11-23 | costs-incentives | published | duke energy florida net metering | /posts/duke-energy-florida-net-metering/
+duke-energy-florida-rates-2027 | Duke Energy Florida Rates 2027: Bills Dip in January | 2026-11-24 | electric-rates | published | duke energy florida rates 2027 | /posts/duke-energy-florida-rates-2027/
