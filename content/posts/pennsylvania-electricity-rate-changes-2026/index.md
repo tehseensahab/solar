@@ -1,8 +1,8 @@
 ---
 title: "Pennsylvania Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-09-30
-lastmod: 2026-11-10
-lastVerified: 2026-11-10
+lastmod: 2026-11-25
+lastVerified: 2026-11-25
 imageAlt: "Row of brick houses with solar panels covering the dark roofs."
 imageCredit: "Photo by Uitbundig on [Unsplash](https://unsplash.com/photos/a-house-with-a-lot-of-solar-panels-on-the-roof-yxiP843xyrI?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -69,6 +69,8 @@ A higher Price to Compare raises the value of each kWh your panels offset if you
 Default service prices are scheduled to reset again December 1. PPL had a proposed base rate settlement pending in the spring; we could not confirm its final status or effective date. Compare current offers at PAPowerSwitch.com, the PUC's shopping site.
 
 **Update, Nov. 10, 2026:** PPL has posted a residential Price to Compare of 14.428 cents per kWh for Dec. 1, 2026 to May 31, 2027, up 10.3% from 13.079 cents, according to its [rates page](https://pplelectric.com/shopping). The PUC approved PPL's base rate settlement in June, with new distribution rates from July 1, 2026. Details and bill math are in our [PPL Dec. 1 price increase article](/posts/ppl-rate-increase-december-2026/).
+
+**Update, Nov. 25, 2026:** The PUC's [Nov. 23 release](https://www.puc.pa.gov/press-release/2026/puc-encourages-consumers-to-prepare-for-rising-winter-electric-costs-as-december-1-brings-price-changes-11132026) lists Dec. 1 residential Prices to Compare. PECO rises from 11.759 to 12.965 cents per kWh (+10.3%); PECO's June 1 price was 11.759 cents, not the 11.572-cent estimate in the table above. Penelec rises from 13.142 to 13.564 cents (+3.2%) and Met-Ed from 13.951 to 14.442 cents (+3.5%). Bill math: [PECO's December increase](/posts/peco-rate-increase-december-2026/) and [Penelec and the other FirstEnergy districts](/posts/penelec-rate-increase-december-2026/).
 
 **Published:** September 30, 2026
 **Last verified:** November 10, 2026 (PPL update); September 29, 2026 (other utilities)
