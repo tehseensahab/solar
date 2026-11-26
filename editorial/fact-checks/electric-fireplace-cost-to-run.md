@@ -1,0 +1,11 @@
+# Fact-check: electric-fireplace-cost-to-run
+
+Checked November 26, 2026. Byline Craig Leslie. One independent fact-check agent for both of today's articles; findings applied. Counts: 15 verified, 12 qualified, 1 not verified (removed).
+- Dimplex support FAQ (re-fetched): "The flame uses slightly under 300 Watts of power."; "the unit uses approximately 1500 Watts"; "about 5115 BTU of total heat"; "8 ¢ per hour based on heater cycling at 50%"; "flame and heater operate independently of each other". Page also says flame-only "operates for a remarkable 3¢ per hour" at an unstated average rate (not used). VERIFIED.
+- Manuals: Duraflame DFI-5010 (manuals.plus copy; 1500 W, 12.5 A, 62-82°F, up to 1000 sq ft, heater disable), DFI-7105 (thdstatic PDF; cycling quote), DFS-114 (QVC PDF V88303; 750/1500 W; 400 sq ft), Touchstone Onyx and Sideline (shopify CDN PDFs; max 1500 W; 15 A / 12 A; "The heater only works when the flame effect is on."), e-Flame USA EF-TI24 (bigcommerce PDF; 15-amp circuit; flame must be on). VERIFIED (DFI-5010 from third-party copy).
+- EIA 18.16 c/kWh Aug. 2026 (print-version.php, fetched today); state prices from data/eia_prices.yaml (EPM 5.6.A Aug. 2026); 863 kWh/month 2024 from EIA Table 5a via existing post. VERIFIED / QUALIFIED (not re-fetched).
+- Arithmetic recomputed by checker: 27.24c, 13.62c, 5.45c per hour; $32.69/$16.34/$6.54 per month; 720 kWh $130.75; flame 144 kWh $26.15; state table; 180/863 = 20.9%; 5,118 BTU; 12.5 A. VERIFIED.
+- Removed (NOT VERIFIED): "manuals warn against overloading". Fixes applied: LED-flame claim replaced with "check the rating label"; "most models" -> "models we checked"; flame month "under about $6.50"; season "about $26 or less"; flame-plus-heater wording; 750 W thermostat overstatement rewritten; solar/TOU and heat-pump statements hedged (general knowledge, QUALIFIED); tax wording.
+- No state term (national guide). Internal links: space-heater-cost-to-run, kw-vs-kwh, how-much-electricity-does-a-house-use, heat-pump-vs-gas-furnace-cost.
+
+COVER: Unsplash photo aqdQyt580zY (Clay Banks, cabin living room with lit fireplace), free Unsplash License. Rejected EstnBZqJkJ4 ("opened electric fireplace" title but shows a wood fire with stacked logs).
