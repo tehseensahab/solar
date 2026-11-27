@@ -25,8 +25,6 @@ faq:
     a: "Sometimes. Starting a compressor needs a short surge well above its running power. Tesla's datasheet lists the ability to start loads up to 185 LRA, and FranklinWH says the aPower 2 can start a 5-ton A/C. Confirm your specific unit's starting current with your installer."
 ---
 
-> **Contains affiliate links.** Solar Examiner may earn a commission if you buy through links marked "Check price." Commissions do not affect which products we pick. See our [affiliate disclosure](/affiliate-disclosure/) and [how we pick products](/how-we-pick/).
-
 The best home battery for backup power is the one whose **continuous output (kW)** covers the loads you run at the same time and whose **capacity (kWh)** covers the hours you want to ride through. Among the batteries we reviewed, the Tesla Powerwall 3 and FranklinWH aPower 2 offer the highest output from a single unit, and Enphase IQ Batteries are the most modular. All figures below come from manufacturer documents or the published analyses we name, as of October 24, 2026.
 
 We have not tested these batteries. Our picks rest on specs, certifications, warranties and published expert and installer-marketplace analyses. See [how we pick products](/how-we-pick/).
@@ -69,8 +67,6 @@ Example (an illustration with assumed numbers, not a measurement): a home that a
 
 **Approximate price:** EnergySage's [April 2026 battery ranking](https://www.energysage.com/solar/solar-energy-storage/what-are-the-best-batteries-for-solar-panels/) lists $998 per kWh; Solar.com's [battery guide](https://solar.com/learn/best-solar-batteries/) reports a median of about $15,000 installed with solar (September 2026 installer price lists, before incentives). Prices checked October 24, 2026.
 
-<a href="#affiliate-link-pending" rel="sponsored nofollow">Check price</a>
-
 ### FranklinWH aPower 2 — best for capacity and tough sites
 
 FranklinWH's [product page](https://www.franklinwh.com/products/apower2-home-battery-backup/) lists 15 kWh capacity, 10 kW continuous power, a 15-year warranty covering 60 MWh of throughput, IP67 dust and water protection, LFP chemistry and an operating range of -4°F to 131°F. It says up to 15 units can stack per aGate controller. The page does not state peak power or a UL 9540 listing, so ask your installer for the certification documents.
@@ -86,8 +82,6 @@ FranklinWH's [product page](https://www.franklinwh.com/products/apower2-home-bat
 - Uses FranklinWH's own aGate controller, so it is a different ecosystem from Tesla or Enphase.
 
 **Approximate price:** EnergySage lists $1,177 per kWh; Solar.com reports about $17,250 median installed with solar (before incentives). Prices checked October 24, 2026.
-
-<a href="#affiliate-link-pending" rel="sponsored nofollow">Check price</a>
 
 ### Enphase IQ Battery 10C — best for midsize modular backup
 
@@ -105,8 +99,6 @@ Enphase's [product page](https://enphase.com/store/storage/iq-battery-10c) lists
 
 **Approximate price:** EnergySage lists $1,404 per kWh; Solar.com reports about $14,250 median installed with solar. Prices checked October 24, 2026.
 
-<a href="#affiliate-link-pending" rel="sponsored nofollow">Check price</a>
-
 ### Enphase IQ Battery 5P — best for starting small
 
 The [IQ Battery 5P](https://enphase.com/store/storage/iq-battery-5p) lists 5.0 kWh usable capacity, 3.84 kW continuous power, 7.68 kW peak for 3 seconds and 6.14 kW for 10 seconds, six embedded grid-forming microinverters and a 15-year warranty up to 6,000 cycles. Backup requires an IQ System Controller 3 or 3G, and commissioning requires an Enphase-certified installer.
@@ -118,8 +110,6 @@ The [IQ Battery 5P](https://enphase.com/store/storage/iq-battery-5p) lists 5.0 k
 **Cons**
 - You may need several units for whole-home backup, and the controller adds cost.
 - Solar.com's median for a no-backup version is about $6,125, but about $10,650 with backup, so the backup hardware matters.
-
-<a href="#affiliate-link-pending" rel="sponsored nofollow">Check price</a>
 
 ## What about owner reviews?
 

@@ -25,8 +25,6 @@ faq:
     a: "The IRS lists the 30C credit (30%, up to $1,000 per item for individuals) for property placed in service through June 30, 2026, in eligible census tracts. It does not cover chargers placed in service after that date. State and utility rebates may still apply."
 ---
 
-> **Contains affiliate links.** Solar Examiner may earn a commission if you buy through links marked "Check price." Commissions do not affect which products we pick. See our [affiliate disclosure](/affiliate-disclosure/) and [how we pick products](/how-we-pick/).
-
 The best Level 2 home charger is the one that matches your car's AC charging rate and your panel's spare capacity. For most households the **ChargePoint Home Flex** is the most flexible pick, the **Tesla Wall Connector** suits Tesla-first homes, and the **Emporia Pro** and **Grizzl-E Classic** are lower-cost options. Details below come from manufacturer pages read on October 24, 2026. We did not test these chargers. See [how we pick products](/how-we-pick/).
 
 ## Quick picks
@@ -64,15 +62,11 @@ ChargePoint says the hardwired model delivers up to 50 A on circuits rated 20 to
 **Pros:** adjustable current for different circuits; stated UL listing and ENERGY STAR; hardwire or plug options.
 **Cons:** price not shown on the page we read; shortest-looking warranty of the group at 3 years (Tesla's is 4).
 
-<a href="#affiliate-link-pending" rel="sponsored nofollow">Check price</a>
-
 ### Tesla Wall Connector — best for Tesla-first homes
 [Tesla](https://www.tesla.com/support/charging/wall-connector) says the Wall Connector provides up to 11.5 kW / 48 A. Its warranty is 48 months for normal residential use. Tesla tells buyers to make sure the plug matches the vehicle's inlet. The page we read did not state cable length, install options, UL listing or price.
 
 **Pros:** up to 11.5 kW; 4-year residential warranty.
 **Cons:** several specs not stated on the page we read; confirm connector type for non-Tesla vehicles.
-
-<a href="#affiliate-link-pending" rel="sponsored nofollow">Check price</a>
 
 ### Wallbox Pulsar Plus — best compact option
 [Wallbox](https://wallbox.com/en_us/pulsar-plus-ev-charger) lists 40 A or 48 A, up to 11.5 kW, a 25-foot cable, J1772 or NACS connectors, and a price starting at $649.99. The 40 A model offers NEMA 14-50 plug installation. The page did not state warranty, certifications or whether the 48 A model plugs in.
@@ -80,23 +74,17 @@ ChargePoint says the hardwired model delivers up to 50 A on circuits rated 20 to
 **Pros:** high power in a compact unit; 25-foot cable.
 **Cons:** highest listed starting price here; warranty and certifications not stated on the page we read.
 
-<a href="#affiliate-link-pending" rel="sponsored nofollow">Check price</a>
-
 ### Emporia Pro — best for smart-energy value
 [Emporia](https://www.emporiaenergy.com/ev-chargers/) lists $599, up to 48 A, a NEMA plug or hardwire, a 25-foot cable and a 3-year warranty. The page did not confirm UL or ENERGY STAR for the Pro; those details appear only in the Classic's FAQ.
 
 **Pros:** price; both plug and hardwire options; 25-foot cable.
 **Cons:** certification not confirmed for this model on the page; verify before buying.
 
-<a href="#affiliate-link-pending" rel="sponsored nofollow">Check price</a>
-
 ### Grizzl-E Classic 40A — best budget plug-in
 [Grizzl-E](https://www.grizzl-e.com/) lists the Classic 40A at $299.99 (plug-in) and the Classic Connect 40A at $349.99. The page says "Certified for Safety & Performance" without naming a body, and does not list warranty, cable length or kW.
 
 **Pros:** lowest price here; plug-in.
 **Cons:** limited stated specs; confirm UL listing and warranty before purchase.
-
-<a href="#affiliate-link-pending" rel="sponsored nofollow">Check price</a>
 
 ## What does it cost to run?
 

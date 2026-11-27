@@ -25,8 +25,6 @@ faq:
     a: "The IRS says the residential clean energy credit does not apply to property placed in service after December 31, 2025. State and utility programs may still apply; confirm with a tax professional."
 ---
 
-> **Contains affiliate links.** Solar Examiner may earn a commission if you buy through links marked "Check price." Commissions do not affect which products we pick. See our [affiliate disclosure](/affiliate-disclosure/) and [how we pick products](/how-we-pick/).
-
 Buy the **Tesla Powerwall 3** if you want the most continuous power from one unit, the **FranklinWH aPower 2** if you want the biggest single battery with a 15-year warranty, and an **Enphase IQ Battery** if you want to add capacity in small steps or already run Enphase microinverters. These are our reading of manufacturer documents and published analyses as of October 24, 2026. We did not test any of them. See [how we pick products](/how-we-pick/).
 
 ## Side-by-side
@@ -50,19 +48,13 @@ Sources: [Tesla datasheet](https://digitalassets.tesla.com/tesla-contents/image/
 
 Its 11.5 kW continuous discharge is the highest here, and the datasheet lists UL 1741, UL 9540, UL 9540A and UL 1973. Tesla's page says the unit includes an integrated solar inverter, and the datasheet lists up to 20 kW of PV input. In a new solar-plus-storage install that can mean fewer boxes. The trade-off is the 10-year warranty, five years shorter than the other two.
 
-<a href="#affiliate-link-pending" rel="sponsored nofollow">Check Powerwall 3 price</a>
-
 ### If you want capacity and a long warranty: aPower 2
 
 FranklinWH lists 15 kWh, 10 kW continuous, 15 years or 60 MWh, and IP67 protection. Its stacking limit of 15 units per aGate gives a ceiling of 225 kWh. The product page we read did not state a UL listing; ask for the document for the exact model.
 
-<a href="#affiliate-link-pending" rel="sponsored nofollow">Check aPower 2 price</a>
-
 ### If you want modular steps or already have Enphase: IQ Battery
 
 The 5P adds 5.0 kWh and 3.84 kW per unit; the 10C adds 10 kWh and 7.08 kW. Both carry a 15-year warranty up to 6,000 cycles. The 5P requires an IQ System Controller 3 or 3G for backup and Enphase-certified commissioning. Per kWh, EnergySage lists the 10C at the highest price of the batteries in its table, so compare full quotes, not spec sheets.
-
-<a href="#affiliate-link-pending" rel="sponsored nofollow">Check IQ Battery price</a>
 
 ## Price check
 

@@ -25,8 +25,6 @@ faq:
     a: "Yes, that is the main advantage of a plug-in or portable unit, as long as your next home has a compatible outlet. Wall-mounted plug-in models need re-mounting."
 ---
 
-> **Contains affiliate links.** Solar Examiner may earn a commission if you buy through links marked "Check price." Commissions do not affect which products we pick. See our [affiliate disclosure](/affiliate-disclosure/) and [how we pick products](/how-we-pick/).
-
 If you rent, the practical choice is between **Level 1 on a standard outlet**, a **portable Level 2 cordset** on a 240-volt outlet such as NEMA 14-50, or a **plug-in wall unit** you can take with you. The first two need no installation; the third needs an outlet. Specs below are from manufacturer pages and DOE material read on October 24, 2026. We did not test these chargers. See [how we pick products](/how-we-pick/).
 
 ## Quick picks
@@ -51,8 +49,6 @@ The Tesla Mobile Connector is 20 feet long and includes NEMA 5-15 and NEMA 14-50
 
 ### You want a wall unit you can take with you: plug-in Level 2
 ChargePoint's Home Flex NEMA 6-50 and 14-50 versions deliver up to 40 A and are listed at about 30 miles per hour. Per ChargePoint, the page states UL listing, ENERGY STAR certification and a 3-year warranty. The Grizzl-E Classic 40A ($299.99, plug-in) is a lower-cost choice, but the page we read did not name the certifying body, warranty or cable length. The Emporia Pro ($599) lists a NEMA plug or hardwire option, 25 ft cable and a 3-year warranty; certifications are not confirmed for the Pro on its page.
-
-<a href="#affiliate-link-pending" rel="sponsored nofollow">Check Tesla Mobile Connector price</a> · <a href="#affiliate-link-pending" rel="sponsored nofollow">Check ChargePoint price</a> · <a href="#affiliate-link-pending" rel="sponsored nofollow">Check Grizzl-E price</a> · <a href="#affiliate-link-pending" rel="sponsored nofollow">Check Emporia price</a>
 
 ## Pros and cons
 
