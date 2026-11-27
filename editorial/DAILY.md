@@ -1,8 +1,10 @@
 # Daily run notes (read first; where this conflicts with the scheduled prompt, this wins)
 
-## Publishing rules (Nov 28, 2026; replace the older 2-a-day routine)
+## Publishing rules (Nov 28, 2026; updated: 3 timely + up to 4 evergreen a week)
 
-- **At most 3 new articles per week** (Monday to Sunday, PKT). Before writing, count posts in content/posts with a `date` in the current week; if 3 already exist, publish nothing new and only make sourced updates to existing pages.
+- **Weekly limits (Monday to Sunday, PKT):** at most **3 timely** articles (news, rate cases, filings) and at most **4 evergreen** articles. One new article per run. Count posts in content/posts with a `date` in the current week by type (timely = category news or a dated filing/decision; everything else is evergreen). If a type is full, write the other; if both are full, publish nothing new and only make sourced updates to existing pages.
+- **Evergreen comes only from `content-plan/clusters.md`.** Take the first unchecked row of the highest-priority cluster (pillars first) that passes the source and duplicate checks. Follow that file's linking rules, then mark the row `[x] <slug>`.
+- **Default choice per run:** a timely article when one with a primary source from the last 14 days exists and the timely limit allows; otherwise evergreen.
 - **No new state-template pages.** See editorial/README.md "STATE PAGES AND DATES". State pages live at `/rates/<state>/`; link there.
 - **Duplicate check before publishing.** Compare the draft's primary keyword, title and main question against editorial/INDEX.md and the existing page(s) on the same utility/topic (read their opening and headings). If an existing page answers substantially the same question, do not publish a new article: update the existing page instead (rewrite the affected text; add the figure to its "Changes since first publication" line) and report it as an update.
 - **Never re-date unchanged pages.** `lastmod`/`lastVerified` move only when a figure on that page changes. No "Update, <date>:" notes and no dated "link from" notes on existing pages: add a plain internal link where it fits, without touching dates.
