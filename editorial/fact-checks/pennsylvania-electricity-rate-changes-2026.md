@@ -18,4 +18,4 @@ Not published. Lives outside content/.
 ## 2026-11-28 merge check (ranking recovery)
 Net-metering text merged from data/states/pennsylvania.yaml and re-read against the primary source the same day:
 - 52 Pa. Code 75.13: 50 kW residential; full retail credit incl. generation, transmission, distribution up to usage; year-end surplus paid at PTC. Confirmed.
-- PECO June 1 PTC corrected to 11.759 cents per PUC Nov 23 release (page had the PUC's spring estimate 11.572). OPEN: PPL June 1 row shows 13.147 cents; PPL's Nov rates page says Dec 1 rise is "from 13.079". Re-check which is right.
+- PECO June 1 PTC corrected to 11.759 cents per PUC Nov 23 release (page had the PUC's spring estimate 11.572). RESOLVED Nov 28: pplelectric.com/shopping lists "13.079 ¢/kWh" for July 1-Nov 30, 2026 and "14.428 ¢/kWh" for Dec 1, 2026-May 31, 2027. 13.147 is the June 1 PUC figure; both are right for their periods. Page now states both.

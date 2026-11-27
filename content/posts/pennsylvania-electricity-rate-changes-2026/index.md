@@ -66,7 +66,7 @@ On default service, a higher Price to Compare raises the value of each kWh your 
 
 Default service prices reset again on December 1, 2026. Compare current offers at PAPowerSwitch.com, the PUC's shopping site.
 
-PPL has posted a residential Price to Compare of 14.428 cents per kWh for Dec. 1, 2026 to May 31, 2027, up 10.3% from 13.079 cents, according to its [rates page](https://pplelectric.com/shopping). The PUC approved PPL's base rate settlement in June, with new distribution rates from July 1, 2026. Details and bill math are in our [PPL Dec. 1 price increase article](/posts/ppl-rate-increase-december-2026/).
+PPL's residential Price to Compare was 13.147 cents from June 1, 2026 (PUC table above) and 13.079 cents from July 1 to November 30, 2026. PPL has posted 14.428 cents per kWh for Dec. 1, 2026 to May 31, 2027, up 10.3% from 13.079 cents, according to its [rates page](https://pplelectric.com/shopping). The PUC approved PPL's base rate settlement in June, with new distribution rates from July 1, 2026. Details and bill math are in our [PPL Dec. 1 price increase article](/posts/ppl-rate-increase-december-2026/).
 
 The PUC's [Nov. 23 release](https://www.puc.pa.gov/press-release/2026/puc-encourages-consumers-to-prepare-for-rising-winter-electric-costs-as-december-1-brings-price-changes-11132026) lists Dec. 1 residential Prices to Compare. PECO rises from 11.759 to 12.965 cents per kWh (+10.3%). Penelec rises from 13.142 to 13.564 cents (+3.2%) and Met-Ed from 13.951 to 14.442 cents (+3.5%). Bill math: [PECO's December increase](/posts/peco-rate-increase-december-2026/) and [Penelec and the other FirstEnergy districts](/posts/penelec-rate-increase-december-2026/).
 
@@ -74,7 +74,7 @@ The PUC's [Nov. 23 release](https://www.puc.pa.gov/press-release/2026/puc-encour
 
 The U.S. Energy Information Administration (EIA) puts Pennsylvania's average residential price at 21.77¢/kWh in August 2026, up 9.2% from 19.93¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $217.70 (1,000 × 21.77¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
-**Changes since first publication:** Nov. 28, 2026: PECO June 1 price corrected to 11.759 cents; net metering details added; Nov. 25, 2026: Dec. 1 Prices to Compare (PECO, Penelec, Met-Ed); Nov. 10, 2026: PPL Dec. 1 Price to Compare.
+**Changes since first publication:** Nov. 28, 2026: PECO June 1 price corrected to 11.759 cents; PPL July 1 price added; net metering details added; Nov. 25, 2026: Dec. 1 Prices to Compare (PECO, Penelec, Met-Ed); Nov. 10, 2026: PPL Dec. 1 Price to Compare.
 
 ## Sources
 
