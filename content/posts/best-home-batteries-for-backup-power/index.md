@@ -47,7 +47,7 @@ Two numbers decide backup performance:
 - **Power (kW):** the most the battery can deliver at one moment. Add up everything that might run together: refrigerator, lights, internet, well pump, furnace blower, an air conditioner.
 - **Energy (kWh):** how long that power lasts. Hours of backup = usable kWh ÷ average kW load.
 
-Example (an illustration with assumed numbers, not a measurement): a home that averages 1.5 kW of essential loads for a 12-hour overnight outage needs 1.5 × 12 = 18 kWh. One 13.5 kWh battery would run out in about 9 hours (13.5 ÷ 1.5) before any solar recharge. See [how to size a home battery](/posts/how-to-size-a-home-battery/) for the full method, and our earlier [battery sizing guide](/posts/battery-sizing-guide/) for a lighter-load example.
+Example (an illustration with assumed numbers, not a measurement): a home that averages 1.5 kW of essential loads for a 12-hour overnight outage needs 1.5 × 12 = 18 kWh. One 13.5 kWh battery would run out in about 9 hours (13.5 ÷ 1.5) before any solar recharge. See [how to size a home battery](/posts/how-to-size-a-home-battery/) for the full method, and our earlier [battery sizing guide](/posts/how-to-size-a-home-battery/) for a lighter-load example.
 
 ## Product cards
 

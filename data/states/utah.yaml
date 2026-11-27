@@ -5,7 +5,7 @@ region: West
 neighbors: [arizona, colorado, idaho, nevada]
 refreshed: 2026-10-28
 policy_checked: 2026-10-18
-guides: [solar-export-credit-rates-by-utility-2026, battery-sizing-guide]
+guides: [solar-export-credit-rates-by-utility-2026, how-to-size-a-home-battery]
 
 rate_note: Rocky Mountain Power's energy charges move with fuel and market costs; they fell 10.6% on July 1, 2026 even as base rates rose ([Utah News Dispatch](https://utahnewsdispatch.com/2026/07/06/rocky-mountain-powers-utah-rate-conflict-may-be-settled/)).
 
@@ -48,7 +48,7 @@ meaning: |-
   reliability and resilience investment. Advocates' concern was less the outcome than the process; Utah's Office of
   Consumer Services said the public prefers a standard case with more visibility into the details. For households, the
   pause on general rate filings through 2028 brings some predictability, but wildfire mitigation charges sit outside it and
-  energy charges float with markets. Our [battery sizing guide](/posts/battery-sizing-guide/) helps match storage to
+  energy charges float with markets. Our [battery sizing guide](/posts/how-to-size-a-home-battery/) helps match storage to
   evening use under low export credits.
 
 

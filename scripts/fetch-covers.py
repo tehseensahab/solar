@@ -51,7 +51,6 @@ QUERIES = {
     "pennsylvania-electricity-rate-changes-2026": ["solar panels row houses"],
     "texas-electricity-rate-changes-2026": ["solar panels ranch house"],
     "net-metering-state-guide": ["electric meter house exterior"],
-    "battery-sizing-guide": ["home battery wall garage"],
     "community-solar-subscription-report": ["solar farm field"],
     "treasury-itc-guidance": ["US Treasury building Washington"],
     "oge-files-oklahoma-rate-case-2026": ["utility pole power lines"],

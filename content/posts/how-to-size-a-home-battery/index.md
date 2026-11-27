@@ -37,7 +37,7 @@ Want the arithmetic done for you? Use our [home battery size calculator](/batter
 - **Whole-home backup:** everything, including air conditioning and an electric range.
 - **Bill management:** shifting solar or off-peak energy into the evening on a [time-of-use rate](/posts/time-of-use-rates-and-solar/).
 
-The goal changes the answer by a factor of several.
+The goal changes the answer by a factor of several. A quote sized to your whole daily usage (about 29.6 kWh a day for the average US home; see step 3) can be several times what essential-load backup needs (14.4 kWh in example A), so ask which goal the installer sized for.
 
 ## Step 2: List loads and kW
 
@@ -125,7 +125,7 @@ The IRS says the [residential clean energy credit](https://www.irs.gov/credits-d
 4. Adjust for usable energy and losses.
 5. Divide by capacity and round up on both kW and kWh.
 6. Confirm stacking limits and electrical panel capacity with an installer.
-7. Compare quotes. See [how to compare solar quotes](/posts/how-to-compare-solar-quotes/) and our earlier [battery sizing guide](/posts/battery-sizing-guide/).
+7. Compare quotes. See [how to compare solar quotes](/posts/how-to-compare-solar-quotes/).
 
 ## Limitations
 

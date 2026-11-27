@@ -63,7 +63,7 @@ In practice, these options suit phone and laptop charging, a router, a few light
 
 Among solar setups, a battery is the only way to have power after dark. A backup gateway or automatic switch disconnects your home from the grid when it fails; the battery then runs the backed-up circuits, and if your inverter is compatible, the panels recharge it during the day.
 
-For scale, Tesla's Powerwall 3 datasheet lists **13.5 kWh** of energy and **11.5 kW** of continuous output, with up to four units in one system. The energy rating (kWh) decides how long you last. The power rating (kW) decides how much you can run at once, including whether a well pump or central air conditioner can start. Our [solar battery sizing guide](/posts/battery-sizing-guide/) goes through both in detail.
+For scale, Tesla's Powerwall 3 datasheet lists **13.5 kWh** of energy and **11.5 kW** of continuous output, with up to four units in one system. The energy rating (kWh) decides how long you last. The power rating (kW) decides how much you can run at once, including whether a well pump or central air conditioner can start. Our [solar battery sizing guide](/posts/how-to-size-a-home-battery/) goes through both in detail.
 
 ## How Long Would a Battery Last?
 

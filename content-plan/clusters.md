@@ -54,7 +54,7 @@ Gaps:
 ## 4. Home batteries
 Pillar: [ ] `home-battery-guide` — Home batteries in 2026: backup, bill savings and whether one pays off
 
-Existing: solar-battery-cost, how-to-size-a-home-battery, battery-sizing-guide (CONSOLIDATE into how-to-size-a-home-battery with a 301; owner OK needed), best-home-batteries-for-backup-power, best-home-batteries-time-of-use-rates, tesla-powerwall-vs-enphase-iq-battery-vs-franklinwh
+Existing: solar-battery-cost, how-to-size-a-home-battery (battery-sizing-guide merged into it Nov 28, 2026), best-home-batteries-for-backup-power, best-home-batteries-time-of-use-rates, tesla-powerwall-vs-enphase-iq-battery-vs-franklinwh
 
 Gaps:
 - [ ] `solar-battery-payback` — Battery payback with solar under TOU and net billing (worked example)
