@@ -118,3 +118,6 @@
 /rates-by-state/ /rates/ 301
 /rates-by-state/index.md /rates/ 301
 
+# Stray placeholder URL from the old /for-ai/ citation example (Search Console lists it)
+/posts/slug /rates/ 301
+/posts/slug/ /rates/ 301
