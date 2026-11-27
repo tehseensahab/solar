@@ -30,7 +30,7 @@ faq:
 
 **An average U.S. home with a microwave used 107 kWh a year on it in 2020, according to the Energy Information Administration (EIA). At the U.S. average residential price of 18.16 cents per kWh for August 2026, that is about $19.43 a year, or $1.62 a month.** A minute of heating costs under half a cent. For small portions, a microwave is usually the cheapest way to heat food in an all-electric kitchen.
 
-Microwaves are one of the smallest kitchen loads. EIA's average for ranges, cooktops and ovens is 290 kWh a year, about 2.7 times as much (see our [electric oven cost guide](/posts/electric-oven-cost-to-run/)). This guide shows the math per minute, month and year, and compares air fryers and ovens. To use your own price, find it on our [electricity rates by state](/rates-by-state/) page.
+Microwaves are one of the smallest kitchen loads. EIA's average for ranges, cooktops and ovens is 290 kWh a year, about 2.7 times as much (see our [electric oven cost guide](/posts/electric-oven-cost-to-run/)). This guide shows the math per minute, month and year, and compares air fryers and ovens. To use your own price, find it on our [electricity rates by state](/rates/) page.
 
 ## The Formula
 

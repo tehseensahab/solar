@@ -30,7 +30,7 @@ faq:
 
 **A 1,500-watt space heater, a common rating, costs about 27 cents an hour to run on high at the U.S. average residential electricity price of 18.16 cents per kWh for August 2026.** At 8 hours a day for a month, that is about $65. Your number depends on three things: the heater's wattage, how many hours it actually runs, and what you pay per kWh.
 
-This guide shows the math, works it at low, average and high electric rates, and explains when a space heater saves money and when it only adds to your bill. For your state's latest rate, see our [electricity rates by state](/rates-by-state/).
+This guide shows the math, works it at low, average and high electric rates, and explains when a space heater saves money and when it only adds to your bill. For your state's latest rate, see our [electricity rates by state](/rates/).
 
 ## The Formula
 

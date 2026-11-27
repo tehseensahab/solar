@@ -1,5 +1,6 @@
 ---
 title: "Maryland Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/maryland/"
 date: 2026-10-04
 lastmod: 2026-11-14
 lastVerified: 2026-11-14
@@ -112,7 +113,7 @@ The Pepco SOS figures come from a third-party analysis of published rates, suppo
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Maryland's average residential price at 21.40¢/kWh in August 2026, up 7.6% from 19.89¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $214.00 (1,000 × 21.40¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Delaware](/posts/delaware-electricity-rate-changes-2026/), [Pennsylvania](/posts/pennsylvania-electricity-rate-changes-2026/), [Virginia](/posts/virginia-electricity-rate-changes-2026/), [West Virginia](/posts/west-virginia-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Delaware](/rates/delaware/), [Pennsylvania](/rates/pennsylvania/), [Virginia](/rates/virginia/), [West Virginia](/rates/west-virginia/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

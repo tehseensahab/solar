@@ -1,5 +1,6 @@
 ---
 title: "Utah Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/utah/"
 date: 2026-10-04
 lastmod: 2026-10-28
 lastVerified: 2026-10-04
@@ -101,7 +102,7 @@ Figures come from Utah News Dispatch. We did not open the Public Service Commiss
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Utah's average residential price at 13.31¢/kWh in August 2026, down 2.3% from 13.62¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $133.10 (1,000 × 13.31¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arizona](/posts/arizona-electricity-rate-changes-2026/), [Colorado](/posts/colorado-electricity-rate-changes-2026/), [Idaho](/posts/idaho-electricity-rate-changes-2026/), [Nevada](/posts/nevada-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arizona](/rates/arizona/), [Colorado](/rates/colorado/), [Idaho](/rates/idaho/), [Nevada](/rates/nevada/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

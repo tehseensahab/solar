@@ -31,7 +31,7 @@ faq:
 
 **Minnesota Power is asking Minnesota regulators for a $134 million revenue increase net of riders, or 17.8%, which it says would raise the average residential bill by about $24 a month if fully approved.** The company filed with the Minnesota Public Utilities Commission (PUC) on Nov. 2, 2026. It also asked for a 15% net interim increase starting in January 2027, about $15 a month for an average home. This is a request, not a decision.
 
-Minnesota Power serves northeastern Minnesota and is a separate utility from Xcel Energy. The 17.8% applies to the company's total revenue; the change for any one customer class can differ. For Xcel's 2025-2026 rate decision, interim refunds and how net metering works in the state, see [our Minnesota electricity rates and solar overview](/posts/minnesota-electricity-rate-changes-2026/).
+Minnesota Power serves northeastern Minnesota and is a separate utility from Xcel Energy. The 17.8% applies to the company's total revenue; the change for any one customer class can differ. For Xcel's 2025-2026 rate decision, interim refunds and how net metering works in the state, see [our Minnesota electricity rates and solar overview](/rates/minnesota/).
 
 ## What Minnesota Power Is Asking For
 

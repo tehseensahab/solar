@@ -1,5 +1,6 @@
 ---
 title: "Kansas Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/kansas/"
 date: 2026-10-04
 lastmod: 2026-10-28
 lastVerified: 2026-10-04
@@ -87,7 +88,7 @@ We found one rate decision and no later one. We did not check whether Evergy has
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Kansas's average residential price at 15.47¢/kWh in August 2026, up 5.6% from 14.65¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $154.70 (1,000 × 15.47¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Colorado](/posts/colorado-electricity-rate-changes-2026/), [Missouri](/posts/missouri-electricity-rate-changes-2026/), [Nebraska](/posts/nebraska-electricity-rate-changes-2026/), [Oklahoma](/posts/oklahoma-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Colorado](/rates/colorado/), [Missouri](/rates/missouri/), [Nebraska](/rates/nebraska/), [Oklahoma](/rates/oklahoma/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

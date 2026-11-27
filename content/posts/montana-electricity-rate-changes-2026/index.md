@@ -1,5 +1,6 @@
 ---
 title: "Montana Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/montana/"
 date: 2026-10-04
 lastmod: 2026-10-28
 lastVerified: 2026-10-04
@@ -92,7 +93,7 @@ The 2026 figures come from one news report, which drew on an environmental group
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Montana's average residential price at 15.57¢/kWh in August 2026, up 9.0% from 14.29¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $155.70 (1,000 × 15.57¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Idaho](/posts/idaho-electricity-rate-changes-2026/), [North Dakota](/posts/north-dakota-electricity-rate-changes-2026/), [South Dakota](/posts/south-dakota-electricity-rate-changes-2026/), [Wyoming](/posts/wyoming-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Idaho](/rates/idaho/), [North Dakota](/rates/north-dakota/), [South Dakota](/rates/south-dakota/), [Wyoming](/rates/wyoming/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

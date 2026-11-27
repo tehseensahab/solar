@@ -83,7 +83,7 @@ Use only the outlets and adapters the manufacturer specifies. Avoid extension co
 
 ## Incentives
 
-The IRS lists the 30C charger credit (30% up to $1,000 per item for individuals) for property placed in service through June 30, 2026, for property at your main home in eligible census tracts. It does not cover equipment placed in service after that date. State and utility rebates may apply; see [Rates by State](/rates-by-state/) and check your utility. Confirm eligibility with a tax professional.
+The IRS lists the 30C charger credit (30% up to $1,000 per item for individuals) for property placed in service through June 30, 2026, for property at your main home in eligible census tracts. It does not cover equipment placed in service after that date. State and utility rebates may apply; see [Rates by State](/rates/) and check your utility. Confirm eligibility with a tax professional.
 
 ## Buying checklist
 

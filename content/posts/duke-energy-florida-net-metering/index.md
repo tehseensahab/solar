@@ -31,7 +31,7 @@ faq:
 
 **Duke Energy Florida net metering trades kWh for kWh: when your solar panels send more power to the grid than you use, the extra is credited to your energy use on the next month's bill, for up to 12 months.** Credits still unused at the end of the calendar year are paid out at a rate based on the utility's avoided energy cost, not the retail price. You still pay the monthly customer charge.
 
-The rules come from the Florida Public Service Commission's (PSC) net metering rule, which applies to Duke Energy Florida, Florida Power & Light and the state's other investor-owned utilities. What differs is Duke's rates. This guide covers residential Duke Energy Florida customers. For the same rules on FPL bills, see our [FPL net metering guide](/posts/fpl-net-metering/), and for all Florida utilities, our [roundup of Florida electric rates and rooftop solar](/posts/florida-electricity-rate-changes-2026/).
+The rules come from the Florida Public Service Commission's (PSC) net metering rule, which applies to Duke Energy Florida, Florida Power & Light and the state's other investor-owned utilities. What differs is Duke's rates. This guide covers residential Duke Energy Florida customers. For the same rules on FPL bills, see our [FPL net metering guide](/posts/fpl-net-metering/), and for all Florida utilities, our [roundup of Florida electric rates and rooftop solar](/rates/florida/).
 
 ## How Does Duke Energy Florida Net Metering Work?
 

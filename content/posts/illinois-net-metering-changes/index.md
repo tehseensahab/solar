@@ -32,7 +32,7 @@ faq:
 
 **Since January 1, 2025, new home solar systems on ComEd, Ameren Illinois and MidAmerican get "supply-only" net metering: each kWh you send to the grid offsets the supply part of your bill, worth about 10.1 cents at ComEd today, but not delivery charges.** ComEd and Ameren systems connected before 2025 (and MidAmerican systems whose net metering application was submitted before 2025) keep full retail net metering, unless the owner took the generation rebate or makes a major change. The rest of this guide shows what that means in dollars, who keeps the old deal and what the rebates are worth.
 
-The prices used here are the default supply prices that took effect on October 1, 2026, covered in our [ComEd and Ameren Illinois rate update](/posts/illinois-electricity-rate-changes-2026/). For how other states handle exports, see our [net metering state guide](/posts/net-metering-state-guide/).
+The prices used here are the default supply prices that took effect on October 1, 2026, covered in our [ComEd and Ameren Illinois rate update](/rates/illinois/). For how other states handle exports, see our [net metering state guide](/posts/net-metering-state-guide/).
 
 ## What Changed for Illinois Net Metering on January 1, 2025?
 

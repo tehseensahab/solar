@@ -30,7 +30,7 @@ faq:
 
 **An average U.S. home with an electric clothes dryer used 680 kWh a year to run it in 2020, according to the Energy Information Administration (EIA). At the U.S. average residential price of 18.16 cents per kWh for August 2026, that is about $123 a year, about $10 a month, or roughly 44 cents a load.** How many people live in the home, how full and wet the loads are, and your electric rate change the answer.
 
-A dryer is one of the larger loads in a home while it runs, but because it runs only a few hours a week, its yearly cost is far smaller than an electric water heater's (about 2,706 kWh a year in EIA's 2020 data). This guide shows the math per hour, load, month and year, and what cuts it. To find your own rate, see our [electricity rates by state](/rates-by-state/) page.
+A dryer is one of the larger loads in a home while it runs, but because it runs only a few hours a week, its yearly cost is far smaller than an electric water heater's (about 2,706 kWh a year in EIA's 2020 data). This guide shows the math per hour, load, month and year, and what cuts it. To find your own rate, see our [electricity rates by state](/rates/) page.
 
 ## The Formula
 

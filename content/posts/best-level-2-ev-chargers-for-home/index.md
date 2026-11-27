@@ -100,7 +100,7 @@ ChargePoint says the hardwired model delivers up to 50 A on circuits rated 20 to
 
 ## What does it cost to run?
 
-DOE's Alternative Fuels Data Center example uses 10.7¢ per kWh and 27 kWh per 100 miles, about $0.03 a mile, and about $6 to fill a depleted 54 kWh battery. Your rate differs. EIA's September 2026 outlook put the 2026 average US residential price at 18.2¢ per kWh (see [our summary](/posts/eia-residential-price-forecast-sept-2026/)), and rates vary by state and utility. Our math at 18.2¢: 54 kWh × $0.182 = **$9.83**. Check your own rate in [Rates by State](/rates-by-state/) or on your bill, and see [time-of-use rates](/posts/time-of-use-rates-and-solar/) if charging overnight is cheaper for you.
+DOE's Alternative Fuels Data Center example uses 10.7¢ per kWh and 27 kWh per 100 miles, about $0.03 a mile, and about $6 to fill a depleted 54 kWh battery. Your rate differs. EIA's September 2026 outlook put the 2026 average US residential price at 18.2¢ per kWh (see [our summary](/posts/eia-residential-price-forecast-sept-2026/)), and rates vary by state and utility. Our math at 18.2¢: 54 kWh × $0.182 = **$9.83**. Check your own rate in [Rates by State](/rates/) or on your bill, and see [time-of-use rates](/posts/time-of-use-rates-and-solar/) if charging overnight is cheaper for you.
 
 ## Who should skip a Level 2 charger
 

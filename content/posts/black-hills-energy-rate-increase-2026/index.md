@@ -31,7 +31,7 @@ faq:
 
 **South Dakota regulators approved a smaller Black Hills Energy rate increase on Nov. 4, 2026: about $16.34 a month for a typical residential customer using 650 kWh, starting Dec. 1.** The South Dakota Public Utilities Commission (PUC) accepted a settlement that raises the company's South Dakota electric revenue by $27.354 million a year. Black Hills had asked for about $50.6 million, or $25.13 a month for a typical home.
 
-The case covers Black Hills Power, Inc., which does business as Black Hills Energy and serves about 75,000 customers in its South Dakota territory, including Rapid City. A second, separate charge for a new power plant is still pending and could start on an interim basis the same day. For Xcel Energy's 2026 decision and how solar is paid in the state, see our [South Dakota electricity rates and solar guide](/posts/south-dakota-electricity-rate-changes-2026/).
+The case covers Black Hills Power, Inc., which does business as Black Hills Energy and serves about 75,000 customers in its South Dakota territory, including Rapid City. A second, separate charge for a new power plant is still pending and could start on an interim basis the same day. For Xcel Energy's 2026 decision and how solar is paid in the state, see our [South Dakota electricity rates and solar guide](/rates/south-dakota/).
 
 ## What the PUC Approved
 

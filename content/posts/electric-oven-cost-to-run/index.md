@@ -30,7 +30,7 @@ faq:
 
 **An average U.S. home that cooks with electricity used 290 kWh a year on its range, cooktop and oven in 2020, according to the Energy Information Administration (EIA). At the U.S. average residential price of 18.16 cents per kWh for August 2026, that is about $52.66 a year, or $4.39 a month.** An hour of baking costs at most about 47 cents for a typical 2,600-watt bake element, and usually less. Household size and your electric rate change the answer most.
 
-Cooking is one of the smaller electric loads in a home. It is far less than the [electric water heater](/posts/electric-water-heater-cost-to-run/) (about 2,706 kWh a year in EIA's 2020 data) and less than half of an electric dryer's 680 kWh. This guide shows the math per hour, month and year. To plug in your own price, see our [electricity rates by state](/rates-by-state/) page.
+Cooking is one of the smaller electric loads in a home. It is far less than the [electric water heater](/posts/electric-water-heater-cost-to-run/) (about 2,706 kWh a year in EIA's 2020 data) and less than half of an electric dryer's 680 kWh. This guide shows the math per hour, month and year. To plug in your own price, see our [electricity rates by state](/rates/) page.
 
 ## The Formula
 

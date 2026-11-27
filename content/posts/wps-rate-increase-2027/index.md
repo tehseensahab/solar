@@ -31,7 +31,7 @@ faq:
 
 **Wisconsin Public Service (WPS) electric customers face a much smaller 2027 increase than the utility requested. After the Public Service Commission of Wisconsin (PSC) voted on Nov. 5, 2026, WPS estimated a 0.3% electric increase in 2027, about $1 or less a month for a typical household, and 2.9% in 2028, about $5 to $6 a month.** WPS had asked for about $11 a month more in 2027. The PSC's written order, which will set exact rates, is still pending.
 
-WPS says it has about 474,000 electric customers and 350,000 natural gas customers. For how WPS compares with We Energies, Alliant and other utilities in the state, and how each credits rooftop solar, see our [Wisconsin electric rates and solar guide](/posts/wisconsin-electricity-rate-changes-2026/).
+WPS says it has about 474,000 electric customers and 350,000 natural gas customers. For how WPS compares with We Energies, Alliant and other utilities in the state, and how each credits rooftop solar, see our [Wisconsin electric rates and solar guide](/rates/wisconsin/).
 
 ## What the PSC Decided
 

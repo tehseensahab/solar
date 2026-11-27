@@ -32,7 +32,7 @@ faq:
 
 **Oncor's delivery charges for a home using 1,000 kWh a month are now $72.73, up from $60.41 in May 2026, an increase of $12.32, or about 20%.** The percentage varies with usage: about 19% at 500 kWh and 21% at 2,000 kWh. That is our math from the residential rates in Oncor's own tariff, effective Oct. 4, 2026: $4.06 a month in fixed charges plus 6.8673 cents per kWh. These are delivery charges only. The price per kWh in your retail plan is separate and comes from your provider.
 
-The increase came in three steps between June and October. For how Oncor fits into a Texas bill and what other utilities are doing, see our [Texas electricity rates and solar guide](/posts/texas-electricity-rate-changes-2026/). If kWh and kW on the bill are confusing, start with [kW vs kWh](/posts/kw-vs-kwh/).
+The increase came in three steps between June and October. For how Oncor fits into a Texas bill and what other utilities are doing, see our [Texas electricity rates and solar guide](/rates/texas/). If kWh and kW on the bill are confusing, start with [kW vs kWh](/posts/kw-vs-kwh/).
 
 ## How Much Did Oncor's Rates Go Up in 2026?
 

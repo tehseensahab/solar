@@ -1,5 +1,6 @@
 ---
 title: "Nebraska Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/nebraska/"
 date: 2026-10-04
 lastmod: 2026-10-28
 lastVerified: 2026-10-04
@@ -85,7 +86,7 @@ OPPD figures come from OPPD's own news site and NPPD figures from a TV report. W
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Nebraska's average residential price at 13.54¢/kWh in August 2026, up 5.8% from 12.80¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $135.40 (1,000 × 13.54¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Iowa](/posts/iowa-electricity-rate-changes-2026/), [Kansas](/posts/kansas-electricity-rate-changes-2026/), [South Dakota](/posts/south-dakota-electricity-rate-changes-2026/), [Colorado](/posts/colorado-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Iowa](/rates/iowa/), [Kansas](/rates/kansas/), [South Dakota](/rates/south-dakota/), [Colorado](/rates/colorado/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

@@ -115,7 +115,7 @@ Notice that in Example B energy, not power, decides the count. A whole-home, mul
 
 ## Incentives
 
-The IRS says the [residential clean energy credit](https://www.irs.gov/credits-deductions/residential-clean-energy-credit) is not available for property placed in service after December 31, 2025, so more capacity is paid for at full price unless a state or utility program applies. Check [Rates by State](/rates-by-state/).
+The IRS says the [residential clean energy credit](https://www.irs.gov/credits-deductions/residential-clean-energy-credit) is not available for property placed in service after December 31, 2025, so more capacity is paid for at full price unless a state or utility program applies. Check [Rates by State](/rates/).
 
 ## Checklist
 

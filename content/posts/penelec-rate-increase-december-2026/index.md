@@ -31,7 +31,7 @@ faq:
 
 **Penelec's supply price for customers on default service rises 3.2% on Dec. 1, 2026, from 13.142 to 13.564 cents per kWh. For a home using 1,000 kWh a month, that adds about $4.22 a month to the supply part of the bill.** Met-Ed, Penn Power and West Penn Power, the other FirstEnergy Pennsylvania rate districts, rise by 2.6% to 3.5% on the same day. Customers who buy electricity from a competitive supplier are not affected by this change; they pay their contract price.
 
-The December change is modest next to Penelec's June 1 jump of almost 12%, which our [utility-by-utility look at Pennsylvania's 2026 electricity prices](/posts/pennsylvania-electricity-rate-changes-2026/) covers along with what it means for solar.
+The December change is modest next to Penelec's June 1 jump of almost 12%, which our [utility-by-utility look at Pennsylvania's 2026 electricity prices](/rates/pennsylvania/) covers along with what it means for solar.
 
 ## What Is the New Penelec Price to Compare?
 

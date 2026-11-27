@@ -1,5 +1,6 @@
 ---
 title: "Minnesota Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/minnesota/"
 date: 2026-10-04
 lastmod: 2026-11-05
 lastVerified: 2026-11-05
@@ -106,7 +107,7 @@ The Minnesota Public Utilities Commission opened a statewide investigation into 
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Minnesota's average residential price at 17.20¢/kWh in August 2026, up 1.8% from 16.89¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $172.00 (1,000 × 17.20¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Iowa](/posts/iowa-electricity-rate-changes-2026/), [North Dakota](/posts/north-dakota-electricity-rate-changes-2026/), [South Dakota](/posts/south-dakota-electricity-rate-changes-2026/), [Wisconsin](/posts/wisconsin-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Iowa](/rates/iowa/), [North Dakota](/rates/north-dakota/), [South Dakota](/rates/south-dakota/), [Wisconsin](/rates/wisconsin/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

@@ -12,7 +12,7 @@ Solar Examiner is an independent publication about residential and community sol
 - **Solar costs and incentives:** what solar costs, how it is financed, and which tax credits still apply.
 - **News:** short, dated updates as utilities, regulators and agencies publish them.
 
-Start with [Rates by State](/rates-by-state/) to find your state's electricity rate changes.
+Start with [Rates by State](/rates/) to find your state's electricity rate changes.
 
 ## How we write
 

@@ -31,7 +31,7 @@ faq:
 
 **Duke Energy Florida residential bills dip slightly in January 2027. Duke says a home using 1,000 kWh a month will pay about $0.95 less than in December 2026, and $33 less than in January 2026, after the Florida Public Service Commission (PSC) approved its request.** From March 2027, Duke says bills fall about another $10 per 1,000 kWh as its yearly March-to-November reduction returns.
 
-Duke announced the approval on Nov. 3, 2026. The PSC's written order was not posted when we checked on Nov. 24, so the dollar figures below are Duke's. For how Florida's other utilities price power, see our [Florida electricity rates and solar guide](/posts/florida-electricity-rate-changes-2026/).
+Duke announced the approval on Nov. 3, 2026. The PSC's written order was not posted when we checked on Nov. 24, so the dollar figures below are Duke's. For how Florida's other utilities price power, see our [Florida electricity rates and solar guide](/rates/florida/).
 
 ## What Changes for Duke Energy Florida Customers in 2027?
 

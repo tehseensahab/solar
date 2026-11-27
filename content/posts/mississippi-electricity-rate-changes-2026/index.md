@@ -1,5 +1,6 @@
 ---
 title: "Mississippi Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/mississippi/"
 date: 2026-10-04
 lastmod: 2026-10-28
 lastVerified: 2026-10-04
@@ -86,7 +87,7 @@ This article relies mainly on an Entergy news release. We did not open Public Se
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Mississippi's average residential price at 14.43¢/kWh in August 2026, up 6.0% from 13.61¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $144.30 (1,000 × 14.43¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Alabama](/posts/alabama-electricity-rate-changes-2026/), [Arkansas](/posts/arkansas-electricity-rate-changes-2026/), [Louisiana](/posts/louisiana-electricity-rate-changes-2026/), [Tennessee](/posts/tennessee-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Alabama](/rates/alabama/), [Arkansas](/rates/arkansas/), [Louisiana](/rates/louisiana/), [Tennessee](/rates/tennessee/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

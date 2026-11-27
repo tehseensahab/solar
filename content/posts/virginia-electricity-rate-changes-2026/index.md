@@ -1,5 +1,6 @@
 ---
 title: "Virginia Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/virginia/"
 date: 2026-10-04
 lastmod: 2026-10-28
 lastVerified: 2026-10-04
@@ -106,7 +107,7 @@ The SCC's own news release could not be opened for this article, so the biennial
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Virginia's average residential price at 17.64¢/kWh in August 2026, up 11.3% from 15.85¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $176.40 (1,000 × 17.64¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Maryland](/posts/maryland-electricity-rate-changes-2026/), [North Carolina](/posts/north-carolina-electricity-rate-changes-2026/), [West Virginia](/posts/west-virginia-electricity-rate-changes-2026/), [Kentucky](/posts/kentucky-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Maryland](/rates/maryland/), [North Carolina](/rates/north-carolina/), [West Virginia](/rates/west-virginia/), [Kentucky](/rates/kentucky/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

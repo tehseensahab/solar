@@ -134,7 +134,7 @@ We looked for large, independent owner-satisfaction data on the batteries themse
 
 ## Incentives: what changed
 
-The IRS says the [residential clean energy credit](https://www.irs.gov/credits-deductions/residential-clean-energy-credit) is not available for property placed in service after December 31, 2025. Storage of at least 3 kWh used to qualify. State incentives, utility battery programs and different rules for leased systems may still apply. Check your state's page in [Rates by State](/rates-by-state/) and ask your installer for the written basis of any incentive they quote. Confirm eligibility with a qualified tax professional.
+The IRS says the [residential clean energy credit](https://www.irs.gov/credits-deductions/residential-clean-energy-credit) is not available for property placed in service after December 31, 2025. Storage of at least 3 kWh used to qualify. State incentives, utility battery programs and different rules for leased systems may still apply. Check your state's page in [Rates by State](/rates/) and ask your installer for the written basis of any incentive they quote. Confirm eligibility with a qualified tax professional.
 
 ## Buying checklist
 
@@ -144,7 +144,7 @@ The IRS says the [residential clean energy credit](https://www.irs.gov/credits-d
 4. **Budget at full price.** Get at least three written quotes with equipment model numbers.
 5. **Climate and location.** Compare operating temperature ranges and outdoor ratings.
 6. **Warranty.** Compare years and any cycle or throughput cap.
-7. **Utility rules.** Interconnection approval and export rules vary by utility; see our [rate and policy guides](/rates-by-state/).
+7. **Utility rules.** Interconnection approval and export rules vary by utility; see our [rate and policy guides](/rates/).
 8. **Certifications.** Ask for UL 9540 documentation for the exact model.
 
 ## Limitations

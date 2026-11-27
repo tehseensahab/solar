@@ -98,7 +98,7 @@ Price sources: [EnergySage](https://www.energysage.com/solar/solar-energy-storag
 
 ## Incentives
 
-The IRS says the [residential clean energy credit](https://www.irs.gov/credits-deductions/residential-clean-energy-credit) is not available for property placed in service after December 31, 2025. Utility demand-response or battery programs may still pay for discharge during grid events; ask your utility. Use [Rates by State](/rates-by-state/) to find your state's page.
+The IRS says the [residential clean energy credit](https://www.irs.gov/credits-deductions/residential-clean-energy-credit) is not available for property placed in service after December 31, 2025. Utility demand-response or battery programs may still pay for discharge during grid events; ask your utility. Use [Rates by State](/rates/) to find your state's page.
 
 ## Buying checklist
 

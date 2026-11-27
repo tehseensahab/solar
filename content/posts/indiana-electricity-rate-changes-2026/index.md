@@ -1,5 +1,6 @@
 ---
 title: "Indiana Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/indiana/"
 date: 2026-10-04
 lastmod: 2026-10-28
 lastVerified: 2026-10-04
@@ -102,7 +103,7 @@ We did not open the IURC order. Bill figures come from AES's news release and Mi
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Indiana's average residential price at 17.02¢/kWh in August 2026, up 5.0% from 16.21¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $170.20 (1,000 × 17.02¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Illinois](/posts/illinois-electricity-rate-changes-2026/), [Kentucky](/posts/kentucky-electricity-rate-changes-2026/), [Michigan](/posts/michigan-electricity-rate-changes-2026/), [Ohio](/posts/ohio-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Illinois](/rates/illinois/), [Kentucky](/rates/kentucky/), [Michigan](/rates/michigan/), [Ohio](/rates/ohio/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

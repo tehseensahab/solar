@@ -1,5 +1,6 @@
 ---
 title: "Idaho Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/idaho/"
 date: 2026-10-04
 lastmod: 2026-10-28
 lastVerified: 2026-10-04
@@ -95,7 +96,7 @@ The January figures come from a financial news summary of Idaho Power's filing, 
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Idaho's average residential price at 13.37¢/kWh in August 2026, up 10.7% from 12.08¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $133.70 (1,000 × 13.37¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Montana](/posts/montana-electricity-rate-changes-2026/), [Oregon](/posts/oregon-electricity-rate-changes-2026/), [Utah](/posts/utah-electricity-rate-changes-2026/), [Washington](/posts/washington-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Montana](/rates/montana/), [Oregon](/rates/oregon/), [Utah](/rates/utah/), [Washington](/rates/washington/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

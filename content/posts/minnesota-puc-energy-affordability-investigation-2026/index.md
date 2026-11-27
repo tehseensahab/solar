@@ -64,7 +64,7 @@ The PUC itself says Minnesota's average residential electric bill was the 8th lo
 
 EIA's July 2026 figures put Minnesota's average residential price at 17.45¢ per kWh, up 3.1% from 16.92¢ a year earlier, below the U.S. average of 18.31¢. That is a statewide average including fixed charges. See our [state-by-state comparison](/posts/electricity-prices-by-state-july-2026/).
 
-The investigation follows recent rate cases. Our [Minnesota rate guide](/posts/minnesota-electricity-rate-changes-2026/) covers the Xcel Energy decision approved July 31, 2026, about $211 million for 2025 and 2026, nearly 60% below the request.
+The investigation follows recent rate cases. Our [Minnesota rate guide](/rates/minnesota/) covers the Xcel Energy decision approved July 31, 2026, about $211 million for 2025 and 2026, nearly 60% below the request.
 
 ## What It Means for You
 

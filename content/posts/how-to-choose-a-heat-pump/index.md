@@ -75,7 +75,7 @@ EnergySage's June 29, 2026 guide puts the average new heat pump at $15,393 befor
 
 - **Federal credit:** the IRS says the [energy efficient home improvement credit](https://www.irs.gov/credits-deductions/energy-efficient-home-improvement-credit) applies to improvements made through December 31, 2025 (with a $2,000 annual heat pump limit). EnergySage's June 2026 guide says it is gone.
 - **State Home Energy Rebates:** a June 2026 [factsheet](https://building-performance.org/wp-content/uploads/2026/06/06.2026-State-Home-Energy-Rebates-Factsheet.pdf) reports twelve states and DC had launched programs (it says thirteen in one place), targeted to low- and moderate-income households, with HEEHR rebates capped at $14,000 per household (Georgia and North Carolina up to $16,000).
-- **Utility and state rebates:** vary widely. Check your state in [Rates by State](/rates-by-state/) and your utility's site.
+- **Utility and state rebates:** vary widely. Check your state in [Rates by State](/rates/) and your utility's site.
 
 Confirm eligibility with your state energy office and a tax professional.
 

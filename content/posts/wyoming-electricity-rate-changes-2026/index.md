@@ -1,5 +1,6 @@
 ---
 title: "Wyoming Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/wyoming/"
 date: 2026-10-04
 lastmod: 2026-10-28
 lastVerified: 2026-10-04
@@ -88,7 +89,7 @@ Figures come from Cowboy State Daily and KOTA. We did not open PSC dockets, and 
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Wyoming's average residential price at 14.43¢/kWh in August 2026, up 0.7% from 14.33¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $144.30 (1,000 × 14.43¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Colorado](/posts/colorado-electricity-rate-changes-2026/), [Idaho](/posts/idaho-electricity-rate-changes-2026/), [Montana](/posts/montana-electricity-rate-changes-2026/), [Utah](/posts/utah-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Colorado](/rates/colorado/), [Idaho](/rates/idaho/), [Montana](/rates/montana/), [Utah](/rates/utah/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

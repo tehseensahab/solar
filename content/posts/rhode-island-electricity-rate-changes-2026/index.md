@@ -1,5 +1,6 @@
 ---
 title: "Rhode Island Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/rhode-island/"
 date: 2026-10-04
 lastmod: 2026-10-28
 lastVerified: 2026-10-22
@@ -122,7 +123,7 @@ The commission's page listed the winter rate as pending final approval, and the 
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Rhode Island's average residential price at 28.18¢/kWh in August 2026, up 6.2% from 26.53¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $281.80 (1,000 × 28.18¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Connecticut](/posts/connecticut-electricity-rate-changes-2026/), [Massachusetts](/posts/massachusetts-electricity-rate-changes-2026/), [New York](/posts/new-york-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Connecticut](/rates/connecticut/), [Massachusetts](/rates/massachusetts/), [New York](/rates/new-york/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

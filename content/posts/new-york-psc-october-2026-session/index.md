@@ -85,7 +85,7 @@ If your ESCO can no longer operate in New York, the PSC says your service return
 
 ## What Did Not Make News
 
-Con Edison's electric and gas rate cases (25-E-0072 and 25-G-0073) were on the consent agenda, but the PSC issued no press release about them. Con Edison's multi-year rate plan for 2026 through 2028 was approved earlier this year. See our [New York rate guide](/posts/new-york-electricity-rate-changes-2026/).
+Con Edison's electric and gas rate cases (25-E-0072 and 25-G-0073) were on the consent agenda, but the PSC issued no press release about them. Con Edison's multi-year rate plan for 2026 through 2028 was approved earlier this year. See our [New York rate guide](/rates/new-york/).
 
 ## Limitations
 

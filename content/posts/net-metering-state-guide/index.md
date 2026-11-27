@@ -49,7 +49,7 @@ An illustration with made-up round numbers, not any state's actual rates: a home
 
 ## Limits
 
-State and utility rules change often. This page does not list every state's current rule, and the policy counts above come from one tracker's categories. See [rates by state](/rates-by-state/) for our state pages.
+State and utility rules change often. This page does not list every state's current rule, and the policy counts above come from one tracker's categories. See [rates by state](/rates/) for our state pages.
 
 ## Sources
 

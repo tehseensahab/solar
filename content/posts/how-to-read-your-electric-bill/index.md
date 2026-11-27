@@ -50,7 +50,7 @@ Check two things first: the number of days in the billing period, and whether th
 
 This is billed whether you use 50 kWh or 2,000 kWh. Connecticut's Office of Consumer Counsel describes it as covering "costs related to customer billing, meter reading, customer service and maintaining the service line."
 
-It matters more than its size suggests, because no amount of conservation or solar generation reduces it. Some states are raising it: California's large utilities began moving residential customers to a Base Services Charge in late 2025 and 2026, as we covered in our [California rate article](/posts/california-electricity-rate-changes-2026/).
+It matters more than its size suggests, because no amount of conservation or solar generation reduces it. Some states are raising it: California's large utilities began moving residential customers to a Base Services Charge in late 2025 and 2026, as we covered in our [California rate article](/rates/california/).
 
 ## 2. Supply
 
@@ -58,8 +58,8 @@ Supply is the electricity itself. Massachusetts regulators describe it as "the a
 
 How supply is priced depends on your state:
 
-- **States with supplier choice** (Pennsylvania, Ohio, Illinois, Texas and others): you can buy supply from a competitive supplier or stay on the utility's default price. That default is often printed on the bill as the "price to compare." PECO's residential price to compare, for example, was 11.572 ¢/kWh from June 1, 2026 ([Pennsylvania article](/posts/pennsylvania-electricity-rate-changes-2026/)).
-- **States without supplier choice** (Georgia, Florida and others): the utility supplies the power. Fuel is often shown as its own line and adjusted separately from base rates ([Georgia article](/posts/georgia-electricity-rate-changes-2026/)).
+- **States with supplier choice** (Pennsylvania, Ohio, Illinois, Texas and others): you can buy supply from a competitive supplier or stay on the utility's default price. That default is often printed on the bill as the "price to compare." PECO's residential price to compare, for example, was 11.572 ¢/kWh from June 1, 2026 ([Pennsylvania article](/rates/pennsylvania/)).
+- **States without supplier choice** (Georgia, Florida and others): the utility supplies the power. Fuel is often shown as its own line and adjusted separately from base rates ([Georgia article](/rates/georgia/)).
 
 If you switch suppliers, only this part of the bill changes.
 

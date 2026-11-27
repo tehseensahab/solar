@@ -31,7 +31,7 @@ faq:
 
 **A Central Maine Power (CMP) home on the default standard offer pays 24.68 cents for each kWh above 50 a month in 2026, and that rises to about 25.59 cents on January 1, 2027.** The change is in supply: the Maine Public Utilities Commission (PUC) set CMP's 2027 residential standard offer at 13.63 cents per kWh, up from 12.72 cents, according to news reports of its November 17, 2026 announcement. The PUC estimated the increase at about $4.99 a month for an average home using about 550 kWh.
 
-Delivery is a separate charge, and no delivery change was announced for January 1 in the sources we checked. CMP's delivery rate fell on July 1, 2026, and a larger delivery rate request is still pending. For other Maine utilities and the state's net energy billing rules, see our [guide to Maine electric rates and solar](/posts/maine-electricity-rate-changes-2026/).
+Delivery is a separate charge, and no delivery change was announced for January 1 in the sources we checked. CMP's delivery rate fell on July 1, 2026, and a larger delivery rate request is still pending. For other Maine utilities and the state's net energy billing rules, see our [guide to Maine electric rates and solar](/rates/maine/).
 
 This article covers CMP residential customers on Rate A, the standard residential delivery rate. It does not cover Versant Power, CMP's time-of-use or Electric Technology rates, or customers of consumer-owned utilities.
 

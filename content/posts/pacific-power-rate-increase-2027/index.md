@@ -31,7 +31,7 @@ faq:
 
 **Pacific Power's Oregon residential customers would see a net average increase of about 0.3% in April 2027 under a settlement the utility announced on Oct. 29, 2026.** The deal includes a 9.0% general rate case increase for homes, but power cost decreases and other changes in 2026 and early 2027 offset almost all of it. The Oregon Public Utility Commission (PUC) still has to approve it. If it does, new rates take effect April 5, 2027.
 
-Pacific Power is the trade name of PacifiCorp. This article covers its Oregon customers only. For how Oregon's 2026 increases played out at Pacific Power and Portland General Electric, and how the state's net metering works, see [what changed in Oregon electric rates this year](/posts/oregon-electricity-rate-changes-2026/).
+Pacific Power is the trade name of PacifiCorp. This article covers its Oregon customers only. For how Oregon's 2026 increases played out at Pacific Power and Portland General Electric, and how the state's net metering works, see [what changed in Oregon electric rates this year](/rates/oregon/).
 
 ## What the Settlement Says
 
@@ -108,7 +108,7 @@ The PUC commissioners decide whether to adopt the settlement. We did not find th
 | 2027 Transition Adjustment Mechanism is docket UE 469 | [Pacific Power, Oregon regulatory filings](https://www.pacificpower.net/about/rates-regulation/oregon-regulatory-filings.html) | Verified |
 | FAIR Act (HB 3179) prevents residential increases Nov. 1 to March 31 | [Oregon PUC release, April 2026](https://www.oregon.gov/puc/news-events/Documents/PR-202606.pdf) | Verified |
 | Settlement figures reported | [KTVZ, Oct. 29, 2026](https://ktvz.com/news/business/2026/10/29/pacific-power-expects-residential-rates-to-barely-budge-in-2027-commercial-industrial-rates-would-fall-6-5/); [Elkhorn Media Group, Oct. 30, 2026](https://elkhornmediagroup.com/pacific-power-reaches-potential-settlement-on-2027-oregon-rate-case/) | Verified (news, context) |
-| Unused Oregon net metering credits are donated each March | Energy Trust of Oregon, as cited on [our Oregon rates page](/posts/oregon-electricity-rate-changes-2026/) | Qualified |
+| Unused Oregon net metering credits are donated each March | Energy Trust of Oregon, as cited on [our Oregon rates page](/rates/oregon/) | Qualified |
 | 45 cents on a $150 bill | Our arithmetic on an illustrative bill | Qualified (illustration) |
 
 We did not open the settlement filing itself; figures come from Pacific Power's announcement. All figures are pending commission approval, and Pacific Power labels the January 2027 power cost figure as an estimate.

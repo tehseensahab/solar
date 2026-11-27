@@ -1,5 +1,6 @@
 ---
 title: "Texas Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/texas/"
 date: 2026-09-30
 lastmod: 2026-11-20
 imageAlt: "Dark solar panels mounted on a brown tiled roof behind a green hedge."
@@ -77,7 +78,7 @@ Watch for the outcome of Oncor's tracker request and for the surcharge line on y
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Texas's average residential price at 15.91¢/kWh in August 2026, up 3.3% from 15.40¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $159.10 (1,000 × 15.91¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Louisiana](/posts/louisiana-electricity-rate-changes-2026/), [New Mexico](/posts/new-mexico-electricity-rate-changes-2026/), [Oklahoma](/posts/oklahoma-electricity-rate-changes-2026/), [Arkansas](/posts/arkansas-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Louisiana](/rates/louisiana/), [New Mexico](/rates/new-mexico/), [Oklahoma](/rates/oklahoma/), [Arkansas](/rates/arkansas/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

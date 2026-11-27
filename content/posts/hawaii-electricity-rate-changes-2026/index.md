@@ -1,5 +1,6 @@
 ---
 title: "Hawaii Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/hawaii/"
 date: 2026-10-04
 lastmod: 2026-10-28
 lastVerified: 2026-10-04
@@ -100,7 +101,7 @@ We used the May 2026 rate summary and did not find October's. The rate case info
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Hawaii's average residential price at 47.18¢/kWh in August 2026, up 22.5% from 38.53¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $471.80 (1,000 × 47.18¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [California](/posts/california-electricity-rate-changes-2026/), [Alaska](/posts/alaska-electricity-rate-changes-2026/), [Washington](/posts/washington-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [California](/rates/california/), [Alaska](/rates/alaska/), [Washington](/rates/washington/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

@@ -89,7 +89,7 @@ Connecticut is the only state with a large drop. Even after it, Connecticut's 24
 
 Hawaii's price is 3.8 times Louisiana's (48.00 ÷ 12.72). At 1,000 kWh, that is $480.00 against $127.20.
 
-The full 50-state table is on our [rates by state](/rates-by-state/) page.
+The full 50-state table is on our [rates by state](/rates/) page.
 
 ## What These Numbers Are, and Are Not
 
@@ -100,7 +100,7 @@ The full 50-state table is on our [rates by state](/rates-by-state/) page.
 - **Usage affects the average.** In a hot month, more kWh are sold and fixed charges are spread over more of them, which can lower the average even if no rate changed.
 - **The data are preliminary.** EIA labels these values as estimates based on a sample, and it revises them.
 
-EIA's table does not say why a state's price moved. The causes differ by state: fuel costs, supply auctions, approved rate cases and temporary bill credits all play a part. Our state guides cover the specific changes we could document, including [Hawaii](/posts/hawaii-electricity-rate-changes-2026/), [New Hampshire](/posts/new-hampshire-electricity-rate-changes-2026/), [Maine](/posts/maine-electricity-rate-changes-2026/), [New York](/posts/new-york-electricity-rate-changes-2026/), [Maryland](/posts/maryland-electricity-rate-changes-2026/), [North Carolina](/posts/north-carolina-electricity-rate-changes-2026/) and [Connecticut](/posts/connecticut-electricity-rate-changes-2026/).
+EIA's table does not say why a state's price moved. The causes differ by state: fuel costs, supply auctions, approved rate cases and temporary bill credits all play a part. Our state guides cover the specific changes we could document, including [Hawaii](/rates/hawaii/), [New Hampshire](/rates/new-hampshire/), [Maine](/rates/maine/), [New York](/rates/new-york/), [Maryland](/rates/maryland/), [North Carolina](/rates/north-carolina/) and [Connecticut](/rates/connecticut/).
 
 ## What It Means for Homeowners Considering Solar
 

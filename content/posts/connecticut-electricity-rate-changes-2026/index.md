@@ -1,5 +1,6 @@
 ---
 title: "Connecticut Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/connecticut/"
 date: 2026-10-04
 lastmod: 2026-10-28
 lastVerified: 2026-11-12
@@ -102,7 +103,7 @@ Rates come from the Connecticut Mirror, the governor's announcement and the Offi
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Connecticut's average residential price at 24.51¢/kWh in August 2026, down 18.8% from 30.17¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $245.10 (1,000 × 24.51¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Massachusetts](/posts/massachusetts-electricity-rate-changes-2026/), [New York](/posts/new-york-electricity-rate-changes-2026/), [Rhode Island](/posts/rhode-island-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Massachusetts](/rates/massachusetts/), [New York](/rates/new-york/), [Rhode Island](/rates/rhode-island/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

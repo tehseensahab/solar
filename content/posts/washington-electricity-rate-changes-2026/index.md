@@ -1,5 +1,6 @@
 ---
 title: "Washington Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/washington/"
 date: 2026-10-04
 lastmod: 2026-11-07
 lastVerified: 2026-11-07
@@ -111,7 +112,7 @@ The typical bill figures use 800 kWh a month, not the 1,000 kWh used in most of 
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Washington's average residential price at 14.63¢/kWh in August 2026, up 7.2% from 13.65¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $146.30 (1,000 × 14.63¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Idaho](/posts/idaho-electricity-rate-changes-2026/), [Oregon](/posts/oregon-electricity-rate-changes-2026/), [Alaska](/posts/alaska-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Idaho](/rates/idaho/), [Oregon](/rates/oregon/), [Alaska](/rates/alaska/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

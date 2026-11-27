@@ -30,7 +30,7 @@ faq:
 
 **A U.S. home that uses a dishwasher used an average of 112 kWh of electricity a year on it in 2020, according to the Energy Information Administration (EIA). At the U.S. average residential price of 18.16 cents per kWh for August 2026, that is about $20.34 a year, or $1.70 a month.** Based on two full-size lab ratings, a single load costs roughly 20 to 27 cents at that price. Household size, heated drying and your water heater change the total.
 
-EIA's 112 kWh is well under its 839 kWh average for refrigerators (see our [refrigerator cost guide](/posts/refrigerator-cost-to-run/)), and an electric [water heater](/posts/electric-water-heater-cost-to-run/) may carry part of a dishwasher's real cost. This guide shows the math per load, month and year, by household size and by state. To use your own price, look it up on our [electricity rates by state](/rates-by-state/) page.
+EIA's 112 kWh is well under its 839 kWh average for refrigerators (see our [refrigerator cost guide](/posts/refrigerator-cost-to-run/)), and an electric [water heater](/posts/electric-water-heater-cost-to-run/) may carry part of a dishwasher's real cost. This guide shows the math per load, month and year, by household size and by state. To use your own price, look it up on our [electricity rates by state](/rates/) page.
 
 ## The Formula
 

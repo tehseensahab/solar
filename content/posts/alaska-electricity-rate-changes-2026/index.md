@@ -1,5 +1,6 @@
 ---
 title: "Alaska Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/alaska/"
 date: 2026-10-04
 lastmod: 2026-10-28
 lastVerified: 2026-10-04
@@ -90,7 +91,7 @@ GVEA information comes from its own rate case page. Chugach details come from an
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Alaska's average residential price at 29.41¢/kWh in August 2026, up 5.8% from 27.79¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $294.10 (1,000 × 29.41¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Washington](/posts/washington-electricity-rate-changes-2026/), [Hawaii](/posts/hawaii-electricity-rate-changes-2026/), [Oregon](/posts/oregon-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Washington](/rates/washington/), [Hawaii](/rates/hawaii/), [Oregon](/rates/oregon/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

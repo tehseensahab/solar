@@ -1,5 +1,6 @@
 ---
 title: "North Carolina Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/north-carolina/"
 date: 2026-10-04
 lastmod: 2026-11-23
 lastVerified: 2026-11-23
@@ -138,7 +139,7 @@ We could not open Duke Energy's tariff sheets or the commission's docket files d
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts North Carolina's average residential price at 14.95¢/kWh in August 2026, up 2.5% from 14.59¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $149.50 (1,000 × 14.95¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [South Carolina](/posts/south-carolina-electricity-rate-changes-2026/), [Tennessee](/posts/tennessee-electricity-rate-changes-2026/), [Virginia](/posts/virginia-electricity-rate-changes-2026/), [Georgia](/posts/georgia-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [South Carolina](/rates/south-carolina/), [Tennessee](/rates/tennessee/), [Virginia](/rates/virginia/), [Georgia](/rates/georgia/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

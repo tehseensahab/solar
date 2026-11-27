@@ -1,5 +1,6 @@
 ---
 title: "Delaware Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/delaware/"
 date: 2026-10-04
 lastmod: 2026-10-28
 lastVerified: 2026-10-04
@@ -91,7 +92,7 @@ Rates come from a State of Delaware news release and a local news report. We did
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Delaware's average residential price at 18.70¢/kWh in August 2026, up 11.0% from 16.85¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $187.00 (1,000 × 18.70¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Maryland](/posts/maryland-electricity-rate-changes-2026/), [New Jersey](/posts/new-jersey-electricity-rate-changes-2026/), [Pennsylvania](/posts/pennsylvania-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Maryland](/rates/maryland/), [New Jersey](/rates/new-jersey/), [Pennsylvania](/rates/pennsylvania/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

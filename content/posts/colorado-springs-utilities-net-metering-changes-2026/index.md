@@ -119,7 +119,7 @@ The Gazette reports that Councilmember Nancy Henjum voted no because the utility
 3. **Consider your evening loads:** under the demand option, staggering appliances between 5 p.m. and 9 p.m. on weekdays can lower the charge.
 4. **Watch for** the utility's workshops and open houses, which it lists as still to be scheduled.
 
-Colorado Springs Utilities is city-owned, so its rates are set by City Council, not the Colorado Public Utilities Commission. For Xcel Energy and other Colorado utilities, see our [Colorado rate guide](/posts/colorado-electricity-rate-changes-2026/). For how demand charges work in general, see [residential demand charges explained](/posts/residential-demand-charges-explained/).
+Colorado Springs Utilities is city-owned, so its rates are set by City Council, not the Colorado Public Utilities Commission. For Xcel Energy and other Colorado utilities, see our [Colorado rate guide](/rates/colorado/). For how demand charges work in general, see [residential demand charges explained](/posts/residential-demand-charges-explained/).
 
 ## Limitations
 

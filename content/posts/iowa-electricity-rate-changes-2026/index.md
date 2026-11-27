@@ -1,5 +1,6 @@
 ---
 title: "Iowa Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/iowa/"
 date: 2026-10-04
 lastmod: 2026-10-28
 lastVerified: 2026-10-04
@@ -92,7 +93,7 @@ Alliant information comes from its own customer outlook page. We did not find Mi
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Iowa's average residential price at 17.06¢/kWh in August 2026, up 10.2% from 15.48¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $170.60 (1,000 × 17.06¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Illinois](/posts/illinois-electricity-rate-changes-2026/), [Minnesota](/posts/minnesota-electricity-rate-changes-2026/), [Nebraska](/posts/nebraska-electricity-rate-changes-2026/), [Wisconsin](/posts/wisconsin-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Illinois](/rates/illinois/), [Minnesota](/rates/minnesota/), [Nebraska](/rates/nebraska/), [Wisconsin](/rates/wisconsin/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

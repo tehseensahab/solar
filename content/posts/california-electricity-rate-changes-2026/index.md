@@ -1,5 +1,6 @@
 ---
 title: "California Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/california/"
 date: 2026-09-30
 lastmod: 2026-11-27
 imageAlt: "Aerial view of a suburban neighborhood with solar panels on many rooftops along curving streets."
@@ -90,7 +91,7 @@ PG&E's 2027-2030 General Rate Case is pending, and PG&E does not expect customer
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts California's average residential price at 29.75¢/kWh in August 2026, down 3.8% from 30.92¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $297.50 (1,000 × 29.75¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arizona](/posts/arizona-electricity-rate-changes-2026/), [Nevada](/posts/nevada-electricity-rate-changes-2026/), [Oregon](/posts/oregon-electricity-rate-changes-2026/), [Hawaii](/posts/hawaii-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arizona](/rates/arizona/), [Nevada](/rates/nevada/), [Oregon](/rates/oregon/), [Hawaii](/rates/hawaii/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

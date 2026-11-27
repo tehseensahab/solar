@@ -1,5 +1,6 @@
 ---
 title: "Pennsylvania Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/pennsylvania/"
 date: 2026-09-30
 lastmod: 2026-11-25
 lastVerified: 2026-11-25
@@ -79,7 +80,7 @@ Default service prices are scheduled to reset again December 1. PPL had a propos
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Pennsylvania's average residential price at 21.77¢/kWh in August 2026, up 9.2% from 19.93¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $217.70 (1,000 × 21.77¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Delaware](/posts/delaware-electricity-rate-changes-2026/), [New Jersey](/posts/new-jersey-electricity-rate-changes-2026/), [New York](/posts/new-york-electricity-rate-changes-2026/), [Ohio](/posts/ohio-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Delaware](/rates/delaware/), [New Jersey](/rates/new-jersey/), [New York](/rates/new-york/), [Ohio](/rates/ohio/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

@@ -1,5 +1,6 @@
 ---
 title: "South Carolina Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/south-carolina/"
 date: 2026-10-04
 lastmod: 2026-11-01
 lastVerified: 2026-10-04
@@ -116,7 +117,7 @@ Approval and current rates come from Dominion's bill insert. Settlement figures 
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts South Carolina's average residential price at 15.76¢/kWh in August 2026, up 4.0% from 15.16¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $157.60 (1,000 × 15.76¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Georgia](/posts/georgia-electricity-rate-changes-2026/), [North Carolina](/posts/north-carolina-electricity-rate-changes-2026/), [Florida](/posts/florida-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Georgia](/rates/georgia/), [North Carolina](/rates/north-carolina/), [Florida](/rates/florida/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

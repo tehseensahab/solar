@@ -1,5 +1,6 @@
 ---
 title: "Tennessee Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/tennessee/"
 date: 2026-10-04
 lastmod: 2026-10-28
 lastVerified: 2026-10-04
@@ -92,7 +93,7 @@ We relied on TVA's own announcement and on news reports about the data center ra
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Tennessee's average residential price at 13.42¢/kWh in August 2026, up 2.5% from 13.09¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $134.20 (1,000 × 13.42¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Alabama](/posts/alabama-electricity-rate-changes-2026/), [Georgia](/posts/georgia-electricity-rate-changes-2026/), [Kentucky](/posts/kentucky-electricity-rate-changes-2026/), [North Carolina](/posts/north-carolina-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Alabama](/rates/alabama/), [Georgia](/rates/georgia/), [Kentucky](/rates/kentucky/), [North Carolina](/rates/north-carolina/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

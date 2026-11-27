@@ -1,5 +1,6 @@
 ---
 title: "Illinois Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/illinois/"
 seoTitle: "ComEd and Ameren Illinois Rates, October 2026: New Supply Prices"
 date: 2026-09-30
 lastmod: 2026-11-18
@@ -100,7 +101,7 @@ Neither utility has published a single "typical bill" estimate that we could ver
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Illinois's average residential price at 19.32¢/kWh in August 2026, up 7.2% from 18.03¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $193.20 (1,000 × 19.32¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Indiana](/posts/indiana-electricity-rate-changes-2026/), [Iowa](/posts/iowa-electricity-rate-changes-2026/), [Missouri](/posts/missouri-electricity-rate-changes-2026/), [Wisconsin](/posts/wisconsin-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Indiana](/rates/indiana/), [Iowa](/rates/iowa/), [Missouri](/rates/missouri/), [Wisconsin](/rates/wisconsin/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

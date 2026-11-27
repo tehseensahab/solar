@@ -1,5 +1,6 @@
 ---
 title: "Florida Electricity Rate Changes for October 2026: FPL Refund Ends and What Changed in 2026"
+url: "/rates/florida/"
 date: 2026-09-30
 lastmod: 2026-11-24
 lastVerified: 2026-11-24
@@ -82,7 +83,7 @@ FPL's 2026 to 2029 agreement sets its base rate path. Fuel and other clause char
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Florida's average residential price at 14.99¢/kWh in August 2026, down 2.2% from 15.33¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $149.90 (1,000 × 14.99¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Alabama](/posts/alabama-electricity-rate-changes-2026/), [Georgia](/posts/georgia-electricity-rate-changes-2026/), [South Carolina](/posts/south-carolina-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Alabama](/rates/alabama/), [Georgia](/rates/georgia/), [South Carolina](/rates/south-carolina/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

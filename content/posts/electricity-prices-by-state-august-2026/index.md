@@ -30,7 +30,7 @@ faq:
 
 **The average U.S. home paid 18.16 cents per kilowatt-hour (kWh) for electricity in August 2026, up 3.4% from 17.57 cents a year earlier, according to preliminary data from the U.S. Energy Information Administration (EIA).** Residential prices rose in 43 states and fell in 7. Hawaii posted the biggest increase and Connecticut the biggest drop.
 
-Price was only half of the August story. EIA reports that residential electricity sales rose 7.9% from August 2025, in a month when most states needed more cooling than a year earlier. In Hawaii, where the statewide average reached 47.18 cents, our [Hawaii rates and solar guide](/posts/hawaii-electricity-rate-changes-2026/) covers the utility-level changes behind the number.
+Price was only half of the August story. EIA reports that residential electricity sales rose 7.9% from August 2025, in a month when most states needed more cooling than a year earlier. In Hawaii, where the statewide average reached 47.18 cents, our [Hawaii rates and solar guide](/rates/hawaii/) covers the utility-level changes behind the number.
 
 ## The Short Version
 
@@ -73,7 +73,7 @@ Nine of this month's top 10 were also among July's biggest increases: Hawaii, Ma
 | Arizona | 15.09 | 15.05 | −0.04 | −0.3% |
 | Massachusetts | 30.55 | 30.48 | −0.07 | −0.2% |
 
-Connecticut is the only large drop. A 5.66-cent decline takes $56.60 off the cost of 1,000 kWh at the statewide average. Even so, Connecticut's 24.51 cents is the tenth-highest residential price in the country. Our [Connecticut electricity rates page](/posts/connecticut-electricity-rate-changes-2026/) tracks what is changing there. The other six declines are 3.8% or less, and three of them are under half a percent.
+Connecticut is the only large drop. A 5.66-cent decline takes $56.60 off the cost of 1,000 kWh at the statewide average. Even so, Connecticut's 24.51 cents is the tenth-highest residential price in the country. Our [Connecticut electricity rates page](/rates/connecticut/) tracks what is changing there. The other six declines are 3.8% or less, and three of them are under half a percent.
 
 ## Highest and Lowest Prices
 
@@ -92,7 +92,7 @@ Connecticut is the only large drop. A 5.66-cent decline takes $56.60 off the cos
 
 Hawaii's price is 3.7 times Nevada's (47.18 ÷ 12.72). At 1,000 kWh, that is $471.80 against $127.20.
 
-Every state's figure is on our [rates by state](/rates-by-state/) page.
+Every state's figure is on our [rates by state](/rates/) page.
 
 ## Why August Bills Rose Faster Than Prices
 

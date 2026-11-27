@@ -1,5 +1,6 @@
 ---
 title: "New Jersey Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/new-jersey/"
 date: 2026-09-30
 lastmod: 2026-11-21
 lastVerified: 2026-11-21
@@ -114,7 +115,7 @@ Rules checked October 5, 2026. Solar tariffs change, so confirm the current term
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts New Jersey's average residential price at 24.61¢/kWh in August 2026, down 0.4% from 24.70¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $246.10 (1,000 × 24.61¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Delaware](/posts/delaware-electricity-rate-changes-2026/), [New York](/posts/new-york-electricity-rate-changes-2026/), [Pennsylvania](/posts/pennsylvania-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Delaware](/rates/delaware/), [New York](/rates/new-york/), [Pennsylvania](/rates/pennsylvania/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

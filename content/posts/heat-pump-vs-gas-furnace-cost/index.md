@@ -95,7 +95,7 @@ Flip the math to find the electricity price at which a heat pump and a furnace c
 
 How we got it: the furnace's cost per million Btu divided by the heat pump's kWh per million Btu. For example, $18.51 ÷ 100 kWh = 18.5 cents.
 
-If your electricity costs less than the number in the table, the heat pump is cheaper to run per unit of heat. If your gas is cheaper than $15.34 per Mcf, the break-even prices fall. You can find your state's average electricity price on its page in our [rates by state](/rates-by-state/) list.
+If your electricity costs less than the number in the table, the heat pump is cheaper to run per unit of heat. If your gas is cheaper than $15.34 per Mcf, the break-even prices fall. You can find your state's average electricity price on its page in our [rates by state](/rates/) list.
 
 ## A Season Example
 

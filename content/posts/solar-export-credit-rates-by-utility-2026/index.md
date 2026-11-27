@@ -103,7 +103,7 @@ Rates that reset annually add uncertainty to a 25-year investment. A locked rate
 5. **Ask whether your terms are locked** and for how long. Existing customers are often kept on older rules. New customers usually are not.
 6. **Size to your own use.** Where export credits are low, extra panels mostly produce low-value kWh.
 
-Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) walks through the full calculation, and each [state rate guide](/rates-by-state/) has a section on that state's solar rules.
+Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) walks through the full calculation, and each [state rate guide](/rates/) has a section on that state's solar rules.
 
 ## Limitations
 

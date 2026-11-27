@@ -31,7 +31,7 @@ faq:
 
 **Puget Sound Energy (PSE) is asking Washington regulators for an electric rate increase that would add $28.31 a month in 2027 for a home using 800 kWh, according to PSE's customer notice.** Two more steps would follow: $6.58 in 2028 and $15.69 in 2029. Nothing is approved. The Washington Utilities and Transportation Commission (UTC) is reviewing the request, and PSE's proposed rates would start in February 2027.
 
-The request would come on top of the January 2026 changes covered in our [Washington electric rates and solar overview](/posts/washington-electricity-rate-changes-2026/), which also explains how public utilities such as Seattle City Light set their own rates. This article covers PSE residential customers only.
+The request would come on top of the January 2026 changes covered in our [Washington electric rates and solar overview](/rates/washington/), which also explains how public utilities such as Seattle City Light set their own rates. This article covers PSE residential customers only.
 
 ## What PSE Is Asking For
 

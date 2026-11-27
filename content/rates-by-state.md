@@ -2,6 +2,7 @@
 title: "Rates by State"
 description: "Current residential electricity rates, recent rate changes, net metering rules and solar incentives for all 50 states, with the change from a year earlier."
 layout: rates-by-state
+url: "/rates/"
 ---
 
 Each state page brings together what a homeowner needs in one place: the latest average residential price from the U.S. Energy Information Administration, how it changed from a year earlier, what the largest utilities have done or requested, how rooftop solar exports are credited, and which incentives still apply.

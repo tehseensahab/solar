@@ -69,7 +69,7 @@ The option pairs the demand charge with a low flat energy price of 5.93¢ per kW
 
 ## Example 2: NV Energy, Southern Nevada (Delayed)
 
-Nevada regulators approved a daily residential demand charge for NV Energy's southern territory in September 2025, Utility Dive reported. It is based on the highest 15-minute period of use each day. NV Energy estimated it at about $20 on an average bill and said it changes the structure of the bill rather than raising it. Utility Dive did not report a per-kW rate. The start has since been delayed to January 2027. See our [Nevada rate guide](/posts/nevada-electricity-rate-changes-2026/).
+Nevada regulators approved a daily residential demand charge for NV Energy's southern territory in September 2025, Utility Dive reported. It is based on the highest 15-minute period of use each day. NV Energy estimated it at about $20 on an average bill and said it changes the structure of the bill rather than raising it. Utility Dive did not report a per-kW rate. The start has since been delayed to January 2027. See our [Nevada rate guide](/rates/nevada/).
 
 A daily reset is more forgiving than a monthly one: a single spike costs you one day, not the whole month.
 

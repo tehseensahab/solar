@@ -30,7 +30,7 @@ faq:
 
 **The average U.S. home bought 863 kilowatt-hours (kWh) of electricity a month in 2024, according to the U.S. Energy Information Administration (EIA), and paid an average bill of $142.26.** That is about 10,356 kWh a year. But the average hides a wide range: the average residential customer in Hawaii bought 495 kWh a month, and in Louisiana 1,202.
 
-Where you live, how you heat and cool, and the time of year matter more than the national number. The average Louisiana household bought more than twice as much as the average Hawaii household yet paid less per month ($140.96 vs. $212.12), because Louisiana's average price was among the lowest in the country and Hawaii's the highest; our [Louisiana electricity rates and solar guide](/posts/louisiana-electricity-rate-changes-2026/) covers what is changing there. This guide shows the averages, explains the differences, and shows how to work out your own number.
+Where you live, how you heat and cool, and the time of year matter more than the national number. The average Louisiana household bought more than twice as much as the average Hawaii household yet paid less per month ($140.96 vs. $212.12), because Louisiana's average price was among the lowest in the country and Hawaii's the highest; our [Louisiana electricity rates and solar guide](/rates/louisiana/) covers what is changing there. This guide shows the averages, explains the differences, and shows how to work out your own number.
 
 ## The Short Answer
 

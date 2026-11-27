@@ -1,5 +1,6 @@
 ---
 title: "Arizona Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/arizona/"
 date: 2026-10-04
 lastmod: 2026-11-20
 lastVerified: 2026-11-20
@@ -107,7 +108,7 @@ All APS and TEP figures here are requests, not approved rates. The ACC's docket 
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Arizona's average residential price at 15.05¢/kWh in August 2026, down 0.3% from 15.09¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $150.50 (1,000 × 15.05¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [California](/posts/california-electricity-rate-changes-2026/), [Nevada](/posts/nevada-electricity-rate-changes-2026/), [New Mexico](/posts/new-mexico-electricity-rate-changes-2026/), [Utah](/posts/utah-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [California](/rates/california/), [Nevada](/rates/nevada/), [New Mexico](/rates/new-mexico/), [Utah](/rates/utah/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

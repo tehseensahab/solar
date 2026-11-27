@@ -1,5 +1,6 @@
 ---
 title: "New York Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/new-york/"
 date: 2026-09-30
 lastmod: 2026-10-28
 imageAlt: "Row of apartment buildings against a clear sky, with a small solar panel array on one rooftop."
@@ -68,7 +69,7 @@ The PSC is still reviewing the NYSEG and RG&E rate cases, and news coverage expe
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts New York's average residential price at 28.65¢/kWh in August 2026, up 7.5% from 26.64¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $286.50 (1,000 × 28.65¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Connecticut](/posts/connecticut-electricity-rate-changes-2026/), [New Jersey](/posts/new-jersey-electricity-rate-changes-2026/), [Pennsylvania](/posts/pennsylvania-electricity-rate-changes-2026/), [Massachusetts](/posts/massachusetts-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Connecticut](/rates/connecticut/), [New Jersey](/rates/new-jersey/), [Pennsylvania](/rates/pennsylvania/), [Massachusetts](/rates/massachusetts/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

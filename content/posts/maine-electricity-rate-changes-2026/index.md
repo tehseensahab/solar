@@ -1,5 +1,6 @@
 ---
 title: "Maine Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/maine/"
 date: 2026-10-04
 lastmod: 2026-11-22
 lastVerified: 2026-11-22
@@ -92,7 +93,7 @@ We verified supply prices on the PUC's site. We did not research 2026 delivery r
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Maine's average residential price at 32.11¢/kWh in August 2026, up 14.1% from 28.14¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $321.10 (1,000 × 32.11¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [New Hampshire](/posts/new-hampshire-electricity-rate-changes-2026/), [Vermont](/posts/vermont-electricity-rate-changes-2026/), [Massachusetts](/posts/massachusetts-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [New Hampshire](/rates/new-hampshire/), [Vermont](/rates/vermont/), [Massachusetts](/rates/massachusetts/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

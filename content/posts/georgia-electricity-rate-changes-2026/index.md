@@ -1,5 +1,6 @@
 ---
 title: "Georgia Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/georgia/"
 date: 2026-10-03
 lastmod: 2026-11-13
 lastVerified: 2026-10-03
@@ -127,7 +128,7 @@ We did not obtain the fuel rate in cents per kWh, the basic service charge or th
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Georgia's average residential price at 15.90¢/kWh in August 2026, up 2.3% from 15.55¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $159.00 (1,000 × 15.90¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Alabama](/posts/alabama-electricity-rate-changes-2026/), [Florida](/posts/florida-electricity-rate-changes-2026/), [South Carolina](/posts/south-carolina-electricity-rate-changes-2026/), [Tennessee](/posts/tennessee-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Alabama](/rates/alabama/), [Florida](/rates/florida/), [South Carolina](/rates/south-carolina/), [Tennessee](/rates/tennessee/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

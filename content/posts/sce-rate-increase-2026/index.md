@@ -31,7 +31,7 @@ faq:
 
 **Southern California Edison did raise rates in 2026, but only slightly and only once: on October 1, its average residential rate went from 34.4 to 34.5 cents per kWh, and SCE estimated a typical 500 kWh monthly bill rose $2.79 (1.5%). Its January and June changes were cuts, so SCE's average home rate is still about 2.3% below where it stood at the end of 2025 (and unchanged at 33.3 cents counting the California Climate Credit).** The next change depends on decisions the California Public Utilities Commission (CPUC) is scheduled to make in December.
 
-This page lays out each 2026 change from SCE's own rate advisories, explains why October went up, and shows what is pending for 2027. For PG&E, SDG&E and statewide context, see our [California electricity rates and solar guide](/posts/california-electricity-rate-changes-2026/).
+This page lays out each 2026 change from SCE's own rate advisories, explains why October went up, and shows what is pending for 2027. For PG&E, SDG&E and statewide context, see our [California electricity rates and solar guide](/rates/california/).
 
 ## Every SCE Rate Change in 2026
 

@@ -1,5 +1,6 @@
 ---
 title: "West Virginia Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/west-virginia/"
 date: 2026-10-04
 lastmod: 2026-10-28
 lastVerified: 2026-10-04
@@ -95,7 +96,7 @@ Figures come from West Virginia news reports of the PSC's orders. We did not ope
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts West Virginia's average residential price at 16.31¢/kWh in August 2026, up 4.4% from 15.62¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $163.10 (1,000 × 16.31¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Kentucky](/posts/kentucky-electricity-rate-changes-2026/), [Maryland](/posts/maryland-electricity-rate-changes-2026/), [Ohio](/posts/ohio-electricity-rate-changes-2026/), [Virginia](/posts/virginia-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Kentucky](/rates/kentucky/), [Maryland](/rates/maryland/), [Ohio](/rates/ohio/), [Virginia](/rates/virginia/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

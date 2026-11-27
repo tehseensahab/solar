@@ -1,5 +1,6 @@
 ---
 title: "South Dakota Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/south-dakota/"
 date: 2026-10-04
 lastmod: 2026-11-06
 lastVerified: 2026-11-06
@@ -90,7 +91,7 @@ Xcel figures come from the PUC's news release. Black Hills Energy figures come f
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts South Dakota's average residential price at 15.15¢/kWh in August 2026, up 9.0% from 13.90¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $151.50 (1,000 × 15.15¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Minnesota](/posts/minnesota-electricity-rate-changes-2026/), [Nebraska](/posts/nebraska-electricity-rate-changes-2026/), [North Dakota](/posts/north-dakota-electricity-rate-changes-2026/), [Iowa](/posts/iowa-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Minnesota](/rates/minnesota/), [Nebraska](/rates/nebraska/), [North Dakota](/rates/north-dakota/), [Iowa](/rates/iowa/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

@@ -1,5 +1,6 @@
 ---
 title: "Nevada Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/nevada/"
 date: 2026-10-04
 lastmod: 2026-10-28
 lastVerified: 2026-10-04
@@ -89,7 +90,7 @@ The October decrease is a filed proposal. We searched on October 4, 2026 and fou
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Nevada's average residential price at 12.72¢/kWh in August 2026, up 1.4% from 12.54¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $127.20 (1,000 × 12.72¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arizona](/posts/arizona-electricity-rate-changes-2026/), [California](/posts/california-electricity-rate-changes-2026/), [Utah](/posts/utah-electricity-rate-changes-2026/), [Idaho](/posts/idaho-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arizona](/rates/arizona/), [California](/rates/california/), [Utah](/rates/utah/), [Idaho](/rates/idaho/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

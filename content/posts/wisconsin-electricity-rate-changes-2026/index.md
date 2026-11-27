@@ -1,5 +1,6 @@
 ---
 title: "Wisconsin Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/wisconsin/"
 date: 2026-10-04
 lastmod: 2026-11-07
 lastVerified: 2026-11-07
@@ -107,7 +108,7 @@ All figures are average residential impacts from Wisconsin Public Radio, not tar
 
 **Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Wisconsin's average residential price at 19.41¢/kWh in August 2026, up 5.3% from 18.44¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $194.10 (1,000 × 19.41¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Illinois](/posts/illinois-electricity-rate-changes-2026/), [Iowa](/posts/iowa-electricity-rate-changes-2026/), [Michigan](/posts/michigan-electricity-rate-changes-2026/), [Minnesota](/posts/minnesota-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+Rate rules stop at the state line, and often at the utility boundary. See our guides for [Illinois](/rates/illinois/), [Iowa](/rates/iowa/), [Michigan](/rates/michigan/), [Minnesota](/rates/minnesota/), or the full [rates by state](/rates/) list.
 
 ## Sources
 

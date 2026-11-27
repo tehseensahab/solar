@@ -31,7 +31,7 @@ faq:
 
 **PPL Electric Utilities' supply price for customers on default service rises 10.3% on Dec. 1, 2026, from 13.079 to 14.428 cents per kWh. For a home using 1,000 kWh a month, that adds about $13.49 a month to the supply part of the bill.** The new Price to Compare runs through May 31, 2027, according to PPL. Customers who buy electricity from a competitive supplier are not affected by this change; they pay their contract price.
 
-The increase follows a distribution rate increase that took effect July 1, which PPL described as its first since 2016. For how Pennsylvania's default supply prices moved across every utility at the last reset, see our [Pennsylvania electricity price and solar guide](/posts/pennsylvania-electricity-rate-changes-2026/).
+The increase follows a distribution rate increase that took effect July 1, which PPL described as its first since 2016. For how Pennsylvania's default supply prices moved across every utility at the last reset, see our [Pennsylvania electricity price and solar guide](/rates/pennsylvania/).
 
 ## What Changes on Dec. 1
 
@@ -92,7 +92,7 @@ Solar customers who buy from a supplier are treated differently. PPL says their 
 
 ## Other Pennsylvania Utilities
 
-Every Pennsylvania utility resets default service prices on Dec. 1. Last year the PUC listed all of the Dec. 1 changes in one release on Nov. 24, 2025. Trade publication EnergyChoiceMatters reported Oct. 16 that PECO filed a residential generation supply charge of $0.11970 per kWh for December through May, up 11% from $0.10785, though that charge is only part of PECO's Price to Compare. We will add the PUC's statewide figures to our [Pennsylvania guide](/posts/pennsylvania-electricity-rate-changes-2026/) when they are published.
+Every Pennsylvania utility resets default service prices on Dec. 1. Last year the PUC listed all of the Dec. 1 changes in one release on Nov. 24, 2025. Trade publication EnergyChoiceMatters reported Oct. 16 that PECO filed a residential generation supply charge of $0.11970 per kWh for December through May, up 11% from $0.10785, though that charge is only part of PECO's Price to Compare. We will add the PUC's statewide figures to our [Pennsylvania guide](/rates/pennsylvania/) when they are published.
 
 ## Sources and verification
 
