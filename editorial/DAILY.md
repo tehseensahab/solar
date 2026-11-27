@@ -1,6 +1,11 @@
 # Daily run notes (read first; where this conflicts with the scheduled prompt, this wins)
 
-The PROTECTED PAGES rule in the prompt and in editorial/README.md is NOT overridden by anything here.
+## Publishing rules (Nov 28, 2026; replace the older 2-a-day routine)
+
+- **At most 3 new articles per week** (Monday to Sunday, PKT). Before writing, count posts in content/posts with a `date` in the current week; if 3 already exist, publish nothing new and only make sourced updates to existing pages.
+- **No new state-template pages.** See editorial/README.md "STATE PAGES AND DATES". State pages live at `/rates/<state>/`; link there.
+- **Duplicate check before publishing.** Compare the draft's primary keyword, title and main question against editorial/INDEX.md and the existing page(s) on the same utility/topic (read their opening and headings). If an existing page answers substantially the same question, do not publish a new article: update the existing page instead (rewrite the affected text; add the figure to its "Changes since first publication" line) and report it as an update.
+- **Never re-date unchanged pages.** `lastmod`/`lastVerified` move only when a figure on that page changes. No "Update, <date>:" notes and no dated "link from" notes on existing pages: add a plain internal link where it fits, without touching dates.
 
 ## Weekly plan (set Nov 13, 2026 from the Search Console review)
 
@@ -21,7 +26,7 @@ How to use it:
 - The plan's source leads are leads, not facts. Run the normal source check and research. Nothing in the plan may be published without its own verbatim-quoted source.
 - If the lead article fails the source check or its stated condition (PSO, Penelec), take the next unused alternate from the plan and say so in the report. Carry the skipped article forward to the first day its source is out.
 - The second article of the day is chosen as usual from editorial/IDEAS.md and must not overlap the week's plan.
-- Add the "link from" body notes the plan lists (short, dated, sourced, with a link to the new article) and set lastmod on those pages.
+- Add the "link from" links the plan lists as plain internal links. Do not add dated notes and do not change lastmod on those pages.
 - Before Nov 16 and after Nov 22, ignore this section unless a newer content-plan/ file is named here.
 
 ## Quality bar (every new article and every body update)
@@ -35,5 +40,5 @@ For search engines and AI answers:
 - One clear question per H2 or H3, with a self-contained answer directly under it that makes sense when quoted alone.
 - Use the exact wording of the target query, and of related real queries listed in the plan, in headings and FAQ questions.
 - Tables for comparisons, numbered lists for steps.
-- Primary sources for every fact and figure. The page shows its last-verified date (lastVerified), and lastmod when updated.
+- Primary sources for every fact and figure. The page shows one date, lastVerified (= lastmod = schema dateModified), which changes only when a figure changes.
 - FAQ front matter on every article (it becomes FAQPage schema), a descriptive title and description, and internal links with descriptive anchor text.
