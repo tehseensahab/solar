@@ -3,7 +3,7 @@ title: "Colorado Electricity Rate Changes: What Changed in 2026 and What's Next"
 url: "/rates/colorado/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "House with a metal roof and rooftop solar panels surrounded by dense green trees."
 imageCredit: "Photo by Jordi Villanova on [Unsplash](https://unsplash.com/photos/a-house-with-a-solar-panel-on-the-roof-2eeam_HMvIk?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -61,11 +61,9 @@ Xcel Energy still offers net metering in Colorado.
 
 **What it means:** with kWh credits at the retail rate, each solar kWh offsets whatever you would have paid for it, including the August 2026 increase. On a time-of-use plan, when you produce and use power matters.
 
-Rules checked October 5, 2026.
-
 ## Limitations
 
-Figures come from the PUC's news release. We did not find the approved return on equity or the typical usage behind the $5.00 figure. Other Xcel riders, and its separate gas rate case, are not covered.
+Figures come from the PUC's news release. We did not find the approved return on equity or the typical usage behind the $5.00 figure. Other Xcel riders, and its separate gas rate case, are not covered. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## Colorado Statewide Average
 

@@ -3,7 +3,7 @@ title: "Alabama Electricity Rate Changes: What Changed in 2026 and What's Next"
 url: "/rates/alabama/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Utility poles and bare trees silhouetted against an orange and teal sunset."
 imageCredit: "Photo by Jay Heike on [Unsplash](https://unsplash.com/photos/sunset-over-a-rural-landscape-with-power-lines-ytf2iFVFM6Y?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -80,11 +80,9 @@ Alabama has no net metering, and Alabama Power charges solar customers a monthly
 
 **What it means:** the fee is owed whether or not you export anything, so it comes straight off your savings. On a 7.2 kW system it is about $467 a year. Run the numbers with the fee included before sizing a system.
 
-Rules checked October 5, 2026.
-
 ## Limitations
 
-We did not open PSC orders or Alabama Power's tariff. The 2028 figures and the governor's extension come from one news outlet.
+We did not open PSC orders or Alabama Power's tariff. The 2028 figures and the governor's extension come from one news outlet. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## Alabama Statewide Average
 

@@ -3,7 +3,7 @@ title: "South Carolina Electricity Rate Changes: What Changed in 2026 and What's
 url: "/rates/south-carolina/"
 date: 2026-10-04
 lastmod: 2026-11-01
-lastVerified: 2026-10-04
+lastVerified: 2026-11-01
 imageAlt: "Two-story house with dark solar panels on its roof and more panels set on the front lawn."
 imageCredit: "Photo by Zendure Power Station on [Unsplash](https://unsplash.com/photos/a-house-with-solar-panels-on-the-roof-lspvbK-OIkU?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -99,11 +99,9 @@ New solar customers at Dominion Energy South Carolina go on the Solar Choice rid
 
 **What it means:** credits are kWh-based within the month but tied to time-of-use periods, so when you produce and use power matters. The $13.50 minimum bill sets a floor that solar cannot reduce.
 
-Rules checked October 5, 2026.
-
 ## Limitations
 
-Approval and current rates come from Dominion's bill insert. Settlement figures come from news and advocacy reports. We did not open the commission's order, so we did not confirm whether it changed any settlement term. Duke Energy Carolinas and Duke Energy Progress cases in South Carolina were not researched.
+Approval and current rates come from Dominion's bill insert. Settlement figures come from news and advocacy reports. We did not open the commission's order, so we did not confirm whether it changed any settlement term. Duke Energy Carolinas and Duke Energy Progress cases in South Carolina were not researched. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## South Carolina Statewide Average
 

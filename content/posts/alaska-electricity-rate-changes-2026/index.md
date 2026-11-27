@@ -3,7 +3,7 @@ title: "Alaska Electricity Rate Changes: What Changed in 2026 and What's Next"
 url: "/rates/alaska/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Residential street with parked cars and a transmission tower rising behind the houses."
 imageCredit: "Photo by Arlind Photography on [Unsplash](https://unsplash.com/photos/residential-street-with-parked-cars-houses-and-power-lines-zhRbFT87Gxo?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -71,11 +71,9 @@ Alaska's net metering rules date from 2010 and pay less than the retail rate for
 
 **What it means:** size a system to what you use in the sunny months. Extra summer production earns only the avoided cost, and winter output is very low at Alaska's latitudes.
 
-Rules checked October 5, 2026.
-
 ## Limitations
 
-GVEA information comes from its own rate case page. Chugach details come from an advocacy group's summary of the RCA order. We did not open RCA dockets. The fuel and solar production statements are general background that we did not re-verify.
+GVEA information comes from its own rate case page. Chugach details come from an advocacy group's summary of the RCA order. We did not open RCA dockets. The fuel and solar production statements are general background that we did not re-verify. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## Alaska Statewide Average
 

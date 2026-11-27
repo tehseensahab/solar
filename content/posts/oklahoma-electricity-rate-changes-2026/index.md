@@ -3,7 +3,7 @@ title: "Oklahoma Electricity Rate Changes: What Changed in 2026 and What's Next"
 url: "/rates/oklahoma/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Transmission towers crossing a flat field with wind turbines in the distance."
 imageCredit: "Photo by American Public Power Association on [Unsplash](https://unsplash.com/photos/transmission-towers-and-wind-turbines-on-the-field-znytbxrOv_4?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -68,11 +68,9 @@ Oklahoma's net metering rule gives retail value up to what you use, and avoided 
 
 **What it means:** production up to your monthly use is worth the retail energy rate. Anything above it earns the avoided cost. PSO's interim increase, while it lasts, raises the value of the first part.
 
-Rules checked October 5, 2026.
-
 ## Limitations
 
-PSO figures come from KGOU, KTUL, KRMG and the Tulsa Flyer. We did not open the Corporation Commission docket. No final order had been reported when we checked on October 4, 2026. The refund figure is our subtraction and assumes the settlement is approved unchanged; the Tulsa Flyer put it at about $9 a month.
+PSO figures come from KGOU, KTUL, KRMG and the Tulsa Flyer. We did not open the Corporation Commission docket. No final order had been reported when we checked on October 4, 2026. The refund figure is our subtraction and assumes the settlement is approved unchanged; the Tulsa Flyer put it at about $9 a month. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## Oklahoma Statewide Average
 

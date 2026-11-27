@@ -3,7 +3,7 @@ title: "Virginia Electricity Rate Changes: What Changed in 2026 and What's Next"
 url: "/rates/virginia/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Solar panels mounted on the shingle roof of a house under a clear blue sky."
 imageCredit: "Photo by Michael Roberts on [Unsplash](https://unsplash.com/photos/a-solar-panel-on-the-roof-of-a-house-U0ys6tX7UMU?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -83,8 +83,6 @@ Virginia kept retail net metering in two State Corporation Commission decisions.
 
 **What it means:** each solar kWh still offsets a retail kWh, so any approved base rate increase raises its value. Production beyond your annual use earns under 6¢, so size to what you use in a year. Draft shared solar rules are also open for comment through October 9, 2026 (PUR-2026-00127).
 
-Rules checked October 5, 2026.
-
 ## What Happens Next
 
 - **October 20, 2026:** Appalachian Power rate hearing.
@@ -93,7 +91,7 @@ Rules checked October 5, 2026.
 
 ## Limitations
 
-The SCC's own news release could not be opened for this article, so the biennial review figures come from Cardinal News and the rider figures from a law firm summary. Two public radio and news reports we checked say the $11.24 step applies "for 2026" without giving a day, so we still cannot state the exact effective date. One of them gives the starting bill as about $140, where Cardinal News gives $149.92; we use the more specific figure. We did not confirm the current fuel factor or net metering terms.
+The SCC's own news release could not be opened for this article, so the biennial review figures come from Cardinal News and the rider figures from a law firm summary. Two public radio and news reports we checked say the $11.24 step applies "for 2026" without giving a day, so we still cannot state the exact effective date. One of them gives the starting bill as about $140, where Cardinal News gives $149.92; we use the more specific figure. We did not confirm the current fuel factor or net metering terms. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## Virginia Statewide Average
 

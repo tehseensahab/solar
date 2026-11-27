@@ -8,14 +8,14 @@ imageAlt: "Suburban homes at dusk with solar panels on a tile roof."
 imageCredit: "Photo by Vivint Solar on [Unsplash](https://unsplash.com/photos/a-house-with-a-solar-panel-on-the-roof-_ciUqT1HEuY?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
 states: ["Arizona"]
-description: "Arizona's two largest regulated utilities have rate increases pending, not approved. APS is asking for about 14% overall, roughly $20 a month for residential customers, with a vote expected around December 2026. TEP asked for 13%."
+description: "Arizona regulators approved Tucson Electric Power's increase on Nov. 17, 2026, about $13 a month from Dec. 1. APS's request for about 14% overall, roughly $20 a month for residential customers, faces a vote by Dec. 31, 2026."
 readtime: "4 min read"
 author: "Tehseen Arbab"
 tags: ["Arizona", "APS", "Tucson Electric Power", "Arizona Corporation Commission"]
 takeaways:
   - "We found no approved APS rate change for October 1, 2026. Its rate case is still before the Arizona Corporation Commission."
   - "APS is asking for about 14% overall and about 16% for residential customers, roughly $20 a month. A vote is expected around December 2026, with new rates in early 2027."
-  - "Tucson Electric Power's case is also undecided. TEP's own rate page says it expects approval of new rates in late 2026, and estimates $12.92 a month for a median customer using 638 kWh."
+  - "The ACC approved Tucson Electric Power's rate increase on Nov. 17, 2026. TEP says average Basic plan residential bills rise about 9.4%, or about $13 a month, from Dec. 1."
   - "APS has also proposed raising the monthly grid access charge paid by rooftop solar customers."
 faq:
   - q: "Did APS rates go up on October 1, 2026?"
@@ -28,7 +28,7 @@ faq:
     a: "About 6.17 cents per kWh for systems interconnected in 2026, according to an installer summary of the APS export rate. The rate is locked for 10 years, and the rate offered to new customers can fall by up to 10% a year. Arizona ended net metering for new customers in 2016."
 ---
 
-Arizona did not have an approved rate change at its largest regulated utility on October 1, 2026. Arizona Public Service (APS) and Tucson Electric Power (TEP) both have increases pending before the Arizona Corporation Commission (ACC).
+Arizona did not have an approved rate change at its largest regulated utility on October 1, 2026. Arizona Public Service (APS) has an increase pending before the Arizona Corporation Commission (ACC). The ACC approved Tucson Electric Power's (TEP) increase on Nov. 17, 2026, effective Dec. 1.
 
 This article covers APS, which serves about 1.5 million customers, and TEP, which serves about 455,000. Salt River Project (SRP) sets rates through its own board and is not covered.
 
@@ -38,7 +38,7 @@ This article covers APS, which serves about 1.5 million customers, and TEP, whic
 |---|---|---|---|
 | Last base rate increase | APS | Effective March 1, 2024 | About 8.3%, $10 to $12 a month |
 | Pending rate case | APS | Vote due by Dec. 31, 2026 | About 16%, roughly $20 a month (request) |
-| Pending rate case | TEP | Judge recommended ~11.2% (Oct. 20); ACC meeting tentatively Nov. 17 | About 12%, $12.92 a month at 638 kWh (request) |
+| Approved rate case | TEP | Approved Nov. 17, 2026; effective Dec. 1 | About 9.4%, about $13 a month, Basic plan (TEP) |
 | October 1, 2026 | APS | n/a | No approved change found |
 
 ## APS: What Is Proposed
@@ -50,13 +50,11 @@ This article covers APS, which serves about 1.5 million customers, and TEP, whic
 
 **Timeline, per the Arizona Corporation Commission:** the hearing began May 18, 2026 and concluded July 7 after 31 days. The administrative law judge's Recommended Opinion and Order is expected by late November 2026. The deadline for the commission to vote on it is December 31, 2026. New rates are expected in early 2027.
 
-## TEP: Still Pending
+## TEP: Approved November 17, 2026
 
-**Update, Nov. 20, 2026:** The ACC approved TEP's rate increase on Nov. 17, 2026 (4-1, per news reports). TEP says average residential bills on its Basic plan rise about 9.4%, or about $13 a month, from Dec. 1 ([TEP release](https://www.sec.gov/Archives/edgar/data/0000100122/000010012226000028/a2026ex991teprateorderpres.htm)). See our [TEP rate case coverage](/posts/tep-rate-increase-2026/). The section below reflects the case before the vote.
+The ACC approved TEP's rate increase on Nov. 17, 2026 (4-1, per news reports) in docket E-01933A-25-0103. TEP says average residential bills on its Basic plan rise about 9.4%, or about $13 a month, from Dec. 1, 2026 ([TEP release](https://www.sec.gov/Archives/edgar/data/0000100122/000010012226000028/a2026ex991teprateorderpres.htm)). See our [TEP rate case coverage](/posts/tep-rate-increase-2026/).
 
-TEP asked for new rates from September 2026, but the case has not been decided. TEP's rate page, checked on October 4, 2026, says the company "anticipates that the review will conclude with approval of new rates in late 2026." The docket is E-01933A-25-0103.
-
-**What TEP says its request would do:**
+**What TEP said its original request would do:**
 
 | Plan | Monthly increase |
 |---|---|
@@ -67,9 +65,7 @@ TEP asked for new rates from September 2026, but the case has not been decided. 
 
 TEP describes this as 11.6%, or about 12%. News reports earlier in the year described the request as 13% to 14% and about $172 million, with a 10.5% return on equity against 9.55% today. The Attorney General's office argued TEP could maintain reliability with 4%.
 
-The hearing ran from April 22 to May 12, 2026. **Update, Oct. 28, 2026:** an administrative law judge issued a recommended order on Oct. 20 that would raise average residential bills about 11.2%, according to AZ Luminaria and Consumer Reports, with a commission open meeting tentatively set for Nov. 17. It is not yet approved. See our [TEP rate increase breakdown](/posts/tep-rate-increase-2026/).
-
-**If you are a TEP customer:** your rates did not change on September 1. Until the commission votes, the current rates apply.
+The hearing ran from April 22 to May 12, 2026. An administrative law judge's recommended order on Oct. 20 would have raised average residential bills about 11.2%, according to AZ Luminaria and Consumer Reports; the commission's Nov. 17 vote set the final figure above.
 
 ## Arizona Net Metering and Solar Export Credits
 
@@ -83,8 +79,6 @@ Arizona ended net metering for new customers under a 2016 Arizona Corporation Co
 
 **What it means:** at roughly 6¢ for exports against a retail rate around 15¢, solar you use yourself is worth more than twice what you export. Systems sized to daytime use, or paired with a battery, pay back faster. A larger fixed charge would lengthen payback.
 
-Rules checked October 5, 2026.
-
 ## What Happens Next
 
 - **Late November 2026:** expected recommendation in the APS case.
@@ -94,11 +88,13 @@ Rules checked October 5, 2026.
 
 ## Limitations
 
-All APS and TEP figures here are requests, not approved rates. The ACC's docket system could not be opened, so timelines come from the commission's news posts and TEP's rate page. The TEP recommended order and the Nov. 17 meeting date come from news and Consumer Reports reports; we could not open the order itself. SRP and electric cooperatives were not researched.
+All APS and TEP figures here are requests, not approved rates. The ACC's docket system could not be opened, so timelines come from the commission's news posts and TEP's rate page. The TEP recommended order and the Nov. 17 meeting date come from news and Consumer Reports reports; we could not open the order itself. SRP and electric cooperatives were not researched. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## Arizona Statewide Average
 
 The U.S. Energy Information Administration (EIA) puts Arizona's average residential price at 15.05¢/kWh in August 2026, down 0.3% from 15.09¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $150.50 (1,000 × 15.05¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
+
+**Changes since first publication:** Nov. 20, 2026: ACC approval of TEP rates (about +9.4% Basic plan from Dec. 1); Oct. 28, 2026: ALJ recommended order (about +11.2%).
 
 ## Sources
 

@@ -3,7 +3,7 @@ title: "New Mexico Electricity Rate Changes: What Changed in 2026 and What's Nex
 url: "/rates/new-mexico/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Solar panels on a clay tile roof with a faint rainbow in the sky behind."
 imageCredit: "Photo by Joshua Bowers on [Unsplash](https://unsplash.com/photos/a-solar-panel-on-a-roof-with-a-rainbow-in-the-background-0SyvPKyZc-M?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -74,11 +74,9 @@ PNM customers have net metering at the retail rate.
 
 **What it means:** New Mexico is one of the stronger states for payback: retail-rate credits, a state credit that partly replaces the expired federal one, and a retail rate that rose in 2025 and again in April 2026.
 
-Rules checked October 5, 2026.
-
 ## Limitations
 
-PNM figures come from the PRC's customer notice, which gives a dollar amount but no percentage. El Paso Electric figures come from a TV report. We did not open the dockets.
+PNM figures come from the PRC's customer notice, which gives a dollar amount but no percentage. El Paso Electric figures come from a TV report. We did not open the dockets. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## New Mexico Statewide Average
 

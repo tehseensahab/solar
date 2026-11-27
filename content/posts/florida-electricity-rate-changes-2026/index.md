@@ -8,36 +8,36 @@ imageAlt: "Aerial view of waterfront houses with palm trees beside turquoise wat
 imageCredit: "Photo by Diwei Zhu on [Unsplash](https://unsplash.com/photos/coastal-houses-with-palm-trees-beside-a-turquoise-ocean-kBydV9ID5Ws?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
 states: ["Florida"]
-description: "FPL's one-month September storm refund ends with October bills, and Duke Energy Florida's June-to-September reduction was scheduled to end after September. Here is what changed and what to expect."
+description: "FPL's one-month September storm refund ended with October 2026 bills, and Duke Energy Florida's June-to-September reduction ended after September. Here is what changed in 2026 and what is proposed for 2027."
 readtime: "6 min read"
 author: "Tehseen Arbab"
 weight: 6
 takeaways:
-  - "FPL's September rates included a one-month storm refund of 0.797 cents per kWh. FPL's October rate sheet removes it, and every other residential charge is unchanged."
+  - "FPL's September rates included a one-month storm refund of 0.797 cents per kWh. FPL's October rate sheet removed it and left every other residential charge unchanged."
   - "FPL said the typical 1,000 kWh bill was $136.64 in August and $128.45 in September."
   - "FPL's four-year rate agreement covers 2026 through 2029 and raised the typical 2026 bill by $2.50 a month."
-  - "Duke Energy Florida's roughly $6 summer reduction was set to run only through September 2026."
+  - "Duke Energy Florida's roughly $6 summer reduction ran through September 2026. Its PSC-approved 2027 rates are about $0.95 lower on a 1,000 kWh bill from December 2026 to January 2027."
 faq:
-  - q: "Are Florida electricity rates going up in October 2026?"
-    a: "For FPL customers, the September storm refund ends, so bills return to their pre-refund level. FPL's October rate sheet shows no other residential charge changes."
+  - q: "Did FPL bills go up in October 2026?"
+    a: "Yes, back to their pre-refund level: the one-month September storm refund ended. FPL's October rate sheet showed no other residential charge changes."
   - q: "How much was the FPL storm refund?"
     a: "FPL said the refund lowered the typical 1,000 kWh bill from $136.64 in August to $128.45 in September, about $8. It stemmed from a true-up of 2024 hurricane restoration costs."
   - q: "Did Duke Energy Florida's rate reduction end?"
     a: "Duke said its roughly $6 reduction for a typical 1,000 kWh customer applied from June through September 2026, after a true-up of 2024 storm costs."
 ---
 
-FPL customers will see their September storm refund end with October bills. FPL's October 2026 rate sheet removes a refund charge of 0.797 cents per kWh and leaves every other residential charge unchanged. This article also covers what changed in 2026 for FPL and Duke Energy Florida.
+FPL's September storm refund ended with October 2026 bills. FPL's October 2026 rate sheet removed a refund charge of 0.797 cents per kWh and left every other residential charge unchanged. This article also covers what changed in 2026 for FPL and Duke Energy Florida.
 
 ## Quick Summary
 
 | Utility | Effective Date | Previous Rate | New Rate | Change | Customer Impact |
 |---|---|---|---|---|---|
 | FPL (most of Florida) | October 2026 bills | Storm refund of -0.797 ¢/kWh (September only) | Refund removed | +0.797 ¢/kWh versus September | Typical 1,000 kWh bill: $128.45 in September, roughly back to $136.64 (estimate) |
-| Duke Energy Florida | After September 2026 | About $6 reduction (June to September) | Reduction scheduled to end | About +$6/month for a typical 1,000 kWh customer (estimate from Duke's figures) | Bills return to March-May levels, all else equal |
+| Duke Energy Florida | After September 2026 | About $6 reduction (June to September) | Reduction ended after September | About +$6/month for a typical 1,000 kWh customer (estimate from Duke's figures) | Bills return to March-May levels, all else equal |
 
-## What Is Changing on October 1, 2026?
+## What Changed on October 1, 2026?
 
-FPL's September rate sheet included a "Storm Restoration Recovery Refund" of 0.797 cents per kWh. It came from a true-up of costs from the 2024 hurricane season. The October rate sheet drops that line. All other residential charges match September: the $10.52 monthly base charge, 7.865 cents per kWh for the first 1,000 kWh, and the fuel, conservation, capacity, environmental and storm protection charges.
+FPL's September rate sheet included a "Storm Restoration Recovery Refund" of 0.797 cents per kWh. It came from a true-up of costs from the 2024 hurricane season. The October rate sheet dropped that line. All other residential charges match September: the $10.52 monthly base charge, 7.865 cents per kWh for the first 1,000 kWh, and the fuel, conservation, capacity, environmental and storm protection charges.
 
 Duke Energy Florida said its third rate reduction of 2026 would run from June through September, worth about $6 for a typical 1,000 kWh customer. It came from a true-up of storm-recovery costs.
 
@@ -59,22 +59,21 @@ The Florida Public Service Commission approved a four-year FPL rate agreement on
 
 ## Florida Net Metering and Solar Export Credits
 
-FPL's tariff sheet notes a $30 minimum base bill for residential customers. Solar can reduce your energy and fuel charges, but not below that floor. The usage tiers matter too: because kWh above 1,000 cost more, solar production offsets your most expensive kWh first. We did not review Florida's net metering rules for this article, so confirm export credits with your utility before sizing a system. **Update, Nov. 20, 2026:** for FPL customers, our [guide to FPL net metering credits](/posts/fpl-net-metering/) explains the 12-month kWh carry-forward and year-end payout from [FPL's tariff](https://www.fpl.com/rates/pdf/electric-tariff-section10.pdf).
+FPL's tariff sheet notes a $30 minimum base bill for residential customers. Solar can reduce your energy and fuel charges, but not below that floor. The usage tiers matter too: because kWh above 1,000 cost more, solar production offsets your most expensive kWh first. For FPL customers, our [guide to FPL net metering credits](/posts/fpl-net-metering/) explains the 12-month kWh carry-forward and year-end payout from [FPL's tariff](https://www.fpl.com/rates/pdf/electric-tariff-section10.pdf). We did not review other Florida utilities' net metering terms.
 
 ## What Happens Next?
 
 FPL's 2026 to 2029 agreement sets its base rate path. Fuel and other clause charges are reviewed each year by the Public Service Commission, so check your January 2027 rate sheet when FPL posts it.
 
-**Update, November 19, 2026:** On October 30, 2026, FPL said it had filed proposals with the Public Service Commission for a typical 1,000 kWh bill of $141.87 from January 2027, including a proposed $3.48 a month Hurricane Isaias surcharge for 2027. These need PSC approval. Our [FPL rates 2026 guide](/posts/fpl-rates-2026/) builds today's cents-per-kWh figure line by line and lists the time-of-use hours ([FPL release](https://newsroom.fpl.com/FPL-projects-2027-residential-bills-will-be-lower-than-previously-expected-and-remain-well-below-national-average)).
+On October 30, 2026, FPL said it had filed proposals with the Public Service Commission for a typical 1,000 kWh bill of $141.87 from January 2027, including a proposed $3.48 a month Hurricane Isaias surcharge for 2027. These need PSC approval. Our [FPL rates 2026 guide](/posts/fpl-rates-2026/) builds today's cents-per-kWh figure line by line and lists the time-of-use hours ([FPL release](https://newsroom.fpl.com/FPL-projects-2027-residential-bills-will-be-lower-than-previously-expected-and-remain-well-below-national-average)).
 
-**Update, November 24, 2026:** Duke Energy Florida said on Nov. 3, 2026 that the Public Service Commission approved its request to lower 2027 rates: about $0.95 less on a 1,000 kWh residential bill from December 2026 to January 2027, with its usual March-to-November reduction of about $10 returning in March. The PSC's written order was not posted as of Nov. 24. Details are in our [Duke Energy Florida 2027 rates explainer](/posts/duke-energy-florida-rates-2027/) ([Duke release](https://www.morningstar.com/news/pr-newswire/20261103cl87882/duke-energy-florida-customers-to-see-lower-rates-in-2027)).
-
-**Published:** September 30, 2026
-**Last verified:** September 29, 2026
+Duke Energy Florida said on Nov. 3, 2026 that the Public Service Commission approved its request to lower 2027 rates: about $0.95 less on a 1,000 kWh residential bill from December 2026 to January 2027, with its usual March-to-November reduction of about $10 returning in March. The PSC's written order was not posted as of Nov. 24. Details are in our [Duke Energy Florida 2027 rates explainer](/posts/duke-energy-florida-rates-2027/) ([Duke release](https://www.morningstar.com/news/pr-newswire/20261103cl87882/duke-energy-florida-customers-to-see-lower-rates-in-2027)).
 
 ## Florida Statewide Average
 
 The U.S. Energy Information Administration (EIA) puts Florida's average residential price at 14.99¢/kWh in August 2026, down 2.2% from 15.33¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $149.90 (1,000 × 14.99¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
+
+**Changes since first publication:** Nov. 24, 2026: Duke Energy Florida 2027 decrease; Nov. 20, 2026: FPL net metering link; Nov. 19, 2026: FPL 2027 proposal ($141.87 at 1,000 kWh).
 
 ## Sources
 

@@ -3,7 +3,7 @@ title: "Wyoming Electricity Rate Changes: What Changed in 2026 and What's Next"
 url: "/rates/wyoming/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Aerial view of a residential neighborhood with solar panels on many rooftops."
 imageCredit: "Photo by C on [Unsplash](https://unsplash.com/photos/residential-neighborhood-with-solar-panels-WNbTfLYmRf4?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -71,11 +71,9 @@ Wyoming has net metering with kWh credits during the year and a low cash price f
 
 **What it means:** within the year, each solar kWh offsets a retail kWh. Only production beyond your annual use falls to about 3¢. A system sized to your yearly consumption keeps nearly all of its value, and the 2025 increase and the pending 2027 request both raise that value.
 
-Rules checked October 5, 2026.
-
 ## Limitations
 
-Figures come from Cowboy State Daily and KOTA. We did not open PSC dockets, and we did not find a residential dollar figure for Rocky Mountain Power's 2027 request.
+Figures come from Cowboy State Daily and KOTA. We did not open PSC dockets, and we did not find a residential dollar figure for Rocky Mountain Power's 2027 request. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## Wyoming Statewide Average
 

@@ -8,7 +8,7 @@ imageAlt: "Rows of solar panels installed on a large corrugated metal roof, seen
 imageCredit: "Photo by Rafael Moreno on [Unsplash](https://unsplash.com/photos/solar-panels-are-installed-on-a-rooftop-73JOOymZQTQ?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
 states: ["South Dakota"]
-description: "Xcel Energy's South Dakota rates rose July 1, 2026 under a settlement: $25.6 million, about $13.48 a month for a typical home, with a refund of about $43.52 for interim overcharges. Black Hills Energy has a 25% request pending."
+description: "Xcel Energy's South Dakota rates rose July 1, 2026 under a settlement: $25.6 million, about $13.48 a month for a typical home, with a refund of about $43.52 for interim overcharges. Black Hills Energy's settlement, approved Nov. 4, 2026, adds about $16.34 a month from Dec. 1."
 readtime: "4 min read"
 author: "Tehseen Arbab"
 tags: ["South Dakota", "Xcel Energy", "Black Hills Energy", "South Dakota PUC"]
@@ -16,7 +16,7 @@ takeaways:
   - "We found no South Dakota rate change dated October 1, 2026."
   - "The Public Utilities Commission approved a $25.6 million (9.5%) Xcel Energy increase, effective July 1, 2026. Xcel had asked for $43.6 million (16.2%)."
   - "A typical residential customer using 750 kWh pays about $13.48 more a month and was due an interim refund of about $43.52 on August and September bills."
-  - "Xcel cannot raise base rates again before January 1, 2029. Black Hills Energy is asking for 25%, about $25.13 a month."
+  - "Xcel cannot raise base rates again before January 1, 2029. Black Hills Energy's approved settlement adds about $16.34 a month at 650 kWh from Dec. 1, 2026."
 faq:
   - q: "Did South Dakota electric rates change on October 1, 2026?"
     a: "We found no change on that date. Xcel Energy's final rates took effect July 1, 2026."
@@ -28,7 +28,7 @@ faq:
     a: "No. The South Dakota Public Utilities Commission states that the state does not compensate solar generation at a net metered rate. Utilities pay their avoided cost for exported power, and rates for facilities under 100 kW are filed with the commission."
 ---
 
-South Dakota did not have a rate change on October 1, 2026. Xcel Energy's rate case was settled in May, with final rates from July 1. Black Hills Energy's case is still open.
+South Dakota did not have a rate change on October 1, 2026. Xcel Energy's rate case was settled in May, with final rates from July 1. Black Hills Energy's case was settled on Nov. 4, 2026, with new rates from Dec. 1.
 
 This article covers Xcel Energy (about 107,000 South Dakota customers) and Black Hills Energy. It does not cover NorthWestern Energy, Otter Tail, MidAmerican, cooperatives or municipal utilities.
 
@@ -40,7 +40,7 @@ This article covers Xcel Energy (about 107,000 South Dakota customers) and Black
 | Final rates | Xcel | July 1, 2026 | About +$13.48 a month at 750 kWh |
 | Interim refund | Xcel | August and September 2026 bills | About $43.52 |
 | Rate moratorium | Xcel | Until Jan. 1, 2029 | No base rate increases |
-| Rate request | Black Hills Energy | Pending | About +$25.13 a month (25%) |
+| Final rates | Black Hills Energy | Dec. 1, 2026 | About +$16.34 a month at 650 kWh (approved Nov. 4) |
 
 ## Xcel Energy: Settled Below the Request
 
@@ -57,11 +57,9 @@ The South Dakota Public Utilities Commission (PUC) approved the settlement in Do
 
 Xcel put interim rates in place on January 1, 2026, based on its full request. Since the final increase is smaller, customers were owed the difference with interest. The PUC put that at about $43.52 for a typical residential customer, credited on August and September bills.
 
-## Black Hills Energy: Pending
+## Black Hills Energy: Settled November 4, 2026
 
-Black Hills Energy, which serves the Rapid City area, has asked for a 25% increase for typical residential customers, about $25.13 a month (Docket EL26-003). In May 2026 the PUC admitted eight intervenors, including a hospital and several manufacturers. No decision has been reported.
-
-**Update, Nov. 6, 2026:** On Nov. 4 the PUC approved a settlement raising Black Hills' revenue by $27.354 million a year, about $16.34 a month for a typical home using 650 kWh, effective Dec. 1, 2026, with refunds of the higher interim rates charged since Aug. 18 ([PUC release](https://puc.sd.gov/News/2026/11052026.aspx)). A separate Lange II power plant surcharge is still pending; read [what the Black Hills decision and the plant surcharge mean for December bills](/posts/black-hills-energy-rate-increase-2026/).
+Black Hills Energy, which serves the Rapid City area, asked for a 25% increase for typical residential customers, about $25.13 a month (Docket EL26-003). In May 2026 the PUC admitted eight intervenors, including a hospital and several manufacturers. On Nov. 4, 2026 the PUC approved a settlement raising Black Hills' revenue by $27.354 million a year, about $16.34 a month for a typical home using 650 kWh, effective Dec. 1, 2026, with refunds of the higher interim rates charged since Aug. 18 ([PUC release](https://puc.sd.gov/News/2026/11052026.aspx)). A separate Lange II power plant surcharge is still pending; read [what the Black Hills decision and the plant surcharge mean for December bills](/posts/black-hills-energy-rate-increase-2026/).
 
 ## South Dakota Net Metering and Solar Export Credits
 
@@ -73,15 +71,15 @@ South Dakota does not have net metering. The Public Utilities Commission says so
 
 **What it means:** only the solar you use at the moment it is produced offsets the retail rate. Everything exported earns the avoided cost. Systems sized to daytime use pay back best, and a moratorium on Xcel base rate increases through 2028 means the retail value is unlikely to rise soon.
 
-Rules checked October 5, 2026.
-
 ## Limitations
 
-Xcel figures come from the PUC's news release. Black Hills Energy figures come from a TV report. We did not find the Black Hills decision timeline or whether interim rates apply.
+Xcel figures come from the PUC's news release. Black Hills Energy figures come from a TV report. The Black Hills request figures come from a TV report; the decision figures come from the PUC release. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## South Dakota Statewide Average
 
 The U.S. Energy Information Administration (EIA) puts South Dakota's average residential price at 15.15¢/kWh in August 2026, up 9.0% from 13.90¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $151.50 (1,000 × 15.15¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
+
+**Changes since first publication:** Nov. 6, 2026: Black Hills settlement approved (about +$16.34 a month from Dec. 1).
 
 ## Sources
 

@@ -2,7 +2,7 @@
 title: "Ohio Electricity Rate Changes: What Changed in 2026 and What's Next"
 url: "/rates/ohio/"
 date: 2026-09-30
-lastmod: 2026-10-28
+lastmod: 2026-11-13
 lastVerified: 2026-11-13
 draft: false
 author: "Tehseen Arbab"
@@ -76,7 +76,7 @@ Ohio's investor-owned utilities must offer net metering, but an exported kWh is 
 
 **What it means:** the June 1 supply increases were driven by capacity costs, which is the part an exported kWh does not earn. A kWh used in the house avoids the whole supply rate plus the per-kWh delivery charges. We did not find the current cents-per-kWh credit for each utility, and the sources for these rules date from 2017 to 2019, so confirm them against your utility's net metering tariff.
 
-Rules checked October 5, 2026.
+Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## What Happens Next
 

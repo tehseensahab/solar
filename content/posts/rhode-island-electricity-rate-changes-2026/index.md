@@ -3,7 +3,7 @@ title: "Rhode Island Electricity Rate Changes: What Changed in 2026 and What's N
 url: "/rates/rhode-island/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-22
+lastVerified: 2026-10-28
 imageAlt: "Worker in a blue hoodie and cap working on an electric meter mounted on a wall."
 imageCredit: "Photo by Raze Solar on [Unsplash](https://unsplash.com/photos/person-working-on-electrical-meter-_aSFmmvS62I?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -103,11 +103,9 @@ A newer filing, Docket 26-30-EL (August 14, 2026), is pending. For systems of 25
 
 **What it means:** under credits tied to the retail rate, the winter supply increase raises the value of winter solar. Winter production is much lower than summer, so the annual effect is smaller than the rate change suggests.
 
-Rules checked October 22, 2026.
-
 ## Limitations
 
-The commission's page listed the winter rate as pending final approval, and the evidentiary hearing was held on September 16, 2026. We found no report of the final order on the rate itself, although the commission approved the related winter credits on September 24. The 17.029¢ figure is the filed rate. Delivery rates were not researched.
+The commission's page listed the winter rate as pending final approval, and the evidentiary hearing was held on September 16, 2026. We found no report of the final order on the rate itself, although the commission approved the related winter credits on September 24. The 17.029¢ figure is the filed rate. Delivery rates were not researched. Net metering terms on this page were last reviewed on October 22, 2026.
 
 ## Rhode Island Statewide Average
 

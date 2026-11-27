@@ -59,9 +59,9 @@ A PUC spokesperson told the Oregon Capital Chronicle the utilities cited fuel co
 
 The FAIR Energy Act prevents rate increases between November 1 and March 31. That protects winter heating bills, and it means several filings can stack up on April 1. Expect the next round of changes around April 1, 2027.
 
-**Update, Nov. 2, 2026:** Pacific Power says it reached a settlement in its 2027 general rate case (docket UE 470) that would raise residential base rates 9% on April 5, 2027, offset by power cost decreases to a net of about 0.3% versus April 2026. The commission has not yet approved it. Details in our [Pacific Power 2027 rate settlement report](/posts/pacific-power-rate-increase-2027/).
+Pacific Power says it reached a settlement in its 2027 general rate case (docket UE 470) that would raise residential base rates 9% on April 5, 2027, offset by power cost decreases to a net of about 0.3% versus April 2026. The commission has not yet approved it. Details in our [Pacific Power 2027 rate settlement report](/posts/pacific-power-rate-increase-2027/).
 
-**Update, Nov. 4, 2026:** Portland General Electric has asked the PUC for an overall 4.8% increase in its 2027 general rate case (docket UE 473), which PGE says means 3.9%, or $8.33 a month at 780 kWh, for an average home from July 1, 2027, if approved as filed. The PUC lists a public comment hearing by Zoom or phone on Nov. 10 at 6 p.m. Details in our [PGE 2027 rate request report](/posts/pge-rate-increase-2027/).
+Portland General Electric has asked the PUC for an overall 4.8% increase in its 2027 general rate case (docket UE 473), which PGE says means 3.9%, or $8.33 a month at 780 kWh, for an average home from July 1, 2027, if approved as filed. Details in our [PGE 2027 rate request report](/posts/pge-rate-increase-2027/).
 
 Oregon also has a new law requiring large technology companies to pay for the infrastructure their data centers need. The PUC was due to rule on PGE's compliance plan in spring 2026. We did not confirm the outcome.
 
@@ -75,15 +75,15 @@ PGE and Pacific Power offer net metering with kWh credits.
 
 **What it means:** with kWh credits, each of the six straight years of rate increases has made rooftop solar worth more. Because leftover credits are given away each March, size the system to your annual use and no larger.
 
-Rules checked October 5, 2026.
-
 ## Limitations
 
-Figures come from the Oregon Capital Chronicle's report of the PUC decision. We did not open PUC orders, and we did not research pending 2027 requests, Idaho Power or consumer-owned utilities.
+Figures come from the Oregon Capital Chronicle's report of the PUC decision. We did not open PUC orders, and we did not research pending 2027 requests, Idaho Power or consumer-owned utilities. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## Oregon Statewide Average
 
 The U.S. Energy Information Administration (EIA) puts Oregon's average residential price at 15.92¢/kWh in August 2026, up 0.4% from 15.85¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $159.20 (1,000 × 15.92¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
+
+**Changes since first publication:** Nov. 4, 2026: PGE 2027 request (UE 473); Nov. 2, 2026: Pacific Power 2027 settlement (UE 470).
 
 ## Sources
 

@@ -3,7 +3,7 @@ title: "Missouri Electricity Rate Changes: What Changed in 2026 and What's Next"
 url: "/rates/missouri/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-27
+lastVerified: 2026-10-28
 imageAlt: "Rows of transmission towers and power lines crossing a brown farm field."
 imageCredit: "Photo by Chris Weiher on [Unsplash](https://unsplash.com/photos/a-row-of-power-lines-in-the-middle-of-a-field-_lC8tokDnSg?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -72,8 +72,6 @@ Missouri requires net metering, with surplus paid at a low avoided-cost rate.
 
 **What it means:** a kWh you use yourself avoids the retail energy rate. A kWh left over at the end of the month earns under 4¢. A system sized so that monthly production stays at or below monthly use keeps almost all of its value.
 
-Rules checked October 5, 2026.
-
 ## What Happens Next
 
 - Evergy Missouri Metro: a PSC decision before the January 6, 2027 suspension date; Evergy expects new rates in January 2027.
@@ -81,7 +79,7 @@ Rules checked October 5, 2026.
 
 ## Limitations
 
-The Ameren figures in the pending case come from Ameren's June 26, 2026 filing and announcement; they are requests. We did not confirm the effective date of the 2025 Ameren increase.
+The Ameren figures in the pending case come from Ameren's June 26, 2026 filing and announcement; they are requests. We did not confirm the effective date of the 2025 Ameren increase. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## Missouri Statewide Average
 

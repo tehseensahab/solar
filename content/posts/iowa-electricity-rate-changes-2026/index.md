@@ -3,7 +3,7 @@ title: "Iowa Electricity Rate Changes: What Changed in 2026 and What's Next"
 url: "/rates/iowa/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Line of transmission towers crossing a harvested field under a pale blue sky."
 imageCredit: "Photo by James Wainscoat on [Unsplash](https://unsplash.com/photos/brown-and-black-electric-towers-under-white-sky-during-daytime-ACc9WvDRJA8?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -74,11 +74,9 @@ Iowa law (Iowa Code 476.49) keeps solar credits at the retail rate for now, with
 
 **What it means:** a system installed before the value-of-solar rate takes effect locks in today's retail-rate credit for 20 years. That makes timing matter more in Iowa than in most states.
 
-Rules checked October 5, 2026.
-
 ## Limitations
 
-Alliant information comes from its own customer outlook page. We did not find MidAmerican's proposed amount, its filing date or whether temporary rates have started. We did not open commission dockets.
+Alliant information comes from its own customer outlook page. We did not find MidAmerican's proposed amount, its filing date or whether temporary rates have started. We did not open commission dockets. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## Iowa Statewide Average
 

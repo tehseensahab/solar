@@ -3,7 +3,7 @@ title: "Kentucky Electricity Rate Changes: What Changed in 2026 and What's Next"
 url: "/rates/kentucky/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Line of transmission towers crossing open fields at dusk."
 imageCredit: "Photo by Alexandru Boicu on [Unsplash](https://unsplash.com/photos/landscape-photography-of-electric-towers-under-a-calm-blue-sky-h0z0ptvGVR8?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -68,11 +68,9 @@ The February 2026 rate order also decided what LG&E and Kentucky Utilities pay f
 
 **What it means:** Kentucky credits exports in dollars at a rate the PSC sets, not kWh for kWh, so that rate decides payback. Get the current tariff sheet for your utility before sizing a system.
 
-Rules checked October 5, 2026.
-
 ## Limitations
 
-We did not find the exact effective date of the new rates, the basic service charge or the new solar compensation rate. Kentucky Power and Duke Energy Kentucky were not researched.
+We did not find the exact effective date of the new rates, the basic service charge or the new solar compensation rate. Kentucky Power and Duke Energy Kentucky were not researched. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## Kentucky Statewide Average
 

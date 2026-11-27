@@ -3,7 +3,7 @@ title: "West Virginia Electricity Rate Changes: What Changed in 2026 and What's 
 url: "/rates/west-virginia/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Utility poles silhouetted against a bright orange sunset with dark clouds."
 imageCredit: "Photo by Josh Roberts on [Unsplash](https://unsplash.com/photos/dramatic-sunset-with-silhouetted-power-lines-and-clouds-TzRrFKsoL-c?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -78,11 +78,9 @@ West Virginia cut solar credits for new customers at both utility groups, and ke
 
 **What it means:** for a new Appalachian Power customer, an exported kWh earns about 12.4¢ while a self-used kWh avoids the full retail rate. That is a smaller gap than in most net billing states. The 2026 base rate increases raise the value of self-use at both utilities.
 
-Rules checked October 5, 2026.
-
 ## Limitations
 
-Figures come from West Virginia news reports of the PSC's orders. We did not open the orders, and we did not research the annual fuel cost (ENEC) cases.
+Figures come from West Virginia news reports of the PSC's orders. We did not open the orders, and we did not research the annual fuel cost (ENEC) cases. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## West Virginia Statewide Average
 

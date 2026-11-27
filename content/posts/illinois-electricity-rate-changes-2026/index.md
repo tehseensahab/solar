@@ -74,7 +74,7 @@ Neither utility has published a single "typical bill" estimate that we could ver
 ## Illinois Net Metering and Solar Export Credits
 
 - **Net metering rules depend on when your system was connected.** Per Illinois Shines and DSIRE, systems interconnected before January 1, 2025 that did not take the one-time distributed generation rebate keep full retail net metering. Systems connected on or after January 1, 2025 are on a net billing structure, where exports are credited using supply-related components (energy, capacity and transmission) rather than the full retail rate.
-- **Update (Nov. 18, 2026):** Per 220 ILCS 5/16-107.5(n), customers who start net metering on or after January 1, 2025 are credited on per-kWh supply values (energy, capacity, transmission and the purchased energy adjustment) and remain responsible for "the gross amount of delivery services charges." At ComEd's October 2026 price to compare of 10.103 cents, 300 exported kWh are worth about $30. Our [Illinois net metering changes explainer](/posts/illinois-net-metering-changes/) has the before-and-after table and a worked example.
+- **Crediting rule:** per 220 ILCS 5/16-107.5(n), customers who start net metering on or after January 1, 2025 are credited on per-kWh supply values (energy, capacity, transmission and the purchased energy adjustment) and remain responsible for "the gross amount of delivery services charges." At ComEd's October 2026 price to compare of 10.103 cents, 300 exported kWh are worth about $30. Our [Illinois net metering changes explainer](/posts/illinois-net-metering-changes/) has the before-and-after table and a worked example.
 - **Lower supply prices matter more to new-rule systems than you might expect.** Because exports are credited on supply components, a lower default supply price does not by itself mean a bigger export credit, and the credit is not simply equal to the price to compare. Check your utility's tariff or your bill for how your credits are calculated.
 - **Self-consumption:** under supply-only crediting, using your own solar power in the house avoids the full retail rate, including delivery, while exporting earns only the supply value. That gap is the main reason batteries are discussed for newer systems.
 - **Rebates:** ComEd and Ameren offer a distributed generation (smart inverter) rebate and a storage rebate, per Illinois Shines. Confirm current amounts and requirements with your utility before buying.
@@ -90,6 +90,8 @@ Neither utility has published a single "typical bill" estimate that we could ver
 ## Illinois Statewide Average
 
 The U.S. Energy Information Administration (EIA) puts Illinois's average residential price at 19.32¢/kWh in August 2026, up 7.2% from 18.03¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $193.20 (1,000 × 19.32¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
+
+**Changes since first publication:** Nov. 18, 2026: net billing statute and ComEd export example.
 
 ## Sources
 

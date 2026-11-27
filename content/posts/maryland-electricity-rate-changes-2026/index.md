@@ -69,7 +69,7 @@ Maryland's Office of People's Counsel published a consumer guide to BGE's reques
 - **Return on equity:** BGE asked for 10.4%. It is now 9.5%.
 - **Timing:** early 2027, if approved. The PSC expects to decide in January 2027.
 
-**Update, October 21, 2026:** the Office of People's Counsel has recommended a $43.9 million decrease instead, and the PSC has set public comment hearings for October 26, November 4 and November 18, with written comments due December 23. Our [full report on BGE's rate request](/posts/bge-rate-increase-2026/) has the details and how to take part.
+The Office of People's Counsel has recommended a $43.9 million decrease instead, and the PSC has set public comment hearings for October 26, November 4 and November 18, with written comments due December 23. Our [full report on BGE's rate request](/posts/bge-rate-increase-2026/) has the details and how to take part.
 
 The guide says BGE's distribution rates have risen 58% since 2020.
 
@@ -85,7 +85,7 @@ In 2026 the Maryland Public Service Commission said it denied more than half of 
 
 Maryland offers net metering at the full retail rate.
 
-**Update, Nov. 14, 2026:** Under Chapter 353 of 2026 (HB 1532), this program closes to new customers on July 1, 2027, or earlier if statewide capacity reaches 3,000 MW, and a successor with smaller incentives starts that day. Customers already under a net metering contract or tariff on July 1, 2027 remain eligible. See our [guide to the Maryland net metering cutoff](/posts/maryland-net-metering-changes-2027/).
+Under Chapter 353 of 2026 (HB 1532), this program closes to new customers on July 1, 2027, or earlier if statewide capacity reaches 3,000 MW, and a successor with smaller incentives starts that day. Customers already under a net metering contract or tariff on July 1, 2027 remain eligible. See our [guide to the Maryland net metering cutoff](/posts/maryland-net-metering-changes-2027/).
 
 - **Credits:** monthly surplus is credited at the full retail rate, according to Solar United Neighbors.
 - **Size limit:** up to 200% of your annual electricity use.
@@ -93,15 +93,15 @@ Maryland offers net metering at the full retail rate.
 
 **What it means:** each solar kWh offsets both supply and delivery. For Pepco customers on standard offer service, the winter supply rate of about 14.7¢ makes each kWh worth about 1.5¢ more than in summer 2026. Systems much larger than your use earn only the supply rate on the surplus.
 
-Rules checked October 5, 2026.
-
 ## Limitations
 
-The Pepco SOS figures come from a third-party analysis of published rates, supported by a trade publication headline, and not from Pepco's tariff, which we could not open. We did not find BGE's SOS rates for the same period. Figures for 900 kWh and 1,000 kWh are not directly comparable.
+The Pepco SOS figures come from a third-party analysis of published rates, supported by a trade publication headline, and not from Pepco's tariff, which we could not open. We did not find BGE's SOS rates for the same period. Figures for 900 kWh and 1,000 kWh are not directly comparable. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## Maryland Statewide Average
 
 The U.S. Energy Information Administration (EIA) puts Maryland's average residential price at 21.40¢/kWh in August 2026, up 7.6% from 19.89¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $214.00 (1,000 × 21.40¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
+
+**Changes since first publication:** Nov. 14, 2026: net metering closes to new customers July 1, 2027 (Ch. 353); Oct. 21, 2026: OPC recommends a $43.9 million BGE decrease.
 
 ## Sources
 

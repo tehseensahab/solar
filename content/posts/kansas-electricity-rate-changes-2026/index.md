@@ -3,7 +3,7 @@ title: "Kansas Electricity Rate Changes: What Changed in 2026 and What's Next"
 url: "/rates/kansas/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Close view of steel transmission towers and power lines against a green and yellow sky."
 imageCredit: "Photo by Fré Sonneveld on [Unsplash](https://unsplash.com/photos/black-transmission-towers-under-green-sky-q6n8nIrDQHE?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -68,11 +68,9 @@ Kansas requires Evergy and the state's other investor-owned utility to offer net
 
 **What it means:** because credits expire every March 31, a system that overproduces in summer and fall can lose value if you do not use those credits over the winter. Size to your annual use, not above it.
 
-Rules checked October 5, 2026.
-
 ## Limitations
 
-We found one rate decision and no later one. We did not check whether Evergy has filed a new Kansas rate case in 2026, and we did not research Evergy Kansas Metro.
+We found one rate decision and no later one. We did not check whether Evergy has filed a new Kansas rate case in 2026, and we did not research Evergy Kansas Metro. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## Kansas Statewide Average
 

@@ -3,7 +3,7 @@ title: "Nevada Electricity Rate Changes: What Changed in 2026 and What's Next"
 url: "/rates/nevada/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Transmission tower silhouetted against a purple and orange dusk sky."
 imageCredit: "Photo by Munkhtuvshin .T on [Unsplash](https://unsplash.com/photos/silhouette-of-a-power-line-tower-at-sunset-TV6mIqQ61jc?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -72,11 +72,9 @@ Nevada still has net metering, but the terms for new customers have tightened an
 
 **What it means:** solar lowers the kWh you buy, but your highest 15 minutes of use often comes in the evening, when panels produce little. If per-kWh rates fall to make room for the demand charge, each solar kWh offsets less. Under 15-minute netting, more of your output counts as export at 75%. Batteries and shifting use into solar hours both become more valuable.
 
-Rules checked October 5, 2026.
-
 ## Limitations
 
-The October decrease is a filed proposal. We searched on October 4, 2026 and found NV Energy's August 19 announcements and news coverage of the filing, but no report of the commission's decision or of final figures. Compare the rate on your October bill with September's. Demand charge details come from news reports, and its start date has moved before.
+The October decrease is a filed proposal. We searched on October 4, 2026 and found NV Energy's August 19 announcements and news coverage of the filing, but no report of the commission's decision or of final figures. Compare the rate on your October bill with September's. Demand charge details come from news reports, and its start date has moved before. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## Nevada Statewide Average
 

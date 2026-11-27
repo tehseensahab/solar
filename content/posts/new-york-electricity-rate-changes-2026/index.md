@@ -2,7 +2,8 @@
 title: "New York Electricity Rate Changes: What Changed in 2026 and What's Next"
 url: "/rates/new-york/"
 date: 2026-09-30
-lastmod: 2026-10-28
+lastmod: 2026-11-28
+lastVerified: 2026-11-28
 imageAlt: "Row of apartment buildings against a clear sky, with a small solar panel array on one rooftop."
 imageCredit: "Photo by Deyan Sight on [Unsplash](https://unsplash.com/photos/row-of-colorful-apartment-buildings-under-a-clear-sky-UUGBEU6hjX0?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -63,12 +64,11 @@ Delivery increases at NYSEG, RG&E and other utilities raise the value of each kW
 
 The PSC is still reviewing the NYSEG and RG&E rate cases, and news coverage expected a final decision in the coming months. Any final action will include a public comment period. Check the PSC's website for the docket.
 
-**Published:** September 30, 2026
-**Last verified:** September 29, 2026
-
 ## New York Statewide Average
 
 The U.S. Energy Information Administration (EIA) puts New York's average residential price at 28.65¢/kWh in August 2026, up 7.5% from 26.64¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $286.50 (1,000 × 28.65¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
+
+**Changes since first publication:** Nov. 28, 2026: net metering and state tax credit details added.
 
 ## Sources
 

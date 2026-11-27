@@ -3,7 +3,7 @@ title: "Hawaii Electricity Rate Changes: What Changed in 2026 and What's Next"
 url: "/rates/hawaii/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Small white house with rooftop solar panels surrounded by tropical trees and garden plots."
 imageCredit: "Photo by VD Photography on [Unsplash](https://unsplash.com/photos/an-aerial-view-of-a-house-with-a-solar-panel-on-the-roof-tC4tHCeoO44?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -83,11 +83,9 @@ Export credits per kWh for 2024 to 2026, from Hawaiian Electric.
 
 **What it means:** on Oahu, a kWh you use yourself avoided about 47.75¢ in May 2026. The same kWh exported at midday earns 13.5¢, and exported in the evening peak earns 32.9¢. That gap is why most new systems in Hawaii include a battery: store midday output, then use or export it after 5 p.m.
 
-Rules checked October 5, 2026.
-
 ## Limitations
 
-We used the May 2026 rate summary and did not find October's. The rate case information is from a 2025 news report, and we did not confirm its current status or proposed amount. The description of Hawaii's solar programs is general background we did not re-verify.
+We used the May 2026 rate summary and did not find October's. The rate case information is from a 2025 news report, and we did not confirm its current status or proposed amount. The description of Hawaii's solar programs is general background we did not re-verify. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## Hawaii Statewide Average
 

@@ -4,6 +4,7 @@
 {{- $isPost := and (eq .Type "posts") .IsPage -}}
 {{- $isHub := and $isPost (eq .Layout "state-hub") -}}
 {{- $isArticle := and $isPost (not $isHub) -}}
+{{- $modified := .Lastmod }}{{ with .Params.lastVerified }}{{ $modified = time . }}{{ end -}}
 {{- $hub := dict -}}
 {{- $ogTitle := .Title -}}
 {{- if $isHub }}{{ $hub = partial "state/ctx.html" . }}{{ with $hub.d }}{{ $ogTitle = printf "%s Electricity Rates & Solar: Prices, Net Metering, Incentives" .name }}{{ with .summary }}{{ $desc = partial "state/md.html" (dict "text" . "ctx" $hub) | plainify | htmlUnescape }}{{ end }}{{ end }}{{ end -}}
@@ -28,7 +29,7 @@
 <meta name="author" content="{{ if $isPost }}{{ .Params.author | default site.Params.author }}{{ else }}{{ site.Params.author }}{{ end }}">
 {{- if $isArticle }}
 <meta property="article:published_time" content="{{ .Date.Format $iso }}">
-<meta property="article:modified_time" content="{{ .Lastmod.Format $iso }}">
+<meta property="article:modified_time" content="{{ $modified.Format $iso }}">
 {{- with .GetTerms "categories" }}
 <meta property="article:section" content="{{ (index . 0).LinkTitle }}">
 {{- end }}
@@ -53,7 +54,7 @@
 {{- $author = dict "@type" "Organization" "name" site.Params.author "url" (absURL "about/") }}
 {{- with .Params.author }}{{ $author = dict "@type" "Person" "name" . }}{{ with index site.Data.writers . }}{{ $author = merge $author (dict "url" (cond (ne (site.GetPage (printf "/authors/%s" (anchorize $.Params.author))) nil) (site.GetPage (printf "/authors/%s" (anchorize $.Params.author))).Permalink (printf "about/#%s" (anchorize $.Params.author) | absURL)) "jobTitle" .role) }}{{ with .url }}{{ $author = merge $author (dict "sameAs" (slice .)) }}{{ end }}{{ end }}{{ end }}
 {{- $isNews := false }}{{ with $cat }}{{ $isNews = eq (lower .LinkTitle) "news" }}{{ end }}
-{{- $article := dict "@type" (cond $isNews "NewsArticle" "Article") "headline" .Title "description" $desc "url" .Permalink "mainEntityOfPage" .Permalink "image" (slice $image) "datePublished" (.Date.Format $iso) "dateModified" (.Lastmod.Format $iso) "author" $author "publisher" $publisher "inLanguage" "en-US" "isAccessibleForFree" true "publishingPrinciples" (absURL "editorial-policy/") "isPartOf" (dict "@type" "WebSite" "name" site.Title "url" $home) "speakable" (dict "@type" "SpeakableSpecification" "cssSelector" (slice ".post-head .lead" ".takeaways")) }}
+{{- $article := dict "@type" (cond $isNews "NewsArticle" "Article") "headline" .Title "description" $desc "url" .Permalink "mainEntityOfPage" .Permalink "image" (slice $image) "datePublished" (.Date.Format $iso) "dateModified" ($modified.Format $iso) "author" $author "publisher" $publisher "inLanguage" "en-US" "isAccessibleForFree" true "publishingPrinciples" (absURL "editorial-policy/") "isPartOf" (dict "@type" "WebSite" "name" site.Title "url" $home) "speakable" (dict "@type" "SpeakableSpecification" "cssSelector" (slice ".post-head .lead" ".takeaways")) }}
 {{- with .Params.tags }}{{ $article = merge $article (dict "keywords" (delimit . ", ")) }}{{ end }}
 {{- with .Params.lastVerified }}{{ $article = merge $article (dict "temporalCoverage" ((time .).Format "2006-01-02")) }}{{ end }}
 {{- with $cat }}{{ $article = merge $article (dict "articleSection" .LinkTitle) }}{{ end }}

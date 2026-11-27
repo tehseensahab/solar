@@ -64,7 +64,7 @@ The June 1 figures are average total bills before credits or offsets. This table
 
 ## What Is Changing on October 1, 2026?
 
-**Update, November 16, 2026:** BPU orders from its September 24, 2026 agenda set several small PSE&G changes effective October 1: Infrastructure Advancement Program rates (+$0.30 a month) and electric vehicle program rates (+$0.23), both provisional and subject to refund, and lower statewide Universal Service Fund and Lifeline charges (about −$0.60 at 650 kWh). Details and dockets are in our [PSE&G 2026 rate change breakdown](/posts/pseg-rate-increase-2026/).
+BPU orders from its September 24, 2026 agenda set several small PSE&G changes effective October 1: Infrastructure Advancement Program rates (+$0.30 a month) and electric vehicle program rates (+$0.23), both provisional and subject to refund, and lower statewide Universal Service Fund and Lifeline charges (about −$0.60 at 650 kWh). Details and dockets are in our [PSE&G 2026 rate change breakdown](/posts/pseg-rate-increase-2026/).
 
 Nothing that we could verify from a primary source changes the average New Jersey bill on October 1. Two things to know:
 
@@ -92,11 +92,11 @@ New Jersey still credits home solar under net metering, but the state has passed
 - **Current structure:** a Board of Public Utilities (BPU) staff presentation describes credits at the retail volumetric rate, with an annual reconciliation of unused credits.
 - **Threshold passed:** the same presentation says net-metered generation "exceeded 5.8% of total kWh sales" in energy year 2024, the level in state law that allows the BPU to consider a different approach.
 - **Review open:** the BPU opened Docket No. QO24090723, "Net Metering for Class I Renewable Energy Systems," and held its first stakeholder workshop on November 19, 2024. We did not find a final decision, or a rule on how existing systems would be treated.
-- **Update, Nov. 21, 2026:** in a May 21, 2026 order the BPU said "there are no new developments respecting net metering," and we found no successor policy as of Nov. 21. The same order cut the residential solar incentive (SREC-II) from $85 to $77 per MWh for registrations from July 27, 2026. Details, the full review timeline and questions for your installer are in our [New Jersey net metering 2026 explainer](/posts/new-jersey-net-metering-2026/).
+- **Latest order:** in a May 21, 2026 order the BPU said "there are no new developments respecting net metering," and we found no successor policy as of Nov. 21. The same order cut the residential solar incentive (SREC-II) from $85 to $77 per MWh for registrations from July 27, 2026. Details, the full review timeline and questions for your installer are in our [New Jersey net metering 2026 explainer](/posts/new-jersey-net-metering-2026/).
 
 **What it means:** under retail-rate crediting, the small June supply changes barely moved the value of an exported kWh. The bigger question for anyone signing a contract now is what a successor policy pays. Ask your installer what credit rule the proposal assumes and for how long. PSE&G has also proposed a time-of-use rate (RS TOU-3P) in its supply filings; we did not confirm whether it has been approved.
 
-Rules checked October 5, 2026.
+Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## What Happens Next
 
@@ -107,6 +107,8 @@ Rules checked October 5, 2026.
 ## New Jersey Statewide Average
 
 The U.S. Energy Information Administration (EIA) puts New Jersey's average residential price at 24.61¢/kWh in August 2026, down 0.4% from 24.70¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $246.10 (1,000 × 24.61¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
+
+**Changes since first publication:** Nov. 21, 2026: BPU May 21 order and SREC-II cut; Nov. 16, 2026: PSE&G October 1 rider changes.
 
 ## Sources
 

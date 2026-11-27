@@ -3,7 +3,7 @@ title: "Vermont Electricity Rate Changes: What Changed in 2026 and What's Next"
 url: "/rates/vermont/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Large building with a steep roof covered in solar panels under an overcast sky."
 imageCredit: "Photo by Markus Winkler on [Unsplash](https://unsplash.com/photos/a-house-with-solar-panels-on-the-roof-VX0ZEZSwqnY?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -81,11 +81,9 @@ Vermont has net metering, with credit rates set by the Public Utility Commission
 
 **What it means:** your credit rate depends on when you apply, so a system filed before a biennial update takes effect keeps the earlier adjustors. With Green Mountain Power's rates up 5.5% in October 2026, self-used solar is worth more. Ask your installer which adjustors your application will get.
 
-Rules checked October 5, 2026.
-
 ## Limitations
 
-Figures come from VTDigger and Vermont Public. We did not open the PUC order, and no source gave a residential dollar impact. The two outlets describe the approved resilience spending slightly differently, so we use VTDigger's figures.
+Figures come from VTDigger and Vermont Public. We did not open the PUC order, and no source gave a residential dollar impact. The two outlets describe the approved resilience spending slightly differently, so we use VTDigger's figures. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## Vermont Statewide Average
 

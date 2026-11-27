@@ -1,7 +1,7 @@
 ---
 title: "How Electric Rate Cases Work: From Utility Request to Your Bill"
 date: 2026-10-12
-lastmod: 2026-11-16
+lastmod: 2026-10-12
 lastVerified: 2026-10-12
 imageAlt: "Printed forms and a pen spread across a dark wooden table."
 imageCredit: "Photo by 2H Media on [Unsplash](https://unsplash.com/photos/a-wooden-table-topped-with-papers-and-a-pen-spScdgWY-_c?utm_source=solarexaminer&utm_medium=referral)"

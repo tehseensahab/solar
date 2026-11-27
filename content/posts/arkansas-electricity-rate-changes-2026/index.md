@@ -3,7 +3,7 @@ title: "Arkansas Electricity Rate Changes: What Changed in 2026 and What's Next"
 url: "/rates/arkansas/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Three transmission towers and a single tree on a green hillside under a clear blue sky."
 imageCredit: "Photo by Spencer DeMera on [Unsplash](https://unsplash.com/photos/a-green-hillside-with-power-lines-and-a-single-tree-2dubeOplsqM?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -74,11 +74,9 @@ Arkansas changed its net metering law in 2023 (Act 278), and the date your syste
 
 **What it means:** for a new system, only the power you use as it is produced earns the full retail value. Per-kWh riders, including the new construction rider, are avoided by self-use and not by exports. Size to your daytime load.
 
-Rules checked October 5, 2026.
-
 ## Limitations
 
-Figures come from Talk Business & Politics and a newspaper headline. We did not confirm that the commission approved the June rider as filed, and we did not open the dockets. SWEPCO's separate request was not researched.
+Figures come from Talk Business & Politics and a newspaper headline. We did not confirm that the commission approved the June rider as filed, and we did not open the dockets. SWEPCO's separate request was not researched. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## Arkansas Statewide Average
 

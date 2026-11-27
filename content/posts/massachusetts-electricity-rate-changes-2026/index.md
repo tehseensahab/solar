@@ -4,7 +4,7 @@ url: "/rates/massachusetts/"
 seoTitle: "Eversource & National Grid Rate Changes 2026 in Massachusetts"
 date: 2026-09-30
 lastmod: 2026-10-28
-lastVerified: 2026-09-30
+lastVerified: 2026-10-28
 draft: false
 author: "Tehseen Arbab"
 slug: "massachusetts-electricity-rate-changes-2026"
@@ -76,7 +76,7 @@ Massachusetts still offers net metering for home solar, and a typical rooftop sy
 
 **What it means:** because the credit includes the basic service rate, the August 1 increase raised the value of each kWh a net-metered system exports as well as each kWh it offsets. We did not verify the current SMART incentive program rates in this pass, so we do not describe them here.
 
-Rules checked October 5, 2026.
+Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## What Happens Next
 

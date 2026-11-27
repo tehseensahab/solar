@@ -3,7 +3,7 @@ title: "Indiana Electricity Rate Changes: What Changed in 2026 and What's Next"
 url: "/rates/indiana/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Steel transmission tower and power lines above a plowed field under a cloudy sky."
 imageCredit: "Photo by Daniel Barnes on [Unsplash](https://unsplash.com/photos/gray-metal-electric-towers-under-blue-sky-during-daytime-khQIi4vjLIg?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -84,11 +84,9 @@ Indiana replaced net metering with "excess distributed generation" (EDG) billing
 
 **What it means:** an exported kWh earns about 5.4¢ at AES, well under the retail energy rate, and the credit moves with wholesale prices. Systems sized to your own use keep more of their value. Indiana's 7% sales tax on utility bills also applies to what you still buy.
 
-Rules checked October 5, 2026.
-
 ## Limitations
 
-We did not open the IURC order. Bill figures come from AES's news release and Mirror Indy. We did not find the outcome or schedule of the reconsideration, and we did not research the 2025 Duke, NIPSCO and CenterPoint orders in detail.
+We did not open the IURC order. Bill figures come from AES's news release and Mirror Indy. We did not find the outcome or schedule of the reconsideration, and we did not research the 2025 Duke, NIPSCO and CenterPoint orders in detail. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## Indiana Statewide Average
 

@@ -3,7 +3,7 @@ title: "Tennessee Electricity Rate Changes: What Changed in 2026 and What's Next
 url: "/rates/tennessee/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Transmission towers rising above a forested valley with hills in the distance."
 imageCredit: "Photo by Jaël Vallée on [Unsplash](https://unsplash.com/photos/electric-posts-near-tress-under-clear-sky-at-daytime-BvpTdaKbCcQ?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -69,15 +69,13 @@ There is no net metering in the TVA region. Solar rules come from TVA and your l
 
 **What it means:** a kWh you use yourself avoids your local retail rate, typically several times the 3.766¢ you would earn by exporting it. In Tennessee, solar pays back on self-use. Size the system to your daytime load and ask your local power company about its interconnection rules and fees.
 
-Rules checked October 5, 2026.
-
 ## What Happens Next
 
 TVA's next fiscal year begins October 1, 2027. Board decisions on rates are usually made in August.
 
 ## Limitations
 
-We relied on TVA's own announcement and on news reports about the data center rate. We did not review individual local power company rates, and we did not verify past TVA increase percentages or current solar terms.
+We relied on TVA's own announcement and on news reports about the data center rate. We did not review individual local power company rates, and we did not verify past TVA increase percentages or current solar terms. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## Tennessee Statewide Average
 

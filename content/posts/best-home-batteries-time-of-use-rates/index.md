@@ -2,7 +2,7 @@
 title: "Best Home Batteries for Solar Owners on Time-of-Use Rates"
 date: 2026-10-24T00:30:00+05:00
 lastVerified: 2026-10-24
-lastmod: 2026-11-19
+lastmod: 2026-10-24
 imageAlt: "Solar panels on a pitched roof under a clear sky."
 imageCredit: "Photo by Soren H on [Unsplash](https://unsplash.com/photos/solar-panels-on-a-roof-omfN1pW-n2Y?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["equipment"]

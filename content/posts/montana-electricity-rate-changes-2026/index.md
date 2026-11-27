@@ -3,7 +3,7 @@ title: "Montana Electricity Rate Changes: What Changed in 2026 and What's Next"
 url: "/rates/montana/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Power poles and lines silhouetted against a pink and violet dusk sky."
 imageCredit: "Photo by Damian Luginbühl on [Unsplash](https://unsplash.com/photos/power-lines-silhouetted-against-a-colorful-sunset-sky-Ye0VjceVNzE?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -75,11 +75,9 @@ NorthWestern Energy customers have retail net metering under Montana law.
 
 **What it means:** with base rates up 17% in 2026, each solar kWh offsets more than it did a year ago. Pick your annual reset month so summer credits carry into winter, and do not oversize, because leftover credits are lost.
 
-Rules checked October 5, 2026.
-
 ## Limitations
 
-The 2026 figures come from one news report, which drew on an environmental group's analysis. We did not open the PSC order, and we did not confirm how interim rates were reconciled.
+The 2026 figures come from one news report, which drew on an environmental group's analysis. We did not open the PSC order, and we did not confirm how interim rates were reconciled. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## Montana Statewide Average
 

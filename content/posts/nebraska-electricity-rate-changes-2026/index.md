@@ -3,7 +3,7 @@ title: "Nebraska Electricity Rate Changes: What Changed in 2026 and What's Next"
 url: "/rates/nebraska/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Transmission tower silhouetted against an orange sky with the sun low on the horizon."
 imageCredit: "Photo by Elisa Photography on [Unsplash](https://unsplash.com/photos/a-power-line-pylon-silhouetted-against-a-vibrant-orange-sunset-1nLnz0y-cLY?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -68,11 +68,9 @@ Nebraska law requires utilities to offer net metering for small systems.
 
 **What it means:** surplus is paid at a utility-set price, not the retail rate. Size to your monthly use, and ask your utility for its current net metering rider before you buy.
 
-Rules checked October 5, 2026.
-
 ## Limitations
 
-OPPD figures come from OPPD's own news site and NPPD figures from a TV report. We did not review tariffs, LES rates or any 2027 proposals.
+OPPD figures come from OPPD's own news site and NPPD figures from a TV report. We did not review tariffs, LES rates or any 2027 proposals. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## Nebraska Statewide Average
 

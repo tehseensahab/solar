@@ -2,8 +2,8 @@
 title: "Delaware Electricity Rate Changes: What Changed in 2026 and What's Next"
 url: "/rates/delaware/"
 date: 2026-10-04
-lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastmod: 2026-11-28
+lastVerified: 2026-11-28
 imageAlt: "Row of modern townhouses with garages and dark solar panels on a larger roof behind."
 imageCredit: "Photo by Troy Mortier on [Unsplash](https://unsplash.com/photos/modern-townhouses-with-garages-and-solar-panels-WIQtUv49q18?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -74,15 +74,15 @@ Delaware offers net metering with credits against later use, and a 2026 law remo
 
 **What it means:** with credits at the retail rate, the June 2026 supply increase raised the value of each solar kWh. Ask Delmarva Power to confirm in writing that your system will be net metered.
 
-Rules checked October 5, 2026.
-
 ## Limitations
 
-Rates come from a State of Delaware news release and a local news report. We did not open the Public Service Commission's orders, and we did not confirm the status of the base rate case or whether interim rates are in effect.
+Rates come from a State of Delaware news release and a local news report. We did not open the Public Service Commission's orders, and we did not confirm the status of the base rate case or whether interim rates are in effect. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## Delaware Statewide Average
 
 The U.S. Energy Information Administration (EIA) puts Delaware's average residential price at 18.70¢/kWh in August 2026, up 11.0% from 16.85¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $187.00 (1,000 × 18.70¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
+
+**Changes since first publication:** Nov. 28, 2026: SB 239 signed June 10, 2026.
 
 ## Sources
 

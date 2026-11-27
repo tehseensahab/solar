@@ -73,17 +73,17 @@ Maine's net energy billing still gives rooftop solar one-for-one kWh credits.
 
 **What it means:** with kWh credits, the 2026 standard offer increase raised the value of each solar kWh by about 2.1¢ for Central Maine Power customers. Size the system to your annual use so credits are not left over.
 
-Rules checked October 5, 2026.
-
 ## Limitations
 
-We verified supply prices on the PUC's site. We did not research 2026 delivery rate changes or the 2027 standard offer, which had not been announced when we checked.
+We verified supply prices on the PUC's site. We did not research 2026 delivery rate changes in detail.
 
-**Update, Nov. 22, 2026:** The PUC set the 2027 standard offer on Nov. 17, 2026. News reports citing the PUC put Central Maine Power's residential price at 13.63 cents per kWh from Jan. 1, 2027, up from 12.72 cents, or about $4.99 a month more at about 550 kWh ([Portland Press Herald](https://www.pressherald.com/2026/11/17/maine-electric-bills-to-increase-in-january/)). CMP's delivery charge fell on July 1, 2026. Our [CMP rates per kWh breakdown](/posts/cmp-rates-per-kwh/) shows the full 2026 and 2027 price.
+The PUC set the 2027 standard offer on Nov. 17, 2026. News reports citing the PUC put Central Maine Power's residential price at 13.63 cents per kWh from Jan. 1, 2027, up from 12.72 cents, or about $4.99 a month more at about 550 kWh ([Portland Press Herald](https://www.pressherald.com/2026/11/17/maine-electric-bills-to-increase-in-january/)). CMP's delivery charge fell on July 1, 2026. Our [CMP rates per kWh breakdown](/posts/cmp-rates-per-kwh/) shows the full 2026 and 2027 price. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## Maine Statewide Average
 
 The U.S. Energy Information Administration (EIA) puts Maine's average residential price at 32.11¢/kWh in August 2026, up 14.1% from 28.14¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $321.10 (1,000 × 32.11¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
+
+**Changes since first publication:** Nov. 22, 2026: 2027 standard offer (CMP 13.63 cents from Jan. 1, 2027).
 
 ## Sources
 

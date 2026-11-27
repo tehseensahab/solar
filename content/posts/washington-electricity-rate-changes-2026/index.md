@@ -88,21 +88,19 @@ Washington law requires retail net metering until a deadline or a threshold is r
 
 **What it means:** with power cost filings adding about 12% in January 2026, each solar kWh is worth more than a year ago. The open question for a new PSE customer is which rules will apply and for how long. Ask PSE in writing whether your system will be on Schedule 150 and what happens to it when a successor rate is adopted.
 
-Rules checked October 5, 2026.
-
 ## What Happens Next
 
-PSE's approved two-year plan covered 2025 and 2026. We did not find the status of its next general rate case.
-
-**Update, Nov. 7, 2026:** PSE filed a three-year rate plan on Feb. 27, 2026 (dockets UE-260005 and UG-260006). Its [customer notice](https://www.pse.com/-/media/Project/PSE/Portal/Rate-documents/News-and-Filings/8752_PublicCommentHearingNoticeOnGRC_0526_Web.pdf) puts the 800 kWh bill at $187.77 under proposed February 2027 rates, up $28.31 from $159.46 at filing. It is pending before the UTC. Details: [Puget Sound Energy rate increase 2027](/posts/puget-sound-energy-rate-increase-2027/).
+PSE's approved two-year plan covered 2025 and 2026. PSE filed a three-year rate plan on Feb. 27, 2026 (dockets UE-260005 and UG-260006). Its [customer notice](https://www.pse.com/-/media/Project/PSE/Portal/Rate-documents/News-and-Filings/8752_PublicCommentHearingNoticeOnGRC_0526_Web.pdf) puts the 800 kWh bill at $187.77 under proposed February 2027 rates, up $28.31 from $159.46 at filing. It is pending before the UTC. Details: [Puget Sound Energy rate increase 2027](/posts/puget-sound-energy-rate-increase-2027/).
 
 ## Limitations
 
-The typical bill figures use 800 kWh a month, not the 1,000 kWh used in most of our state articles. We did not confirm the combined effect of the base rate step and the December 2025 filings. Avista and PacifiCorp rates were not researched. Public utility figures come from an installer blog.
+The typical bill figures use 800 kWh a month, not the 1,000 kWh used in most of our state articles. We did not confirm the combined effect of the base rate step and the December 2025 filings. Avista and PacifiCorp rates were not researched. Public utility figures come from an installer blog. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## Washington Statewide Average
 
 The U.S. Energy Information Administration (EIA) puts Washington's average residential price at 14.63¢/kWh in August 2026, up 7.2% from 13.65¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $146.30 (1,000 × 14.63¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
+
+**Changes since first publication:** Nov. 7, 2026: PSE 2027 rate plan (UE-260005).
 
 ## Sources
 

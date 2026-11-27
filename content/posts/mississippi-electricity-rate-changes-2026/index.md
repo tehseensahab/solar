@@ -3,7 +3,7 @@ title: "Mississippi Electricity Rate Changes: What Changed in 2026 and What's Ne
 url: "/rates/mississippi/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Utility pole and power lines beside trees with sunlit clouds overhead."
 imageCredit: "Photo by Albert Zhuang on [Unsplash](https://unsplash.com/photos/utility-pole-and-trees-at-golden-hour-lmn6m1NkDpo?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -69,11 +69,9 @@ The guide we read dates from the rule's adoption. The commission revised the rul
 
 **What it means:** exports earn the avoided cost plus a few cents, well under the retail rate. Solar you use yourself is worth more, so size to your own load.
 
-Rules checked October 5, 2026.
-
 ## Limitations
 
-This article relies mainly on an Entergy news release. We did not open Public Service Commission orders or confirm the October decision. Mississippi Power's rates were not researched.
+This article relies mainly on an Entergy news release. We did not open Public Service Commission orders or confirm the October decision. Mississippi Power's rates were not researched. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## Mississippi Statewide Average
 

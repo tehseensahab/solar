@@ -3,7 +3,7 @@ title: "Louisiana Electricity Rate Changes: What Changed in 2026 and What's Next
 url: "/rates/louisiana/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Wall of round analog electric meters mounted in rows on a gray metal panel."
 imageCredit: "Photo by Alexander Schimmeck on [Unsplash](https://unsplash.com/photos/white-and-black-electric-meter-k_-KlaENC-Q?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -69,11 +69,9 @@ Louisiana ended net metering for new customers on January 1, 2020.
 
 **What it means:** fuel is billed per kWh, so solar you use yourself avoids both the energy charge and the fuel adjustment, which was 3.8¢ per kWh at Entergy in May 2026. Exports earn only the avoided cost. Size to daytime use.
 
-Rules checked October 5, 2026.
-
 ## Limitations
 
-We compared two months, January and May 2026. We did not review later months, so we cannot say where bills stood in October. Rider detail beyond fuel was not analyzed, and the September 2026 formula rate step was not confirmed.
+We compared two months, January and May 2026. We did not review later months, so we cannot say where bills stood in October. Rider detail beyond fuel was not analyzed, and the September 2026 formula rate step was not confirmed. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## Louisiana Statewide Average
 

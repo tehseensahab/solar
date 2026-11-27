@@ -3,7 +3,7 @@ title: "New Hampshire Electricity Rate Changes: What Changed in 2026 and What's 
 url: "/rates/new-hampshire/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Wooden utility pole and power lines against pink and purple sunset clouds."
 imageCredit: "Photo by Kilian Murphy on [Unsplash](https://unsplash.com/photos/silhouetted-utility-pole-under-a-colorful-pink-and-purple-sunset-B0R8hY-PBLg?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -72,15 +72,13 @@ One installer source describes the percentages the other way round. The version 
 
 **What it means:** because energy supply is credited in full, the August 2026 supply increase raised export credits as well as bills. Solar you use yourself still avoids the whole retail rate, including all of distribution.
 
-Rules checked October 5, 2026.
-
 ## What Happens Next
 
 Default service rates reset on February 1, 2027. Utilities file proposed rates with the Public Utilities Commission in the weeks before.
 
 ## Limitations
 
-Rates come from the Valley News and New Hampshire Public Radio. The Public Utilities Commission's rate page could not be opened. We did not find Unitil's rate or the previous period's rates, so we do not give a percentage change.
+Rates come from the Valley News and New Hampshire Public Radio. The Public Utilities Commission's rate page could not be opened. We did not find Unitil's rate or the previous period's rates, so we do not give a percentage change. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## New Hampshire Statewide Average
 

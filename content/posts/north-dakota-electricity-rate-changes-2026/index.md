@@ -3,7 +3,7 @@ title: "North Dakota Electricity Rate Changes: What Changed in 2026 and What's N
 url: "/rates/north-dakota/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Rooftop solar panels in a residential neighborhood with a rainbow over hills behind."
 imageCredit: "Photo by Lara John on [Unsplash](https://unsplash.com/photos/rainbow-over-a-suburban-neighborhood-with-solar-panels-VNIjztzKF_U?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -73,11 +73,9 @@ North Dakota's net metering rule covers investor-owned utilities and pays the av
 
 **What it means:** anything you do not use in the same month earns only the avoided cost. With monthly reconciliation and long, dark winters, size to your summer daytime use.
 
-Rules checked October 5, 2026.
-
 ## Limitations
 
-Figures come from the North Dakota Monitor. We did not open PSC orders. We did not confirm whether MDU's interim rates are subject to refund.
+Figures come from the North Dakota Monitor. We did not open PSC orders. We did not confirm whether MDU's interim rates are subject to refund. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## North Dakota Statewide Average
 

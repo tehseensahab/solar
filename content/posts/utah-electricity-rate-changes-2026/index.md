@@ -3,7 +3,7 @@ title: "Utah Electricity Rate Changes: What Changed in 2026 and What's Next"
 url: "/rates/utah/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Transmission towers silhouetted at sunset with hills on the horizon."
 imageCredit: "Photo by DM David on [Unsplash](https://unsplash.com/photos/power-lines-and-towers-silhouetted-against-a-colorful-sunset-4BGLvNFvfYM?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -84,11 +84,9 @@ Schedule 137 (Net Billing Service), effective March 1, 2026:
 
 **What it means:** an exported kWh earns 4¢ to 5¢. A kWh you use yourself avoids the full retail energy charge. The July 2026 drop in energy charges slightly lowers what self-use saves. Systems sized to daytime use, or paired with a battery, keep far more of their value.
 
-Rules checked October 5, 2026.
-
 ## Limitations
 
-Figures come from Utah News Dispatch. We did not open the Public Service Commission order, and we did not find the typical usage behind the dollar figures.
+Figures come from Utah News Dispatch. We did not open the Public Service Commission order, and we did not find the typical usage behind the dollar figures. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## Utah Statewide Average
 

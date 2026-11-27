@@ -3,7 +3,7 @@ title: "Idaho Electricity Rate Changes: What Changed in 2026 and What's Next"
 url: "/rates/idaho/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Highway through dry open country with a line of power poles alongside."
 imageCredit: "Photo by Oscar Madison on [Unsplash](https://unsplash.com/photos/highway-with-cars-and-power-towers-dNhdEzZC8Ik?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -78,11 +78,9 @@ Schedule 6 (Residential Service On-Site Generation), effective January 1, 2026:
 
 **What it means:** outside the summer on-peak hours, an exported kWh earns about 3¢ while a kWh you use yourself avoids about 10¢ to 14¢. In the first non-summer tier, that is 9.9332¢ avoided against 2.9019¢ earned, more than three times as much. Size the system to your own daytime use, and consider a battery or shifting loads to when the panels are producing.
 
-Rules checked October 5, 2026.
-
 ## Limitations
 
-The January figures come from a financial news summary of Idaho Power's filing, not the commission's order. We did not find the residential share of the January increase or the approved service charge.
+The January figures come from a financial news summary of Idaho Power's filing, not the commission's order. We did not find the residential share of the January increase or the approved service charge. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## Idaho Statewide Average
 
