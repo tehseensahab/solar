@@ -12,7 +12,7 @@
 {{- if $isPost }}{{ with (partial "cover.html" .) }}{{ if .has }}{{ $image = .og.Permalink }}{{ end }}{{ end }}{{ end -}}
 <title>{{ if .IsHome }}{{ site.Title }} — {{ site.Params.tagline }}{{ else if $isHub }}{{ $ogTitle }} · {{ site.Title }}{{ else }}{{ .Params.seoTitle | default .Title }} · {{ site.Title }}{{ end }}</title>
 <meta name="description" content="{{ $desc }}">
-{{ if eq .Kind "404" }}<meta name="robots" content="noindex">{{ else if or (hasPrefix .RelPermalink "/tags/") (hasPrefix .RelPermalink "/states/") }}<meta name="robots" content="noindex, follow">{{ else }}<link rel="canonical" href="{{ .Permalink }}">
+{{ if eq .Kind "404" }}<meta name="robots" content="noindex">{{ else if .Params.noindex }}<meta name="robots" content="noindex, follow">{{ else if or (hasPrefix .RelPermalink "/tags/") (hasPrefix .RelPermalink "/states/") }}<meta name="robots" content="noindex, follow">{{ else }}<link rel="canonical" href="{{ .Permalink }}">
 <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">{{ end }}
 <meta property="og:site_name" content="{{ site.Title }}">
 <meta property="og:title" content="{{ $ogTitle }}">

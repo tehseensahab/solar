@@ -3,7 +3,7 @@
 {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   {{- range .Data.Pages }}
-  {{- if and .Permalink (not (hasPrefix .RelPermalink "/tags/")) (not (hasPrefix .RelPermalink "/states/")) }}
+  {{- if and .Permalink (not .Params.noindex) (not (hasPrefix .RelPermalink "/tags/")) (not (hasPrefix .RelPermalink "/states/")) }}
   {{- $lm := .Lastmod }}{{ with .Params.lastVerified }}{{ $lm = time . }}{{ end }}
   {{- if and (eq .Type "posts") (eq .Layout "state-hub") }}{{ with partial "state/ctx.html" . }}{{ with .refreshed }}{{ $lm = . }}{{ end }}{{ end }}{{ end }}
   <url>
