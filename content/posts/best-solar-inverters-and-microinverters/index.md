@@ -76,7 +76,7 @@ CEC efficiency is a weighted average of conversion efficiency. Our math (illustr
 
 ## Incentives
 
-The IRS says the [residential clean energy credit](https://www.irs.gov/credits-deductions/residential-clean-energy-credit) is not available for property placed in service after December 31, 2025. Rules for leased or financed systems differ and state programs vary; see [Rates by State](/rates-by-state/) and [net metering by state](/posts/net-metering-state-guide/). Confirm eligibility with a tax professional.
+The IRS says the [residential clean energy credit](https://www.irs.gov/credits-deductions/residential-clean-energy-credit) is not available for property placed in service after December 31, 2025. Rules for leased or financed systems differ and state programs vary; see [Rates by State](/rates/) and [net metering by state](/posts/net-metering-state-guide/). Confirm eligibility with a tax professional.
 
 ## Buying checklist
 

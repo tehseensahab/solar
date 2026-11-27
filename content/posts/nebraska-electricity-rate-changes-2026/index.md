@@ -1,8 +1,9 @@
 ---
 title: "Nebraska Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/nebraska/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Transmission tower silhouetted against an orange sky with the sun low on the horizon."
 imageCredit: "Photo by Elisa Photography on [Unsplash](https://unsplash.com/photos/a-power-line-pylon-silhouetted-against-a-vibrant-orange-sunset-1nLnz0y-cLY?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -56,7 +57,7 @@ NPPD's board approved a 3% retail increase and a 1% wholesale increase for 2026,
 
 LES published new rate schedules effective January 1, 2026. We did not review the amounts.
 
-## What This Means for Homeowners With Solar
+## Nebraska Net Metering and Solar Export Credits
 
 Nebraska law requires utilities to offer net metering for small systems.
 
@@ -67,25 +68,13 @@ Nebraska law requires utilities to offer net metering for small systems.
 
 **What it means:** surplus is paid at a utility-set price, not the retail rate. Size to your monthly use, and ask your utility for its current net metering rider before you buy.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. The fixed monthly service charge.
-2. The energy charge per kWh.
-3. Your utility's notice of 2027 rates, usually published late in the year.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
-
 ## Limitations
 
-OPPD figures come from OPPD's own news site and NPPD figures from a TV report. We did not review tariffs, LES rates or any 2027 proposals.
+OPPD figures come from OPPD's own news site and NPPD figures from a TV report. We did not review tariffs, LES rates or any 2027 proposals. Net metering terms on this page were last reviewed on October 5, 2026.
 
-## Compare With Nearby States
+## Nebraska Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Nebraska's average residential price at 13.54¢/kWh in August 2026, up 5.8% from 12.80¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $135.40 (1,000 × 13.54¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Iowa](/posts/iowa-electricity-rate-changes-2026/), [Kansas](/posts/kansas-electricity-rate-changes-2026/), [South Dakota](/posts/south-dakota-electricity-rate-changes-2026/), [Colorado](/posts/colorado-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+The U.S. Energy Information Administration (EIA) puts Nebraska's average residential price at 13.54¢/kWh in August 2026, up 5.8% from 12.80¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $135.40 (1,000 × 13.54¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

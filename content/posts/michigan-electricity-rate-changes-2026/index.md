@@ -1,5 +1,6 @@
 ---
 title: "Michigan Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/michigan/"
 seoTitle: "DTE & Consumers Energy Rate Increase 2026: Michigan Guide"
 date: 2026-09-30
 lastmod: 2026-11-09
@@ -66,7 +67,7 @@ For DTE's approved increase, DTE's statement put the average residential increas
 
 Residential customers of DTE Electric (southeast Michigan, about 2.3 million electric customers per the Attorney General) and Consumers Energy (most of the rest of the Lower Peninsula). Smaller utilities, including Upper Peninsula Power Company (which has a $17.3 million request pending, per the Attorney General on September 25, 2026), have their own cases. Rate-case increases apply to delivery and related utility costs, not just supply.
 
-## What This Means for Homeowners With Solar
+## Michigan Net Metering and Solar Export Credits
 
 Michigan replaced net metering for new customers with a distributed generation program that bills the power you take from the grid (inflow) and credits the power you send to it (outflow) separately.
 
@@ -75,30 +76,23 @@ Michigan replaced net metering for new customers with a distributed generation p
 
 **What it means:** rate cases in Michigan raise distribution charges, and distribution is the part of the rate an exported kWh does not earn. Each increase widens the gap between using your solar power in the house and exporting it. We did not find the current cents-per-kWh outflow credit for DTE or Consumers Energy.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What Homeowners Should Check on Their Electric Bill
-
-1. **Any fixed monthly service charge**, which rate cases can change.
-2. **Per-kWh distribution charge** versus **power supply charge**.
-3. **Power supply cost recovery** lines, which adjust separately from rate cases.
-4. **Effective dates** of new rates (your bill may be pro-rated across two rate periods).
+Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## What Happens Next
 
 - **Consumers Energy gas (approved):** the MPSC approved a $139.2 million natural gas increase on October 15, 2026 (Case U-21981), effective November 1: +$3.92 a month (4.33%) for a typical customer using 75 ccf. See [our article](/posts/consumers-energy-gas-rate-increase-november-2026/).
 
 - The MPSC will decide DTE's $474.3M request; the Michigan Public Service Commission review typically takes many months. A decision date has not been announced in the sources we found.
-- **Update, Nov. 9, 2026:** In DTE's pending case (U-22046), MPSC staff recommended about $239.1 million in Aug. 26 testimony, according to S&P Global, and the Attorney General has asked for no more than $134.5 million. DTE's filing estimates a $22.13 monthly increase on a 1,000 kWh summer bill if the full request were approved. See [our DTE 2027 rate request article](/posts/dte-rate-increase-2027/).
+- In DTE's pending case (U-22046), MPSC staff recommended about $239.1 million in Aug. 26 testimony, according to S&P Global, and the Attorney General has asked for no more than $134.5 million. DTE's filing estimates a $22.13 monthly increase on a 1,000 kWh summer bill if the full request were approved. See [our DTE 2027 rate request article](/posts/dte-rate-increase-2027/).
 - Consumers Energy's U-22070 electric case: Consumers asked for about $456 million a year on June 2, 2026, and the Attorney General has asked the MPSC to cut it by 53%. News reports put the decision deadline in April 2027. See [our Consumers Energy rate case article](/posts/consumers-energy-electric-rate-increase-2027/).
 - DTE has said it may pause future electric rate requests after this filing if certain data center conditions are met, per the Attorney General; that is not a commitment.
 - Public comments can be filed through the MPSC e-docket.
 
-## Compare With Nearby States
+## Michigan Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Michigan's average residential price at 22.99¢/kWh in August 2026, up 10.9% from 20.73¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $229.90 (1,000 × 22.99¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+The U.S. Energy Information Administration (EIA) puts Michigan's average residential price at 22.99¢/kWh in August 2026, up 10.9% from 20.73¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $229.90 (1,000 × 22.99¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Indiana](/posts/indiana-electricity-rate-changes-2026/), [Ohio](/posts/ohio-electricity-rate-changes-2026/), [Wisconsin](/posts/wisconsin-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+**Changes since first publication:** Nov. 9, 2026: DTE staff and Attorney General positions in U-22046.
 
 ## Sources
 

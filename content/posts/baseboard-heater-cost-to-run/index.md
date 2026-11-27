@@ -30,7 +30,7 @@ faq:
 
 **An electric baseboard heater costs its wattage times your electric rate for every hour its element is on. A common 4-foot, 1,000-watt heater uses 1 kWh an hour, about 18 cents at the U.S. average residential price of 18.16 cents per kWh for August 2026. A 1,500-watt heater costs about 27 cents an hour.** Your monthly bill depends on how many hours the thermostat actually keeps the element on, and on what you pay per kWh.
 
-About 42% of U.S. households used electricity as their main heating fuel in 2024, according to the Energy Information Administration (EIA), and baseboards are a common electric option. This guide shows the math by heater size, room and whole house, and when a heat pump or zoning saves money. For a portable heater, see our [space heater running-cost guide](/posts/space-heater-cost-to-run/); to find your own rate, see [electricity rates by state](/rates-by-state/).
+About 42% of U.S. households used electricity as their main heating fuel in 2024, according to the Energy Information Administration (EIA), and baseboards are a common electric option. This guide shows the math by heater size, room and whole house, and when a heat pump or zoning saves money. For a portable heater, see our [space heater running-cost guide](/posts/space-heater-cost-to-run/); to find your own rate, see [electricity rates by state](/rates/).
 
 ## The Formula
 

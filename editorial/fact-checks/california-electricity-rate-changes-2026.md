@@ -20,3 +20,7 @@ Not published. Lives outside content/.
 | PG&E status for September 2026 | No advice letter found | NOT verified from a primary filing |
 
 Re-check all three utilities' advisory pages on October 1 and add a `lastmod:` if anything changes.
+
+## 2026-11-28 merge check (ranking recovery)
+Net-metering text merged from data/states/california.yaml and re-read against the primary source the same day:
+- cpuc.ca.gov NEM page: Net Billing Tariff for new interconnection applicants since Apr 15, 2023 under D.22-12-056; exports valued at grid value. Confirmed.

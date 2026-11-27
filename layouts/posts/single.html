@@ -3,13 +3,16 @@
 {{ $cat := false }}{{ with .GetTerms "categories" }}{{ $cat = index . 0 }}{{ end }}
 <article>
   <header class="post-head">
-    {{ with $cat }}<a class="cat" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}
+    {{- $isState := hasPrefix .RelPermalink "/rates/" }}
+    {{- if $isState }}{{ with .Params.states }}<nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a> › <a href="/rates/">Rates by State</a> › <span>{{ index . 0 }}</span></nav>{{ end }}
+    {{- else }}{{ with $cat }}<a class="cat" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}{{ end }}
     <h1>{{ .Title }}</h1>
     <p class="byline">
       {{- $by := .Params.author | default site.Params.author }}By {{ if index site.Data.writers $by }}<a rel="author" href="{{ with site.GetPage (printf "/authors/%s" (anchorize $by)) }}{{ .Permalink }}{{ else }}{{ printf "about/#%s" (anchorize $by) | absURL }}{{ end }}">{{ $by }}</a>{{ else }}<span rel="author">{{ $by }}</span>{{ end }}
-      · <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
-      {{- if ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02") }} · Updated <time datetime="{{ .Lastmod.Format "2006-01-02" }}">{{ .Lastmod.Format "Jan 2, 2006" }}</time>{{ end }}
-      {{- with .Params.lastVerified }}{{ $v := time . }} · Last verified <time datetime="{{ $v.Format "2006-01-02" }}">{{ $v.Format "Jan 2, 2006" }}</time>{{ end }}
+      · Published <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+      {{- /* One modified date per page: lastVerified when set (it is also schema dateModified), else lastmod. */}}
+      {{- with .Params.lastVerified }}{{ $v := time . }} · Last verified <time datetime="{{ $v.Format "2006-01-02" }}">{{ $v.Format "Jan 2, 2006" }}</time>
+      {{- else }}{{ if ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02") }} · Updated <time datetime="{{ .Lastmod.Format "2006-01-02" }}">{{ .Lastmod.Format "Jan 2, 2006" }}</time>{{ end }}{{ end }}
       · {{ .ReadingTime }} min read
     </p>
     {{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}

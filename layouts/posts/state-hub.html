@@ -11,7 +11,7 @@
 {{ $faq := partial "state/faq.html" . }}
 <article class="hub">
   <header class="post-head">
-    <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a> › <a href="/rates-by-state/">Rates by State</a> › <span>{{ $d.name }}</span></nav>
+    <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a> › <a href="/rates/">Rates by State</a> › <span>{{ $d.name }}</span></nav>
     <h1>{{ .Title }}</h1>
     <p class="byline">
       {{- $by := .Params.author | default site.Params.author }}By {{ if index site.Data.writers $by }}<a rel="author" href="{{ printf "about/#%s" (anchorize $by) | absURL }}">{{ $by }}</a>{{ else }}<span rel="author">{{ $by }}</span>{{ end }}

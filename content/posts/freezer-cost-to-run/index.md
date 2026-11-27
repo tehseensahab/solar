@@ -29,7 +29,7 @@ faq:
 
 **A U.S. home with a separate freezer used an average of 570 kWh of electricity a year on it in 2020, according to the Energy Information Administration (EIA). At the U.S. average residential price of 18.16 cents per kWh for August 2026, that is about $103.51 a year, $8.63 a month or 28 cents a day.** A new chest freezer can cost half that: three models we checked are rated at 297 to 331 kWh a year, about $54 to $60.
 
-A freezer runs all day, every day, so its cost shows up on every bill. This guide shows the math per day, month and year, compares chest and upright models from their EnergyGuide labels, and shows how the cost changes by state. For the fridge in your kitchen, see our [refrigerator cost to run](/posts/refrigerator-cost-to-run/) guide. To use your own price, look it up on our [electricity rates by state](/rates-by-state/) page.
+A freezer runs all day, every day, so its cost shows up on every bill. This guide shows the math per day, month and year, compares chest and upright models from their EnergyGuide labels, and shows how the cost changes by state. For the fridge in your kitchen, see our [refrigerator cost to run](/posts/refrigerator-cost-to-run/) guide. To use your own price, look it up on our [electricity rates by state](/rates/) page.
 
 ## The Formula
 

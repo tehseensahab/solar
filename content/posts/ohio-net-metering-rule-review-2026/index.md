@@ -96,7 +96,7 @@ If AEP's proposal had been adopted, the gap between self-use and export would ha
 4. **Ask your installer what credit the savings estimate assumes** for exported power. An estimate that values every kWh at the full retail rate overstates savings in Ohio.
 5. **Check the PUCO docket** for case 25-0349-EL-ORD before signing if the rule's status matters to your decision.
 
-For the rate side of the picture, see our [Ohio rate guide](/posts/ohio-electricity-rate-changes-2026/). For the math, see the [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) and our comparison of [export credit rates by utility](/posts/solar-export-credit-rates-by-utility-2026/).
+For the rate side of the picture, see our [Ohio rate guide](/rates/ohio/). For the math, see the [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) and our comparison of [export credit rates by utility](/posts/solar-export-credit-rates-by-utility-2026/).
 
 ## Sources
 

@@ -1,8 +1,9 @@
 ---
 title: "Vermont Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/vermont/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Large building with a steep roof covered in solar panels under an overcast sky."
 imageCredit: "Photo by Markus Winkler on [Unsplash](https://unsplash.com/photos/a-house-with-solar-panels-on-the-roof-VX0ZEZSwqnY?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -68,7 +69,7 @@ GMP proposed a four-year program to bury and reinforce lines, with a goal of eli
 
 Vermont Public reported that several municipal utilities are seeking larger increases: Swanton Electric 30%, Jacksonville Electric 18%, Hyde Park Electric 15% and Barton Electric 14%. These are requests.
 
-## What This Means for Homeowners With Solar
+## Vermont Net Metering and Solar Export Credits
 
 Vermont has net metering, with credit rates set by the Public Utility Commission and a permit required for every system.
 
@@ -80,25 +81,13 @@ Vermont has net metering, with credit rates set by the Public Utility Commission
 
 **What it means:** your credit rate depends on when you apply, so a system filed before a biennial update takes effect keeps the earlier adjustors. With Green Mountain Power's rates up 5.5% in October 2026, self-used solar is worth more. Ask your installer which adjustors your application will get.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. The customer charge and energy rate on your first bill covering October.
-2. Whether the bill is split between old and new rates.
-3. Your rate class, if you have a heat pump or electric vehicle rate.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
-
 ## Limitations
 
-Figures come from VTDigger and Vermont Public. We did not open the PUC order, and no source gave a residential dollar impact. The two outlets describe the approved resilience spending slightly differently, so we use VTDigger's figures.
+Figures come from VTDigger and Vermont Public. We did not open the PUC order, and no source gave a residential dollar impact. The two outlets describe the approved resilience spending slightly differently, so we use VTDigger's figures. Net metering terms on this page were last reviewed on October 5, 2026.
 
-## Compare With Nearby States
+## Vermont Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Vermont's average residential price at 23.84¢/kWh in August 2026, up 7.9% from 22.10¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $238.40 (1,000 × 23.84¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [New Hampshire](/posts/new-hampshire-electricity-rate-changes-2026/), [New York](/posts/new-york-electricity-rate-changes-2026/), [Massachusetts](/posts/massachusetts-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+The U.S. Energy Information Administration (EIA) puts Vermont's average residential price at 23.84¢/kWh in August 2026, up 7.9% from 22.10¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $238.40 (1,000 × 23.84¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

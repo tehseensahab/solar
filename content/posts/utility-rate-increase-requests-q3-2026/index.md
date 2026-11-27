@@ -98,7 +98,7 @@ So a $23.1 billion year of requests does not mean $23.1 billion of higher bills.
 
 ## What It Means for Your Bill
 
-1. **Check your own state.** Our [rates by state](/rates-by-state/) guides list approved and pending cases for each state.
+1. **Check your own state.** Our [rates by state](/rates/) guides list approved and pending cases for each state.
 2. **Watch the order, not the filing.** The approved amount and the effective date are what matter for your bill.
 3. **Comment if you want to.** Most commissions accept public comments and hold public hearings in rate cases.
 4. **For solar:** rising delivery charges, which transmission and distribution spending feeds, raise the value of each kWh you produce and use yourself. They do not raise what many utilities pay for exported power. See our [export credit comparison](/posts/solar-export-credit-rates-by-utility-2026/).

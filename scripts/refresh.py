@@ -186,6 +186,10 @@ def cmd_apply(a):
         body, n2 = src.subn(f"({month} data, released {rel_long})", body)
         if n1 != 1 or n2 != 1:
             print(f"WARN {os.path.relpath(f, ROOT)}: context paragraph replaced {n1}x, source line {n2}x (expected 1/1)")
+        if body != read(f):
+            # A figure on the page changed: move its single modified date (lastmod = lastVerified = schema dateModified).
+            body = re.sub(r"^lastmod: .*$", f"lastmod: {today}", body, count=1, flags=re.M)
+            body = re.sub(r"^lastVerified: .*$", f"lastVerified: {today}", body, count=1, flags=re.M)
         write(f, body)
 
     # calculator pages

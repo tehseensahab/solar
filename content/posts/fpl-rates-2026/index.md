@@ -32,7 +32,7 @@ faq:
 
 **FPL's standard residential rate (RS-1) costs about 12.3 cents per kWh for the first 1,000 kWh you use each month and about 14.3 cents for every kWh above that, plus a $10.52 base charge, before taxes and fees.** Those figures add up every per-kWh line on FPL's rate sheet effective October 2026, the latest we found posted as of November 19, 2026. On the optional time-of-use rider, on-peak power costs about 27 cents per kWh and off-peak about 6 cents for the first 1,000 kWh, and peak hours change with the season.
 
-This page is a line-by-line guide to the FPL rate itself. For how Florida's other utilities and the statewide average compare, see our [Florida electric rate tracker](/posts/florida-electricity-rate-changes-2026/). If the kW and kWh units on your bill are confusing, start with [kW vs kWh](/posts/kw-vs-kwh/).
+This page is a line-by-line guide to the FPL rate itself. For how Florida's other utilities and the statewide average compare, see our [Florida electric rate tracker](/rates/florida/). If the kW and kWh units on your bill are confusing, start with [kW vs kWh](/posts/kw-vs-kwh/).
 
 ## What Is FPL's Residential Electricity Rate in 2026, in Cents per kWh?
 
@@ -67,7 +67,7 @@ At 1,500 kWh, your average cost is about 13.6 cents per kWh ($204.39 ÷ 1,500), 
 
 ### Why was my September 2026 bill lower?
 
-FPL's September 2026 rate sheets (the Northwest Florida sheet is linked below) carried a one-month "Storm Restoration Recovery Refund" of -0.797 cents per kWh. The October sheet has no refund line. We covered that change in the [October Florida rate update](/posts/florida-electricity-rate-changes-2026/).
+FPL's September 2026 rate sheets (the Northwest Florida sheet is linked below) carried a one-month "Storm Restoration Recovery Refund" of -0.797 cents per kWh. The October sheet has no refund line. We covered that change in the [October Florida rate update](/rates/florida/).
 
 ## What Are FPL's Time-of-Use Hours?
 

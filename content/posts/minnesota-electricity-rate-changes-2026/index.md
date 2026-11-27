@@ -1,5 +1,6 @@
 ---
 title: "Minnesota Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/minnesota/"
 date: 2026-10-04
 lastmod: 2026-11-05
 lastVerified: 2026-11-05
@@ -31,7 +32,7 @@ Minnesota's largest utility did not change rates on October 1, 2026. Xcel Energy
 
 This article covers Xcel Energy (Northern States Power). It does not cover Minnesota Power, Otter Tail Power, cooperatives or municipal utilities.
 
-**Update, Nov. 5, 2026:** Minnesota Power filed a rate request on Nov. 2, 2026, asking for $134 million net of riders (17.8%), which it says would add about $24 a month to the average residential bill if fully approved, plus a requested 15% interim increase from January 2027, according to its [news release](https://minnesotapower.blob.core.windows.net/content/Content/Documents/Company/PressReleases/2026/PressRelease11022026.pdf). See [our report on the Minnesota Power request](/posts/minnesota-power-rate-increase-2027/).
+Minnesota Power, which this article does not otherwise cover, filed a rate request on Nov. 2, 2026, asking for $134 million net of riders (17.8%), which it says would add about $24 a month to the average residential bill if fully approved, plus a requested 15% interim increase from January 2027, according to its [news release](https://minnesotapower.blob.core.windows.net/content/Content/Documents/Company/PressReleases/2026/PressRelease11022026.pdf). See [our report on the Minnesota Power request](/posts/minnesota-power-rate-increase-2027/).
 
 ## Quick Summary
 
@@ -71,7 +72,7 @@ A second, unrelated credit is also coming. On May 7, 2026 the PUC ordered Xcel t
 
 These are not the same measure. One plausible reading is that the smaller figure is per year and the larger is the two years combined compared with rates before the case, but none of the sources says so, and we could not confirm it. Use your own bill: compare the energy and basic service charges on a bill from late 2024 with one from after final rates took effect.
 
-## What This Means for Homeowners With Solar
+## Minnesota Net Metering and Solar Export Credits
 
 Minnesota law sets net metering terms by system size.
 
@@ -83,30 +84,19 @@ Minnesota law sets net metering terms by system size.
 
 **What it means:** credits near the retail rate mean each solar kWh offsets most of what you would have paid, including the 2025 and 2026 increases. If you are served by a cooperative or city utility, ask about fees first.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. The "Interim Rate Adj." line, and when it is replaced by final rates.
-2. A one-time refund credit.
-3. The basic service charge and fuel clause.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
-
 ## Limitations
 
-We did not open the PUC order itself. Approved amounts come from the PUC's news release, and bill figures from Xcel, a TV report and a consumer group. The three bill-impact figures are not reconciled, and the interim refund date and amount are not confirmed.
-
+We did not open the PUC order itself. Approved amounts come from the PUC's news release, and bill figures from Xcel, a TV report and a consumer group. The three bill-impact figures are not reconciled, and the interim refund date and amount are not confirmed. Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## Statewide Affordability Investigation
 
 The Minnesota Public Utilities Commission opened a statewide investigation into the affordability of rate-regulated electric and gas service (Docket 26-341), with sessions on October 13, November 2 and December 8, 2026, and a report due in early 2027. See [our article on the investigation](/posts/minnesota-puc-energy-affordability-investigation-2026/).
 
-## Compare With Nearby States
+## Minnesota Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Minnesota's average residential price at 17.20¢/kWh in August 2026, up 1.8% from 16.89¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $172.00 (1,000 × 17.20¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+The U.S. Energy Information Administration (EIA) puts Minnesota's average residential price at 17.20¢/kWh in August 2026, up 1.8% from 16.89¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $172.00 (1,000 × 17.20¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Iowa](/posts/iowa-electricity-rate-changes-2026/), [North Dakota](/posts/north-dakota-electricity-rate-changes-2026/), [South Dakota](/posts/south-dakota-electricity-rate-changes-2026/), [Wisconsin](/posts/wisconsin-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+**Changes since first publication:** Nov. 5, 2026: Minnesota Power 2027 request.
 
 ## Sources
 

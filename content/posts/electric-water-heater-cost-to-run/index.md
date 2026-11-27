@@ -30,7 +30,7 @@ faq:
 
 **An average U.S. home that heats water with electricity used 2,706 kWh a year for it in 2020, according to the Energy Information Administration (EIA). At the U.S. average residential price of 18.16 cents per kWh for August 2026, that costs about $491 a year, or about $41 a month.** Your cost depends on how much hot water your household uses, the season, your thermostat setting and your electric rate.
 
-Water heating is one of the larger electric loads in a home that has an electric tank, and unlike a space heater it runs all year. This guide shows the math per hour, month and year, what changes it, and when a heat pump water heater or solar makes sense. For your own electric rate, see our [electricity rates by state](/rates-by-state/) page.
+Water heating is one of the larger electric loads in a home that has an electric tank, and unlike a space heater it runs all year. This guide shows the math per hour, month and year, what changes it, and when a heat pump water heater or solar makes sense. For your own electric rate, see our [electricity rates by state](/rates/) page.
 
 ## The Formula
 

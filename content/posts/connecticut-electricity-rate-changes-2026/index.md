@@ -1,7 +1,8 @@
 ---
 title: "Connecticut Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/connecticut/"
 date: 2026-10-04
-lastmod: 2026-10-28
+lastmod: 2026-11-12
 lastVerified: 2026-11-12
 imageAlt: "House with solar panels on a tiled roof behind a garden with lavender and shrubs."
 imageCredit: "Photo by Watt A Lot on [Unsplash](https://unsplash.com/photos/a-house-with-solar-panels-gqpuuF3a2tY?utm_source=solarexaminer&utm_medium=referral)"
@@ -71,9 +72,9 @@ We searched for a September 2026 adjustment and found no report of one. On that 
 
 Eversource has said the decrease is temporary and that customers may face higher charges once the payback period ends in 2027.
 
-**Update, Nov. 12, 2026:** Eversource's pending distribution rate case (PURA Docket No. 26-05-10) asks for $727 million a year, which the Attorney General says would raise average residential rates about 18%; nothing is approved, and a decision is expected around June 28, 2027. See our [Eversource rate increase 2027 explainer](/posts/eversource-rate-increase-2027/) for bill estimates and public hearing dates.
+Eversource's pending distribution rate case (PURA Docket No. 26-05-10) asks for $727 million a year, which the Attorney General says would raise average residential rates about 18%; nothing is approved, and a decision is expected around June 28, 2027. See our [Eversource rate increase 2027 explainer](/posts/eversource-rate-increase-2027/) for bill estimates and public hearing dates.
 
-## What This Means for Homeowners With Solar
+## Connecticut Net Metering and Solar Export Credits
 
 New home solar in Connecticut goes through the Residential Renewable Energy Solutions (RRES) program, which replaced net metering.
 
@@ -84,25 +85,15 @@ New home solar in Connecticut goes through the Residential Renewable Energy Solu
 
 **What it means:** under netting, the value of your solar moves with rates. When supply and public benefits rates fall, as they did in 2026, each kWh offsets less. Buy-all pays a fixed price that does not move. Compare both for your home before choosing, because the choice lasts 20 years.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. The supply rate, and your supplier's contract end date if you have one.
-2. The public benefits line.
-3. The fixed customer service charge.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
-
 ## Limitations
 
-Rates come from the Connecticut Mirror, the governor's announcement and the Office of Consumer Counsel, not the utilities' tariffs. We found no report of a September adjustment but did not check the tariff itself. January 2027 standard service rates and delivery rate cases were not researched.
+Rates come from the Connecticut Mirror, the governor's announcement and the Office of Consumer Counsel, not the utilities' tariffs. We found no report of a September adjustment but did not check the tariff itself. January 2027 standard service rates and delivery rate cases were not researched. Net metering terms on this page were last reviewed on October 5, 2026.
 
-## Compare With Nearby States
+## Connecticut Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Connecticut's average residential price at 24.51¢/kWh in August 2026, down 18.8% from 30.17¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $245.10 (1,000 × 24.51¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+The U.S. Energy Information Administration (EIA) puts Connecticut's average residential price at 24.51¢/kWh in August 2026, down 18.8% from 30.17¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $245.10 (1,000 × 24.51¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Massachusetts](/posts/massachusetts-electricity-rate-changes-2026/), [New York](/posts/new-york-electricity-rate-changes-2026/), [Rhode Island](/posts/rhode-island-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+**Changes since first publication:** Nov. 12, 2026: Eversource 2027 distribution request (Docket 26-05-10).
 
 ## Sources
 

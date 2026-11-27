@@ -1,8 +1,9 @@
 ---
 title: "Kansas Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/kansas/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Close view of steel transmission towers and power lines against a green and yellow sky."
 imageCredit: "Photo by Fré Sonneveld on [Unsplash](https://unsplash.com/photos/black-transmission-towers-under-green-sky-q6n8nIrDQHE?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -21,8 +22,6 @@ faq:
     a: "We found no approved base rate change for Evergy on that date. The last one took effect with the October 2025 billing cycle."
   - q: "How much was Evergy's last Kansas increase?"
     a: "The Kansas Corporation Commission approved $128 million, about $8.47 a month for a residential customer using 900 kWh. Evergy had asked for $196.4 million."
-  - q: "What else changes an Evergy bill?"
-    a: "Fuel and purchased power costs and the transmission delivery charge are adjusted separately from base rates."
   - q: "Does Kansas have net metering?"
     a: "Yes for customers of Evergy and the state's other investor-owned utility. Surplus energy at the end of a billing cycle becomes a dollar credit at the utility's monthly system average cost, slightly below retail. Credits roll forward but expire each March 31."
 ---
@@ -58,7 +57,7 @@ The Kansas Corporation Commission (KCC) approved a unanimous settlement in docke
 - **Transmission delivery charge.** Updated on its own schedule.
 - **Weather.** October usage varies a lot from year to year.
 
-## What This Means for Homeowners With Solar
+## Kansas Net Metering and Solar Export Credits
 
 Kansas requires Evergy and the state's other investor-owned utility to offer net metering, though the credit for surplus is slightly below retail.
 
@@ -69,25 +68,13 @@ Kansas requires Evergy and the state's other investor-owned utility to offer net
 
 **What it means:** because credits expire every March 31, a system that overproduces in summer and fall can lose value if you do not use those credits over the winter. Size to your annual use, not above it.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. The customer charge.
-2. The energy charge per kWh.
-3. The fuel and transmission lines.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
-
 ## Limitations
 
-We found one rate decision and no later one. We did not check whether Evergy has filed a new Kansas rate case in 2026, and we did not research Evergy Kansas Metro.
+We found one rate decision and no later one. We did not check whether Evergy has filed a new Kansas rate case in 2026, and we did not research Evergy Kansas Metro. Net metering terms on this page were last reviewed on October 5, 2026.
 
-## Compare With Nearby States
+## Kansas Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Kansas's average residential price at 15.47¢/kWh in August 2026, up 5.6% from 14.65¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $154.70 (1,000 × 15.47¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Colorado](/posts/colorado-electricity-rate-changes-2026/), [Missouri](/posts/missouri-electricity-rate-changes-2026/), [Nebraska](/posts/nebraska-electricity-rate-changes-2026/), [Oklahoma](/posts/oklahoma-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+The U.S. Energy Information Administration (EIA) puts Kansas's average residential price at 15.47¢/kWh in August 2026, up 5.6% from 14.65¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $154.70 (1,000 × 15.47¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

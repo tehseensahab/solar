@@ -30,7 +30,7 @@ faq:
 
 **A U.S. home with a clothes washer used an average of 69 kWh of electricity a year on it in 2020, according to the Energy Information Administration (EIA). At the U.S. average residential price of 18.16 cents per kWh for August 2026, that is about $12.53 a year, or $1.04 a month.** A load costs roughly 4 to 5 cents for the machine itself, based on EIA's average; a model's EnergyGuide rating, which also counts water heating with an electric water heater, can run higher. The bigger cost is hot water: ENERGY STAR says heating water takes about 90% of the energy a washer uses.
 
-On EIA's figures, the washer itself costs far less to run than the dryer next to it: a [clothes dryer](/posts/dryer-cost-to-run/) uses about ten times as much electricity, and an [electric water heater](/posts/electric-water-heater-cost-to-run/) may carry most of the cost of a warm or hot wash. This guide shows the math per load, month and year, by household size and by state. To use your own price, look it up on our [electricity rates by state](/rates-by-state/) page.
+On EIA's figures, the washer itself costs far less to run than the dryer next to it: a [clothes dryer](/posts/dryer-cost-to-run/) uses about ten times as much electricity, and an [electric water heater](/posts/electric-water-heater-cost-to-run/) may carry most of the cost of a warm or hot wash. This guide shows the math per load, month and year, by household size and by state. To use your own price, look it up on our [electricity rates by state](/rates/) page.
 
 ## The Formula
 

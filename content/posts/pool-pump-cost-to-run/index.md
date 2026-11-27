@@ -79,7 +79,7 @@ Prices vary far more than usage does. Here is the national average of 2,384 kWh 
 | Massachusetts | 30.48 | $726.64 | $60.55 |
 | Hawaii | 47.18 | $1,124.77 | $93.73 |
 
-August prices can differ from your yearly average, and a home in a hot state will often run its pump longer than the national average. To use your own state's price, see our [electricity rates by state](/rates-by-state/) page.
+August prices can differ from your yearly average, and a home in a hot state will often run its pump longer than the national average. To use your own state's price, see our [electricity rates by state](/rates/) page.
 
 ## How to Lower Your Pool Pump Cost
 
@@ -115,7 +115,7 @@ If you have solar panels, running the pump during sunny hours lets your panels p
 |---|---|---|
 | Pool pump use 2,384 kWh a year per home using one; regional averages (2020) | [EIA, RECS 2020 Table CE5.3b](https://www.eia.gov/consumption/residential/data/2020/c&e/pdf/ce5.3b.pdf) | Verified |
 | U.S. average residential price 18.16¢ per kWh, August 2026 | [EIA, Electricity Monthly Update (released Oct. 23, 2026)](https://www.eia.gov/electricity/monthly/update/print-version.php) | Verified (preliminary) |
-| State prices, August 2026 | EIA, Electric Power Monthly, Table 5.6.A (via our [rates by state](/rates-by-state/) page) | Qualified (preliminary; from our internal price data) |
+| State prices, August 2026 | EIA, Electric Power Monthly, Table 5.6.A (via our [rates by state](/rates/) page) | Qualified (preliminary; from our internal price data) |
 | Half speed uses one-eighth the energy; 20% and 11% savings; 6 vs 24 hours; cleaner kWh; backwash | [ENERGY STAR: pool pumps](https://www.energystar.gov/products/pool_pumps) | Verified |
 | Federal standard compliance date July 19, 2021; product classes | [Federal Register 2017-10868](https://regulations.justia.com/regulations/fedreg/2017/05/26/2017-10868.html) | Verified |
 | Freeze protection default settings | [10 CFR 431.465](https://www.law.cornell.edu/cfr/text/10/431.465) | Verified |

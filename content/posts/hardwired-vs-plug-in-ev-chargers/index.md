@@ -75,7 +75,7 @@ Plug-in options: ChargePoint Home Flex (NEMA 6-50 or 14-50, 40 A, listed as UL l
 
 ## Costs
 
-We are not giving an installation price. We looked for a reliable, current US figure from a neutral source and did not find one we could verify, and costs depend on distance from the panel, panel capacity, wall type, permit fees and local labor. Ask each electrician for a written quote that lists materials, labor, permit fees and whether a panel upgrade is needed. Compare equipment prices (above) separately. Running cost: DOE's example of 10.7¢ per kWh implies about $6 to fill a depleted 54 kWh battery; our math at EIA's 18.2¢ forecast gives 54 × 0.182 = $9.83. See [our EIA summary](/posts/eia-residential-price-forecast-sept-2026/) and [Rates by State](/rates-by-state/).
+We are not giving an installation price. We looked for a reliable, current US figure from a neutral source and did not find one we could verify, and costs depend on distance from the panel, panel capacity, wall type, permit fees and local labor. Ask each electrician for a written quote that lists materials, labor, permit fees and whether a panel upgrade is needed. Compare equipment prices (above) separately. Running cost: DOE's example of 10.7¢ per kWh implies about $6 to fill a depleted 54 kWh battery; our math at EIA's 18.2¢ forecast gives 54 × 0.182 = $9.83. See [our EIA summary](/posts/eia-residential-price-forecast-sept-2026/) and [Rates by State](/rates/).
 
 ## Who should skip the upgrade
 
@@ -85,7 +85,7 @@ We are not giving an installation price. We looked for a reliable, current US fi
 
 ## Incentives
 
-The IRS lists the 30C credit for property placed in service through June 30, 2026, so it does not cover a charger installed now. State and utility rebates vary by location; check your utility and see our [rate guides](/rates-by-state/). Confirm eligibility with a tax professional.
+The IRS lists the 30C credit for property placed in service through June 30, 2026, so it does not cover a charger installed now. State and utility rebates vary by location; check your utility and see our [rate guides](/rates/). Confirm eligibility with a tax professional.
 
 ## Decision checklist
 

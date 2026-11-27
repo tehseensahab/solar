@@ -1,8 +1,9 @@
 ---
 title: "Virginia Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/virginia/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Solar panels mounted on the shingle roof of a house under a clear blue sky."
 imageCredit: "Photo by Michael Roberts on [Unsplash](https://unsplash.com/photos/a-solar-panel-on-the-roof-of-a-house-U0ys6tX7UMU?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -63,7 +64,7 @@ Virginia utilities recover many costs through riders, each reviewed in its own c
 
 Appalachian Power asked for $61.4 million a year and a 10.5% return on equity (PUR-2026-00044). It estimates $9.10 a month at 1,000 kWh. The hearing begins October 20, 2026. Other parties want far less; our [Appalachian Power rate request breakdown](/posts/appalachian-power-rate-increase-2026/) compares the positions. Separately, the SCC approved a coal ash closure plan on August 5 that could add $1.06 to $2.28 a month from 2027.
 
-## What This Means for Homeowners With Solar
+## Virginia Net Metering and Solar Export Credits
 
 Virginia kept retail net metering in two State Corporation Commission decisions.
 
@@ -82,16 +83,6 @@ Virginia kept retail net metering in two State Corporation Commission decisions.
 
 **What it means:** each solar kWh still offsets a retail kWh, so any approved base rate increase raises its value. Production beyond your annual use earns under 6¢, so size to what you use in a year. Draft shared solar rules are also open for comment through October 9, 2026 (PUR-2026-00127).
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. Your utility and rate schedule. The figures above use 1,000 kWh a month.
-2. The rider lines. Most 2026 movement after January came from riders, not base rates.
-3. The fuel line, which is set separately.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
-
 ## What Happens Next
 
 - **October 20, 2026:** Appalachian Power rate hearing.
@@ -100,13 +91,11 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 
 ## Limitations
 
-The SCC's own news release could not be opened for this article, so the biennial review figures come from Cardinal News and the rider figures from a law firm summary. Two public radio and news reports we checked say the $11.24 step applies "for 2026" without giving a day, so we still cannot state the exact effective date. One of them gives the starting bill as about $140, where Cardinal News gives $149.92; we use the more specific figure. We did not confirm the current fuel factor or net metering terms.
+The SCC's own news release could not be opened for this article, so the biennial review figures come from Cardinal News and the rider figures from a law firm summary. Two public radio and news reports we checked say the $11.24 step applies "for 2026" without giving a day, so we still cannot state the exact effective date. One of them gives the starting bill as about $140, where Cardinal News gives $149.92; we use the more specific figure. We did not confirm the current fuel factor or net metering terms. Net metering terms on this page were last reviewed on October 5, 2026.
 
-## Compare With Nearby States
+## Virginia Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Virginia's average residential price at 17.64¢/kWh in August 2026, up 11.3% from 15.85¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $176.40 (1,000 × 17.64¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Maryland](/posts/maryland-electricity-rate-changes-2026/), [North Carolina](/posts/north-carolina-electricity-rate-changes-2026/), [West Virginia](/posts/west-virginia-electricity-rate-changes-2026/), [Kentucky](/posts/kentucky-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+The U.S. Energy Information Administration (EIA) puts Virginia's average residential price at 17.64¢/kWh in August 2026, up 11.3% from 15.85¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $176.40 (1,000 × 17.64¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

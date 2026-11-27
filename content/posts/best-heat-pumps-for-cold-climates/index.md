@@ -70,7 +70,7 @@ Listed at -13°F and HSPF2 up to 9.2, the lowest in the table. Confirm it meets 
 
 EnergySage reported that whole-home heat pump installations averaged about $19,000 in 2025, or roughly $16,500 after state and local tax credits and rebates (cold-climate guide, Nov 4, 2025). Its separate guide, updated June 29, 2026, puts the average new heat pump at $15,393 before incentives, with most installs between $14,353 and $25,957, based on marketplace quotes. These figures mix system types and scopes, so they do not match; use them as a range and get quotes.
 
-Savings: DOE cites a NEEP study of cold-climate units in the Northeast and Mid-Atlantic that found average annual savings of about 3,000 kWh ($459) versus electric resistance heating and about 6,200 kWh ($948) versus oil systems. Those dollar figures reflect that study's prices, not today's. Your result depends on your fuel prices; see [Winter Heating Costs 2026–27](/posts/winter-heating-costs-2026-27/) and [Rates by State](/rates-by-state/). We do not guarantee savings.
+Savings: DOE cites a NEEP study of cold-climate units in the Northeast and Mid-Atlantic that found average annual savings of about 3,000 kWh ($459) versus electric resistance heating and about 6,200 kWh ($948) versus oil systems. Those dollar figures reflect that study's prices, not today's. Your result depends on your fuel prices; see [Winter Heating Costs 2026–27](/posts/winter-heating-costs-2026-27/) and [Rates by State](/rates/). We do not guarantee savings.
 
 ## Sizing in cold climates
 

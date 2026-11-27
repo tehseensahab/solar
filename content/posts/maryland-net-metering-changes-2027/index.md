@@ -31,7 +31,7 @@ faq:
 
 **Maryland's current net metering program will close to new customers on July 1, 2027, or earlier if statewide solar capacity reaches 3,000 megawatts. Homes that join after that will go into a successor program that state law says must offer smaller incentives. Systems already on net metering by then remain eligible until they are expanded, repowered or decommissioned.** The change comes from Chapter 353 of 2026 (House Bill 1532, known as the Utility RELIEF Act), which the governor approved on May 12, 2026.
 
-If you are weighing rooftop solar in Maryland, the date matters more than the cap. The commission's latest count, as of June 2025, put the state at about half the cap. Two details are still open: what the successor program will pay, and what you must have done by July 1, 2027 to count as "in." Our [Maryland electricity prices and solar overview](/posts/maryland-electricity-rate-changes-2026/) covers current Pepco and BGE rates. This article covers the net metering change and what to do now.
+If you are weighing rooftop solar in Maryland, the date matters more than the cap. The commission's latest count, as of June 2025, put the state at about half the cap. Two details are still open: what the successor program will pay, and what you must have done by July 1, 2027 to count as "in." Our [Maryland electricity prices and solar overview](/rates/maryland/) covers current Pepco and BGE rates. This article covers the net metering change and what to do now.
 
 ## What Changes for Maryland Net Metering in 2027?
 

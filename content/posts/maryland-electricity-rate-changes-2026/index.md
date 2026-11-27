@@ -1,5 +1,6 @@
 ---
 title: "Maryland Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/maryland/"
 date: 2026-10-04
 lastmod: 2026-11-14
 lastVerified: 2026-11-14
@@ -19,8 +20,6 @@ takeaways:
 faq:
   - q: "Did Maryland electric rates change on October 1, 2026?"
     a: "Yes for Pepco's default supply. Its residential standard offer service rate for October 2026 through May 2027 is about 14.677 cents per kWh, up about 11% from summer 2026, according to an analysis of the published rates."
-  - q: "Does the Pepco supply increase affect everyone?"
-    a: "No. It affects customers on Pepco's standard offer service. Customers who buy supply from a retail supplier pay their contract price. Delivery charges are separate."
   - q: "Is BGE raising rates?"
     a: "BGE has asked to raise electric distribution rates by $156.1 million in Case No. 9888. It is not approved. Maryland's Office of People's Counsel says new rates would begin in early 2027 if approved."
   - q: "Does Maryland have net metering?"
@@ -70,7 +69,7 @@ Maryland's Office of People's Counsel published a consumer guide to BGE's reques
 - **Return on equity:** BGE asked for 10.4%. It is now 9.5%.
 - **Timing:** early 2027, if approved. The PSC expects to decide in January 2027.
 
-**Update, October 21, 2026:** the Office of People's Counsel has recommended a $43.9 million decrease instead, and the PSC has set public comment hearings for October 26, November 4 and November 18, with written comments due December 23. Our [full report on BGE's rate request](/posts/bge-rate-increase-2026/) has the details and how to take part.
+The Office of People's Counsel has recommended a $43.9 million decrease instead, and the PSC has set public comment hearings for October 26, November 4 and November 18, with written comments due December 23. Our [full report on BGE's rate request](/posts/bge-rate-increase-2026/) has the details and how to take part.
 
 The guide says BGE's distribution rates have risen 58% since 2020.
 
@@ -82,11 +81,11 @@ Potomac Edison filed for a $52.8 million distribution increase on September 4, 2
 
 In 2026 the Maryland Public Service Commission said it denied more than half of Pepco's requested distribution increase. We could not open the full release, so we do not give dollar figures.
 
-## What This Means for Homeowners With Solar
+## Maryland Net Metering and Solar Export Credits
 
 Maryland offers net metering at the full retail rate.
 
-**Update, Nov. 14, 2026:** Under Chapter 353 of 2026 (HB 1532), this program closes to new customers on July 1, 2027, or earlier if statewide capacity reaches 3,000 MW, and a successor with smaller incentives starts that day. Customers already under a net metering contract or tariff on July 1, 2027 remain eligible. See our [guide to the Maryland net metering cutoff](/posts/maryland-net-metering-changes-2027/).
+Under Chapter 353 of 2026 (HB 1532), this program closes to new customers on July 1, 2027, or earlier if statewide capacity reaches 3,000 MW, and a successor with smaller incentives starts that day. Customers already under a net metering contract or tariff on July 1, 2027 remain eligible. See our [guide to the Maryland net metering cutoff](/posts/maryland-net-metering-changes-2027/).
 
 - **Credits:** monthly surplus is credited at the full retail rate, according to Solar United Neighbors.
 - **Size limit:** up to 200% of your annual electricity use.
@@ -94,25 +93,15 @@ Maryland offers net metering at the full retail rate.
 
 **What it means:** each solar kWh offsets both supply and delivery. For Pepco customers on standard offer service, the winter supply rate of about 14.7¢ makes each kWh worth about 1.5¢ more than in summer 2026. Systems much larger than your use earn only the supply rate on the surplus.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. Whether you are on SOS or with a retail supplier. If you have a supplier, check the contract end date.
-2. The "price to compare" on your bill against any offer.
-3. The customer charge and distribution rate.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
-
 ## Limitations
 
-The Pepco SOS figures come from a third-party analysis of published rates, supported by a trade publication headline, and not from Pepco's tariff, which we could not open. We did not find BGE's SOS rates for the same period. Figures for 900 kWh and 1,000 kWh are not directly comparable.
+The Pepco SOS figures come from a third-party analysis of published rates, supported by a trade publication headline, and not from Pepco's tariff, which we could not open. We did not find BGE's SOS rates for the same period. Figures for 900 kWh and 1,000 kWh are not directly comparable. Net metering terms on this page were last reviewed on October 5, 2026.
 
-## Compare With Nearby States
+## Maryland Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Maryland's average residential price at 21.40¢/kWh in August 2026, up 7.6% from 19.89¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $214.00 (1,000 × 21.40¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+The U.S. Energy Information Administration (EIA) puts Maryland's average residential price at 21.40¢/kWh in August 2026, up 7.6% from 19.89¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $214.00 (1,000 × 21.40¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Delaware](/posts/delaware-electricity-rate-changes-2026/), [Pennsylvania](/posts/pennsylvania-electricity-rate-changes-2026/), [Virginia](/posts/virginia-electricity-rate-changes-2026/), [West Virginia](/posts/west-virginia-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+**Changes since first publication:** Nov. 14, 2026: net metering closes to new customers July 1, 2027 (Ch. 353); Oct. 21, 2026: OPC recommends a $43.9 million BGE decrease.
 
 ## Sources
 

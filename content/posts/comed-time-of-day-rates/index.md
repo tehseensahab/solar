@@ -31,7 +31,7 @@ faq:
 
 **ComEd's Delivery Time-of-Day rate makes the delivery part of your bill cheaper at most hours and more expensive from 1 p.m. to 7 p.m., every day of the year.** It saves money if you can keep afternoon use low: by our math, a single-family ComEd home without electric heat comes out ahead if less than about 38% of its kWh fall between 1 and 7 p.m. ComEd expects the average enrolled customer to save about $2.31 a month.
 
-The rate only touches delivery charges. Your supply price, covered in our [ComEd and Ameren Illinois price update](/posts/illinois-electricity-rate-changes-2026/), stays the same unless you also pick a time-varying supply option. If you have solar, read the net metering section first: the answer is different for systems installed before 2025 and those on the newer net metering rules.
+The rate only touches delivery charges. Your supply price, covered in our [ComEd and Ameren Illinois price update](/rates/illinois/), stays the same unless you also pick a time-varying supply option. If you have solar, read the net metering section first: the answer is different for systems installed before 2025 and those on the newer net metering rules.
 
 ## What Is ComEd's Delivery Time-of-Day Rate?
 

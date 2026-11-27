@@ -91,7 +91,7 @@ A new electric vehicle, a hot tub, a second refrigerator, a home office or a new
 
 ### 6. A rate increase or a new rider
 
-Utilities change base rates through rate cases, and many bills also carry riders for fuel, storms or programs that change on their own schedule. EIA's August 2026 figure, 18.16¢ per kWh, was up 3.4% from August 2025 nationally. If your cost per kWh rose much more than that, look on the bill for a new or larger rider, or check your state's rate picture on our [electric rates by state](/rates-by-state/) page. Our explainer on [how electric rate cases work](/posts/how-electric-rate-cases-work/) shows how increases reach bills.
+Utilities change base rates through rate cases, and many bills also carry riders for fuel, storms or programs that change on their own schedule. EIA's August 2026 figure, 18.16¢ per kWh, was up 3.4% from August 2025 nationally. If your cost per kWh rose much more than that, look on the bill for a new or larger rider, or check your state's rate picture on our [electric rates by state](/rates/) page. Our explainer on [how electric rate cases work](/posts/how-electric-rate-cases-work/) shows how increases reach bills.
 
 ### 7. Supply price or a contract that ended
 

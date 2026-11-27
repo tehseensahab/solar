@@ -1,8 +1,9 @@
 ---
 title: "Indiana Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/indiana/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Steel transmission tower and power lines above a plowed field under a cloudy sky."
 imageCredit: "Photo by Daniel Barnes on [Unsplash](https://unsplash.com/photos/gray-metal-electric-towers-under-blue-sky-during-daytime-khQIi4vjLIg?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -72,7 +73,7 @@ Fixed monthly charges range from $11 at CenterPoint to $17 at AES Indiana, accor
 
 House Enrolled Act 1002, approved in March 2026, moves utilities to three-year base rate cycles and ties their allowed returns partly to affordability and outage restoration. Duke Energy Indiana, which has the most customers, must file by mid-December. The others follow on a set schedule.
 
-## What This Means for Homeowners With Solar
+## Indiana Net Metering and Solar Export Credits
 
 Indiana replaced net metering with "excess distributed generation" (EDG) billing for new customers.
 
@@ -83,26 +84,13 @@ Indiana replaced net metering with "excess distributed generation" (EDG) billing
 
 **What it means:** an exported kWh earns about 5.4¢ at AES, well under the retail energy rate, and the credit moves with wholesale prices. Systems sized to your own use keep more of their value. Indiana's 7% sales tax on utility bills also applies to what you still buy.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. The customer charge.
-2. The energy charge per kWh, and whether the July 2026 change appears.
-3. Tracker lines, especially fuel.
-4. Sales tax.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
-
 ## Limitations
 
-We did not open the IURC order. Bill figures come from AES's news release and Mirror Indy. We did not find the outcome or schedule of the reconsideration, and we did not research the 2025 Duke, NIPSCO and CenterPoint orders in detail.
+We did not open the IURC order. Bill figures come from AES's news release and Mirror Indy. We did not find the outcome or schedule of the reconsideration, and we did not research the 2025 Duke, NIPSCO and CenterPoint orders in detail. Net metering terms on this page were last reviewed on October 5, 2026.
 
-## Compare With Nearby States
+## Indiana Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Indiana's average residential price at 17.02¢/kWh in August 2026, up 5.0% from 16.21¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $170.20 (1,000 × 17.02¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Illinois](/posts/illinois-electricity-rate-changes-2026/), [Kentucky](/posts/kentucky-electricity-rate-changes-2026/), [Michigan](/posts/michigan-electricity-rate-changes-2026/), [Ohio](/posts/ohio-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+The U.S. Energy Information Administration (EIA) puts Indiana's average residential price at 17.02¢/kWh in August 2026, up 5.0% from 16.21¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $170.20 (1,000 × 17.02¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

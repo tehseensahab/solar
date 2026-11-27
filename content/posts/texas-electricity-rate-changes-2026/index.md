@@ -1,5 +1,6 @@
 ---
 title: "Texas Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/texas/"
 date: 2026-09-30
 lastmod: 2026-11-20
 imageAlt: "Dark solar panels mounted on a brown tiled roof behind a green hedge."
@@ -43,9 +44,7 @@ If you live in a competitive area, two companies affect your bill. Your retail e
 
 The PUC approved a settlement in Oncor's rate case on April 17, 2026. Oncor says the new rates took effect June 1, 2026, and estimates the increase at about 3% of the total bill. Oncor may also surcharge the difference between the new and old rates for January 1 through the June start date. Oncor says it will recover that through a separate filing during 2026.
 
-Oncor also filed its first "tracker" request on April 22, 2026, asking for an interim rate update tied to about $4.4 billion of 2025 grid investment. Oncor expected a final order and updated rates in the second half of 2026. We could not confirm a decision or an effective date.
-
-**Update, Nov. 20, 2026:** Oncor's tariff shows higher transmission and distribution recovery charges for bills rendered on and after Oct. 4, 2026, plus a temporary surcharge of 0.3633 cents per kWh from Aug. 1 through December 2026. By our math, Oncor's delivery charges at 1,000 kWh are now $72.73 a month, up from $60.41 before June 1. Trade press reports the Oct. 4 rates are temporary pending a PUC final order. Details in our [Oncor rate increase 2026 breakdown](/posts/oncor-rate-increase-2026/), sourced to [Oncor's tariff](https://www.oncor.com/content/dam/oncorwww/documents/about-us/regulatory/tariff-and-rate-schedules/Tariff%20for%20Retail%20Delivery%20Service.pdf).
+Oncor also filed its first "tracker" request on April 22, 2026, asking for an interim rate update tied to about $4.4 billion of 2025 grid investment. Oncor expected a final order and updated rates in the second half of 2026. Oncor's tariff shows higher transmission and distribution recovery charges for bills rendered on and after Oct. 4, 2026, plus a temporary surcharge of 0.3633 cents per kWh from Aug. 1 through December 2026. By our math, Oncor's delivery charges at 1,000 kWh are now $72.73 a month, up from $60.41 before June 1. Trade press reports the Oct. 4 rates are temporary pending a PUC final order. Details in our [Oncor rate increase 2026 breakdown](/posts/oncor-rate-increase-2026/), sourced to [Oncor's tariff](https://www.oncor.com/content/dam/oncorwww/documents/about-us/regulatory/tariff-and-rate-schedules/Tariff%20for%20Retail%20Delivery%20Service.pdf).
 
 ## How Much Could Your Electric Bill Change?
 
@@ -55,29 +54,19 @@ Oncor's estimate is about $4.64 more per month for a customer using 1,000 kWh a 
 
 Oncor's rates apply to customers in its delivery territory, including much of the Dallas-Fort Worth area, regardless of which retail provider they choose. CenterPoint serves the Houston area. Other regulated utilities, including Entergy Texas, SWEPCO and El Paso Electric, operate outside the competitive market. We did not verify 2026 changes for them, and this article does not cover them.
 
-## What This Means for Homeowners With Solar
+## Texas Net Metering and Solar Export Credits
 
-Higher delivery charges make electricity you avoid buying more valuable. What you earn for exports depends on your retail plan, so compare buyback terms on the plan's Electricity Facts Label before you sign. We found no change to solar compensation rules in the sources reviewed.
-
-## What Homeowners Should Check on Their Electric Bill
-
-- Your contract end date and whether your plan is fixed or variable.
-- The energy charge (from your provider) and the delivery charge (from your utility) as separate lines.
-- Any temporary surcharge line added during 2026.
-- Whether your plan credits solar exports, and at what rate.
+What you earn for exports depends on your retail plan, so compare buyback terms on the plan's Electricity Facts Label before you sign. We found no change to solar compensation rules in the sources reviewed.
 
 ## What Happens Next?
 
 Watch for the outcome of Oncor's tracker request and for the surcharge line on your bill through the end of 2026. Delivery rates for some Texas utilities are updated on a March/September cycle, so check your utility's current PUC-approved tariff.
 
-**Published:** September 30, 2026
-**Last verified:** September 29, 2026
+## Texas Statewide Average
 
-## Compare With Nearby States
+The U.S. Energy Information Administration (EIA) puts Texas's average residential price at 15.91¢/kWh in August 2026, up 3.3% from 15.40¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $159.10 (1,000 × 15.91¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Texas's average residential price at 15.91¢/kWh in August 2026, up 3.3% from 15.40¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $159.10 (1,000 × 15.91¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Louisiana](/posts/louisiana-electricity-rate-changes-2026/), [New Mexico](/posts/new-mexico-electricity-rate-changes-2026/), [Oklahoma](/posts/oklahoma-electricity-rate-changes-2026/), [Arkansas](/posts/arkansas-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+**Changes since first publication:** Nov. 20, 2026: Oncor delivery charges from Oct. 4 and temporary surcharge.
 
 ## Sources
 

@@ -1,7 +1,9 @@
 ---
 title: "New York Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/new-york/"
 date: 2026-09-30
-lastmod: 2026-10-28
+lastmod: 2026-11-28
+lastVerified: 2026-11-28
 imageAlt: "Row of apartment buildings against a clear sky, with a small solar panel array on one rooftop."
 imageCredit: "Photo by Deyan Sight on [Unsplash](https://unsplash.com/photos/row-of-colorful-apartment-buildings-under-a-clear-sky-UUGBEU6hjX0?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -45,15 +47,16 @@ The PSC's estimates for typical residential customers are about 0.2% (NYSEG elec
 
 Customers in NYSEG and RG&E territory across upstate New York. Con Edison, National Grid, Central Hudson and Orange & Rockland customers are on separate rate plans. The PSC approved a multi-year Con Edison plan covering 2026 through 2028, with its 2026 recovery period starting in February. We did not verify dollar figures for those plans, and this article does not cover them in detail.
 
-## What This Means for Homeowners With Solar
+## New York Net Metering and Solar Export Credits
 
-Delivery charge increases raise the value of the electricity you avoid buying. A final decision could change delivery rates again. We found no change to solar compensation rules in the sources reviewed, so confirm your export credits with your utility.
+The PSC kept Phase One net metering for residential and small commercial systems rather than moving them to a lower export rate.
 
-## What Homeowners Should Check on Their Electric Bill
+- **Credits:** exported kWh are credited under Phase One net metering. Community solar and larger projects are paid under the Value Stack, which this page does not cover.
+- **Monthly charge:** systems interconnected on or after January 1, 2022 pay a Customer Benefit Contribution of $0.69 to $1.09 per kW of capacity a month, depending on utility, customer class and compensation option. Earlier systems are not affected.
+- **On a 7 kW system:** 7 × $0.69 = $4.83 to 7 × $1.09 = $7.63 a month (our math).
+- **State tax credit:** the Solar Energy System Equipment Credit is 25% of qualified equipment costs, up to $5,000, for a system at your principal residence. Purchased, leased and 10-year-plus PPA systems qualify. It is non-refundable; unused credit carries forward up to five years.
 
-- Delivery charges versus supply charges, which appear as separate lines.
-- Any line labeled temporary rate or reconciliation.
-- Whether you buy supply from an energy service company, which sets its own price.
+Delivery increases at NYSEG, RG&E and other utilities raise the value of each kWh a system offsets. In October 2026 the PSC also revoked the eligibility of several distributed energy suppliers, including Sunnova and PosiGen (see our [October session summary](/posts/new-york-psc-october-2026-session/)); check an installer's or financier's standing before you sign.
 
 ## What Happens Next?
 
@@ -61,17 +64,16 @@ Delivery charge increases raise the value of the electricity you avoid buying. A
 
 The PSC is still reviewing the NYSEG and RG&E rate cases, and news coverage expected a final decision in the coming months. Any final action will include a public comment period. Check the PSC's website for the docket.
 
-**Published:** September 30, 2026
-**Last verified:** September 29, 2026
+## New York Statewide Average
 
-## Compare With Nearby States
+The U.S. Energy Information Administration (EIA) puts New York's average residential price at 28.65¢/kWh in August 2026, up 7.5% from 26.64¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $286.50 (1,000 × 28.65¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts New York's average residential price at 28.65¢/kWh in August 2026, up 7.5% from 26.64¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $286.50 (1,000 × 28.65¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Connecticut](/posts/connecticut-electricity-rate-changes-2026/), [New Jersey](/posts/new-jersey-electricity-rate-changes-2026/), [Pennsylvania](/posts/pennsylvania-electricity-rate-changes-2026/), [Massachusetts](/posts/massachusetts-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+**Changes since first publication:** Nov. 28, 2026: net metering and state tax credit details added.
 
 ## Sources
 
+- [NY Department of Public Service, "PSC continues, improves existing solar payment structure"](https://dps.ny.gov/psc-continues-improves-existing-solar-payment-structure-ensure-fairness)
+- [NYS Department of Taxation and Finance, Solar energy system equipment credit](https://tax.ny.gov/pit/credits/solar_energy_system_equipment_credit.htm)
 - NY Department of Public Service, temporary rates (May 14, 2026): https://dps.ny.gov/news/commission-grants-only-fraction-nyseg-and-rge-rate-request-temporary-basis
 - NYSEG electric temporary rate case summary: https://dps.ny.gov/system/files/documents/2026/05/nyseg-electric-temporary-rate-case-summary_0.pdf
 - Con Edison rate case visual supplement: https://dps.ny.gov/system/files/documents/2026/01/con-edison-rate-case-visual-supplement-electric-gas_0.pdf

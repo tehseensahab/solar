@@ -32,7 +32,7 @@ faq:
 
 **PSE&G did not have a large electric rate increase in 2026; its rates were roughly flat. A typical home's bill is about $10 a month lower than it was in January, almost entirely because a temporary $10.00 monthly charge that repaid the summer 2025 credits ended after February. June's $3.23 supply cut at 650 kWh was largely offset by an estimated $3.11 transmission increase, and the October 1 changes roughly cancelled each other out.**
 
-If you searched for a "PSE&G rate increase 2026," you may be remembering that $10 charge, or a different utility. Our [overview of New Jersey electric rates in 2026](/posts/new-jersey-electricity-rate-changes-2026/) covers JCP&L, Atlantic City Electric and Rockland Electric; [JCP&L's pending rate request](/posts/jcpl-rate-increase-request-2026/) is covered separately. This article lists every PSE&G residential electric change in 2026 we could trace to a BPU order or notice, with the docket number and the dollars a month. It covers electric service only, not PSE&G gas.
+If you searched for a "PSE&G rate increase 2026," you may be remembering that $10 charge, or a different utility. Our [overview of New Jersey electric rates in 2026](/rates/new-jersey/) covers JCP&L, Atlantic City Electric and Rockland Electric; [JCP&L's pending rate request](/posts/jcpl-rate-increase-request-2026/) is covered separately. This article lists every PSE&G residential electric change in 2026 we could trace to a BPU order or notice, with the docket number and the dollars a month. It covers electric service only, not PSE&G gas.
 
 ## Every PSE&G Electric Rate Change in 2026
 

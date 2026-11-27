@@ -1,5 +1,6 @@
 ---
 title: "North Carolina Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/north-carolina/"
 date: 2026-10-04
 lastmod: 2026-11-23
 lastVerified: 2026-11-23
@@ -7,27 +8,27 @@ imageAlt: "Cream-sided house with a two-car garage and solar panels on its roof,
 imageCredit: "Photo by Maverick Frame on [Unsplash](https://unsplash.com/photos/a-house-with-solar-panels-a-garage-and-green-landscaping-_Y4Uu2ORpe4?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
 states: ["North Carolina"]
-description: "No new Duke Energy base rates took effect in North Carolina on October 1, 2026. Two pending settlements would raise a 1,000 kWh residential bill by about $9.40 to $9.60 a month on January 1, 2027, if regulators approve them."
+description: "North Carolina regulators approved Duke Energy's two rate settlements on Nov. 16, 2026. Duke projects a 1,000 kWh residential bill rising $6.53 (Carolinas) and $9.62 (Progress) a month on January 1, 2027."
 readtime: "6 min read"
 author: "Tehseen Arbab"
 tags: ["North Carolina", "Duke Energy Carolinas", "Duke Energy Progress", "NCUC", "net metering"]
 takeaways:
-  - "We found no approved Duke Energy base rate change for October 1, 2026 in North Carolina. The decision that matters is still pending at the Utilities Commission."
-  - "Under the proposed settlements, a 1,000 kWh residential bill would rise $9.39 a month at Duke Energy Carolinas and $9.62 at Duke Energy Progress on January 1, 2027, with a second step in 2028."
+  - "The Utilities Commission approved both Duke Energy settlements in orders dated Nov. 16, 2026. Duke expects new rates on January 1, 2027."
+  - "Duke now projects a 1,000 kWh residential bill rising $6.53 a month at Duke Energy Carolinas and $9.62 at Duke Energy Progress in 2027, with a second step in 2028."
   - "Duke first asked for about 18% more from residential customers over two years. The settlements cut that to roughly 9.5% (Carolinas) and 9.3% (Progress)."
   - "Rooftop solar owners still on the original net metering rate are scheduled to move off it on January 1, 2027, under a 2023 commission order."
 faq:
   - q: "Did Duke Energy rates go up in North Carolina on October 1, 2026?"
     a: "We found no approved base rate change for that date. Duke Energy's two North Carolina rate cases were still under review by the Utilities Commission at the end of September 2026. New rates are proposed for January 1, 2027."
   - q: "How much could Duke Energy bills rise in 2027?"
-    a: "If the commission approves the settlements as filed, a residential customer using 1,000 kWh a month would pay $9.39 more at Duke Energy Carolinas and $9.62 more at Duke Energy Progress from January 1, 2027, then a further $5.52 and $5.89 in 2028."
+    a: "Duke projects a residential customer using 1,000 kWh a month will pay $6.53 more at Duke Energy Carolinas and $9.62 more at Duke Energy Progress in 2027 under the approved settlements. The settlements as filed also set a second step in 2028 ($5.52 and $5.89 at filing)."
   - q: "Has the North Carolina Utilities Commission approved the increase?"
-    a: "Not as of this article's verification date. The commission can approve, change or reject the settlements. The Attorney General did not sign either one and is arguing for lower rates."
+    a: "Yes. The commission approved both settlements in written orders dated November 16, 2026, according to Duke's SEC filing. The Attorney General did not sign either settlement."
   - q: "What happens to net metering in North Carolina in 2027?"
     a: "Under the commission's 2023 net metering order, customers on the older net metering riders can stay on them until January 1, 2027. After that they move to a bridge rate or a time-of-use solar rate. The bridge rate was set to be open to new applicants through December 31, 2026."
 ---
 
-No new Duke Energy base rates took effect in North Carolina on October 1, 2026. The change to watch is three months out: two rate cases now before the North Carolina Utilities Commission (NCUC) would raise residential bills on January 1, 2027. Duke has agreed to settlements that cut its original request roughly in half, but the commission has not ruled.
+No new Duke Energy base rates took effect in North Carolina on October 1, 2026. The change comes on January 1, 2027: the North Carolina Utilities Commission (NCUC) approved settlements in Duke's two rate cases on November 16, 2026, cutting its original request roughly in half.
 
 This article covers Duke Energy Carolinas (DEC) and Duke Energy Progress (DEP), which together serve about 3.6 million retail customers in the state. It does not cover Dominion Energy North Carolina, electric cooperatives or city-owned utilities, which set rates separately.
 
@@ -36,10 +37,10 @@ This article covers Duke Energy Carolinas (DEC) and Duke Energy Progress (DEP), 
 | Item | Utility | Date | Status | Residential impact at 1,000 kWh |
 |---|---|---|---|---|
 | Base rates, October 1, 2026 | DEC and DEP | Oct. 1, 2026 | No approved change found | None |
-| Rate case, year 1 | DEC | Jan. 1, 2027 | Proposed settlement, not approved | +$9.39 a month |
-| Rate case, year 2 | DEC | Jan. 1, 2028 | Proposed settlement, not approved | +$5.52 a month |
-| Rate case, year 1 | DEP | Jan. 1, 2027 | Proposed settlement, not approved | +$9.62 a month |
-| Rate case, year 2 | DEP | 2028 | Proposed settlement, not approved | +$5.89 a month |
+| Rate case, year 1 | DEC | Jan. 1, 2027 | Approved Nov. 16, 2026 | +$6.53 a month (Duke projection; $9.39 at filing) |
+| Rate case, year 2 | DEC | Jan. 1, 2028 | Approved Nov. 16, 2026 | +$5.52 a month (at filing) |
+| Rate case, year 1 | DEP | Jan. 1, 2027 | Approved Nov. 16, 2026 | +$9.62 a month |
+| Rate case, year 2 | DEP | 2028 | Approved Nov. 16, 2026 | +$5.89 a month (at filing) |
 | Older net metering riders end | DEC and DEP | Jan. 1, 2027 | Ordered in 2023 | Applies to solar customers only |
 
 Dollar figures are Duke Energy's estimates as reported by North Carolina news outlets. They are not your personal bill.
@@ -101,14 +102,14 @@ The percentages need care, because different numbers describe different things.
 
 ## What Happens Next
 
-- **Update, November 23, 2026:** the commission approved both settlements in written orders dated November 16, 2026, and Duke says it expects new rates on January 1, 2027, according to Duke's [SEC filing](https://www.sec.gov/Archives/edgar/data/0001326160/000110465926128747/tm2629986d1_8k.htm). Duke now projects +$9.62 (DEP) and +$6.53 (DEC) a month at 1,000 kWh in 2027. See our [report on the approved Duke Energy rate increase for 2027](/posts/duke-energy-rate-increase-2027/).
+- **Approved:** the commission approved both settlements in written orders dated November 16, 2026, and Duke says it expects new rates on January 1, 2027, according to Duke's [SEC filing](https://www.sec.gov/Archives/edgar/data/0001326160/000110465926128747/tm2629986d1_8k.htm). Duke now projects +$9.62 (DEP) and +$6.53 (DEC) a month at 1,000 kWh in 2027. See our [report on the approved Duke Energy rate increase for 2027](/posts/duke-energy-rate-increase-2027/).
 - **The decision:** the commission can approve, modify or reject each settlement. Expert hearings ran in July and August 2026. As of September 30, 2026, published reports still described the rate cases as under review. We found no final order.
 - **January 1, 2027:** the proposed effective date for new rates.
 - **One utility instead of two:** Duke has proposed combining DEC and DEP, with a target date of January 1, 2027. This needs state and federal approval. We did not confirm its current status.
 - **Data centers:** the commission is separately writing rules for how very large customers pay for the power and grid upgrades they need.
 - **Fuel riders:** Duke adjusts fuel and other riders every year in separate proceedings. Those changes can move bills up or down on top of base rates. We did not find the 2026 rider decisions.
 
-## What This Means for Homeowners With Solar
+## North Carolina Net Metering and Solar Export Credits
 
 North Carolina replaced traditional net metering for new Duke customers under an NCUC order in Docket E-100, Sub 180 (March 2023). Three things matter now:
 
@@ -122,23 +123,15 @@ For payback, the point is the same as in other net billing states: a kWh you use
 
 Duke's PowerPair incentive for solar plus a battery has been reported as fully subscribed in DEP territory with capacity remaining in DEC territory. Confirm availability with Duke before counting on it.
 
-## What to Check on Your Bill
-
-1. **Which utility you have.** DEC and DEP have different rates and different proposed increases.
-2. **Your rate schedule.** The figures above are for the standard residential schedule at 1,000 kWh. Time-of-use customers will see different effects.
-3. **The basic customer charge** and whether it changes in the final order.
-4. **Rider lines**, especially fuel. See our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
-5. **If you have solar:** which rider you are on, and whether you need to choose a rate before January 1, 2027.
-
 ## Limitations
 
 We could not open Duke Energy's tariff sheets or the commission's docket files directly for this article, so the settlement figures come from Duke's news releases, the Attorney General's office and North Carolina news reports. We did not verify the 2026 fuel and rider changes, the current DEP bill at 1,000 kWh, or the status of the utility combination. The solar figures come from the commission's 2023 order and may not match today's tariff sheets. This article will be updated when the commission issues its orders.
 
-## Compare With Nearby States
+## North Carolina Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts North Carolina's average residential price at 14.95¢/kWh in August 2026, up 2.5% from 14.59¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $149.50 (1,000 × 14.95¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+The U.S. Energy Information Administration (EIA) puts North Carolina's average residential price at 14.95¢/kWh in August 2026, up 2.5% from 14.59¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $149.50 (1,000 × 14.95¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [South Carolina](/posts/south-carolina-electricity-rate-changes-2026/), [Tennessee](/posts/tennessee-electricity-rate-changes-2026/), [Virginia](/posts/virginia-electricity-rate-changes-2026/), [Georgia](/posts/georgia-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+**Changes since first publication:** Nov. 23, 2026: commission approved both Duke settlements (Nov. 16 orders).
 
 ## Sources
 

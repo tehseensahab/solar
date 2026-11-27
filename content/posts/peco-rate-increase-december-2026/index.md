@@ -31,7 +31,7 @@ faq:
 
 **PECO's supply price for customers on default service rises 10.3% on Dec. 1, 2026, from 11.759 to 12.965 cents per kWh. For a home using 700 kWh a month, that adds about $8.44 a month to the supply part of the bill; at 1,000 kWh it is about $12.06.** The figures come from the Pennsylvania Public Utility Commission's (PUC) Dec. 1 price table. Customers who buy electricity from a competitive supplier are not affected; they pay their contract price.
 
-It is PECO's second supply increase of 2026, after a June 1 rise. For how PECO compares with PPL, Penelec and the state's other utilities, see our [Pennsylvania electric rates and solar overview](/posts/pennsylvania-electricity-rate-changes-2026/).
+It is PECO's second supply increase of 2026, after a June 1 rise. For how PECO compares with PPL, Penelec and the state's other utilities, see our [Pennsylvania electric rates and solar overview](/rates/pennsylvania/).
 
 ## What Is PECO's New Price to Compare?
 

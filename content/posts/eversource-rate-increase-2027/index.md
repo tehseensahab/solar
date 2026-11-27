@@ -31,7 +31,7 @@ faq:
 
 **Eversource's Connecticut Light and Power (CL&P) is asking state regulators for a $727 million annual increase in electric distribution revenue, which the Attorney General says would raise average residential rates about 18%.** Eversource puts that at about $32 a month for a typical home using 700 kWh. The request is pending before the Public Utilities Regulatory Authority (PURA) in Docket No. 26-05-10, with public comment hearings on Nov. 16, Nov. 23 and Dec. 9 and a decision expected around June 28, 2027. Nothing has been approved.
 
-The case covers distribution, the part of the bill that pays for poles, wires and the company's operations, not the standard service supply rate. For this year's supply rate drop and the temporary public benefits credit, see [how Connecticut's supply rates and solar credits changed in 2026](/posts/connecticut-electricity-rate-changes-2026/).
+The case covers distribution, the part of the bill that pays for poles, wires and the company's operations, not the standard service supply rate. For this year's supply rate drop and the temporary public benefits credit, see [how Connecticut's supply rates and solar credits changed in 2026](/rates/connecticut/).
 
 ## What Eversource Is Asking For
 

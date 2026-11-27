@@ -15,7 +15,7 @@ faq:
 ---
 ## How it is calculated
 
-- **Price:** EIA, Electric Power Monthly, [Table 5.6.A](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a), residential average price in cents per kWh. The data month and release date are on our [Rates by State](/rates-by-state/) page. Values are preliminary estimates.
+- **Price:** EIA, Electric Power Monthly, [Table 5.6.A](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a), residential average price in cents per kWh. The data month and release date are on our [Rates by State](/rates/) page. Values are preliminary estimates.
 - **Rank:** states sorted from highest to lowest price; 1 is the highest.
 - **Estimated bill:** monthly kWh × price ÷ 100. Example: 900 kWh × 15.38¢ ÷ 100 = $138.42.
 

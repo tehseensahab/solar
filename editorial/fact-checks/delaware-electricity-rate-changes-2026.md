@@ -11,3 +11,7 @@ SOLAR SECTION ADDED Oct 5, 2026.
 SOLAR, SECONDARY (Delaware Public Media, Mar 17, 2026): 8% cap; SB 239 removes cap; Senate 18-0 with 3 absent; sponsor Sen. Hansen: many utilities already above the cap; to the House.
 NOT VERIFIED: SB 239 final passage; Delmarva tariff; credit rate details and size limit.
 COVER: Unsplash photo WIQtUv49q18 (Troy Mortier). Generic image; location not verified and not claimed to be in this state.
+
+## 2026-11-28 merge check (ranking recovery)
+Net-metering text merged from data/states/delaware.yaml and re-read against the primary source the same day:
+- legis.delaware.gov BillDetail/142864: SB 239 signed 6/10/26, Ch. 288 Vol. 85. Confirmed.

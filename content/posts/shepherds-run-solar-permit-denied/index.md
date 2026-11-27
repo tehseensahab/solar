@@ -61,7 +61,7 @@ The release does not discuss appeals or next steps for the applicant.
 
 Large solar farms and home solar are regulated separately. This decision does not affect rooftop solar, net metering or community solar subscriptions in New York. It matters more for the state's long-term supply of renewable power and, indirectly, for wholesale prices over time.
 
-For what is changing on New York bills now, see our [New York rate guide](/posts/new-york-electricity-rate-changes-2026/) and [October PSC session summary](/posts/new-york-psc-october-2026-session/).
+For what is changing on New York bills now, see our [New York rate guide](/rates/new-york/) and [October PSC session summary](/posts/new-york-psc-october-2026-session/).
 
 ## Limitations
 

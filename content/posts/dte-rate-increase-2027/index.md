@@ -31,7 +31,7 @@ faq:
 
 **DTE Electric is asking Michigan regulators for about $474.3 million a year in new base electric revenue. Its application estimates a residential summer bill would rise $22.13 a month at 1,000 kWh, or $11.06 at 500 kWh, if the full request were approved.** The request (MPSC case U-22046) was filed April 28, 2026, and has not been decided. Michigan Public Service Commission (MPSC) staff has recommended about half the amount, and the state Attorney General has recommended much less.
 
-DTE filed this request about two months after the MPSC approved a $242.4 million increase in February in an earlier case. For how both DTE and Consumers Energy rates have moved this year, and how Michigan credits rooftop solar, see our [guide to Michigan electric rate changes in 2026](/posts/michigan-electricity-rate-changes-2026/).
+DTE filed this request about two months after the MPSC approved a $242.4 million increase in February in an earlier case. For how both DTE and Consumers Energy rates have moved this year, and how Michigan credits rooftop solar, see our [guide to Michigan electric rate changes in 2026](/rates/michigan/).
 
 ## What DTE Is Asking For
 
@@ -86,7 +86,7 @@ That is a conditional statement about future filings, not a freeze. Rates can st
 
 **If you are a DTE customer:** nothing changes on your bill until the MPSC rules. Check your bill for your actual monthly kWh. At 1,000 kWh in summer, DTE's own estimate for the full request is $22.13 a month. The final number would be lower if the MPSC lands anywhere near the staff or Attorney General recommendations, but that is not certain.
 
-**If you have or are considering rooftop solar:** under Michigan's distributed generation program, DTE credits power you send to the grid based on the power supply part of the rate, not the distribution part, as our [Michigan guide](/posts/michigan-electricity-rate-changes-2026/) explains. A rate case that raises distribution charges increases the value of solar power you use in your home as it is produced, but does less for exported power. This request also includes generation projects, which could raise the power supply part of the rate that sets export credits; the final order will show how the increase is split. Sizing a system to match daytime use, or adding a battery, matters more as that gap widens. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how to run the numbers with your own rate and export credit.
+**If you have or are considering rooftop solar:** under Michigan's distributed generation program, DTE credits power you send to the grid based on the power supply part of the rate, not the distribution part, as our [Michigan guide](/rates/michigan/) explains. A rate case that raises distribution charges increases the value of solar power you use in your home as it is produced, but does less for exported power. This request also includes generation projects, which could raise the power supply part of the rate that sets export credits; the final order will show how the increase is split. Sizing a system to match daytime use, or adding a battery, matters more as that gap widens. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how to run the numbers with your own rate and export credit.
 
 For the other big Michigan utility's pending case, see our article on the [Consumers Energy rate increase request for 2027](/posts/consumers-energy-electric-rate-increase-2027/).
 

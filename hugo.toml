@@ -29,7 +29,7 @@ copyright = "Solar Examiner"
 
 [[menu.main]]
   name = "Rates by State"
-  url = "/rates-by-state/"
+  url = "/rates/"
   weight = 20
 
 [[menu.main]]

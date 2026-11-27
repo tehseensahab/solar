@@ -1,8 +1,9 @@
 ---
 title: "South Carolina Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/south-carolina/"
 date: 2026-10-04
 lastmod: 2026-11-01
-lastVerified: 2026-10-04
+lastVerified: 2026-11-01
 imageAlt: "Two-story house with dark solar panels on its roof and more panels set on the front lawn."
 imageCredit: "Photo by Zendure Power Station on [Unsplash](https://unsplash.com/photos/a-house-with-solar-panels-on-the-roof-lspvbK-OIkU?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -85,7 +86,7 @@ This is our estimate from the listed rates, before taxes and any other riders. T
 
 **The basic facilities charge.** At $0.36164 a day it works out to about $11 a month. AARP reported the charge was $9.50 before the case and that Dominion had asked for about $13.
 
-## What This Means for Homeowners With Solar
+## South Carolina Net Metering and Solar Export Credits
 
 New solar customers at Dominion Energy South Carolina go on the Solar Choice rider, which was updated with the July 2026 rate change.
 
@@ -98,25 +99,13 @@ New solar customers at Dominion Energy South Carolina go on the Solar Choice rid
 
 **What it means:** credits are kWh-based within the month but tied to time-of-use periods, so when you produce and use power matters. The $13.50 minimum bill sets a floor that solar cannot reduce.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. The basic facilities charge, now $0.36164 a day.
-2. The energy charge per kWh on bills since July 2026.
-3. The fuel line.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
-
 ## Limitations
 
-Approval and current rates come from Dominion's bill insert. Settlement figures come from news and advocacy reports. We did not open the commission's order, so we did not confirm whether it changed any settlement term. Duke Energy Carolinas and Duke Energy Progress cases in South Carolina were not researched.
+Approval and current rates come from Dominion's bill insert. Settlement figures come from news and advocacy reports. We did not open the commission's order, so we did not confirm whether it changed any settlement term. Duke Energy Carolinas and Duke Energy Progress cases in South Carolina were not researched. Net metering terms on this page were last reviewed on October 5, 2026.
 
-## Compare With Nearby States
+## South Carolina Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts South Carolina's average residential price at 15.76¢/kWh in August 2026, up 4.0% from 15.16¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $157.60 (1,000 × 15.76¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Georgia](/posts/georgia-electricity-rate-changes-2026/), [North Carolina](/posts/north-carolina-electricity-rate-changes-2026/), [Florida](/posts/florida-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+The U.S. Energy Information Administration (EIA) puts South Carolina's average residential price at 15.76¢/kWh in August 2026, up 4.0% from 15.16¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $157.60 (1,000 × 15.76¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

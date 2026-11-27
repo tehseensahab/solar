@@ -38,7 +38,7 @@ Level 2 charging depends on three things: the charger's power, how much energy y
 ## Where the defaults come from
 
 - **27 kWh per 100 miles** is the example efficiency in DOE's [Alternative Fuels Data Center, Charging at home](https://afdc.energy.gov/fuels/electricity-charging-home). Cars vary widely.
-- **Electric rate:** the U.S. average is EIA's residential average price for August 2026 (18.16¢ per kWh, Electric Power Monthly Table 5.6.A, preliminary). Choosing a state fills in that state's August 2026 EIA average. These are statewide averages across all utilities; your bill's rate is better. See [rates by state](/rates-by-state/).
+- **Electric rate:** the U.S. average is EIA's residential average price for August 2026 (18.16¢ per kWh, Electric Power Monthly Table 5.6.A, preliminary). Choosing a state fills in that state's August 2026 EIA average. These are statewide averages across all utilities; your bill's rate is better. See [rates by state](/rates/).
 - **Breaker rule:** DOE's AFDC says the NEC treats EV charging as a continuous load. The 125% figure is the common application of that rule, not a substitute for an electrician's sizing.
 - **10% losses** is our assumption, not a measurement.
 
@@ -46,5 +46,5 @@ Level 2 charging depends on three things: the charger's power, how much energy y
 
 - Charge time assumes a constant rate. Cars slow down as the battery fills and in cold weather.
 - Cost uses one flat rate. Time-of-use plans, demand charges and fixed charges are not modeled, except through the optional off-peak comparison.
-- The federal 30C charger credit covered property placed in service through June 30, 2026, per the IRS, so it does not apply to a charger installed now. Installation costs are not included. See [rate guides](/rates-by-state/).
+- The federal 30C charger credit covered property placed in service through June 30, 2026, per the IRS, so it does not apply to a charger installed now. Installation costs are not included. See [rate guides](/rates/).
 - Not electrical, tax or financial advice. Hire a licensed electrician.

@@ -1,8 +1,9 @@
 ---
 title: "New Mexico Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/new-mexico/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Solar panels on a clay tile roof with a faint rainbow in the sky behind."
 imageCredit: "Photo by Joshua Bowers on [Unsplash](https://unsplash.com/photos/a-solar-panel-on-a-roof-with-a-rainbow-in-the-background-0SyvPKyZc-M?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -63,7 +64,7 @@ El Paso Electric serves Las Cruces and southern New Mexico.
 
 Xcel Energy disclosed a $90 million rate stipulation for Southwestern Public Service in New Mexico in 2026. We saw only the headline of that filing, so we give no bill impact.
 
-## What This Means for Homeowners With Solar
+## New Mexico Net Metering and Solar Export Credits
 
 PNM customers have net metering at the retail rate.
 
@@ -73,25 +74,13 @@ PNM customers have net metering at the retail rate.
 
 **What it means:** New Mexico is one of the stronger states for payback: retail-rate credits, a state credit that partly replaces the expired federal one, and a retail rate that rose in 2025 and again in April 2026.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. The customer charge.
-2. The energy charge blocks. Compare March and April 2026 to see the PNM step.
-3. The fuel and purchased power line.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
-
 ## Limitations
 
-PNM figures come from the PRC's customer notice, which gives a dollar amount but no percentage. El Paso Electric figures come from a TV report. We did not open the dockets.
+PNM figures come from the PRC's customer notice, which gives a dollar amount but no percentage. El Paso Electric figures come from a TV report. We did not open the dockets. Net metering terms on this page were last reviewed on October 5, 2026.
 
-## Compare With Nearby States
+## New Mexico Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts New Mexico's average residential price at 16.51¢/kWh in August 2026, up 3.3% from 15.98¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $165.10 (1,000 × 16.51¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arizona](/posts/arizona-electricity-rate-changes-2026/), [Colorado](/posts/colorado-electricity-rate-changes-2026/), [Texas](/posts/texas-electricity-rate-changes-2026/), [Oklahoma](/posts/oklahoma-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+The U.S. Energy Information Administration (EIA) puts New Mexico's average residential price at 16.51¢/kWh in August 2026, up 3.3% from 15.98¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $165.10 (1,000 × 16.51¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

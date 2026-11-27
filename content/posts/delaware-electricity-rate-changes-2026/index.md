@@ -1,8 +1,9 @@
 ---
 title: "Delaware Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/delaware/"
 date: 2026-10-04
-lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastmod: 2026-11-28
+lastVerified: 2026-11-28
 imageAlt: "Row of modern townhouses with garages and dark solar panels on a larger roof behind."
 imageCredit: "Photo by Troy Mortier on [Unsplash](https://unsplash.com/photos/modern-townhouses-with-garages-and-solar-panels-WIQtUv49q18?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -24,7 +25,7 @@ faq:
   - q: "Is another Delmarva increase coming?"
     a: "Delmarva filed a base rate case in December 2025 seeking $67.8 million a year. Delaware's Public Advocate has also asked regulators to dismiss a separate $37 million Delmarva application."
   - q: "Does Delaware have net metering?"
-    a: "Yes. Surplus solar earns bill credits. State law has capped net metering at 8% of a utility's peak demand, and Senate Bill 239, which removes the cap, passed the state Senate 18 to 0 in March 2026."
+    a: "Yes. Surplus solar earns bill credits. State law has capped net metering at 8% of a utility's peak demand, and Senate Bill 239, which removes the cap, passed the state Senate 18 to 0 in March 2026 and was signed on June 10, 2026."
 ---
 
 Delaware's main 2026 rate change took effect on June 1, not October 1. Delmarva Power's standard offer service (SOS) rate, the default supply price, rose by about a fifth. A delivery rate case is still open.
@@ -63,38 +64,29 @@ Delmarva cited higher regional supply prices, which it does not control. The sta
 
 Delmarva offers a Customer Relief Fund of up to $500 for eligible households.
 
-## What This Means for Homeowners With Solar
+## Delaware Net Metering and Solar Export Credits
 
-Delaware offers net metering, with a cap that lawmakers moved to remove in 2026.
+Delaware offers net metering with credits against later use, and a 2026 law removed its cap.
 
 - **Credits:** surplus solar earns credits against later use.
 - **The cap:** state law has limited net metering to 8% of a utility's peak demand. The bill's sponsor said many utilities are already above the cap and still accepting applications.
-- **Senate Bill 239:** removes the 8% cap. It passed the Senate 18 to 0 in March 2026 and went to the House. We did not confirm final passage.
+- **Senate Bill 239:** removes the 8% cap. It passed the Senate 18 to 0 in March 2026 and was signed on June 10, 2026, per the [Delaware General Assembly bill page](https://legis.delaware.gov/BillDetail/142864). We have not read Delmarva's net metering tariff.
 
 **What it means:** with credits at the retail rate, the June 2026 supply increase raised the value of each solar kWh. Ask Delmarva Power to confirm in writing that your system will be net metered.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. The supply rate and whether you are on SOS or with a supplier.
-2. The customer charge and distribution rate, which the pending case could change.
-3. The renewable compliance charge.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
-
 ## Limitations
 
-Rates come from a State of Delaware news release and a local news report. We did not open the Public Service Commission's orders, and we did not confirm the status of the base rate case or whether interim rates are in effect.
+Rates come from a State of Delaware news release and a local news report. We did not open the Public Service Commission's orders, and we did not confirm the status of the base rate case or whether interim rates are in effect. Net metering terms on this page were last reviewed on October 5, 2026.
 
-## Compare With Nearby States
+## Delaware Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Delaware's average residential price at 18.70¢/kWh in August 2026, up 11.0% from 16.85¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $187.00 (1,000 × 18.70¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
+The U.S. Energy Information Administration (EIA) puts Delaware's average residential price at 18.70¢/kWh in August 2026, up 11.0% from 16.85¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $187.00 (1,000 × 18.70¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Maryland](/posts/maryland-electricity-rate-changes-2026/), [New Jersey](/posts/new-jersey-electricity-rate-changes-2026/), [Pennsylvania](/posts/pennsylvania-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+**Changes since first publication:** Nov. 28, 2026: SB 239 signed June 10, 2026.
 
 ## Sources
 
+- [Delaware General Assembly, Senate Bill 239](https://legis.delaware.gov/BillDetail/142864)
 - [State of Delaware, "Upcoming Electricity Rate Increase Adds to Cost Increases for Delmarva Customers," April 6, 2026](https://news.delaware.gov/2026/04/06/upcoming-electricity-rate-increase-adds-to-cost-increases-for-delmarva-customers/)
 - [WBOC, "Delmarva Power expects higher bills for Delaware customers following new rates filing"](https://www.wboc.com/news/delmarva-power-expects-higher-bills-for-delaware-customers-following-new-rates-filing/article_d1083f96-f31a-47dd-8c7e-22e38bdafe92.html)
 - [Delaware Division of the Public Advocate, statement on Delmarva Power's SOS filing, April 9, 2026](https://publicadvocate.delaware.gov/2026/04/09/dpas-statement-on-delmarva-powers-sos-filing/)

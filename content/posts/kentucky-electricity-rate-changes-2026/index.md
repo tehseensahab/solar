@@ -1,8 +1,9 @@
 ---
 title: "Kentucky Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/kentucky/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Line of transmission towers crossing open fields at dusk."
 imageCredit: "Photo by Alexandru Boicu on [Unsplash](https://unsplash.com/photos/landscape-photography-of-electric-towers-under-a-calm-blue-sky-h0z0ptvGVR8?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -56,7 +57,7 @@ Typical usage: 1,085 kWh a month for KU and 866 kWh for LG&E, per the PSC. (Case
 
 These divide the PSC's typical bills by typical usage. They include fixed charges, so they are not the tariff energy rate.
 
-## What This Means for Homeowners With Solar
+## Kentucky Net Metering and Solar Export Credits
 
 The February 2026 rate order also decided what LG&E and Kentucky Utilities pay for rooftop solar exports.
 
@@ -67,26 +68,13 @@ The February 2026 rate order also decided what LG&E and Kentucky Utilities pay f
 
 **What it means:** Kentucky credits exports in dollars at a rate the PSC sets, not kWh for kWh, so that rate decides payback. Get the current tariff sheet for your utility before sizing a system.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. The basic service charge.
-2. The energy charge per kWh since the February order.
-3. Fuel adjustment and environmental surcharge lines, which change monthly.
-4. Any refund credit.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
-
 ## Limitations
 
-We did not find the exact effective date of the new rates, the basic service charge or the new solar compensation rate. Kentucky Power and Duke Energy Kentucky were not researched.
+We did not find the exact effective date of the new rates, the basic service charge or the new solar compensation rate. Kentucky Power and Duke Energy Kentucky were not researched. Net metering terms on this page were last reviewed on October 5, 2026.
 
-## Compare With Nearby States
+## Kentucky Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Kentucky's average residential price at 13.80¢/kWh in August 2026, up 5.3% from 13.10¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $138.00 (1,000 × 13.80¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Indiana](/posts/indiana-electricity-rate-changes-2026/), [Ohio](/posts/ohio-electricity-rate-changes-2026/), [Tennessee](/posts/tennessee-electricity-rate-changes-2026/), [West Virginia](/posts/west-virginia-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+The U.S. Energy Information Administration (EIA) puts Kentucky's average residential price at 13.80¢/kWh in August 2026, up 5.3% from 13.10¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $138.00 (1,000 × 13.80¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

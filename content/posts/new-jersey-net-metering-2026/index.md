@@ -31,7 +31,7 @@ faq:
 
 **Yes, New Jersey still has net metering in 2026. Utilities must credit you for the extra electricity your solar panels send to the grid (PSE&G, for example, banks one credit for each excess kilowatt-hour, or kWh), credits carry forward month to month, and any left at the end of your 12-month year are paid at the avoided cost of wholesale power.** State regulators have the legal power to change this for new customers, and they opened a review in November 2024. As of Nov. 21, 2026 we found no successor policy adopted.
 
-This guide covers the rule today, the 5.8% trigger in state law, every dated step in the Board of Public Utilities (BPU) review, what each side proposed and what it could mean if you are about to sign a solar contract. For supply and delivery rates by utility, see [our 2026 guide to New Jersey utility rates](/posts/new-jersey-electricity-rate-changes-2026/).
+This guide covers the rule today, the 5.8% trigger in state law, every dated step in the Board of Public Utilities (BPU) review, what each side proposed and what it could mean if you are about to sign a solar contract. For supply and delivery rates by utility, see [our 2026 guide to New Jersey utility rates](/rates/new-jersey/).
 
 ## How Does Net Metering Work in New Jersey Now?
 

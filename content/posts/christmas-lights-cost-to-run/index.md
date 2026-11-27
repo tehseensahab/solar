@@ -114,7 +114,7 @@ For a sense of how holiday lights compare with your other uses, see [how much el
 | Important claim | Source | Status |
 |---|---|---|
 | U.S. average residential price 18.16 cents per kWh, August 2026, released Oct. 23, 2026 | [EIA Electricity Monthly Update](https://www.eia.gov/electricity/monthly/update/end-use.php) | Verified |
-| State averages, August 2026 (Nevada 12.72, California 29.75, Hawaii 47.18) | EIA Electric Power Monthly, Table 5.6.A, released Oct. 23, 2026 (as stored on our [state price pages](/posts/hawaii-electricity-rate-changes-2026/)) | Verified |
+| State averages, August 2026 (Nevada 12.72, California 29.75, Hawaii 47.18) | EIA Electric Power Monthly, Table 5.6.A, released Oct. 23, 2026 (as stored on our [state price pages](/rates/hawaii/)) | Verified |
 | 100 incandescent mini lights, 40.8 W; up to 5 strings end to end | [Bulb America product listing](https://www.bulbamerica.com/products/100-clear-mini-lights-green-wire-2-5-spacing) | Verified (product listing) |
 | 100 LED mini lights, 4.8 W, 0.04 A, 120 V; up to 43 sets, not to exceed 210 W | [Christmas Central product listing](https://www.christmascentral.com/set-of-100-red-led-mini-christmas-lights-4-spacing-white-wire-32605401/) | Verified (product listing) |
 | C9 incandescent bulb, 7 W | [1000Bulbs product listing](https://www.1000bulbs.com/product/63604/IN-07C9NCW-25PK.html) | Verified (product listing) |

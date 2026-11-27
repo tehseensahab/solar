@@ -30,7 +30,7 @@ faq:
 
 **Charging an electric car at home costs about 6.4 cents a mile at the U.S. average residential electricity price of 18.16 cents per kWh (EIA, August 2026), for an EV that uses 35 kWh per 100 miles.** Drive 1,000 miles in a month and that is about $64. Your number depends on three things: how efficient your car is, how far you drive, and what you pay per kWh.
 
-This guide shows the formula, works it for small, mid-size and large EVs, compares it with gasoline, and explains how time-of-use rates and solar change the result. To find your state's average price, see our [electricity rates by state](/rates-by-state/) list.
+This guide shows the formula, works it for small, mid-size and large EVs, compares it with gasoline, and explains how time-of-use rates and solar change the result. To find your state's average price, see our [electricity rates by state](/rates/) list.
 
 ## The Formula
 
@@ -78,7 +78,7 @@ Rates vary far more than car efficiency. These examples use EIA's August 2026 st
 | California | 29.75 | $104.13 |
 | Hawaii | 47.18 | $165.13 |
 
-State averages blend every utility in the state, and EIA's monthly figures are preliminary. Our state rate pages, such as [California](/posts/california-electricity-rate-changes-2026/), break down what is changing at individual utilities.
+State averages blend every utility in the state, and EIA's monthly figures are preliminary. Our state rate pages, such as [California](/rates/california/), break down what is changing at individual utilities.
 
 ## EV Charging vs. Gasoline
 

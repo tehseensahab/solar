@@ -69,7 +69,7 @@ Attorney General Dana Nessel's office, which intervened, had urged the MPSC to h
 
 ## Michigan Energy Costs in Context
 
-- **Consumers electric:** a $276.6 million increase took effect May 1, 2026, and a new electric case is pending. See our [Michigan rate guide](/posts/michigan-electricity-rate-changes-2026/).
+- **Consumers electric:** a $276.6 million increase took effect May 1, 2026, and a new electric case is pending. See our [Michigan rate guide](/rates/michigan/).
 - **Winter heating:** EIA forecasts natural gas spending in Midwest homes heated with gas to fall about 10% this winter compared with last, mainly because of lower commodity prices. A higher distribution rate offsets part of that for Consumers customers. See our [winter heating forecast](/posts/winter-heating-costs-2026-27/).
 
 ## What Customers Can Do

@@ -30,7 +30,7 @@ faq:
 
 **U.S. homes used an average of 839 kWh a year to run their refrigerators in 2020, according to the Energy Information Administration (EIA). At the U.S. average residential price of 18.16 cents per kWh for August 2026, that is about $152 a year, $12.70 a month or 42 cents a day.** The main refrigerator accounts for most of it (about $112 a year); a second fridge averages about $90 a year and a separate freezer about $104.
 
-A refrigerator never turns off, so its cost shows up on every bill. This guide shows the math by day, month and year, what a second fridge or freezer adds, how to read the EnergyGuide label, and when replacing an old unit pays. To find your own rate, see our [electricity rates by state](/rates-by-state/) page.
+A refrigerator never turns off, so its cost shows up on every bill. This guide shows the math by day, month and year, what a second fridge or freezer adds, how to read the EnergyGuide label, and when replacing an old unit pays. To find your own rate, see our [electricity rates by state](/rates/) page.
 
 ## The Formula
 

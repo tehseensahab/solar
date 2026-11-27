@@ -30,7 +30,7 @@ faq:
 
 **The CPUC approved an interim PG&E rate increase for 2027: up to $456 million starting January 1, 2027.** The California Public Utilities Commission voted on Nov. 19, 2026, and NBC Bay Area reported the increase adds about $6 a month to the average bill. It is a stopgap while regulators finish PG&E's 2027 general rate case, so it is not the last change customers will see in 2027.
 
-For a typical home, three main things will shape January's bill: this interim increase, a separate pending case on PG&E's fuel and power-purchase costs, and PG&E's final Jan. 1 rate filing, due in late December. Here is what is approved, what is still requested, and how to read your own bill. For PG&E's current rates in context with other California utilities, see our [guide to California electric rates and rooftop solar](/posts/california-electricity-rate-changes-2026/).
+For a typical home, three main things will shape January's bill: this interim increase, a separate pending case on PG&E's fuel and power-purchase costs, and PG&E's final Jan. 1 rate filing, due in late December. Here is what is approved, what is still requested, and how to read your own bill. For PG&E's current rates in context with other California utilities, see our [guide to California electric rates and rooftop solar](/rates/california/).
 
 ## What did the CPUC approve for PG&E?
 

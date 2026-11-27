@@ -1,7 +1,8 @@
 ---
 title: "Ohio Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/ohio/"
 date: 2026-09-30
-lastmod: 2026-10-28
+lastmod: 2026-11-13
 lastVerified: 2026-11-13
 draft: false
 author: "Tehseen Arbab"
@@ -28,8 +29,6 @@ faq:
     a: "No verified change. AEP Ohio says its $0.1012 per kWh default supply rate took effect June 1, 2026 and stays in effect through May 31, 2027."
   - q: "How much did AES Ohio bills go up in 2026?"
     a: "AES Ohio's estimate is $14.06 more per month, or 7.5%, for a default-supply residential customer using 1,000 kWh, starting June 1, 2026."
-  - q: "Do these rates apply if I chose a supplier?"
-    a: "No. They apply only to customers on the utility's default supply. Supplier and government aggregation customers pay their contract rate. Delivery charges are the same either way."
   - q: "How does net metering work in Ohio?"
     a: "Under rules the Public Utilities Commission of Ohio settled in December 2018, utilities credit excess generation for the energy portion of the supply rate, not capacity or delivery. Systems can be sized up to 120% of a customer's annual use, and customers of competitive suppliers remain eligible."
 ---
@@ -65,7 +64,7 @@ AES Ohio's official estimate is +$14.06 per month (7.5%) for a customer using 1,
 
 Only customers on their utility's default supply. Ohio lets you choose a certified supplier (compare offers at energychoice.ohio.gov), and many cities run government aggregation programs. Those customers' supply rates are set by contract. Delivery charges are set by PUCO and are the same regardless of supplier.
 
-## What This Means for Homeowners With Solar
+## Ohio Net Metering and Solar Export Credits
 
 Ohio's investor-owned utilities must offer net metering, but an exported kWh is credited at less than the full default supply rate.
 
@@ -77,14 +76,7 @@ Ohio's investor-owned utilities must offer net metering, but an exported kWh is 
 
 **What it means:** the June 1 supply increases were driven by capacity costs, which is the part an exported kWh does not earn. A kWh used in the house avoids the whole supply rate plus the per-kWh delivery charges. We did not find the current cents-per-kWh credit for each utility, and the sources for these rules date from 2017 to 2019, so confirm them against your utility's net metering tariff.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What Homeowners Should Check on Their Electric Bill
-
-1. **The "price to compare"** printed on your bill, and the dates it applies.
-2. **Whether you are on default supply, a supplier or a city aggregation program.**
-3. **Supplier contract term, fixed or variable rate, and early termination fee.**
-4. **Delivery and rider charges**, which are separate from supply.
+Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## What Happens Next
 
@@ -93,11 +85,9 @@ Rules checked October 5, 2026. Solar tariffs change, so confirm the current term
 - **Duke Energy Ohio** has a pending request to raise electric distribution (delivery) rates, Case No. 26-0132-EL-AIR. Duke estimates about $8 a month more at 1,000 kWh; the Ohio Consumers' Counsel puts a typical bill increase at about $8.32. Local PUCO hearings are December 1 and December 10, 2026, and any approved increase would take effect in 2027, per the [OCC fact sheet](https://www.occ.ohio.gov/factsheet/duke-energy-electric-rate-increase-26-0132-el-air). Details: [Duke Energy Ohio rate increase request](/posts/duke-energy-ohio-rate-increase-2026/). (Updated October 23, 2026.)
 - **FirstEnergy (Ohio Edison, The Illuminating Company, Toledo Edison)** filed a three-year distribution rate plan on May 22, 2026, Case No. 26-347-EL-AIR. FirstEnergy estimates $4.26 (Ohio Edison), $5.15 (CEI) and $5.30 (Toledo Edison) more a month each year at about 1,000 kWh; PUCO staff's report is due by Nov. 30 and public hearings are Dec. 2, 9 and 17, 2026, per the [PUCO notice](https://puco.ohio.gov/wps/portal/gov/puco/news/firstenergy-rate-case-hearings-scheduled-2026). Nothing is approved. Details: [FirstEnergy Ohio rate increase request](/posts/firstenergy-ohio-rate-increase-2027/). (Updated November 13, 2026.)
 
-## Compare With Nearby States
+## Ohio Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Ohio's average residential price at 19.38¢/kWh in August 2026, up 10.4% from 17.55¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $193.80 (1,000 × 19.38¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Indiana](/posts/indiana-electricity-rate-changes-2026/), [Kentucky](/posts/kentucky-electricity-rate-changes-2026/), [Michigan](/posts/michigan-electricity-rate-changes-2026/), [Pennsylvania](/posts/pennsylvania-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+The U.S. Energy Information Administration (EIA) puts Ohio's average residential price at 19.38¢/kWh in August 2026, up 10.4% from 17.55¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $193.80 (1,000 × 19.38¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

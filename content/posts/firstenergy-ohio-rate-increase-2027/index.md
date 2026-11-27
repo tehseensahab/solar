@@ -31,7 +31,7 @@ faq:
 
 **FirstEnergy's three Ohio utilities want to raise distribution rates each year from 2027 to 2029. For a typical home using about 1,000 kWh a month that does not shop for supply, the company estimates $4.26 more a month each year at Ohio Edison, $5.15 at The Illuminating Company (CEI) and $5.30 at Toledo Edison.** By the third year, that adds up to $12.78 to $15.90 a month more than today, according to the Office of the Ohio Consumers' Counsel (OCC). Nothing is approved. The Public Utilities Commission of Ohio (PUCO) scheduled public hearings for Dec. 2, 9 and 17, 2026.
 
-The case covers only distribution, the part of the bill that pays for local poles, wires and tree trimming. It does not change the default supply price that was reset on June 1; for those numbers and how Ohio net metering credits work, see [what changed for Ohio electric customers in 2026](/posts/ohio-electricity-rate-changes-2026/).
+The case covers only distribution, the part of the bill that pays for local poles, wires and tree trimming. It does not change the default supply price that was reset on June 1; for those numbers and how Ohio net metering credits work, see [what changed for Ohio electric customers in 2026](/rates/ohio/).
 
 ## What FirstEnergy Is Asking For
 
@@ -93,7 +93,7 @@ For context, Duke Energy Ohio customers in southwest Ohio are in a separate case
 | $4.26 / $5.15 / $5.30 a month each year and 2.2% / 2.6% / 2.8% at about 1,000 kWh, non-shopping; distribution only; $800 million and $83 million a year; assistance funds | [FirstEnergy news release, May 2026](https://www.firstenergycorp.com/newsroom/news_articles/oh-electric-companies-file-three-year-rate-plan.html) | Verified (company estimate) |
 | $12.78 / $15.45 / $15.90 a month by year 3; 2027-2029; nearly 2 million residential consumers | [Office of the Ohio Consumers' Counsel fact sheet](https://occ.ohio.gov/factsheet/firstenergy-rate-increase-26-0347-el-air) | Verified |
 | Yearly dollar figures and $254 million year-one total | Our calculation from the figures above | Verified (math) |
-| Net metering credits at the energy part of supply; supply reset June 1, 2026 | [Our Ohio rate page](/posts/ohio-electricity-rate-changes-2026/) and its sources | Qualified (internal) |
+| Net metering credits at the energy part of supply; supply reset June 1, 2026 | [Our Ohio rate page](/rates/ohio/) and its sources | Qualified (internal) |
 
 ## Limitations
 

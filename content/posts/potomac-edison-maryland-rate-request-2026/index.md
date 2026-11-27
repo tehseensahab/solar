@@ -84,10 +84,10 @@ The PSC will review the case through testimony from its staff, the Office of Peo
 
 1. **No change yet.** Rates change only after a PSC order.
 2. **Supply is separate.** This request covers distribution. If you buy supply from a third-party supplier, that price is set by your contract. See [how to compare supplier offers](/posts/how-to-compare-electricity-supplier-offers/).
-3. **For solar owners:** under Maryland's net metering, each solar kWh offsets the retail rate, so a higher distribution charge raises its value. See the solar section of our [Maryland guide](/posts/maryland-electricity-rate-changes-2026/).
+3. **For solar owners:** under Maryland's net metering, each solar kWh offsets the retail rate, so a higher distribution charge raises its value. See the solar section of our [Maryland guide](/rates/maryland/).
 4. **To comment,** watch for a PSC notice of public hearings, or contact the Office of People's Counsel.
 
-Potomac Edison's West Virginia sister case is separate. See our [West Virginia guide](/posts/west-virginia-electricity-rate-changes-2026/).
+Potomac Edison's West Virginia sister case is separate. See our [West Virginia guide](/rates/west-virginia/).
 
 ## Limitations
 

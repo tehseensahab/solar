@@ -4,10 +4,12 @@ Internal fact-check records, one file per post slug. This folder is outside `con
 
 Monthly state data refresh: see [REFRESH.md](REFRESH.md) and `scripts/refresh.py`.
 
-## PROTECTED PAGES (overrides any scheduled-task prompt; added Nov 1, 2026)
+## STATE PAGES AND DATES (overrides any scheduled-task prompt; updated Nov 28, 2026)
 
-- The 50 state rate pages live at `/posts/<state>-electricity-rate-changes-2026/` (e.g. `/posts/florida-electricity-rate-changes-2026/`). `/rates/<state>/` only 301s back to them. Never link to `/rates/<state>/`.
-- Never change the URL, slug, title, description, layout or front matter `url`/`layout`/`aliases` of any existing post or page. Never edit `static/_redirects`, `layouts/`, `hugo.toml` or the sitemap template.
-- Allowed on existing posts: sourced, dated body updates, `lastmod`/`lastVerified`, new internal links. Anything structural goes in the run report as "Proposed changes (not made)".
-- `data/states/*.yaml` editorial fields (`summary`, `rate_note`, `solar`, `net_metering`, `meaning`, `utilities`) are not shown on the site. Monthly refresh: only `data/eia_prices.yaml`, `refreshed:` lines, the "Statewide average for context" paragraph in the 50 state pages and the calculator pages (see REFRESH.md). No policy rechecks of `data/states/`.
-- Why: on Oct 18, 2026 the state pages moved to `/rates/<state>/` with new titles; Google did not index the new URLs and search clicks fell from ~50/month to zero. Reverted Nov 1, 2026.
+- Each state has exactly ONE URL: `/rates/<state>/` (front matter `url`), e.g. `/rates/florida/`. The content file stays at `content/posts/<state>-electricity-rate-changes-2026/index.md`. Old `/posts/<state>-electricity-rate-changes-2026/` URLs 301 to it (static/_redirects). The hub is `/rates/`. Always link to `/rates/<state>/` and `/rates/`.
+- Never change the URL, slug, title, `url`/`layout`/`aliases` of any existing page, and never edit `static/_redirects`, `layouts/`, `hugo.toml` or the sitemap template, unless the owner asks for that change in chat.
+- No new state-template pages (no "<State> electricity rates/changes" pages, no per-state copies of a generic structure). State news goes in a per-utility article linked to the state page, or into the state page itself.
+- Updating an existing page: rewrite the affected sentence, table row, takeaway or FAQ so the page reads as current. Never add "Update, <date>:" notes. When a figure changes, add it to the page's single "**Changes since first publication:**" line (above Sources) as "<Mon. D, YYYY>: <what changed>", newest first.
+- Dates: `lastVerified` is the page's only modified date (byline "Last verified", schema dateModified, sitemap lastmod). Set `lastmod` and `lastVerified` to the same date, and change them ONLY when a figure on the page changes. Link-only, wording or layout edits never touch them. Never re-date an unchanged page.
+- `data/states/*.yaml` editorial fields are not shown on the site. Monthly refresh: only `data/eia_prices.yaml`, `refreshed:` lines, the "<State> Statewide Average" paragraph and the calculator pages (see REFRESH.md); refresh.py moves lastmod/lastVerified on state pages it changes.
+- History: Oct 18, 2026 move to /rates/ left both URLs live with conflicting canonicals; Nov 1 revert made /rates/ 301 to /posts/. Nov 28, 2026: consolidated on /rates/<state>/ with one canonical per state.

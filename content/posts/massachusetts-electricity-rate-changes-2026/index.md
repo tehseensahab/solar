@@ -1,9 +1,10 @@
 ---
 title: "Massachusetts Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/massachusetts/"
 seoTitle: "Eversource & National Grid Rate Changes 2026 in Massachusetts"
 date: 2026-09-30
 lastmod: 2026-10-28
-lastVerified: 2026-09-30
+lastVerified: 2026-10-28
 draft: false
 author: "Tehseen Arbab"
 slug: "massachusetts-electricity-rate-changes-2026"
@@ -65,7 +66,7 @@ One consumer site estimates the Eversource increase at about $10.14 more per mon
 
 Only customers on basic service. According to the Globe, citing the state Department of Energy Resources, more than half of Massachusetts customers are in municipal aggregation programs and roughly another quarter buy from competitive suppliers, so many households were not affected. National Grid and Eversource customers in a city program should check their program's rate.
 
-## What This Means for Homeowners With Solar
+## Massachusetts Net Metering and Solar Export Credits
 
 Massachusetts still offers net metering for home solar, and a typical rooftop system does not need a place under the state's caps.
 
@@ -75,26 +76,16 @@ Massachusetts still offers net metering for home solar, and a typical rooftop sy
 
 **What it means:** because the credit includes the basic service rate, the August 1 increase raised the value of each kWh a net-metered system exports as well as each kWh it offsets. We did not verify the current SMART incentive program rates in this pass, so we do not describe them here.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What Homeowners Should Check on Their Electric Bill
-
-1. **Basic service or a supplier?** Look at the supply section.
-2. **Your supply rate versus basic service**, and any monthly supplier fee.
-3. **Contract end date** if you have a fixed supplier rate.
-4. **Delivery charges** (separate from supply).
-5. **The DPU's seasonal heat pump rate page**, if you have a heat pump.
+Net metering terms on this page were last reviewed on October 5, 2026.
 
 ## What Happens Next
 
 - The next basic service reset is expected around **February 1, 2027** (six-month cycle; not confirmed by a DPU notice).
 - Boston's Community Choice program rate is reportedly locked until December 2027, per the Globe.
 
-## Compare With Nearby States
+## Massachusetts Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Massachusetts's average residential price at 30.48¢/kWh in August 2026, down 0.2% from 30.55¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $304.80 (1,000 × 30.48¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Connecticut](/posts/connecticut-electricity-rate-changes-2026/), [New Hampshire](/posts/new-hampshire-electricity-rate-changes-2026/), [Rhode Island](/posts/rhode-island-electricity-rate-changes-2026/), [New York](/posts/new-york-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+The U.S. Energy Information Administration (EIA) puts Massachusetts's average residential price at 30.48¢/kWh in August 2026, down 0.2% from 30.55¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $304.80 (1,000 × 30.48¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

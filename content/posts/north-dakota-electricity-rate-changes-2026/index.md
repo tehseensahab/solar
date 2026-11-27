@@ -1,8 +1,9 @@
 ---
 title: "North Dakota Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/north-dakota/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Rooftop solar panels in a residential neighborhood with a rainbow over hills behind."
 imageCredit: "Photo by Lara John on [Unsplash](https://unsplash.com/photos/rainbow-over-a-suburban-neighborhood-with-solar-panels-VNIjztzKF_U?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -61,7 +62,7 @@ MDU filed on June 30, 2026 for a 14.5% increase, $34.5 million a year (PSC case 
 
 The news report we used did not say whether the interim increase is refundable if final rates come in lower. Check MDU's customer notice.
 
-## What This Means for Homeowners With Solar
+## North Dakota Net Metering and Solar Export Credits
 
 North Dakota's net metering rule covers investor-owned utilities and pays the avoided cost for surplus.
 
@@ -72,25 +73,13 @@ North Dakota's net metering rule covers investor-owned utilities and pays the av
 
 **What it means:** anything you do not use in the same month earns only the avoided cost. With monthly reconciliation and long, dark winters, size to your summer daytime use.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. MDU customers: an interim rate line starting with September bills.
-2. The basic service charge.
-3. Fuel and transmission riders.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
-
 ## Limitations
 
-Figures come from the North Dakota Monitor. We did not open PSC orders. We did not confirm whether MDU's interim rates are subject to refund.
+Figures come from the North Dakota Monitor. We did not open PSC orders. We did not confirm whether MDU's interim rates are subject to refund. Net metering terms on this page were last reviewed on October 5, 2026.
 
-## Compare With Nearby States
+## North Dakota Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts North Dakota's average residential price at 13.31¢/kWh in August 2026, up 2.6% from 12.97¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $133.10 (1,000 × 13.31¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Minnesota](/posts/minnesota-electricity-rate-changes-2026/), [Montana](/posts/montana-electricity-rate-changes-2026/), [South Dakota](/posts/south-dakota-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+The U.S. Energy Information Administration (EIA) puts North Dakota's average residential price at 13.31¢/kWh in August 2026, up 2.6% from 12.97¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $133.10 (1,000 × 13.31¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

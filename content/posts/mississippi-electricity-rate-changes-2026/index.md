@@ -1,8 +1,9 @@
 ---
 title: "Mississippi Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/mississippi/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Utility pole and power lines beside trees with sunlit clouds overhead."
 imageCredit: "Photo by Albert Zhuang on [Unsplash](https://unsplash.com/photos/utility-pole-and-trees-at-golden-hour-lmn6m1NkDpo?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -55,7 +56,7 @@ In a news release dated August 27, 2026, Entergy said it had filed an additional
 - Fuel costs are recovered separately and change through the year.
 - Entergy plans three new natural gas plants with more than 2,100 megawatts of capacity. Their costs will reach rates in later years.
 
-## What This Means for Homeowners With Solar
+## Mississippi Net Metering and Solar Export Credits
 
 Mississippi uses net billing under a Public Service Commission rule that covers Entergy Mississippi and Mississippi Power.
 
@@ -68,25 +69,13 @@ The guide we read dates from the rule's adoption. The commission revised the rul
 
 **What it means:** exports earn the avoided cost plus a few cents, well under the retail rate. Solar you use yourself is worth more, so size to your own load.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. The customer charge.
-2. The fuel line.
-3. The ad valorem tax adjustment on your October bill.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
-
 ## Limitations
 
-This article relies mainly on an Entergy news release. We did not open Public Service Commission orders or confirm the October decision. Mississippi Power's rates were not researched.
+This article relies mainly on an Entergy news release. We did not open Public Service Commission orders or confirm the October decision. Mississippi Power's rates were not researched. Net metering terms on this page were last reviewed on October 5, 2026.
 
-## Compare With Nearby States
+## Mississippi Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Mississippi's average residential price at 14.43¢/kWh in August 2026, up 6.0% from 13.61¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $144.30 (1,000 × 14.43¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Alabama](/posts/alabama-electricity-rate-changes-2026/), [Arkansas](/posts/arkansas-electricity-rate-changes-2026/), [Louisiana](/posts/louisiana-electricity-rate-changes-2026/), [Tennessee](/posts/tennessee-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+The U.S. Energy Information Administration (EIA) puts Mississippi's average residential price at 14.43¢/kWh in August 2026, up 6.0% from 13.61¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $144.30 (1,000 × 14.43¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

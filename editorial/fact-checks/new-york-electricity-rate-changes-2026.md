@@ -16,3 +16,8 @@ Not published. Lives outside content/.
 | Energy service company supply pricing | Not researched | NOT verified |
 
 Oct 16, 2026: added PSC winter outlook bullet (Oct 15 release).
+
+## 2026-11-28 merge check (ranking recovery)
+Net-metering text merged from data/states/new-york.yaml and re-read against the primary source the same day:
+- dps.ny.gov PSC release: CBC 69 cents to $1.09 per kW a month, systems interconnected on/after Jan 1, 2022; Phase One NEM continues for mass-market. Confirmed.
+- tax.ny.gov: 25% up to $5,000, purchase/lease/10-yr+ PPA, principal residence, 5-yr carryforward, not refundable. Confirmed.

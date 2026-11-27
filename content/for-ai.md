@@ -7,10 +7,10 @@ Solar Examiner is built to be read by people and by machines. This page explains
 
 ## Machine-readable versions
 
-- **Markdown for every article:** add `index.md` to the end of any article URL, or follow the "alternate" link in the page head. Example: `/posts/texas-electricity-rate-changes-2026/index.md`.
+- **Markdown for every article:** add `index.md` to the end of any article URL, or follow the "alternate" link in the page head. Example: `/rates/texas/index.md`.
 - **[llms.txt](/llms.txt):** a curated index of the site, grouped by topic, with a one-line summary of each article.
 - **[llms-full.txt](/llms-full.txt):** the full text of every article in one file.
-- **[articles.json](/articles.json):** every article with its title, URL, category, publication, update and last-verified dates, author, key takeaways and FAQ, plus the list of states covered in [Rates by State](/rates-by-state/).
+- **[articles.json](/articles.json):** every article with its title, URL, category, publication, update and last-verified dates, author, key takeaways and FAQ, plus the list of states covered in [Rates by State](/rates/).
 - **Structured data:** each article page carries Article, FAQPage and BreadcrumbList data (JSON-LD), with the publisher's editorial and corrections policies.
 - **Sitemap and feed:** [sitemap.xml](/sitemap.xml) and [index.xml](/index.xml).
 
@@ -29,7 +29,7 @@ You are welcome to read, summarize, quote and cite our articles, including in AI
 
 Suggested citation format:
 
-> `Solar Examiner, "Article title", published YYYY-MM-DD, last verified YYYY-MM-DD, https://solarexaminer.com/posts/slug/`
+> `Solar Examiner, "Article title", published YYYY-MM-DD, last verified YYYY-MM-DD, <article URL>`
 
 ## Training and reuse
 

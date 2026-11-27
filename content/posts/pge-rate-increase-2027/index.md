@@ -31,7 +31,7 @@ faq:
 
 **Portland General Electric (PGE) is asking Oregon regulators for an overall 4.8% rate increase, which it says would raise residential bills 3.9%, or $8.33 a month for an average home using 780 kWh.** If the Oregon Public Utility Commission (PUC) approves the request as filed, new rates would take effect July 1, 2027. This is a request, not a decision, and the public can comment at a PUC hearing on Nov. 10 at 6 p.m.
 
-The case is docket UE 473. This article covers PGE customers only. For the April 2026 increases at PGE and Pacific Power, and how Oregon net metering works, see our [guide to 2026 Oregon electricity rates and solar](/posts/oregon-electricity-rate-changes-2026/).
+The case is docket UE 473. This article covers PGE customers only. For the April 2026 increases at PGE and Pacific Power, and how Oregon net metering works, see our [guide to 2026 Oregon electricity rates and solar](/rates/oregon/).
 
 ## What PGE Is Asking For
 

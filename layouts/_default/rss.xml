@@ -2,6 +2,8 @@
 {{- $pages := .Pages -}}
 {{- if .IsHome }}{{ $pages = site.RegularPages }}{{ end -}}
 {{- $pages = where $pages "Type" "posts" -}}
+{{- /* State reference pages (front matter url: /rates/<state>/) are evergreen, not feed items. */ -}}
+{{- $pages = where $pages "Params.url" "eq" nil -}}
 {{- $pages = first 50 $pages.ByDate.Reverse -}}
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">

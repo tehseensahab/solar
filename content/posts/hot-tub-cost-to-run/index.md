@@ -78,7 +78,7 @@ The same 1,963 kWh a year at each state's average residential price for August 2
 | Massachusetts | 30.48 | $598.32 | $49.86 |
 | Hawaii | 47.18 | $926.14 | $77.18 |
 
-August prices can differ from your yearly average, and a cold climate raises the kWh too. To use your own state's price, see our [electricity rates by state](/rates-by-state/) page.
+August prices can differ from your yearly average, and a cold climate raises the kWh too. To use your own state's price, see our [electricity rates by state](/rates/) page.
 
 ## What California's Spa Rules Say About Standby Use
 

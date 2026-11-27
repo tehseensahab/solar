@@ -78,7 +78,7 @@ Worked example (our math): $998 per kWh × 13.5 kWh = $13,473 for a Powerwall 3 
 
 ## Incentives
 
-The IRS says the [residential clean energy credit](https://www.irs.gov/credits-deductions/residential-clean-energy-credit) is not available for property placed in service after December 31, 2025. State, local and utility programs vary; check [Rates by State](/rates-by-state/) and your utility. Leased or financed arrangements can be taxed differently; ask the provider for the written basis.
+The IRS says the [residential clean energy credit](https://www.irs.gov/credits-deductions/residential-clean-energy-credit) is not available for property placed in service after December 31, 2025. State, local and utility programs vary; check [Rates by State](/rates/) and your utility. Leased or financed arrangements can be taxed differently; ask the provider for the written basis.
 
 ## How to decide
 

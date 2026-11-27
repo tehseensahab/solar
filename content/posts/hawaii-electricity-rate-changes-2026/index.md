@@ -1,8 +1,9 @@
 ---
 title: "Hawaii Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/hawaii/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Small white house with rooftop solar panels surrounded by tropical trees and garden plots."
 imageCredit: "Photo by VD Photography on [Unsplash](https://unsplash.com/photos/an-aerial-view-of-a-house-with-a-solar-panel-on-the-roof-tC4tHCeoO44?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -62,7 +63,7 @@ Honolulu Civil Beat reported in 2025 that:
 
 Since 2020 Hawaii has used performance-based regulation, which limits increases between rate cases to an inflation-based formula. Energy advocates told Civil Beat that a full rate case weakens that protection.
 
-## What This Means for Homeowners With Solar
+## Hawaii Net Metering and Solar Export Credits
 
 New rooftop solar customers on Hawaiian Electric's islands use the Smart Renewable Energy Export program. Credits depend on the island and the time of day.
 
@@ -82,25 +83,13 @@ Export credits per kWh for 2024 to 2026, from Hawaiian Electric.
 
 **What it means:** on Oahu, a kWh you use yourself avoided about 47.75¢ in May 2026. The same kWh exported at midday earns 13.5¢, and exported in the evening peak earns 32.9¢. That gap is why most new systems in Hawaii include a battery: store midday output, then use or export it after 5 p.m.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. The energy cost recovery line, which moves monthly.
-2. The customer charge and minimum bill.
-3. The green infrastructure fee.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
-
 ## Limitations
 
-We used the May 2026 rate summary and did not find October's. The rate case information is from a 2025 news report, and we did not confirm its current status or proposed amount. The description of Hawaii's solar programs is general background we did not re-verify.
+We used the May 2026 rate summary and did not find October's. The rate case information is from a 2025 news report, and we did not confirm its current status or proposed amount. The description of Hawaii's solar programs is general background we did not re-verify. Net metering terms on this page were last reviewed on October 5, 2026.
 
-## Compare With Nearby States
+## Hawaii Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Hawaii's average residential price at 47.18¢/kWh in August 2026, up 22.5% from 38.53¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $471.80 (1,000 × 47.18¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [California](/posts/california-electricity-rate-changes-2026/), [Alaska](/posts/alaska-electricity-rate-changes-2026/), [Washington](/posts/washington-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+The U.S. Energy Information Administration (EIA) puts Hawaii's average residential price at 47.18¢/kWh in August 2026, up 22.5% from 38.53¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $471.80 (1,000 × 47.18¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

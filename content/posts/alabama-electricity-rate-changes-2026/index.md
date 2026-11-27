@@ -1,8 +1,9 @@
 ---
 title: "Alabama Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/alabama/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Utility poles and bare trees silhouetted against an orange and teal sunset."
 imageCredit: "Photo by Jay Heike on [Unsplash](https://unsplash.com/photos/sunset-over-a-rural-landscape-with-power-lines-ytf2iFVFM6Y?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -68,7 +69,7 @@ Senate Bill 270 took effect on October 1, 2026. Among its provisions, data cente
 
 A charge for a $622 million natural gas plant Alabama Power acquired in 2025 is expected to start in 2028, adding about $3.32 a month to an average bill.
 
-## What This Means for Homeowners With Solar
+## Alabama Net Metering and Solar Export Credits
 
 Alabama has no net metering, and Alabama Power charges solar customers a monthly fee based on system size.
 
@@ -79,25 +80,13 @@ Alabama has no net metering, and Alabama Power charges solar customers a monthly
 
 **What it means:** the fee is owed whether or not you export anything, so it comes straight off your savings. On a 7.2 kW system it is about $467 a year. Run the numbers with the fee included before sizing a system.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. Your kWh this month against the same month last year.
-2. Whether a seasonal tier changed.
-3. Tax lines.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
-
 ## Limitations
 
-We did not open PSC orders or Alabama Power's tariff. The 2028 figures and the governor's extension come from one news outlet.
+We did not open PSC orders or Alabama Power's tariff. The 2028 figures and the governor's extension come from one news outlet. Net metering terms on this page were last reviewed on October 5, 2026.
 
-## Compare With Nearby States
+## Alabama Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Alabama's average residential price at 16.33¢/kWh in August 2026, up 0.4% from 16.26¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $163.30 (1,000 × 16.33¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Georgia](/posts/georgia-electricity-rate-changes-2026/), [Florida](/posts/florida-electricity-rate-changes-2026/), [Mississippi](/posts/mississippi-electricity-rate-changes-2026/), [Tennessee](/posts/tennessee-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+The U.S. Energy Information Administration (EIA) puts Alabama's average residential price at 16.33¢/kWh in August 2026, up 0.4% from 16.26¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $163.30 (1,000 × 16.33¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

@@ -31,7 +31,7 @@ faq:
 
 **FPL net metering trades kWh for kWh: power your panels send to the grid offsets power you take from FPL later, for up to 12 months, at the full per-kWh price on your bill.** Credits still unused at the end of the calendar year become a bill credit at a rate based on FPL's avoided energy cost, not the retail price. You also pay FPL's $30 minimum base bill every month, however much your panels produce.
 
-That combination rewards a system sized to cover most of your own yearly use, not more. This guide walks through the rules in FPL's tariff and Florida's net metering rule, with the numbers. For the rate itself, line by line, see our guide to [FPL rates per kWh and time-of-use hours](/posts/fpl-rates-2026/); for other Florida utilities, see the [Florida electricity rates and solar page](/posts/florida-electricity-rate-changes-2026/).
+That combination rewards a system sized to cover most of your own yearly use, not more. This guide walks through the rules in FPL's tariff and Florida's net metering rule, with the numbers. For the rate itself, line by line, see our guide to [FPL rates per kWh and time-of-use hours](/posts/fpl-rates-2026/); for other Florida utilities, see the [Florida electricity rates and solar page](/rates/florida/).
 
 ## How Does FPL Net Metering Work?
 

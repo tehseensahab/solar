@@ -87,7 +87,7 @@ EIA expects households that heat with natural gas or propane to spend less on th
 - **For solar:** a higher retail rate raises the value of each kWh you produce and use at home. What you earn for exported power depends on your utility's [export credit](/posts/solar-export-credit-rates-by-utility-2026/), which does not automatically rise with retail rates.
 - **For a solar quote:** do not accept a savings estimate built on a rate escalator much above what this outlook shows without asking why. EIA's forecast is +5.2% for 2026 and +2.7% for 2027 nationally. Your utility may differ.
 
-Check your own state's approved and pending changes in our [rates by state](/rates-by-state/) guides.
+Check your own state's approved and pending changes in our [rates by state](/rates/) guides.
 
 ## Limitations
 

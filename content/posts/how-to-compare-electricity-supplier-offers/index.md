@@ -38,7 +38,7 @@ A bill in a choice state has two main parts:
 
 Illinois' state shopping site describes the utility's default supply as provided "without any mark-up or profit." Delivery charges are the same whoever supplies your power.
 
-**Your price to compare** is on your bill or your state's shopping website. In Illinois, ComEd's price to compare for October 2026 to May 2027 is 10.103¢ per kWh. See our [Illinois guide](/posts/illinois-electricity-rate-changes-2026/) and, for Ohio, our [Ohio guide](/posts/ohio-electricity-rate-changes-2026/).
+**Your price to compare** is on your bill or your state's shopping website. In Illinois, ComEd's price to compare for October 2026 to May 2027 is 10.103¢ per kWh. See our [Illinois guide](/rates/illinois/) and, for Ohio, our [Ohio guide](/rates/ohio/).
 
 ## The Formula
 

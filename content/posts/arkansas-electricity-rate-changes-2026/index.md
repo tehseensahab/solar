@@ -1,8 +1,9 @@
 ---
 title: "Arkansas Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/arkansas/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Three transmission towers and a single tree on a green hillside under a clear blue sky."
 imageCredit: "Photo by Spencer DeMera on [Unsplash](https://unsplash.com/photos/a-green-hillside-with-power-lines-and-a-single-tree-2dubeOplsqM?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -63,7 +64,7 @@ On February 27, 2026, Entergy Arkansas asked the Arkansas Public Service Commiss
 
 The Camden News reported in January 2026 that residential rates were rising about $6 a month after the commission approved a 4.54% increase. We could only read the headline, so we report it without detail.
 
-## What This Means for Homeowners With Solar
+## Arkansas Net Metering and Solar Export Credits
 
 Arkansas changed its net metering law in 2023 (Act 278), and the date your system was installed decides which rules you get.
 
@@ -73,25 +74,13 @@ Arkansas changed its net metering law in 2023 (Act 278), and the date your syste
 
 **What it means:** for a new system, only the power you use as it is produced earns the full retail value. Per-kWh riders, including the new construction rider, are avoided by self-use and not by exports. Size to your daytime load.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. The customer charge.
-2. Rider lines added in June 2026.
-3. The energy cost recovery (fuel) line.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
-
 ## Limitations
 
-Figures come from Talk Business & Politics and a newspaper headline. We did not confirm that the commission approved the June rider as filed, and we did not open the dockets. SWEPCO's separate request was not researched.
+Figures come from Talk Business & Politics and a newspaper headline. We did not confirm that the commission approved the June rider as filed, and we did not open the dockets. SWEPCO's separate request was not researched. Net metering terms on this page were last reviewed on October 5, 2026.
 
-## Compare With Nearby States
+## Arkansas Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Arkansas's average residential price at 14.37¢/kWh in August 2026, up 7.8% from 13.33¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $143.70 (1,000 × 14.37¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Louisiana](/posts/louisiana-electricity-rate-changes-2026/), [Missouri](/posts/missouri-electricity-rate-changes-2026/), [Oklahoma](/posts/oklahoma-electricity-rate-changes-2026/), [Tennessee](/posts/tennessee-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+The U.S. Energy Information Administration (EIA) puts Arkansas's average residential price at 14.37¢/kWh in August 2026, up 7.8% from 13.33¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $143.70 (1,000 × 14.37¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

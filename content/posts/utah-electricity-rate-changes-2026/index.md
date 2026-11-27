@@ -1,8 +1,9 @@
 ---
 title: "Utah Electricity Rate Changes: What Changed in 2026 and What's Next"
+url: "/rates/utah/"
 date: 2026-10-04
 lastmod: 2026-10-28
-lastVerified: 2026-10-04
+lastVerified: 2026-10-28
 imageAlt: "Transmission towers silhouetted at sunset with hills on the horizon."
 imageCredit: "Photo by DM David on [Unsplash](https://unsplash.com/photos/power-lines-and-towers-silhouetted-against-a-colorful-sunset-4BGLvNFvfYM?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -66,7 +67,7 @@ The energy charge reflects market conditions and can rise again. The base rate i
 
 Consumer and clean energy advocates did not oppose the outcome so much as the process. Utah's Office of Consumer Services said the public prefers the standard process "with more visibility into the details."
 
-## What This Means for Homeowners With Solar
+## Utah Net Metering and Solar Export Credits
 
 Rocky Mountain Power uses net billing in Utah, with export credits far below the retail rate.
 
@@ -83,25 +84,13 @@ Schedule 137 (Net Billing Service), effective March 1, 2026:
 
 **What it means:** an exported kWh earns 4¢ to 5¢. A kWh you use yourself avoids the full retail energy charge. The July 2026 drop in energy charges slightly lowers what self-use saves. Systems sized to daytime use, or paired with a battery, keep far more of their value.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. The customer service charge.
-2. The energy balancing account line.
-3. Wildfire mitigation charges, which are outside the rate freeze.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
-
 ## Limitations
 
-Figures come from Utah News Dispatch. We did not open the Public Service Commission order, and we did not find the typical usage behind the dollar figures.
+Figures come from Utah News Dispatch. We did not open the Public Service Commission order, and we did not find the typical usage behind the dollar figures. Net metering terms on this page were last reviewed on October 5, 2026.
 
-## Compare With Nearby States
+## Utah Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Utah's average residential price at 13.31¢/kWh in August 2026, down 2.3% from 13.62¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $133.10 (1,000 × 13.31¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arizona](/posts/arizona-electricity-rate-changes-2026/), [Colorado](/posts/colorado-electricity-rate-changes-2026/), [Idaho](/posts/idaho-electricity-rate-changes-2026/), [Nevada](/posts/nevada-electricity-rate-changes-2026/), or the full [rates by state](/rates-by-state/) list.
+The U.S. Energy Information Administration (EIA) puts Utah's average residential price at 13.31¢/kWh in August 2026, down 2.3% from 13.62¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $133.10 (1,000 × 13.31¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 
