@@ -26,8 +26,6 @@ faq:
     a: "The IRS says the residential clean energy credit is not available for property placed in service after December 31, 2025. State and utility programs may apply; confirm with your utility and a tax professional."
 ---
 
-> **Contains affiliate links.** Solar Examiner may earn a commission if you buy through links marked "Check price." Commissions do not affect which products we pick. See our [affiliate disclosure](/affiliate-disclosure/) and [how we pick products](/how-we-pick/).
-
 If you have solar and a time-of-use (TOU) rate, the best battery is the one that lets you **schedule** when it charges and discharges, delivers enough **continuous power** for your evening loads, and fits your utility's **export and interconnection rules**. The Tesla Powerwall 3, FranklinWH aPower 2 and Enphase IQ Battery 10C are the three we compare, using manufacturer documents and published analyses as of October 24, 2026. We did not test them. See [how we pick products](/how-we-pick/).
 
 Before you buy for the spread alone, read the math below. In our worked example it is real but small.
@@ -81,11 +79,11 @@ Our example assumes 90%. We did not find a round-trip efficiency figure in the m
 
 ## Product notes
 
-**Tesla Powerwall 3.** 11.5 kW continuous, 13.5 kWh nominal, 10-year warranty, integrated solar inverter per Tesla's pages, UL 9540 and related listings per the datasheet. Strength: output. Weakness: shortest warranty here. Approx. price: $998 per kWh (EnergySage, Apr 2026); about $15,000 median installed with solar (Solar.com, Sept 2026). <a href="#affiliate-link-pending" rel="sponsored nofollow">Check price</a>
+**Tesla Powerwall 3.** 11.5 kW continuous, 13.5 kWh nominal, 10-year warranty, integrated solar inverter per Tesla's pages, UL 9540 and related listings per the datasheet. Strength: output. Weakness: shortest warranty here. Approx. price: $998 per kWh (EnergySage, Apr 2026); about $15,000 median installed with solar (Solar.com, Sept 2026). 
 
-**FranklinWH aPower 2.** 15 kWh, 10 kW, 15 years or 60 MWh, IP67. Strength: capacity for long windows. Weakness: UL listing not stated on the product page we read. Approx. price: $1,177 per kWh; about $17,250 median installed with solar. <a href="#affiliate-link-pending" rel="sponsored nofollow">Check price</a>
+**FranklinWH aPower 2.** 15 kWh, 10 kW, 15 years or 60 MWh, IP67. Strength: capacity for long windows. Weakness: UL listing not stated on the product page we read. Approx. price: $1,177 per kWh; about $17,250 median installed with solar. 
 
-**Enphase IQ Battery 10C.** 10 kWh, 7.08 kW, 15 years up to 6,000 cycles. Strength: pairs with Enphase microinverters; modular. Weakness: lower output; highest per-kWh price in EnergySage's table. Approx. price: $1,404 per kWh; about $14,250 median installed with solar. <a href="#affiliate-link-pending" rel="sponsored nofollow">Check price</a>
+**Enphase IQ Battery 10C.** 10 kWh, 7.08 kW, 15 years up to 6,000 cycles. Strength: pairs with Enphase microinverters; modular. Weakness: lower output; highest per-kWh price in EnergySage's table. Approx. price: $1,404 per kWh; about $14,250 median installed with solar. 
 
 Price sources: [EnergySage](https://www.energysage.com/solar/solar-energy-storage/what-are-the-best-batteries-for-solar-panels/) (updated Apr 29, 2026) and [Solar.com](https://solar.com/learn/best-solar-batteries/) (updated Oct 1, 2026, before incentives). Prices checked October 24, 2026.
 

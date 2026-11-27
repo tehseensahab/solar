@@ -87,7 +87,7 @@ To estimate your own load, look at what you would truly need in an outage. Runni
 4. **What does an add-on cost if I already have solar?** Compatibility with your existing inverter drives the price. Get the full price including the gateway, any panel work and permits.
 5. **Are there local incentives?** The federal Residential Clean Energy Credit included batteries of at least 3 kWh, but the IRS says it "is not available for any property placed in service after December 31, 2025." Some states and utilities run their own battery programs.
 
-If you are comparing installers, our guide to [comparing solar quotes](/posts/how-to-compare-solar-quotes/) shows how to line up equipment and prices side by side. Our [Enphase IQ8 review](/posts/enphase-iq8-review/) covers that microinverter line in more depth.
+If you are comparing installers, our guide to [comparing solar quotes](/posts/how-to-compare-solar-quotes/) shows how to line up equipment and prices side by side. Our [inverter and microinverter guide](/posts/best-solar-inverters-and-microinverters/) covers that line in more depth.
 
 ## The Bottom Line
 

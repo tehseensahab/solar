@@ -25,8 +25,6 @@ faq:
     a: "DOE says installations must follow local and state codes and permits may be required, and many areas require a site installation plan before work starts. Ask your electrician or local building department."
 ---
 
-> **Contains affiliate links.** Solar Examiner may earn a commission if you buy through links marked "Check price." Commissions do not affect which products we pick. See our [affiliate disclosure](/affiliate-disclosure/) and [how we pick products](/how-we-pick/).
-
 Choose a **plug-in** charger if you want portability and 40 amps (9.6 kW) is enough. Choose **hardwired** if you want up to 48 or 50 amps, a permanent install or no receptacle. The charger is only part of the answer: your panel, wire and breaker set the real limit. Specs are from manufacturer pages and DOE material read on October 24, 2026. We did not test these chargers. See [how we pick products](/how-we-pick/).
 
 ## Side-by-side
@@ -62,16 +60,12 @@ Power (kW) = volts × amps ÷ 1,000.
 
 Plug-in options: ChargePoint Home Flex (NEMA 6-50 or 14-50, 40 A, listed as UL listed and ENERGY STAR certified on ChargePoint's page, 3-year warranty), Wallbox Pulsar Plus 40A (NEMA 14-50 plug install, from $649.99), Grizzl-E Classic 40A ($299.99), Emporia Pro ($599, NEMA plug or hardwire). Prices checked October 24, 2026.
 
-<a href="#affiliate-link-pending" rel="sponsored nofollow">Check ChargePoint price</a> · <a href="#affiliate-link-pending" rel="sponsored nofollow">Check Wallbox price</a>
-
 ## When hardwired makes sense
 
 - You want the highest rate your car and panel allow: 48 A on a 60 A circuit.
 - You are installing outdoors or in a damp garage and want fewer exposed connections. DOE says outdoor installation is allowed with outdoor-rated equipment.
 - The charger will stay put for years.
 - You want a Tesla Wall Connector (up to 11.5 kW, 48-month residential warranty per Tesla) or a hardwired ChargePoint.
-
-<a href="#affiliate-link-pending" rel="sponsored nofollow">Check Tesla Wall Connector price</a>
 
 ## Costs
 

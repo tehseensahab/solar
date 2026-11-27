@@ -25,8 +25,6 @@ faq:
     a: "The IRS says the energy-efficient home improvement credit applies to improvements made through December 31, 2025. EnergySage's June 2026 guide says the federal heat pump credit is gone, while some state rebates still pay out."
 ---
 
-> **Contains affiliate links.** Solar Examiner may earn a commission if you buy through links marked "Check price." Commissions do not affect which products we pick. See our [affiliate disclosure](/affiliate-disclosure/) and [how we pick products](/how-we-pick/).
-
 For cold climates, look at the **lowest rated operating temperature** and **HSPF2**. On published figures, **Carrier Infinity** and **Rheem Endeavor Classic Plus** list the coldest limit (-23°F), and **Mitsubishi Hyper Heat** lists the highest HSPF2 (up to 13.5). Daikin Aurora and Trane's cold-climate model list -13°F. We did not test any heat pump. Figures come from EnergySage's table (updated November 4, 2025), the NEEP specification, ENERGY STAR and DOE, read October 24, 2026. See [how we pick products](/how-we-pick/).
 
 ## Quick picks
@@ -50,19 +48,19 @@ Source: [EnergySage, best cold climate heat pumps](https://energysage.com/heat-p
 ## Product notes
 
 ### Mitsubishi Hyper Heat — highest efficiency
-Listed at -13°F and HSPF2 up to 13.5, the highest in EnergySage's table. We could not read Mitsubishi's own product page, so confirm warranty and exact ratings for your model. <a href="#affiliate-link-pending" rel="sponsored nofollow">Check price</a>
+Listed at -13°F and HSPF2 up to 13.5, the highest in EnergySage's table. We could not read Mitsubishi's own product page, so confirm warranty and exact ratings for your model. 
 
 ### Carrier Infinity System — coldest limit with higher efficiency
-Listed at -23°F and HSPF2 up to 12.5, the second-highest efficiency figure in the table. Confirm the specific outdoor and indoor pairing and the model's exact ratings. <a href="#affiliate-link-pending" rel="sponsored nofollow">Check price</a>
+Listed at -23°F and HSPF2 up to 12.5, the second-highest efficiency figure in the table. Confirm the specific outdoor and indoor pairing and the model's exact ratings. 
 
 ### Rheem Endeavor Classic Plus — coldest limit at lower HSPF2
-Listed at -23°F and HSPF2 up to 10.4. The lower efficiency figure may suit buyers who put the cold limit first. <a href="#affiliate-link-pending" rel="sponsored nofollow">Check price</a>
+Listed at -23°F and HSPF2 up to 10.4. The lower efficiency figure may suit buyers who put the cold limit first. 
 
 ### Daikin Aurora — -13°F rating
-Listed at -13°F and HSPF2 up to 10. <a href="#affiliate-link-pending" rel="sponsored nofollow">Check price</a>
+Listed at -13°F and HSPF2 up to 10. 
 
 ### Trane 19 Multi-Speed Low Profile Cold Climate — lowest HSPF2 listed
-Listed at -13°F and HSPF2 up to 9.2, the lowest in the table. Confirm it meets the cold-climate criteria you care about. <a href="#affiliate-link-pending" rel="sponsored nofollow">Check price</a>
+Listed at -13°F and HSPF2 up to 9.2, the lowest in the table. Confirm it meets the cold-climate criteria you care about. 
 
 **Pros and cons across the group.** Pros: rated to heat at or below -13°F; efficiency far above resistance heat. Cons: higher upfront cost than basic equipment; ratings are for best-case configurations; installer quality and sizing matter as much as brand.
 

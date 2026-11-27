@@ -25,8 +25,6 @@ faq:
     a: "A module-level device that conditions each panel's output and works with a string inverter. Tigo's TS4-A-O, for example, provides optimization, module-level monitoring and rapid shutdown and carries a 25-year warranty per Tigo."
 ---
 
-> **Contains affiliate links.** Solar Examiner may earn a commission if you buy through links marked "Check price." Commissions do not affect which products we pick. See our [affiliate disclosure](/affiliate-disclosure/) and [how we pick products](/how-we-pick/).
-
 There is no single best inverter. On published figures, the **SolarEdge HD Wave** leads on efficiency, **Enphase IQ8** and the **Qcells microinverter module** lead on warranty, and **hybrid inverters** such as Tesla's and EcoFlow's matter if you are adding a battery. Choose by roof shape, shading, battery plans and installer support. Figures below come from EnergySage's May 26, 2026 ranking and manufacturer documents read October 24, 2026. We did not test any inverter. See [how we pick products](/how-we-pick/).
 
 ## Quick picks
@@ -53,16 +51,16 @@ None of these is automatically more efficient in your home. Real output depends 
 ## Product notes
 
 ### SolarEdge HD Wave 7600H — highest stated efficiency
-EnergySage lists 99% CEC efficiency and a 12-year warranty, ranking it first. A string inverter used with SolarEdge optimizers. We could not read SolarEdge's product pages, so confirm the optimizer warranty and the exact model's documents with your installer. Pros: stated 99% CEC efficiency. Cons: shorter inverter warranty than the microinverters. <a href="#affiliate-link-pending" rel="sponsored nofollow">Check price</a>
+EnergySage lists 99% CEC efficiency and a 12-year warranty, ranking it first. A string inverter used with SolarEdge optimizers. We could not read SolarEdge's product pages, so confirm the optimizer warranty and the exact model's documents with your installer. Pros: stated 99% CEC efficiency. Cons: shorter inverter warranty than the microinverters. 
 
 ### Enphase IQ8M — long warranty, grid-forming option
-Enphase's datasheet lists the IQ8 (245 VA peak, 240 VA continuous) and IQ8+ (300 VA peak, 290 VA continuous) at 97% CEC efficiency, a limited warranty of up to 25 years, certification to CA Rule 21 (UL 1741-SA), UL 62109-1 and IEEE 1547:2018 (UL 1741-SB), and UL listing as PV rapid shutdown equipment. It describes the line as grid-forming and says it meets UL 1741 only when installed with an IQ System Controller 2 or 3; installations are split-phase 240 V only. EnergySage ranks the IQ8M 72-2 second. Pros: 25-year warranty; module-level design. Cons: more devices on the roof; backup features need Enphase's controller. See our earlier [IQ8M piece](/posts/enphase-iq8-review/) and [do solar panels work in a power outage?](/posts/solar-panels-power-outage/). <a href="#affiliate-link-pending" rel="sponsored nofollow">Check price</a>
+Enphase's datasheet lists the IQ8 (245 VA peak, 240 VA continuous) and IQ8+ (300 VA peak, 290 VA continuous) at 97% CEC efficiency, a limited warranty of up to 25 years, certification to CA Rule 21 (UL 1741-SA), UL 62109-1 and IEEE 1547:2018 (UL 1741-SB), and UL listing as PV rapid shutdown equipment. It describes the line as grid-forming and says it meets UL 1741 only when installed with an IQ System Controller 2 or 3; installations are split-phase 240 V only. EnergySage ranks the IQ8M 72-2 second. Pros: 25-year warranty; module-level design. Cons: more devices on the roof; backup features need Enphase's controller. See [do solar panels work in a power outage?](/posts/solar-panels-power-outage/). 
 
 ### Qcells Q.MI.349-G1 — inverter built into the panel
-EnergySage lists a microinverter module at 97% CEC efficiency and a 25-year warranty. Pros: warranty; fewer separate parts. Cons: you commit to the module and microinverter together. <a href="#affiliate-link-pending" rel="sponsored nofollow">Check price</a>
+EnergySage lists a microinverter module at 97% CEC efficiency and a 25-year warranty. Pros: warranty; fewer separate parts. Cons: you commit to the module and microinverter together. 
 
 ### Tesla Powerwall 3 hybrid inverter and EcoFlow Ocean Pro — hybrids
-EnergySage lists Tesla's at 97% and 10 years with six solar inputs, and EcoFlow's at 97.5% and 15 years with eight. Pros: one box for solar and storage. Cons: ties your solar to that battery ecosystem; check warranty terms and compatibility. See [best home batteries for backup power](/posts/best-home-batteries-for-backup-power/). <a href="#affiliate-link-pending" rel="sponsored nofollow">Check price</a>
+EnergySage lists Tesla's at 97% and 10 years with six solar inputs, and EcoFlow's at 97.5% and 15 years with eight. Pros: one box for solar and storage. Cons: ties your solar to that battery ecosystem; check warranty terms and compatibility. See [best home batteries for backup power](/posts/best-home-batteries-for-backup-power/). 
 
 ## How much does efficiency matter?
 

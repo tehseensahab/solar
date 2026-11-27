@@ -4,11 +4,9 @@ One row per post. Build-time source of truth for topic planning; update with eve
 
 slug | title | date | category | state | primary keyword | url
 --- | --- | --- | --- | --- | --- | ---
-panel-degradation-warranty-report | Panel degradation rates are quietly improving — warranties haven't caught up | 2026-08-30 | equipment | published | panel degradation warranty report | /posts/panel-degradation-warranty-report/
 battery-sizing-guide | How to size a home battery without over-buying capacity you'll never use | 2026-09-06 | equipment | published | battery sizing guide | /posts/battery-sizing-guide/
 community-solar-subscription-report | Community solar subscriptions grew 14% this year — but cancellations are rising too | 2026-09-11 | costs-incentives | published | community solar subscription report | /posts/community-solar-subscription-report/
 net-metering-state-guide | Net metering by state, 2026: where the math still works | 2026-09-16 | electric-rates | published | net metering state guide | /posts/net-metering-state-guide/
-enphase-iq8-review | Enphase IQ8M microinverter review: the grid-independent feature actually works | 2026-09-19 | equipment | published | enphase iq8 review | /posts/enphase-iq8-review/
 treasury-itc-guidance | Treasury's new ITC guidance narrows the domestic-content bonus — here's who still qualifies | 2026-09-21 | costs-incentives | published | treasury itc guidance | /posts/treasury-itc-guidance/
 california-electricity-rate-changes-2026 | California Electricity Rates and Solar | 2026-09-30 | electric-rates | published | california electricity rates | /rates/california/
 florida-electricity-rate-changes-2026 | Florida Electricity Rates and Solar | 2026-09-30 | electric-rates | published | florida electricity rates | /rates/florida/
