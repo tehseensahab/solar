@@ -12,7 +12,7 @@ Needs Python 3 with `pyyaml` and `openpyxl`, `curl`, and Hugo extended (producti
    then updates:
    - `data/eia_prices.yaml` (month, prev_month, released, every state's rate, change, bill)
    - `refreshed:` on every state file whose numbers changed
-   - the "Statewide average for context" paragraph and EIA source line in all 50 hub posts
+   - the "<State> Statewide Average" paragraph and EIA source line in all 50 state pages (/rates/<state>/)
    - the three calculator pages (month labels, U.S. rate, EV worked example, payback table)
    If the index page cannot be read, pass `--released YYYY-MM-DD`. If curl is blocked, WebFetch the table and stop
    if it lacks any state. Never use third-party copies.
@@ -25,7 +25,7 @@ Needs Python 3 with `pyyaml` and `openpyxl`, `curl`, and Hugo extended (producti
    any state page or other existing post, and never edit `static/_redirects`, `layouts/`, `hugo.toml` or the sitemap
    template. The 50 state pages stay at `/posts/<state>-electricity-rate-changes-2026/`.
 7. Build with `hugo --minify` (zero errors). Spot-check the three biggest movers in `public/posts/<state>-electricity-rate-changes-2026/`:
-   the "Statewide average for context" paragraph matches the data, the title is unchanged, exactly one FAQPage JSON-LD.
+   the "<State> Statewide Average" paragraph matches the data, the title is unchanged, exactly one FAQPage JSON-LD.
 8. Push the branch. Merge to `main` only when asked (Cloudflare Pages builds every push to `main`).
 
 ## State file fields that drive rechecks

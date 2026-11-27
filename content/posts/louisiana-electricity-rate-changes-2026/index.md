@@ -18,8 +18,6 @@ takeaways:
   - "About $8.87 of that $12.59 rise is the fuel adjustment, which changes monthly."
   - "Cleco's bill fell slightly over the same months, from $149.63 to $146.41."
 faq:
-  - q: "Did Louisiana electric rates change on October 1, 2026?"
-    a: "We found no base rate order with that date. Fuel adjustments change every month, so bills move even without a rate case."
   - q: "Why did my Entergy Louisiana bill go up in 2026?"
     a: "Between January and May 2026 the fuel adjustment rose from about 2.9 cents to about 3.8 cents per kWh, adding about $8.87 at 1,000 kWh, according to the commission's bill comparisons."
   - q: "Which Louisiana utility has the lowest bill?"
@@ -60,7 +58,7 @@ For Entergy Louisiana, fuel rose $8.87, which is about 70% of the RS-G bill incr
 
 In August 2024 the LPSC approved a settlement that phases in increases over three years starting September 2024: about 1.8% a year for legacy Entergy Louisiana customers and about 3% a year for legacy Entergy Gulf States customers. The same deal cut the late fee from 5% of the bill to 1.5%. That schedule means a step each September, including 2026. We did not confirm the 2026 step amount.
 
-## What This Means for Homeowners With Solar
+## Louisiana Net Metering and Solar Export Credits
 
 Louisiana ended net metering for new customers on January 1, 2020.
 
@@ -71,25 +69,15 @@ Louisiana ended net metering for new customers on January 1, 2020.
 
 **What it means:** fuel is billed per kWh, so solar you use yourself avoids both the energy charge and the fuel adjustment, which was 3.8¢ per kWh at Entergy in May 2026. Exports earn only the avoided cost. Size to daytime use.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. The fuel adjustment rate this month.
-2. Formula rate plan and storm restoration riders.
-3. Your kWh. Summer use in Louisiana is far above 1,000 kWh in many homes.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
+Rules checked October 5, 2026.
 
 ## Limitations
 
 We compared two months, January and May 2026. We did not review later months, so we cannot say where bills stood in October. Rider detail beyond fuel was not analyzed, and the September 2026 formula rate step was not confirmed.
 
-## Compare With Nearby States
+## Louisiana Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Louisiana's average residential price at 12.87¢/kWh in August 2026, up 2.5% from 12.55¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $128.70 (1,000 × 12.87¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arkansas](/rates/arkansas/), [Mississippi](/rates/mississippi/), [Texas](/rates/texas/), or the full [rates by state](/rates/) list.
+The U.S. Energy Information Administration (EIA) puts Louisiana's average residential price at 12.87¢/kWh in August 2026, up 2.5% from 12.55¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $128.70 (1,000 × 12.87¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

@@ -59,7 +59,7 @@ Idaho Power files two adjustments each spring:
 
 Idaho Power says the combined effect on June 1, 2026 was a 3.15% increase, about $3.64 a month for a residential customer using 900 kWh.
 
-## What This Means for Homeowners With Solar
+## Idaho Net Metering and Solar Export Credits
 
 Idaho Power moved on-site generation customers to net billing, and its tariff sets very different export credits by season.
 
@@ -78,25 +78,15 @@ Schedule 6 (Residential Service On-Site Generation), effective January 1, 2026:
 
 **What it means:** outside the summer on-peak hours, an exported kWh earns about 3¢ while a kWh you use yourself avoids about 10¢ to 14¢. In the first non-summer tier, that is 9.9332¢ avoided against 2.9019¢ earned, more than three times as much. Size the system to your own daytime use, and consider a battery or shifting loads to when the panels are producing.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. The monthly service charge, compared with late 2025.
-2. The energy charge per kWh.
-3. The PCA and FCA lines, which reset each June 1.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
+Rules checked October 5, 2026.
 
 ## Limitations
 
 The January figures come from a financial news summary of Idaho Power's filing, not the commission's order. We did not find the residential share of the January increase or the approved service charge.
 
-## Compare With Nearby States
+## Idaho Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Idaho's average residential price at 13.37¢/kWh in August 2026, up 10.7% from 12.08¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $133.70 (1,000 × 13.37¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Montana](/rates/montana/), [Oregon](/rates/oregon/), [Utah](/rates/utah/), [Washington](/rates/washington/), or the full [rates by state](/rates/) list.
+The U.S. Energy Information Administration (EIA) puts Idaho's average residential price at 13.37¢/kWh in August 2026, up 10.7% from 12.08¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $133.70 (1,000 × 13.37¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

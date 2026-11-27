@@ -85,7 +85,7 @@ For an October change, we have no official estimate. For the June change, the BP
 
 Customers on their utility's default BGS supply. New Jersey allows you to choose a third-party supplier; if you do, your supply price is your contract's price. The BPU says the utilities do not earn a profit on supply; costs are passed through.
 
-## What This Means for Homeowners With Solar
+## New Jersey Net Metering and Solar Export Credits
 
 New Jersey still credits home solar under net metering, but the state has passed the level at which regulators may change it.
 
@@ -96,14 +96,7 @@ New Jersey still credits home solar under net metering, but the state has passed
 
 **What it means:** under retail-rate crediting, the small June supply changes barely moved the value of an exported kWh. The bigger question for anyone signing a contract now is what a successor policy pays. Ask your installer what credit rule the proposal assumes and for how long. PSE&G has also proposed a time-of-use rate (RS TOU-3P) in its supply filings; we did not confirm whether it has been approved.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What Homeowners Should Check on Their Electric Bill
-
-1. **Basic Generation Service (supply)** versus **delivery** charges.
-2. **Any supply reconciliation or adjustment line** (especially ACE customers in October).
-3. **State bill credits** from the Executive Order program.
-4. **Third-party supplier rate**, if you have one, and its end date.
+Rules checked October 5, 2026.
 
 ## What Happens Next
 
@@ -111,11 +104,9 @@ Rules checked October 5, 2026. Solar tariffs change, so confirm the current term
 - The next BGS auction cycle is expected in early 2027, with new supply rates on June 1, 2027. The BPU has not published details yet.
 - PSE&G's reconciliation charges update quarterly, per its tariff page.
 
-## Compare With Nearby States
+## New Jersey Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts New Jersey's average residential price at 24.61¢/kWh in August 2026, down 0.4% from 24.70¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $246.10 (1,000 × 24.61¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Delaware](/rates/delaware/), [New York](/rates/new-york/), [Pennsylvania](/rates/pennsylvania/), or the full [rates by state](/rates/) list.
+The U.S. Energy Information Administration (EIA) puts New Jersey's average residential price at 24.61¢/kWh in August 2026, down 0.4% from 24.70¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $246.10 (1,000 × 24.61¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

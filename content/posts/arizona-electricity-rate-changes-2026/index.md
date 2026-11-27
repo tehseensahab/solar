@@ -71,7 +71,7 @@ The hearing ran from April 22 to May 12, 2026. **Update, Oct. 28, 2026:** an adm
 
 **If you are a TEP customer:** your rates did not change on September 1. Until the commission votes, the current rates apply.
 
-## What This Means for Homeowners With Solar
+## Arizona Net Metering and Solar Export Credits
 
 Arizona ended net metering for new customers under a 2016 Arizona Corporation Commission decision (Decision No. 75859). APS and TEP now use net billing.
 
@@ -83,15 +83,7 @@ Arizona ended net metering for new customers under a 2016 Arizona Corporation Co
 
 **What it means:** at roughly 6¢ for exports against a retail rate around 15¢, solar you use yourself is worth more than twice what you export. Systems sized to daytime use, or paired with a battery, pay back faster. A larger fixed charge would lengthen payback.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. Your rate plan. Most APS and TEP residential plans are time-of-use, so averages may not match your bill.
-2. The basic service charge and any solar grid access charge.
-3. Adjustor lines for fuel and purchased power.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
+Rules checked October 5, 2026.
 
 ## What Happens Next
 
@@ -104,11 +96,9 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 
 All APS and TEP figures here are requests, not approved rates. The ACC's docket system could not be opened, so timelines come from the commission's news posts and TEP's rate page. The TEP recommended order and the Nov. 17 meeting date come from news and Consumer Reports reports; we could not open the order itself. SRP and electric cooperatives were not researched.
 
-## Compare With Nearby States
+## Arizona Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Arizona's average residential price at 15.05¢/kWh in August 2026, down 0.3% from 15.09¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $150.50 (1,000 × 15.05¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [California](/rates/california/), [Nevada](/rates/nevada/), [New Mexico](/rates/new-mexico/), [Utah](/rates/utah/), or the full [rates by state](/rates/) list.
+The U.S. Energy Information Administration (EIA) puts Arizona's average residential price at 15.05¢/kWh in August 2026, down 0.3% from 15.09¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $150.50 (1,000 × 15.05¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

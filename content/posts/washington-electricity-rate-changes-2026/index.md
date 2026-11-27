@@ -77,7 +77,7 @@ Many Washington households are served by public utilities that the UTC does not 
 
 Check your own utility's rate notice. These are secondary figures.
 
-## What This Means for Homeowners With Solar
+## Washington Net Metering and Solar Export Credits
 
 Washington law requires retail net metering until a deadline or a threshold is reached, and Puget Sound Energy is at the threshold.
 
@@ -88,15 +88,7 @@ Washington law requires retail net metering until a deadline or a threshold is r
 
 **What it means:** with power cost filings adding about 12% in January 2026, each solar kWh is worth more than a year ago. The open question for a new PSE customer is which rules will apply and for how long. Ask PSE in writing whether your system will be on Schedule 150 and what happens to it when a successor rate is adopted.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. Whether your utility is investor-owned (UTC-regulated) or public.
-2. The basic charge and the per-kWh tiers on your rate schedule.
-3. Any separate line for power cost or climate program adjustments.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
+Rules checked October 5, 2026.
 
 ## What Happens Next
 
@@ -108,11 +100,9 @@ PSE's approved two-year plan covered 2025 and 2026. We did not find the status o
 
 The typical bill figures use 800 kWh a month, not the 1,000 kWh used in most of our state articles. We did not confirm the combined effect of the base rate step and the December 2025 filings. Avista and PacifiCorp rates were not researched. Public utility figures come from an installer blog.
 
-## Compare With Nearby States
+## Washington Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Washington's average residential price at 14.63¢/kWh in August 2026, up 7.2% from 13.65¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $146.30 (1,000 × 14.63¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Idaho](/rates/idaho/), [Oregon](/rates/oregon/), [Alaska](/rates/alaska/), or the full [rates by state](/rates/) list.
+The U.S. Energy Information Administration (EIA) puts Washington's average residential price at 14.63¢/kWh in August 2026, up 7.2% from 13.65¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $146.30 (1,000 × 14.63¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

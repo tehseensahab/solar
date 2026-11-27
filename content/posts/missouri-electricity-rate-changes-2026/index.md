@@ -61,7 +61,7 @@ Evergy Missouri Metro filed on February 6, 2026 (case ER-2026-0143), asking for 
 
 City-owned utilities are not regulated by the PSC. Columbia raised electric usage fees 6% starting October 1, 2026, as covered in our [Columbia, Missouri article](/posts/columbia-missouri-electric-rates-october-2026/).
 
-## What This Means for Homeowners With Solar
+## Missouri Net Metering and Solar Export Credits
 
 Missouri requires net metering, with surplus paid at a low avoided-cost rate.
 
@@ -72,15 +72,7 @@ Missouri requires net metering, with surplus paid at a low avoided-cost rate.
 
 **What it means:** a kWh you use yourself avoids the retail energy rate. A kWh left over at the end of the month earns under 4¢. A system sized so that monthly production stays at or below monthly use keeps almost all of its value.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. The customer charge.
-2. The energy charge per kWh.
-3. The fuel adjustment line.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
+Rules checked October 5, 2026.
 
 ## What Happens Next
 
@@ -91,11 +83,9 @@ For help sorting the lines on your bill, see our guide to [reading your electric
 
 The Ameren figures in the pending case come from Ameren's June 26, 2026 filing and announcement; they are requests. We did not confirm the effective date of the 2025 Ameren increase.
 
-## Compare With Nearby States
+## Missouri Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Missouri's average residential price at 16.02¢/kWh in August 2026, up 4.6% from 15.32¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $160.20 (1,000 × 16.02¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arkansas](/rates/arkansas/), [Illinois](/rates/illinois/), [Iowa](/rates/iowa/), [Kansas](/rates/kansas/), or the full [rates by state](/rates/) list.
+The U.S. Energy Information Administration (EIA) puts Missouri's average residential price at 16.02¢/kWh in August 2026, up 4.6% from 15.32¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $160.20 (1,000 × 16.02¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

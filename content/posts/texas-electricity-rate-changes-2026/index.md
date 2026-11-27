@@ -56,16 +56,9 @@ Oncor's estimate is about $4.64 more per month for a customer using 1,000 kWh a 
 
 Oncor's rates apply to customers in its delivery territory, including much of the Dallas-Fort Worth area, regardless of which retail provider they choose. CenterPoint serves the Houston area. Other regulated utilities, including Entergy Texas, SWEPCO and El Paso Electric, operate outside the competitive market. We did not verify 2026 changes for them, and this article does not cover them.
 
-## What This Means for Homeowners With Solar
+## Texas Net Metering and Solar Export Credits
 
-Higher delivery charges make electricity you avoid buying more valuable. What you earn for exports depends on your retail plan, so compare buyback terms on the plan's Electricity Facts Label before you sign. We found no change to solar compensation rules in the sources reviewed.
-
-## What Homeowners Should Check on Their Electric Bill
-
-- Your contract end date and whether your plan is fixed or variable.
-- The energy charge (from your provider) and the delivery charge (from your utility) as separate lines.
-- Any temporary surcharge line added during 2026.
-- Whether your plan credits solar exports, and at what rate.
+What you earn for exports depends on your retail plan, so compare buyback terms on the plan's Electricity Facts Label before you sign. We found no change to solar compensation rules in the sources reviewed.
 
 ## What Happens Next?
 
@@ -74,11 +67,9 @@ Watch for the outcome of Oncor's tracker request and for the surcharge line on y
 **Published:** September 30, 2026
 **Last verified:** September 29, 2026
 
-## Compare With Nearby States
+## Texas Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Texas's average residential price at 15.91¢/kWh in August 2026, up 3.3% from 15.40¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $159.10 (1,000 × 15.91¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Louisiana](/rates/louisiana/), [New Mexico](/rates/new-mexico/), [Oklahoma](/rates/oklahoma/), [Arkansas](/rates/arkansas/), or the full [rates by state](/rates/) list.
+The U.S. Energy Information Administration (EIA) puts Texas's average residential price at 15.91¢/kWh in August 2026, up 3.3% from 15.40¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $159.10 (1,000 × 15.91¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

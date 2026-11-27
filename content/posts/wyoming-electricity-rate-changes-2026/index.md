@@ -61,7 +61,7 @@ Black Hills Energy serves about 2,600 customers in Upton and Newcastle. It has a
 - **Effective date:** the company wants rates applied back to May 1, 2026. The consumer advocate recommends February 1, 2027.
 - **Hearing:** October 7 and 8, 2026.
 
-## What This Means for Homeowners With Solar
+## Wyoming Net Metering and Solar Export Credits
 
 Wyoming has net metering with kWh credits during the year and a low cash price for what is left over.
 
@@ -71,25 +71,15 @@ Wyoming has net metering with kWh credits during the year and a low cash price f
 
 **What it means:** within the year, each solar kWh offsets a retail kWh. Only production beyond your annual use falls to about 3¢. A system sized to your yearly consumption keeps nearly all of its value, and the 2025 increase and the pending 2027 request both raise that value.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. The energy cost adjustment line since July.
-2. The basic charge.
-3. Black Hills customers: watch for the PSC's decision after the October hearing.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
+Rules checked October 5, 2026.
 
 ## Limitations
 
 Figures come from Cowboy State Daily and KOTA. We did not open PSC dockets, and we did not find a residential dollar figure for Rocky Mountain Power's 2027 request.
 
-## Compare With Nearby States
+## Wyoming Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Wyoming's average residential price at 14.43¢/kWh in August 2026, up 0.7% from 14.33¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $144.30 (1,000 × 14.43¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Colorado](/rates/colorado/), [Idaho](/rates/idaho/), [Montana](/rates/montana/), [Utah](/rates/utah/), or the full [rates by state](/rates/) list.
+The U.S. Energy Information Administration (EIA) puts Wyoming's average residential price at 14.43¢/kWh in August 2026, up 0.7% from 14.33¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $144.30 (1,000 × 14.43¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

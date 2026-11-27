@@ -64,7 +64,7 @@ PSC staff and the Consumer Advocate Division's witness opposed the two-step plan
 
 **Our math:** $137.86 + $3.65 + $4.01 = $145.52, which matches the PSC's figure.
 
-## What This Means for Homeowners With Solar
+## West Virginia Net Metering and Solar Export Credits
 
 West Virginia cut solar credits for new customers at both utility groups, and kept older customers on their original terms.
 
@@ -78,25 +78,15 @@ West Virginia cut solar credits for new customers at both utility groups, and ke
 
 **What it means:** for a new Appalachian Power customer, an exported kWh earns about 12.4¢ while a self-used kWh avoids the full retail rate. That is a smaller gap than in most net billing states. The 2026 base rate increases raise the value of self-use at both utilities.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. The customer charge.
-2. The energy charge since June (Appalachian Power) or August (Mon Power).
-3. The fuel and purchased power line, known as ENEC, which is reviewed separately each year.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
+Rules checked October 5, 2026.
 
 ## Limitations
 
 Figures come from West Virginia news reports of the PSC's orders. We did not open the orders, and we did not research the annual fuel cost (ENEC) cases.
 
-## Compare With Nearby States
+## West Virginia Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts West Virginia's average residential price at 16.31¢/kWh in August 2026, up 4.4% from 15.62¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $163.10 (1,000 × 16.31¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Kentucky](/rates/kentucky/), [Maryland](/rates/maryland/), [Ohio](/rates/ohio/), [Virginia](/rates/virginia/), or the full [rates by state](/rates/) list.
+The U.S. Energy Information Administration (EIA) puts West Virginia's average residential price at 16.31¢/kWh in August 2026, up 4.4% from 15.62¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $163.10 (1,000 × 16.31¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

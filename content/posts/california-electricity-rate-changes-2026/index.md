@@ -67,7 +67,7 @@ Use the estimates each utility publishes for a typical customer. SCE's estimates
 
 The figures above apply to customers who get both electricity supply and delivery from their utility ("bundled" customers). Many Californians buy supply from a city or county Community Choice Aggregator instead. In that case the utility sets only the delivery portion, and your provider sets the generation rate.
 
-## What This Means for Homeowners With Solar
+## California Net Metering and Solar Export Credits
 
 New rooftop customers of PG&E, SCE and SDG&E who applied to interconnect on or after April 15, 2023 take service on the Net Billing Tariff (CPUC Decision D.22-12-056). SCE calls its version the Solar Billing Plan.
 
@@ -79,13 +79,6 @@ New rooftop customers of PG&E, SCE and SDG&E who applied to interconnect on or a
 
 A system sized to daytime use, or paired with a battery that shifts midday output into the evening peak, keeps more of its production at retail value. An oversized array mostly earns export credits.
 
-## What Homeowners Should Check on Their Electric Bill
-
-- Your rate plan name (tiered or time-of-use) and the hours of your peak window.
-- Whether you have a fixed monthly charge. SCE began moving residential customers to a Base Services Charge on November 15, 2025, and PG&E introduced its own in March 2026.
-- Whether the generation charge comes from your utility or from a Community Choice Aggregator.
-- The California Climate Credit. SCE and SDG&E apply it in April and October.
-
 ## What Happens Next?
 
 PG&E's 2027-2030 General Rate Case is pending, and PG&E does not expect customer rates related to it to change until January 2027 at the earliest. Watch your utility's rate advisory page around October 1 for any consolidated filing.
@@ -95,11 +88,9 @@ PG&E's 2027-2030 General Rate Case is pending, and PG&E does not expect customer
 **Published:** September 30, 2026
 **Last verified:** November 13, 2026 (SCE October 1 change); September 29, 2026 (PG&E, SDG&E)
 
-## Compare With Nearby States
+## California Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts California's average residential price at 29.75¢/kWh in August 2026, down 3.8% from 30.92¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $297.50 (1,000 × 29.75¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arizona](/rates/arizona/), [Nevada](/rates/nevada/), [Oregon](/rates/oregon/), [Hawaii](/rates/hawaii/), or the full [rates by state](/rates/) list.
+The U.S. Energy Information Administration (EIA) puts California's average residential price at 29.75¢/kWh in August 2026, down 3.8% from 30.92¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $297.50 (1,000 × 29.75¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

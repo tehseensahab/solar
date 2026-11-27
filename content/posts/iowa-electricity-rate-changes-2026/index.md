@@ -62,7 +62,7 @@ The commission's release does not state the size of the increase, and we did not
 
 MidAmerican says Iowa's residential electric rates rank sixth lowest in the country. A local TV report said Alliant's residential rates were 62% higher than MidAmerican's in 2024.
 
-## What This Means for Homeowners With Solar
+## Iowa Net Metering and Solar Export Credits
 
 Iowa law (Iowa Code 476.49) keeps solar credits at the retail rate for now, with a change scheduled.
 
@@ -74,26 +74,15 @@ Iowa law (Iowa Code 476.49) keeps solar credits at the retail rate for now, with
 
 **What it means:** a system installed before the value-of-solar rate takes effect locks in today's retail-rate credit for 20 years. That makes timing matter more in Iowa than in most states.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. The basic service charge.
-2. The Energy Adjustment Clause.
-3. The Regional Transmission Service line.
-4. MidAmerican customers: any line labeled temporary or interim rates.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
+Rules checked October 5, 2026.
 
 ## Limitations
 
 Alliant information comes from its own customer outlook page. We did not find MidAmerican's proposed amount, its filing date or whether temporary rates have started. We did not open commission dockets.
 
-## Compare With Nearby States
+## Iowa Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Iowa's average residential price at 17.06¢/kWh in August 2026, up 10.2% from 15.48¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $170.60 (1,000 × 17.06¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Illinois](/rates/illinois/), [Minnesota](/rates/minnesota/), [Nebraska](/rates/nebraska/), [Wisconsin](/rates/wisconsin/), or the full [rates by state](/rates/) list.
+The U.S. Energy Information Administration (EIA) puts Iowa's average residential price at 17.06¢/kWh in August 2026, up 10.2% from 15.48¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $170.60 (1,000 × 17.06¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

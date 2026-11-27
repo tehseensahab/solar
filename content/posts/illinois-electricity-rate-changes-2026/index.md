@@ -30,8 +30,6 @@ faq:
     a: "Yes. Ameren Illinois and ComEd both reset their default supply prices for October 2026 through May 2027. Ameren's is 10.441 cents per kWh for the first 800 kWh and 8.262 cents above that. ComEd's is 10.103 cents per kWh."
   - q: "Will my ComEd bill go down in October 2026?"
     a: "Not necessarily. The supply price fell about 0.3 cents per kWh, but the Citizens Utility Board reports the Carbon-Free Energy Resource Adjustment credit shrank from about 1.6 cents to about 0.115 cents per kWh. At 700 kWh, that is roughly $10 less credit against about $2 saved."
-  - q: "Do these prices apply if I have an alternative supplier?"
-    a: "No. They apply only to customers who buy default supply from Ameren Illinois or ComEd. Supplier and municipal aggregation customers pay their contract price."
   - q: "Is net metering still available in Illinois?"
     a: "Systems interconnected before January 1, 2025 that did not take the distributed generation rebate keep full retail net metering. Systems connected on or after that date are on net billing, where exports are credited on supply-related components."
 ---
@@ -73,7 +71,7 @@ Neither utility has published a single "typical bill" estimate that we could ver
 - **Not covered here:** MidAmerican Energy customers in the Quad Cities area and Illinois's municipal and co-op utilities.
 - **Choice:** Illinois customers can shop for supply. The utility keeps delivering power either way.
 
-## What This Means for Homeowners With Solar
+## Illinois Net Metering and Solar Export Credits
 
 - **Net metering rules depend on when your system was connected.** Per Illinois Shines and DSIRE, systems interconnected before January 1, 2025 that did not take the one-time distributed generation rebate keep full retail net metering. Systems connected on or after January 1, 2025 are on a net billing structure, where exports are credited using supply-related components (energy, capacity and transmission) rather than the full retail rate.
 - **Update (Nov. 18, 2026):** Per 220 ILCS 5/16-107.5(n), customers who start net metering on or after January 1, 2025 are credited on per-kWh supply values (energy, capacity, transmission and the purchased energy adjustment) and remain responsible for "the gross amount of delivery services charges." At ComEd's October 2026 price to compare of 10.103 cents, 300 exported kWh are worth about $30. Our [Illinois net metering changes explainer](/posts/illinois-net-metering-changes/) has the before-and-after table and a worked example.
@@ -82,14 +80,6 @@ Neither utility has published a single "typical bill" estimate that we could ver
 - **Rebates:** ComEd and Ameren offer a distributed generation (smart inverter) rebate and a storage rebate, per Illinois Shines. Confirm current amounts and requirements with your utility before buying.
 - **Payback:** the supply price moved by less than 1 cent, so this change alone should not alter a payback estimate much.
 
-## What Homeowners Should Check on Their Electric Bill
-
-1. **Who supplies your electricity.** Look for "Electric Supply" charges from your utility or from a third party.
-2. **Your supply rate versus the price to compare.** If a supplier's rate is above 10.441¢ (Ameren, first 800 kWh) or 10.103¢ (ComEd), you may be paying more than the default.
-3. **Contract end dates** on any fixed-rate supplier plan.
-4. **The ComEd credit line** (Carbon-Free Energy Resource Adjustment).
-5. **Delivery charges**, which are separate and not part of this change.
-
 ## What Happens Next
 
 - **Ameren delivery request:** CUB says Ameren is seeking a $65 million increase to delivery rates. That case is pending, and we did not find a decision date.
@@ -97,11 +87,9 @@ Neither utility has published a single "typical bill" estimate that we could ver
 - **Energy assistance:** CUB notes some income-eligible households can apply for LIHEAP starting October 1, 2026, and all eligible households from November 1.
 - **Summer 2027 prices** have not been published.
 
-## Compare With Nearby States
+## Illinois Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Illinois's average residential price at 19.32¢/kWh in August 2026, up 7.2% from 18.03¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $193.20 (1,000 × 19.32¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Indiana](/rates/indiana/), [Iowa](/rates/iowa/), [Missouri](/rates/missouri/), [Wisconsin](/rates/wisconsin/), or the full [rates by state](/rates/) list.
+The U.S. Energy Information Administration (EIA) puts Illinois's average residential price at 19.32¢/kWh in August 2026, up 7.2% from 18.03¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $193.20 (1,000 × 19.32¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

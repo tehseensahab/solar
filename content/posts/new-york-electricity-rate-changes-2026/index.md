@@ -46,7 +46,7 @@ The PSC's estimates for typical residential customers are about 0.2% (NYSEG elec
 
 Customers in NYSEG and RG&E territory across upstate New York. Con Edison, National Grid, Central Hudson and Orange & Rockland customers are on separate rate plans. The PSC approved a multi-year Con Edison plan covering 2026 through 2028, with its 2026 recovery period starting in February. We did not verify dollar figures for those plans, and this article does not cover them in detail.
 
-## What This Means for Homeowners With Solar
+## New York Net Metering and Solar Export Credits
 
 The PSC kept Phase One net metering for residential and small commercial systems rather than moving them to a lower export rate.
 
@@ -57,12 +57,6 @@ The PSC kept Phase One net metering for residential and small commercial systems
 
 Delivery increases at NYSEG, RG&E and other utilities raise the value of each kWh a system offsets. In October 2026 the PSC also revoked the eligibility of several distributed energy suppliers, including Sunnova and PosiGen (see our [October session summary](/posts/new-york-psc-october-2026-session/)); check an installer's or financier's standing before you sign.
 
-## What Homeowners Should Check on Their Electric Bill
-
-- Delivery charges versus supply charges, which appear as separate lines.
-- Any line labeled temporary rate or reconciliation.
-- Whether you buy supply from an energy service company, which sets its own price.
-
 ## What Happens Next?
 
 - **Winter 2026–27 outlook (PSC, October 15, 2026):** full-service residential electric supply bills are expected to be similar to last winter on a statewide average, and gas bills lower. Market-priced electric supply is forecast at about $74 a month for 600 kWh (+4.6%). See [our October session summary](/posts/new-york-psc-october-2026-session/).
@@ -72,11 +66,9 @@ The PSC is still reviewing the NYSEG and RG&E rate cases, and news coverage expe
 **Published:** September 30, 2026
 **Last verified:** September 29, 2026
 
-## Compare With Nearby States
+## New York Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts New York's average residential price at 28.65¢/kWh in August 2026, up 7.5% from 26.64¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $286.50 (1,000 × 28.65¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Connecticut](/rates/connecticut/), [New Jersey](/rates/new-jersey/), [Pennsylvania](/rates/pennsylvania/), [Massachusetts](/rates/massachusetts/), or the full [rates by state](/rates/) list.
+The U.S. Energy Information Administration (EIA) puts New York's average residential price at 28.65¢/kWh in August 2026, up 7.5% from 26.64¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $286.50 (1,000 × 28.65¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

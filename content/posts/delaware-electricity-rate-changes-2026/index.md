@@ -64,7 +64,7 @@ Delmarva cited higher regional supply prices, which it does not control. The sta
 
 Delmarva offers a Customer Relief Fund of up to $500 for eligible households.
 
-## What This Means for Homeowners With Solar
+## Delaware Net Metering and Solar Export Credits
 
 Delaware offers net metering with credits against later use, and a 2026 law removed its cap.
 
@@ -74,25 +74,15 @@ Delaware offers net metering with credits against later use, and a 2026 law remo
 
 **What it means:** with credits at the retail rate, the June 2026 supply increase raised the value of each solar kWh. Ask Delmarva Power to confirm in writing that your system will be net metered.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. The supply rate and whether you are on SOS or with a supplier.
-2. The customer charge and distribution rate, which the pending case could change.
-3. The renewable compliance charge.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
+Rules checked October 5, 2026.
 
 ## Limitations
 
 Rates come from a State of Delaware news release and a local news report. We did not open the Public Service Commission's orders, and we did not confirm the status of the base rate case or whether interim rates are in effect.
 
-## Compare With Nearby States
+## Delaware Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Delaware's average residential price at 18.70¢/kWh in August 2026, up 11.0% from 16.85¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $187.00 (1,000 × 18.70¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Maryland](/rates/maryland/), [New Jersey](/rates/new-jersey/), [Pennsylvania](/rates/pennsylvania/), or the full [rates by state](/rates/) list.
+The U.S. Energy Information Administration (EIA) puts Delaware's average residential price at 18.70¢/kWh in August 2026, up 11.0% from 16.85¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $187.00 (1,000 × 18.70¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

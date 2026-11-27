@@ -22,8 +22,6 @@ faq:
     a: "TVA's August 20, 2026 board announcement describes a new data center rate and the fiscal 2027 budget. It does not announce a base rate increase for homes. We found no other source reporting one."
   - q: "Who sets my electric rate in Tennessee?"
     a: "TVA sets the wholesale rate. Your local power company, such as a city utility or electric cooperative, sets the retail rate you pay, with TVA oversight. Tennessee's state utility regulators do not set these rates."
-  - q: "Why does my Tennessee bill change month to month if rates did not?"
-    a: "Usage is the main reason. TVA also applies a fuel cost adjustment that changes monthly with fuel and purchased power costs."
   - q: "Is there net metering in Tennessee?"
     a: "Not in the TVA region. TVA buys surplus solar through its Dispersed Power Production program at an avoided-cost price, which was 3.766 cents per kWh in guidelines effective December 1, 2025. Solar you use yourself offsets your local power company's retail rate."
 ---
@@ -61,7 +59,7 @@ TVA raised base rates in consecutive years before this. A Memphis TV report in 2
 - **Local power company rates.** Your city utility or cooperative can raise its own charges, including the fixed monthly customer charge.
 - **Seasons.** TVA wholesale rates differ by season, and winter usage is high in electrically heated homes.
 
-## What This Means for Homeowners With Solar
+## Tennessee Net Metering and Solar Export Credits
 
 There is no net metering in the TVA region. Solar rules come from TVA and your local power company, not a state commission.
 
@@ -71,15 +69,7 @@ There is no net metering in the TVA region. Solar rules come from TVA and your l
 
 **What it means:** a kWh you use yourself avoids your local retail rate, typically several times the 3.766¢ you would earn by exporting it. In Tennessee, solar pays back on self-use. Size the system to your daytime load and ask your local power company about its interconnection rules and fees.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. The name of your local power company and its current residential rate schedule.
-2. The customer charge.
-3. The fuel cost adjustment line for the month.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
+Rules checked October 5, 2026.
 
 ## What Happens Next
 
@@ -89,11 +79,9 @@ TVA's next fiscal year begins October 1, 2027. Board decisions on rates are usua
 
 We relied on TVA's own announcement and on news reports about the data center rate. We did not review individual local power company rates, and we did not verify past TVA increase percentages or current solar terms.
 
-## Compare With Nearby States
+## Tennessee Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Tennessee's average residential price at 13.42¢/kWh in August 2026, up 2.5% from 13.09¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $134.20 (1,000 × 13.42¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Alabama](/rates/alabama/), [Georgia](/rates/georgia/), [Kentucky](/rates/kentucky/), [North Carolina](/rates/north-carolina/), or the full [rates by state](/rates/) list.
+The U.S. Energy Information Administration (EIA) puts Tennessee's average residential price at 13.42¢/kWh in August 2026, up 2.5% from 13.09¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $134.20 (1,000 × 13.42¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

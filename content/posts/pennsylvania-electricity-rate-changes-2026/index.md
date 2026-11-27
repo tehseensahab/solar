@@ -20,8 +20,6 @@ takeaways:
 faq:
   - q: "Are Pennsylvania electricity rates going up on October 1, 2026?"
     a: "We found no official October 1 change. Default service prices reset on June 1 and December 1, so the next scheduled reset after June is in December."
-  - q: "What is the Price to Compare?"
-    a: "It is the per-kWh price your utility charges for electricity supply if you have not chosen a competitive supplier. Suppliers' offers are compared against it."
   - q: "Did PECO's Price to Compare go up in June 2026?"
     a: "The PUC's table estimates PECO's residential Price to Compare rose from 11.024 to 11.572 cents per kWh on June 1, 2026, about 4.97%."
 ---
@@ -54,7 +52,7 @@ Our estimate multiplies the change in cents per kWh by monthly usage and covers 
 
 The PUC said these changes only affect customers on default service. Customers who chose a competitive supplier keep their contract price until it ends. The PUC also said fewer supplier offers were below the utility's Price to Compare than in past years, and that offers below it may be short-term contracts, typically three to six months.
 
-## What This Means for Homeowners With Solar
+## Pennsylvania Net Metering and Solar Export Credits
 
 Pennsylvania's net metering rules are in the state code, [52 Pa. Code §75.13](https://law.cornell.edu/regulations/pennsylvania/52-Pa-Code-SS-75-13).
 
@@ -63,13 +61,6 @@ Pennsylvania's net metering rules are in the state code, [52 Pa. Code §75.13](h
 - **Size limit:** 50 kW nameplate for residential systems.
 
 On default service, a higher Price to Compare raises the value of each kWh your panels offset. If you buy from a competitive supplier, your contract price sets the generation part of that credit, so ask how the supplier handles net metering before switching.
-
-## What Homeowners Should Check on Their Electric Bill
-
-- Whether you are on default service or a supplier contract.
-- Your supplier contract end date and renewal terms.
-- The generation charge versus the distribution charge.
-- Fixed or variable pricing and any early termination fee.
 
 ## What Happens Next?
 
@@ -82,11 +73,9 @@ Default service prices are scheduled to reset again December 1. PPL had a propos
 **Published:** September 30, 2026
 **Last verified:** November 10, 2026 (PPL update); September 29, 2026 (other utilities)
 
-## Compare With Nearby States
+## Pennsylvania Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Pennsylvania's average residential price at 21.77¢/kWh in August 2026, up 9.2% from 19.93¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $217.70 (1,000 × 21.77¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Delaware](/rates/delaware/), [New Jersey](/rates/new-jersey/), [New York](/rates/new-york/), [Ohio](/rates/ohio/), or the full [rates by state](/rates/) list.
+The U.S. Energy Information Administration (EIA) puts Pennsylvania's average residential price at 21.77¢/kWh in August 2026, up 9.2% from 19.93¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $217.70 (1,000 × 21.77¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

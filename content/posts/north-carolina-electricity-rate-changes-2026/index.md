@@ -109,7 +109,7 @@ The percentages need care, because different numbers describe different things.
 - **Data centers:** the commission is separately writing rules for how very large customers pay for the power and grid upgrades they need.
 - **Fuel riders:** Duke adjusts fuel and other riders every year in separate proceedings. Those changes can move bills up or down on top of base rates. We did not find the 2026 rider decisions.
 
-## What This Means for Homeowners With Solar
+## North Carolina Net Metering and Solar Export Credits
 
 North Carolina replaced traditional net metering for new Duke customers under an NCUC order in Docket E-100, Sub 180 (March 2023). Three things matter now:
 
@@ -123,23 +123,13 @@ For payback, the point is the same as in other net billing states: a kWh you use
 
 Duke's PowerPair incentive for solar plus a battery has been reported as fully subscribed in DEP territory with capacity remaining in DEC territory. Confirm availability with Duke before counting on it.
 
-## What to Check on Your Bill
-
-1. **Which utility you have.** DEC and DEP have different rates and different proposed increases.
-2. **Your rate schedule.** The figures above are for the standard residential schedule at 1,000 kWh. Time-of-use customers will see different effects.
-3. **The basic customer charge** and whether it changes in the final order.
-4. **Rider lines**, especially fuel. See our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
-5. **If you have solar:** which rider you are on, and whether you need to choose a rate before January 1, 2027.
-
 ## Limitations
 
 We could not open Duke Energy's tariff sheets or the commission's docket files directly for this article, so the settlement figures come from Duke's news releases, the Attorney General's office and North Carolina news reports. We did not verify the 2026 fuel and rider changes, the current DEP bill at 1,000 kWh, or the status of the utility combination. The solar figures come from the commission's 2023 order and may not match today's tariff sheets. This article will be updated when the commission issues its orders.
 
-## Compare With Nearby States
+## North Carolina Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts North Carolina's average residential price at 14.95¢/kWh in August 2026, up 2.5% from 14.59¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $149.50 (1,000 × 14.95¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [South Carolina](/rates/south-carolina/), [Tennessee](/rates/tennessee/), [Virginia](/rates/virginia/), [Georgia](/rates/georgia/), or the full [rates by state](/rates/) list.
+The U.S. Energy Information Administration (EIA) puts North Carolina's average residential price at 14.95¢/kWh in August 2026, up 2.5% from 14.59¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $149.50 (1,000 × 14.95¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

@@ -63,7 +63,7 @@ The Missoula Current reported the plant adds about $8 a month, about $100 a year
 
 This was NorthWestern's second increase in a short period. The PSC approved a settlement in October 2023 that raised a typical residential electric bill about $8 a month at 750 kWh.
 
-## What This Means for Homeowners With Solar
+## Montana Net Metering and Solar Export Credits
 
 NorthWestern Energy customers have retail net metering under Montana law.
 
@@ -75,25 +75,15 @@ NorthWestern Energy customers have retail net metering under Montana law.
 
 **What it means:** with base rates up 17% in 2026, each solar kWh offsets more than it did a year ago. Pick your annual reset month so summer credits carry into winter, and do not oversize, because leftover credits are lost.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. The service charge.
-2. The delivery and supply lines since February 2026.
-3. Any credit or charge reconciling interim rates with final rates.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
+Rules checked October 5, 2026.
 
 ## Limitations
 
 The 2026 figures come from one news report, which drew on an environmental group's analysis. We did not open the PSC order, and we did not confirm how interim rates were reconciled.
 
-## Compare With Nearby States
+## Montana Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Montana's average residential price at 15.57¢/kWh in August 2026, up 9.0% from 14.29¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $155.70 (1,000 × 15.57¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Idaho](/rates/idaho/), [North Dakota](/rates/north-dakota/), [South Dakota](/rates/south-dakota/), [Wyoming](/rates/wyoming/), or the full [rates by state](/rates/) list.
+The U.S. Energy Information Administration (EIA) puts Montana's average residential price at 15.57¢/kWh in August 2026, up 9.0% from 14.29¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $155.70 (1,000 × 15.57¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

@@ -57,16 +57,9 @@ The figures above apply to FPL residential customers on the RS-1 rate. Northwest
 
 The Florida Public Service Commission approved a four-year FPL rate agreement on November 20, 2025, covering 2026 through 2029. FPL said the typical 1,000 kWh bill in most of Florida would rise by $2.50 a month in 2026, from $134.14 to $136.64. Duke Energy Florida said it lowered bills three times in 2026 through storm-charge removal and true-ups, and that these were not cuts to base rates.
 
-## What This Means for Homeowners With Solar
+## Florida Net Metering and Solar Export Credits
 
 FPL's tariff sheet notes a $30 minimum base bill for residential customers. Solar can reduce your energy and fuel charges, but not below that floor. The usage tiers matter too: because kWh above 1,000 cost more, solar production offsets your most expensive kWh first. We did not review Florida's net metering rules for this article, so confirm export credits with your utility before sizing a system. **Update, Nov. 20, 2026:** for FPL customers, our [guide to FPL net metering credits](/posts/fpl-net-metering/) explains the 12-month kWh carry-forward and year-end payout from [FPL's tariff](https://www.fpl.com/rates/pdf/electric-tariff-section10.pdf).
-
-## What Homeowners Should Check on Their Electric Bill
-
-- The storm restoration refund line: it should be on September bills and gone in October.
-- Base charge, energy charge, fuel charge and storm protection charge.
-- Whether your usage crosses 1,000 kWh, which raises your per-kWh rate.
-- If you are a Duke customer, the fuel line and any temporary reduction.
 
 ## What Happens Next?
 
@@ -79,11 +72,9 @@ FPL's 2026 to 2029 agreement sets its base rate path. Fuel and other clause char
 **Published:** September 30, 2026
 **Last verified:** September 29, 2026
 
-## Compare With Nearby States
+## Florida Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Florida's average residential price at 14.99¢/kWh in August 2026, down 2.2% from 15.33¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $149.90 (1,000 × 14.99¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Alabama](/rates/alabama/), [Georgia](/rates/georgia/), [South Carolina](/rates/south-carolina/), or the full [rates by state](/rates/) list.
+The U.S. Energy Information Administration (EIA) puts Florida's average residential price at 14.99¢/kWh in August 2026, down 2.2% from 15.33¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $149.90 (1,000 × 14.99¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

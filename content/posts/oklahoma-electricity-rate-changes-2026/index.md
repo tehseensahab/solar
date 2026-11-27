@@ -57,7 +57,7 @@ PSO said the case recovers costs from 2024 and 2025 and does not cover future da
 
 OG&E filed its first rate review since 2023 on October 1, 2026, asking for $395 million. It estimates $23.88 a month for an average residential customer, with new rates in about six months. See our [OG&E article](/posts/oge-files-oklahoma-rate-case-2026/) for details.
 
-## What This Means for Homeowners With Solar
+## Oklahoma Net Metering and Solar Export Credits
 
 Oklahoma's net metering rule gives retail value up to what you use, and avoided cost beyond that.
 
@@ -68,25 +68,15 @@ Oklahoma's net metering rule gives retail value up to what you use, and avoided 
 
 **What it means:** production up to your monthly use is worth the retail energy rate. Anything above it earns the avoided cost. PSO's interim increase, while it lasts, raises the value of the first part.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. PSO customers: a line for interim rates since July, and later a refund credit.
-2. The base service charge.
-3. The fuel line, which adjusts separately.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
+Rules checked October 5, 2026.
 
 ## Limitations
 
 PSO figures come from KGOU, KTUL, KRMG and the Tulsa Flyer. We did not open the Corporation Commission docket. No final order had been reported when we checked on October 4, 2026. The refund figure is our subtraction and assumes the settlement is approved unchanged; the Tulsa Flyer put it at about $9 a month.
 
-## Compare With Nearby States
+## Oklahoma Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Oklahoma's average residential price at 14.82¢/kWh in August 2026, up 2.8% from 14.42¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $148.20 (1,000 × 14.82¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arkansas](/rates/arkansas/), [Kansas](/rates/kansas/), [New Mexico](/rates/new-mexico/), [Texas](/rates/texas/), or the full [rates by state](/rates/) list.
+The U.S. Energy Information Administration (EIA) puts Oklahoma's average residential price at 14.82¢/kWh in August 2026, up 2.8% from 14.42¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $148.20 (1,000 × 14.82¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

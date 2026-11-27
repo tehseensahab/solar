@@ -61,7 +61,7 @@ In its last Southern Nevada rate case, the PUCN approved a daily demand charge f
 
 The state's Bureau of Consumer Protection has argued the charge is unlawful under a Nevada law that bars mandatory time-of-use rates.
 
-## What This Means for Homeowners With Solar
+## Nevada Net Metering and Solar Export Credits
 
 Nevada still has net metering, but the terms for new customers have tightened and a demand charge is coming in the south.
 
@@ -72,25 +72,15 @@ Nevada still has net metering, but the terms for new customers have tightened an
 
 **What it means:** solar lowers the kWh you buy, but your highest 15 minutes of use often comes in the evening, when panels produce little. If per-kWh rates fall to make room for the demand charge, each solar kWh offsets less. Under 15-minute netting, more of your output counts as export at 75%. Batteries and shifting use into solar hours both become more valuable.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. The fuel and purchased power rate on your October bill against September.
-2. The basic service charge.
-3. From January 2027, a demand charge line and your recorded peak.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
+Rules checked October 5, 2026.
 
 ## Limitations
 
 The October decrease is a filed proposal. We searched on October 4, 2026 and found NV Energy's August 19 announcements and news coverage of the filing, but no report of the commission's decision or of final figures. Compare the rate on your October bill with September's. Demand charge details come from news reports, and its start date has moved before.
 
-## Compare With Nearby States
+## Nevada Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Nevada's average residential price at 12.72¢/kWh in August 2026, up 1.4% from 12.54¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $127.20 (1,000 × 12.72¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [Arizona](/rates/arizona/), [California](/rates/california/), [Utah](/rates/utah/), [Idaho](/rates/idaho/), or the full [rates by state](/rates/) list.
+The U.S. Energy Information Administration (EIA) puts Nevada's average residential price at 12.72¢/kWh in August 2026, up 1.4% from 12.54¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $127.20 (1,000 × 12.72¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

@@ -50,7 +50,7 @@ New rates took effect August 29, 2026 (Proceeding 25AL-0494E).
 - **Seniors:** a new $20 monthly discount for customers 65 and older.
 - **Enrollment:** income can be self-attested, and customers can apply directly.
 
-## What This Means for Homeowners With Solar
+## Colorado Net Metering and Solar Export Credits
 
 Xcel Energy still offers net metering in Colorado.
 
@@ -61,26 +61,15 @@ Xcel Energy still offers net metering in Colorado.
 
 **What it means:** with kWh credits at the retail rate, each solar kWh offsets whatever you would have paid for it, including the August 2026 increase. On a time-of-use plan, when you produce and use power matters.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. Your rate plan, especially whether it is time-of-use.
-2. The service and facility charge.
-3. Rider lines, which change on their own schedules.
-4. Whether you qualify for the senior discount or PIPP.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
+Rules checked October 5, 2026.
 
 ## Limitations
 
 Figures come from the PUC's news release. We did not find the approved return on equity or the typical usage behind the $5.00 figure. Other Xcel riders, and its separate gas rate case, are not covered.
 
-## Compare With Nearby States
+## Colorado Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Colorado's average residential price at 17.17¢/kWh in August 2026, up 5.9% from 16.21¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $171.70 (1,000 × 17.17¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [New Mexico](/rates/new-mexico/), [Utah](/rates/utah/), [Wyoming](/rates/wyoming/), [Kansas](/rates/kansas/), or the full [rates by state](/rates/) list.
+The U.S. Energy Information Administration (EIA) puts Colorado's average residential price at 17.17¢/kWh in August 2026, up 5.9% from 16.21¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $171.70 (1,000 × 17.17¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 

@@ -62,7 +62,7 @@ For context, the CMP standard offer was 6.4494¢ in 2021 and 17.6310¢ in early 
 
 For 2026, CMP's residential standard offer is supplied by NextEra Energy Marketing (50%), Constellation (25%) and New Brunswick Energy Marketing (25%), under Docket 2025-00157. Versant's Bangor Hydro District is supplied entirely by New Brunswick Energy Marketing.
 
-## What This Means for Homeowners With Solar
+## Maine Net Metering and Solar Export Credits
 
 Maine's net energy billing still gives rooftop solar one-for-one kWh credits.
 
@@ -73,15 +73,7 @@ Maine's net energy billing still gives rooftop solar one-for-one kWh credits.
 
 **What it means:** with kWh credits, the 2026 standard offer increase raised the value of each solar kWh by about 2.1¢ for Central Maine Power customers. Size the system to your annual use so credits are not left over.
 
-Rules checked October 5, 2026. Solar tariffs change, so confirm the current terms with your utility before you sign a contract. Our [solar payback guide](/posts/solar-payback-period-without-federal-tax-credit/) shows how the retail rate and the export credit change the math.
-
-## What to Check on Your Bill
-
-1. The supply line: standard offer or a competitive supplier.
-2. Delivery charges, which are set separately.
-3. Any stranded cost or public policy charges within delivery.
-
-For help sorting the lines on your bill, see our guide to [reading your electric bill](/posts/how-to-read-your-electric-bill/).
+Rules checked October 5, 2026.
 
 ## Limitations
 
@@ -89,11 +81,9 @@ We verified supply prices on the PUC's site. We did not research 2026 delivery r
 
 **Update, Nov. 22, 2026:** The PUC set the 2027 standard offer on Nov. 17, 2026. News reports citing the PUC put Central Maine Power's residential price at 13.63 cents per kWh from Jan. 1, 2027, up from 12.72 cents, or about $4.99 a month more at about 550 kWh ([Portland Press Herald](https://www.pressherald.com/2026/11/17/maine-electric-bills-to-increase-in-january/)). CMP's delivery charge fell on July 1, 2026. Our [CMP rates per kWh breakdown](/posts/cmp-rates-per-kwh/) shows the full 2026 and 2027 price.
 
-## Compare With Nearby States
+## Maine Statewide Average
 
-**Statewide average for context:** the U.S. Energy Information Administration (EIA) puts Maine's average residential price at 32.11¢/kWh in August 2026, up 14.1% from 28.14¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $321.10 (1,000 × 32.11¢). This is total residential revenue divided by kWh sold across every utility in the state, fixed charges included, and it is a preliminary estimate. It is not any one utility's rate.
-
-Rate rules stop at the state line, and often at the utility boundary. See our guides for [New Hampshire](/rates/new-hampshire/), [Vermont](/rates/vermont/), [Massachusetts](/rates/massachusetts/), or the full [rates by state](/rates/) list.
+The U.S. Energy Information Administration (EIA) puts Maine's average residential price at 32.11¢/kWh in August 2026, up 14.1% from 28.14¢ in August 2025. The U.S. average was 18.16¢. At 1,000 kWh that works out to $321.10 (1,000 × 32.11¢). This is EIA's statewide figure: all residential revenue divided by all residential kWh, across every utility, fixed charges included. It is preliminary, and it is not any one utility's rate.
 
 ## Sources
 
