@@ -121,3 +121,9 @@
 # Stray placeholder URL from the old /for-ai/ citation example (Search Console lists it)
 /posts/slug /rates/ 301
 /posts/slug/ /rates/ 301
+
+# Removed Nov 28, 2026 (unsourced launch posts with claimed testing) -> closest sourced guide
+/posts/enphase-iq8-review /posts/best-solar-inverters-and-microinverters/ 301
+/posts/enphase-iq8-review/* /posts/best-solar-inverters-and-microinverters/ 301
+/posts/panel-degradation-warranty-report /posts/how-long-do-solar-panels-last/ 301
+/posts/panel-degradation-warranty-report/* /posts/how-long-do-solar-panels-last/ 301

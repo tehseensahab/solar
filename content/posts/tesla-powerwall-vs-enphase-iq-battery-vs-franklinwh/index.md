@@ -98,4 +98,4 @@ Specs are manufacturer-stated and sometimes nominal rather than usable. We found
 - [EnergySage](https://www.energysage.com/solar/solar-energy-storage/what-are-the-best-batteries-for-solar-panels/) (Apr 29, 2026) · [Solar.com](https://solar.com/learn/best-solar-batteries/) (Oct 1, 2026) · [IRS](https://www.irs.gov/credits-deductions/residential-clean-energy-credit)
 - [NuWatt Energy](https://nuwattenergy.com/en/equipment/tesla-powerwall-3-vs-enphase-iq-10c-vs-franklinwh-apower2-2026) (secondary)
 
-Related: [Best home batteries for backup power](/posts/best-home-batteries-for-backup-power/) · [Enphase IQ8 review](/posts/enphase-iq8-review/)
+Related: [Best home batteries for backup power](/posts/best-home-batteries-for-backup-power/)

@@ -51,8 +51,6 @@ QUERIES = {
     "pennsylvania-electricity-rate-changes-2026": ["solar panels row houses"],
     "texas-electricity-rate-changes-2026": ["solar panels ranch house"],
     "net-metering-state-guide": ["electric meter house exterior"],
-    "enphase-iq8-review": ["microinverter solar panel roof"],
-    "panel-degradation-warranty-report": ["solar panels close up"],
     "battery-sizing-guide": ["home battery wall garage"],
     "community-solar-subscription-report": ["solar farm field"],
     "treasury-itc-guidance": ["US Treasury building Washington"],
