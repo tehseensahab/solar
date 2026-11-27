@@ -48,7 +48,14 @@ Customers in NYSEG and RG&E territory across upstate New York. Con Edison, Natio
 
 ## What This Means for Homeowners With Solar
 
-Delivery charge increases raise the value of the electricity you avoid buying. A final decision could change delivery rates again. We found no change to solar compensation rules in the sources reviewed, so confirm your export credits with your utility.
+The PSC kept Phase One net metering for residential and small commercial systems rather than moving them to a lower export rate.
+
+- **Credits:** exported kWh are credited under Phase One net metering. Community solar and larger projects are paid under the Value Stack, which this page does not cover.
+- **Monthly charge:** systems interconnected on or after January 1, 2022 pay a Customer Benefit Contribution of $0.69 to $1.09 per kW of capacity a month, depending on utility, customer class and compensation option. Earlier systems are not affected.
+- **On a 7 kW system:** 7 × $0.69 = $4.83 to 7 × $1.09 = $7.63 a month (our math).
+- **State tax credit:** the Solar Energy System Equipment Credit is 25% of qualified equipment costs, up to $5,000, for a system at your principal residence. Purchased, leased and 10-year-plus PPA systems qualify. It is non-refundable; unused credit carries forward up to five years.
+
+Delivery increases at NYSEG, RG&E and other utilities raise the value of each kWh a system offsets. In October 2026 the PSC also revoked the eligibility of several distributed energy suppliers, including Sunnova and PosiGen (see our [October session summary](/posts/new-york-psc-october-2026-session/)); check an installer's or financier's standing before you sign.
 
 ## What Homeowners Should Check on Their Electric Bill
 
@@ -73,6 +80,8 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 
 ## Sources
 
+- [NY Department of Public Service, "PSC continues, improves existing solar payment structure"](https://dps.ny.gov/psc-continues-improves-existing-solar-payment-structure-ensure-fairness)
+- [NYS Department of Taxation and Finance, Solar energy system equipment credit](https://tax.ny.gov/pit/credits/solar_energy_system_equipment_credit.htm)
 - NY Department of Public Service, temporary rates (May 14, 2026): https://dps.ny.gov/news/commission-grants-only-fraction-nyseg-and-rge-rate-request-temporary-basis
 - NYSEG electric temporary rate case summary: https://dps.ny.gov/system/files/documents/2026/05/nyseg-electric-temporary-rate-case-summary_0.pdf
 - Con Edison rate case visual supplement: https://dps.ny.gov/system/files/documents/2026/01/con-edison-rate-case-visual-supplement-electric-gas_0.pdf

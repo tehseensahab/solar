@@ -69,7 +69,15 @@ The figures above apply to customers who get both electricity supply and deliver
 
 ## What This Means for Homeowners With Solar
 
-Because no October 1 change is confirmed, there is no new solar effect to report from that date. In general, a higher retail rate makes power you avoid buying more valuable and a lower one does the opposite. Check your bill and your export compensation rules under your utility's solar billing tariff; SCE calls its version the Solar Billing Plan.
+New rooftop customers of PG&E, SCE and SDG&E who applied to interconnect on or after April 15, 2023 take service on the Net Billing Tariff (CPUC Decision D.22-12-056). SCE calls its version the Solar Billing Plan.
+
+- **Self-use:** solar that serves your home first avoids the full retail charge.
+- **Exports:** credited at a value reflecting their worth to the grid, well below retail during sunny midday hours.
+- **Earlier customers:** stay on the NEM terms they signed up under; your interconnection agreement gives the term.
+- **Fixed charges:** SCE began moving residential customers to a Base Services Charge on November 15, 2025, and PG&E introduced one in March 2026. Panels cannot offset a charge that does not vary with kWh.
+- **Municipal utilities** such as LADWP and SMUD set their own solar rules.
+
+A system sized to daytime use, or paired with a battery that shifts midday output into the evening peak, keeps more of its production at retail value. An oversized array mostly earns export credits.
 
 ## What Homeowners Should Check on Their Electric Bill
 
@@ -95,6 +103,7 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 
 ## Sources
 
+- [CPUC, Net energy metering and the Net Billing Tariff](https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/demand-side-management/net-energy-metering)
 - SCE Rate Advisory, October 1, 2026 (checked November 13, 2026): https://www.sce.com/save-money/rates-financing/sce-rate-advisory
 - SCE Rate Advisory, October 1, 2025: https://www.sce.com/save-money/rates-financing/sce-rate-advisory/20251001
 - SCE Rate Advisory, January 1, 2026: https://www.sce.com/save-money/rates-financing/sce-rate-advisory/20260101

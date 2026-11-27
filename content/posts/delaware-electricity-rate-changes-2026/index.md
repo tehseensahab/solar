@@ -25,7 +25,7 @@ faq:
   - q: "Is another Delmarva increase coming?"
     a: "Delmarva filed a base rate case in December 2025 seeking $67.8 million a year. Delaware's Public Advocate has also asked regulators to dismiss a separate $37 million Delmarva application."
   - q: "Does Delaware have net metering?"
-    a: "Yes. Surplus solar earns bill credits. State law has capped net metering at 8% of a utility's peak demand, and Senate Bill 239, which removes the cap, passed the state Senate 18 to 0 in March 2026."
+    a: "Yes. Surplus solar earns bill credits. State law has capped net metering at 8% of a utility's peak demand, and Senate Bill 239, which removes the cap, passed the state Senate 18 to 0 in March 2026 and was signed on June 10, 2026."
 ---
 
 Delaware's main 2026 rate change took effect on June 1, not October 1. Delmarva Power's standard offer service (SOS) rate, the default supply price, rose by about a fifth. A delivery rate case is still open.
@@ -66,11 +66,11 @@ Delmarva offers a Customer Relief Fund of up to $500 for eligible households.
 
 ## What This Means for Homeowners With Solar
 
-Delaware offers net metering, with a cap that lawmakers moved to remove in 2026.
+Delaware offers net metering with credits against later use, and a 2026 law removed its cap.
 
 - **Credits:** surplus solar earns credits against later use.
 - **The cap:** state law has limited net metering to 8% of a utility's peak demand. The bill's sponsor said many utilities are already above the cap and still accepting applications.
-- **Senate Bill 239:** removes the 8% cap. It passed the Senate 18 to 0 in March 2026 and went to the House. We did not confirm final passage.
+- **Senate Bill 239:** removes the 8% cap. It passed the Senate 18 to 0 in March 2026 and was signed on June 10, 2026, per the [Delaware General Assembly bill page](https://legis.delaware.gov/BillDetail/142864). We have not read Delmarva's net metering tariff.
 
 **What it means:** with credits at the retail rate, the June 2026 supply increase raised the value of each solar kWh. Ask Delmarva Power to confirm in writing that your system will be net metered.
 
@@ -96,6 +96,7 @@ Rate rules stop at the state line, and often at the utility boundary. See our gu
 
 ## Sources
 
+- [Delaware General Assembly, Senate Bill 239](https://legis.delaware.gov/BillDetail/142864)
 - [State of Delaware, "Upcoming Electricity Rate Increase Adds to Cost Increases for Delmarva Customers," April 6, 2026](https://news.delaware.gov/2026/04/06/upcoming-electricity-rate-increase-adds-to-cost-increases-for-delmarva-customers/)
 - [WBOC, "Delmarva Power expects higher bills for Delaware customers following new rates filing"](https://www.wboc.com/news/delmarva-power-expects-higher-bills-for-delaware-customers-following-new-rates-filing/article_d1083f96-f31a-47dd-8c7e-22e38bdafe92.html)
 - [Delaware Division of the Public Advocate, statement on Delmarva Power's SOS filing, April 9, 2026](https://publicadvocate.delaware.gov/2026/04/09/dpas-statement-on-delmarva-powers-sos-filing/)

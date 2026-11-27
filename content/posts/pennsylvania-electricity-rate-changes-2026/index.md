@@ -56,7 +56,13 @@ The PUC said these changes only affect customers on default service. Customers w
 
 ## What This Means for Homeowners With Solar
 
-A higher Price to Compare raises the value of each kWh your panels offset if you are on default service. If you shop with a supplier, your contract price sets that value. We found no change to Pennsylvania net metering rules in the sources reviewed. Confirm credit terms with your utility.
+Pennsylvania's net metering rules are in the state code, [52 Pa. Code §75.13](https://law.cornell.edu/regulations/pennsylvania/52-Pa-Code-SS-75-13).
+
+- **Credits:** utilities credit residential solar at the full retail kWh rate, including generation, transmission and distribution, for production up to your usage in a billing period.
+- **Surplus:** excess kWh carry forward; unused excess at year-end is paid at the Price to Compare.
+- **Size limit:** 50 kW nameplate for residential systems.
+
+On default service, a higher Price to Compare raises the value of each kWh your panels offset. If you buy from a competitive supplier, your contract price sets the generation part of that credit, so ask how the supplier handles net metering before switching.
 
 ## What Homeowners Should Check on Their Electric Bill
 
