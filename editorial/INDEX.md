@@ -177,3 +177,5 @@ penelec-rate-increase-december-2026 | Penelec Rate Increase Dec. 1, 2026: Price 
 peco-rate-increase-december-2026 | PECO Rate Increase December 2026: Price to Compare Up 10% | 2026-11-25 | news | published | peco rate increase december 2026 | /posts/peco-rate-increase-december-2026/
 electric-fireplace-cost-to-run | Electric Fireplace Cost to Run: Per Hour, Month and Winter | 2026-11-26 | electric-rates | published | electric fireplace cost to run | /posts/electric-fireplace-cost-to-run/
 hoa-solar-panel-rules | HOA Solar Panel Rules: What Your HOA Can and Cannot Ban | 2026-11-26 | costs-incentives | published | hoa solar panel rules | /posts/hoa-solar-panel-rules/
+pacific-gas-electric-rate-increase-2027 | PG&E Rate Increase 2027: $456M Interim Hike Starts Jan. 1 | 2026-11-27 | news | published | pg&e rate increase 2027 | /posts/pacific-gas-electric-rate-increase-2027/
+dehumidifier-cost-to-run | Dehumidifier Cost to Run: Per Hour, Day and Month | 2026-11-27 | electric-rates | published | dehumidifier cost to run | /posts/dehumidifier-cost-to-run/

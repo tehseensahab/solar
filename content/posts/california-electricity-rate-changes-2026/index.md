@@ -1,7 +1,7 @@
 ---
 title: "California Electricity Rate Changes: What Changed in 2026 and What's Next"
 date: 2026-09-30
-lastmod: 2026-11-17
+lastmod: 2026-11-27
 imageAlt: "Aerial view of a suburban neighborhood with solar panels on many rooftops along curving streets."
 imageCredit: "Photo by Shanjir H | Photo4life AU on [Unsplash](https://unsplash.com/photos/aerial-view-of-a-suburban-neighborhood-with-houses-and-streets-MXR6DAo8NCo?utm_source=solarexaminer&utm_medium=referral)"
 categories: ["electric-rates"]
@@ -80,6 +80,8 @@ Because no October 1 change is confirmed, there is no new solar effect to report
 ## What Happens Next?
 
 PG&E's 2027-2030 General Rate Case is pending, and PG&E does not expect customer rates related to it to change until January 2027 at the earliest. Watch your utility's rate advisory page around October 1 for any consolidated filing.
+
+**Update, Nov. 27, 2026:** On Nov. 19, 2026, the CPUC approved up to $456 million in interim revenue for PG&E starting January 1, 2027, while the full rate case is still pending, according to the [CPUC meeting agenda](https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M629/K923/629923203.PDF) and news reports of the vote. Our [PG&E January 2027 interim increase explainer](/posts/pacific-gas-electric-rate-increase-2027/) covers the bill impact and what is still pending.
 
 **Published:** September 30, 2026
 **Last verified:** November 13, 2026 (SCE October 1 change); September 29, 2026 (PG&E, SDG&E)
