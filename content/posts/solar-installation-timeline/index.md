@@ -61,7 +61,7 @@ Solar-plus-storage projects took a median of 159 business days in 2023 (mean 181
 
 In NREL's 2023 storage data, design took a median of 41 business days (20 for solar alone), permit and utility review 12 (10 for solar alone), installation scheduling 30 (15), and the steps after installation 38. Outside California, NREL found utility review took about 1 to 2 weeks for solar alone and 2 to 4 weeks with storage.
 
-If backup power is the reason you are buying, plan for the longer timeline. Our [battery sizing guide](/posts/battery-sizing-guide/) covers how to avoid paying for more storage than you need.
+If backup power is the reason you are buying, plan for the longer timeline. Our [battery sizing guide](/posts/how-to-size-a-home-battery/) covers how to avoid paying for more storage than you need.
 
 ## Where You Live Matters
 

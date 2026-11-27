@@ -89,7 +89,7 @@ These are modeled figures for a roof-mounted system at the best tilt and directi
 - **Check how exports are credited.** Under net billing, power you send to the grid earns less than the retail rate. See our [net metering state guide](/posts/net-metering-state-guide/) and [export credit rates by utility](/posts/solar-export-credit-rates-by-utility-2026/).
 - **Check your utility's size limit.** Many utilities cap a home system at a share of past yearly use.
 - **Roof space can be the real limit.** An installer's layout decides how many panels fit.
-- **A battery is sized separately.** See our [battery sizing guide](/posts/battery-sizing-guide/).
+- **A battery is sized separately.** See our [battery sizing guide](/posts/how-to-size-a-home-battery/).
 
 Next, put a price on it with the [solar payback calculator](/solar-payback-calculator/).
 

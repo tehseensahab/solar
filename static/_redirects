@@ -127,3 +127,7 @@
 /posts/enphase-iq8-review/* /posts/best-solar-inverters-and-microinverters/ 301
 /posts/panel-degradation-warranty-report /posts/how-long-do-solar-panels-last/ 301
 /posts/panel-degradation-warranty-report/* /posts/how-long-do-solar-panels-last/ 301
+
+# Merged Nov 28, 2026 (duplicate battery sizing guide)
+/posts/battery-sizing-guide /posts/how-to-size-a-home-battery/ 301
+/posts/battery-sizing-guide/* /posts/how-to-size-a-home-battery/ 301

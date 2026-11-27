@@ -5,7 +5,7 @@ region: West
 neighbors: [california, idaho, nevada, washington]
 refreshed: 2026-10-28
 policy_checked: 2026-10-18
-guides: [solar-payback-period-without-federal-tax-credit, battery-sizing-guide]
+guides: [solar-payback-period-without-federal-tax-credit, how-to-size-a-home-battery]
 
 summary: >-
   Oregon's statewide residential average of {rate} in {month} ({change} on the year; U.S. {us}) understates how fast
@@ -49,7 +49,7 @@ meaning: |-
   is growing: per the Oregon Capital Chronicle, residential demand rose about 10% over a decade while industrial and data
   center demand rose about 70%, and rates are up more than twice the pace of inflation since 2020. A new state law requires
   large technology companies to pay for the infrastructure their data centers need; we have not confirmed the PUC's ruling
-  on PGE's compliance plan. Our [battery sizing guide](/posts/battery-sizing-guide/) helps if you are pairing storage
+  on PGE's compliance plan. Our [battery sizing guide](/posts/how-to-size-a-home-battery/) helps if you are pairing storage
   with panels.
 
 

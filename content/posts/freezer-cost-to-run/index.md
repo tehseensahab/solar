@@ -109,7 +109,7 @@ At those amounts, a new freezer takes years to pay for itself on energy alone un
 
 ## Freezers, Power Outages and Home Batteries
 
-FoodSafety.gov says a full freezer holds its temperature "about 48 hours, or 24 hours if it is half-full, if you don't open the door." A freezer also needs little backup energy: the Frigidaire upright's 441 kWh a year averages about 1.2 kWh a day. If you are sizing a battery for outages, that daily figure is a better guide than the compressor's running watts; our [battery sizing guide](/posts/battery-sizing-guide/) shows how to add up loads.
+FoodSafety.gov says a full freezer holds its temperature "about 48 hours, or 24 hours if it is half-full, if you don't open the door." A freezer also needs little backup energy: the Frigidaire upright's 441 kWh a year averages about 1.2 kWh a day. If you are sizing a battery for outages, that daily figure is a better guide than the compressor's running watts; our [battery sizing guide](/posts/how-to-size-a-home-battery/) shows how to add up loads.
 
 **Who this is for:** households estimating what a garage or basement freezer adds to their bill, or choosing between models. If your freezer is part of a refrigerator, use our refrigerator guide instead.
 

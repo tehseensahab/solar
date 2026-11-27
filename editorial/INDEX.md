@@ -4,7 +4,6 @@ One row per post. Build-time source of truth for topic planning; update with eve
 
 slug | title | date | category | state | primary keyword | url
 --- | --- | --- | --- | --- | --- | ---
-battery-sizing-guide | How to size a home battery without over-buying capacity you'll never use | 2026-09-06 | equipment | published | battery sizing guide | /posts/battery-sizing-guide/
 community-solar-subscription-report | Community solar subscriptions grew 14% this year — but cancellations are rising too | 2026-09-11 | costs-incentives | published | community solar subscription report | /posts/community-solar-subscription-report/
 net-metering-state-guide | Net metering by state, 2026: where the math still works | 2026-09-16 | electric-rates | published | net metering state guide | /posts/net-metering-state-guide/
 treasury-itc-guidance | Treasury's new ITC guidance narrows the domestic-content bonus — here's who still qualifies | 2026-09-21 | costs-incentives | published | treasury itc guidance | /posts/treasury-itc-guidance/
